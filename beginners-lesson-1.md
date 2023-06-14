@@ -4,6 +4,7 @@
 - [Letters with special behaviors](#letters-with-special-behaviors)
 - [Spanish personal pronouns](#spanish-personal-pronouns)
 
+<a name="the-spanish-alphabet"></a>
 ## The Spanish alphabet
 The Spanish alphabet has 27 letters. Here they are:
 
@@ -74,6 +75,7 @@ The Spanish alphabet has 27 letters. Here they are:
   - Vowel, when it is at the end of a word or by itself (y = and), it sounds like I: hoy, estoy…
   - Consonant, in every other scenario: yo, hoyo…
 
+<a name="letters-with-special-behaviors"></a>
 ## Letters with special behaviors
 
 ### C, Q, Z and S
@@ -105,6 +107,7 @@ Translation: Syrup, boss, manager, cat, people, gin, war, guitar, goldfinch.
 
 > Note: Whenever we need the “u” between “g” and “e” or between “g” and “i” to be pronounced, we need to add a diéresis on top of it: pingüino, lingüística, etc.
 
+<a name="spanish-personal-pronouns"></a>
 ## Spanish personal pronouns
 
     First-Person Singular: Yo (I)
