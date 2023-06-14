@@ -9,6 +9,7 @@
 - [Articles in Spanish](#articles-in-spanish)
 - [Family members in Spanish](#family-members-in-spanish)
 - [Adjectives in Spanish](#adjectives-in-spanish)
+- [Homework](#homework)
 
 <a name="the-spanish-alphabet"></a>
 ## The Spanish alphabet
@@ -335,3 +336,8 @@ El piano rojo, los pianos rojos, la guitarra roja, las guitarras rojas (for spec
 or
 
 un piano rojo, unos pianos rojos, una guitarra roja, unas guitarras rojas (for non-specific pianos or guitars).
+
+<a name="homework"></a>
+## Homework
+
+Memorize the conjugations for ser and estar and all the vocabulary presented in ths unit.

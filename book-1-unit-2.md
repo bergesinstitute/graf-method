@@ -11,6 +11,7 @@
 - [Introducing yourself in Spanish](#introducing-yourself-in-spanish)
 - [Asking questions in Spanish](#asking-questions-in-spanish)
 - [Talking about your favorite things](#talking-about-your-favorite-things)
+- [Homework](#homework)
 
 <a name="colors-in-spanish"></a>
 ## Colors in Spanish
@@ -268,3 +269,110 @@ Some more nouns:
     El equipo de fútbol – the football/soccer team
 
     La canción – the song
+
+<a name="homework"></a>
+## Homework
+
+### 1. Translate (m: male; f: female)
+
+1. The son is tired.
+2. I am tired.
+3. The cat (f) is red.
+4. The dog (m) is black.
+5. You (f) are short.
+6. She is happy.
+7. The brothers are tall.
+8. The cat (m) is small.
+9. The uncle is sad.
+10. The aunt is happy.
+
+### 2. Translate. You decide the gender.
+
+1. You (formal, singular) are short.
+2. You (form, sing) are tired.
+3. You (form, sing) are angry.
+4. You (form, plural) are tired.
+5. You (form, plural) are sad.
+6. You (form, plural) are happy. (Plural of feliz is felices.)
+
+### 3. Translate. If there is no translation shown, the name in Spanish is the same as in English (e.g.
+   China = China).
+
+1. The mother is from Spain (España).
+2. The father is from Africa.
+3. The father is in New York (Nueva York).
+4. The mother is in Cuba.
+5. Madrid is in Spain.
+6. New York is in the USA (Estados Unidos).
+7. Paris is in France (Francia).
+8. The uncle is sad.
+9. The aunt is happy.
+10. I am from Pakistan.
+11. We are friends (amigos; we use ser!).
+12. You (plural, formal) are friends.
+13. The grandfather is from Nevada.
+14. The grandmother is from San Diego.
+15. They (f) are tall and big.
+16. They (m) are short and small.
+17. You (plural, formal) are from Spain.
+18. They (f) are tired.
+19. I am from Colombia.
+
+### 4. Translate
+
+1. You are not sad.
+2. The brothers are not sad.
+3. You are not tall (m).
+4. The cat (f) is not red.
+5. You are not from New York.
+6. The dog (m) is not blue.
+7. You are not from China.
+8. You (singular, formal) are not happy.
+9. The mother is not tired.
+10. The girl is not from Canada.
+11. You (plural, formal) are not angry.
+12. They (f) are not angry.
+
+### 5. Translate
+
+1. My uncle and my brother are tall.
+2. You (m) and your sister are friends.
+3. Mike and Sarah are from Madrid.
+4. Your dogs (f) and my cats (f) are friends.
+5. My dog (m) and your dog (m) are tall.
+6. His cat (f) is happy and your dog (m) is sad.
+7. Their cat (f) is green and your dog (f) is yellow.
+8. Our house is black and your house is white.
+
+### 6. Translate
+
+1. My dog (m) is very happy.
+2. Your cat (f) is very sad.
+3. His cat (m) is very tired.
+4. My father’s cat (f) is not very tired.
+5. My sister’s dog (m) is not very tall.
+6. Their uncle and my aunt are very happy.
+   (Remember the plural of feliz has a spelling change.)
+7. Her son and my daughter are very tired.
+
+### 7. Fill in the blanks using ser and estar
+
+   Yo ________ de España, pero mis hermanos__________ de Francia. Mi madre ________ de Madrid
+   y mi padre _________ de Barcelona. Mi madre _________ alta y mi padre __________ bajo. Mis
+   hermanos ___________ altos y grandes.
+   La casa de mis padres __________ grande. La casa_________ en Ibiza. El carro de mi padre ______
+   negro.
+
+### 8. Translate
+
+1. Your dogs are black.
+2. The grandfather is in Argentina.
+3. The cousins are from Chile.
+4. Some aunts are tired.
+5. You (formal, singular) are sad.
+6. A grandson is angry.
+7. Your house is white and my house is red.
+8. Your dogs are happy.
+9. Her sister and my daughter are friends.
+10. My [male] cousin is from Peru.
+11. My [female] cousin is in Chile.
