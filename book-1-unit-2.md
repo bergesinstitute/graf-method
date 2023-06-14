@@ -18,27 +18,27 @@
 
 Here are some basic adjectives: the colors. Some of them remain neutral (N) when they are used with masculine and feminine nouns (but they still have plural):
 
-    Rojo – Red
+    Rojo - Red
 
-    Azul (N) – Blue
+    Azul (N) - Blue
 
-    Amarillo – Yellow
+    Amarillo - Yellow
 
-    Verde (N) – Green
+    Verde (N) - Green
 
-    Naranja (N) – Orange
+    Naranja (N) - Orange
 
-    Rosa (N) – Pink
+    Rosa (N) - Pink
 
-    Púrpura (N)/morado – Purple
+    Púrpura (N)/morado - Purple
 
-    Negro – Black
+    Negro - Black
 
-    Blanco – White
+    Blanco - White
 
-    Gris (N) – Gray
+    Gris (N) - Gray
 
-    Marrón (N) – Brown
+    Marrón (N) - Brown
 
 ### Examples
 
@@ -49,15 +49,15 @@ Using azul (N): el piano es azul, la guitarra es azul, los pianos son azules, la
 <a name="some-common-adjectives"></a>
 ## Some common adjectives
 
-    Grande (N)/Pequeño – Big/Small
+    Grande (N)/Pequeño - Big/Small
 
-    Alto/Bajo – Tall/Short
+    Alto/Bajo - Tall/Short
 
-    Feliz (N)/Triste (N) – Happy/Sad
+    Feliz (N)/Triste (N) - Happy/Sad
 
-    Enojado – Angry
+    Enojado - Angry
 
-    Cansado – Tired
+    Cansado - Tired
 
 ### How they work with ser and estar:
 
@@ -70,9 +70,9 @@ Examples using ESTAR (with non-permanent attributes): Yo estoy enojado, Juan est
 
 Prepositions are words that express relationships between two words (usually spatial or temporal).
 
-    De – From, of
+    De - From, of
 
-    En – In, on, at
+    En - In, on, at
 
 El abuelo es de España. El abuelo está en Nueva York. (The grandfather is from Spain. The grandfather is in New York.) Notice the use of ser and estar. Since de implies origin, we will always use it with ser. Since en implies location, we will always use it with estar.
 
@@ -81,68 +81,68 @@ El abuelo es de España. El abuelo está en Nueva York. (The grandfather is from
 
 Adverbs are words that describe verbs or adjectives. They don’t have gender or number. Here's an important one:
 
-    Muy – Very
+    Muy - Very
 
 Yo estoy muy cansado. (I am very tired.) 
 
 <a name="basic-words-and-expressions"></a>
 ## Basic words and expressions
 
-    Sí – yes
+    Sí - yes
 
-    No – no
+    No - no
 
-    Hola – hello
+    Hola - hello
 
-    Adiós – goodbye
+    Adiós - goodbye
 
-    Por favor – please
+    Por favor - please
 
-    Gracias – thank you
+    Gracias - thank you
 
-    De nada – you are welcome
+    De nada - you are welcome
 
-    La casa – the house
+    La casa - the house
 
-    El carro – the car (also el coche [Sp])
+    El carro - the car (also el coche [Sp])
 
-    Buenos días – good morning
+    Buenos días - good morning
 
-    Buenas tardes – good afternoon/evening
+    Buenas tardes - good afternoon/evening
 
-    Buenas noches – good night
+    Buenas noches - good night
 
-    El hombre – the man
+    El hombre - the man
 
-    La mujer – the woman
+    La mujer - the woman
 
-    El niño – the boy
+    El niño - the boy
 
-    La niña – the girl
+    La niña - the girl
 
 <a name="numbers-1-through-5"></a>
 ## Numbers 1 through 5
 
-    Uno – One
+    Uno - One
 
-    Dos – Two
+    Dos - Two
 
-    Tres – Three
+    Tres - Three
 
-    Cuatro – Four
+    Cuatro - Four
 
-    Cinco – Five
+    Cinco - Five
 
 <a name="spanish-conjunctions"></a>
 ## Spanish conjunctions
 
 Conjunctions are words used to connect words or sentences together.
 
-    Y – and
+    Y - and
 
-    O – or
+    O - or
 
-    Pero – but
+    Pero - but
 
 Yo soy de Madrid y Laura es de Barcelona. Juan está enojado o cansado. Yo estoy en Nueva York, pero Pedro está en Londres. (I am from Madrid and Laura is from Barcelona. Juan is either angry or tired. I am in New York, but Pedro is in London.)
 
@@ -192,13 +192,13 @@ When we are not using possessives and saying who the person is, in Spanish we ca
 
 Here's an easy formula:
 
-    Hola. – Hello.
+    Hola. - Hello.
 
-    ¿Cuál es tu nombre? – What (lit. which) is your name?
+    ¿Cuál es tu nombre? - What (lit. which) is your name?
 
-    Mi nombre es Juan. – My name is Juan.
+    Mi nombre es Juan. - My name is Juan.
 
-    Mucho gusto. – Nice to meet you.
+    Mucho gusto. - Nice to meet you.
  
 > Notice we use an opening inverted question mark: ¿………? Same for ¡……!
 
@@ -207,21 +207,21 @@ Here's an easy formula:
 
 Here are the interrogative pronouns:
 
-    Qué –What
+    Qué -What
 
-    Dónde – Where
+    Dónde - Where
 
-    Cuándo – When
+    Cuándo - When
 
-    Cómo – How
+    Cómo - How
 
-    Quién – Who
+    Quién - Who
 
-    Cuánto – How much/how many
+    Cuánto - How much/how many
 
-    Por qué – Why
+    Por qué - Why
 
-    Cuál – Which
+    Cuál - Which
 
 They all have an accent (´) on their strong syllable.
 
@@ -235,13 +235,13 @@ What is your address? ¿Cuál es tu dirección?
 
 > Note: When we speak, we frequently omit the personal pronoun, since it’s implied in the conjugation of the verb: we say estoy triste instead of yo estoy triste, or eres alto instead of tú eres alto.
 
-    ¿De dónde eres? – Where are you from? (Lit. “From where are you?”)
+    ¿De dónde eres? - Where are you from? (Lit. “From where are you?”)
 
-    Soy de Madrid. – I am from Madrid.
+    Soy de Madrid. - I am from Madrid.
 
-    ¿Dónde está Madrid? – Where is Madrid?
+    ¿Dónde está Madrid? - Where is Madrid?
 
-    Madrid está en España. – Madrid is in Spain.
+    Madrid está en España. - Madrid is in Spain.
 
 <a name="talking-about-your-favorite-things"></a>
 ## Talking about your favorite things
@@ -260,15 +260,15 @@ Common examples:
 
 Some more nouns:
 
-    El libro – the book
+    El libro - the book
 
-    La película – the movie
+    La película - the movie
 
-    La ciudad – the city
+    La ciudad - the city
 
-    El equipo de fútbol – the football/soccer team
+    El equipo de fútbol - the football/soccer team
 
-    La canción – the song
+    La canción - the song
 
 <a name="homework"></a>
 ## Homework

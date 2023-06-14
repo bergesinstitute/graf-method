@@ -230,9 +230,9 @@ To make a sentence negative, we just place the word no right before the verb:
 <a name="nouns-in-spanish"></a>
 ## Nouns in Spanish
 
-Nouns have number: they can be singular (one) or plural (more than one). In order to make them plural, we add –s at the end, or –es if the noun ends in a consonant. Guitarra → Guitarras. Doctor → Doctores.
+Nouns have number: they can be singular (one) or plural (more than one). In order to make them plural, we add -s at the end, or -es if the noun ends in a consonant. Guitarra → Guitarras. Doctor → Doctores.
 
-Nouns in Spanish have gender (they can be either masculine or feminine). A piano (piano) is masculine, while a guitarra (guitar) is feminine. Notice how piano ends in –o and guitarra ends in –a. It is quite common for masculine and feminine nouns to end in those letters respectively, but it is not a rule. So, in order to memorize the gender of nouns, we are going to learn all of them together with the article.
+Nouns in Spanish have gender (they can be either masculine or feminine). A piano (piano) is masculine, while a guitarra (guitar) is feminine. Notice how piano ends in -o and guitarra ends in -a. It is quite common for masculine and feminine nouns to end in those letters respectively, but it is not a rule. So, in order to memorize the gender of nouns, we are going to learn all of them together with the article.
 
 <a name="articles-in-spanish"></a>
 ## Articles in Spanish
@@ -282,47 +282,47 @@ In Spanish, generic/uncountable nouns at the beginning of a sentence must have a
 <a name="family-members-in-spanish"></a>
 ## Family members in Spanish
 
-    El padre – the father
+    El padre - the father
 
-    La madre – the mother
+    La madre - the mother
 
     Los padres - the parents
 
-    El hermano – the brother
+    El hermano - the brother
 
-    La hermana – the sister
+    La hermana - the sister
 
-    El hijo – the son
+    El hijo - the son
 
-    La hija – the daughter
+    La hija - the daughter
 
-    El abuelo – the grandfather
+    El abuelo - the grandfather
 
-    La abuela – the grandmother
+    La abuela - the grandmother
 
-    El nieto – the grandson
+    El nieto - the grandson
 
-    La nieta – the granddaughter
+    La nieta - the granddaughter
 
-    El tío – the uncle
+    El tío - the uncle
 
-    La tía – the aunt
+    La tía - the aunt
 
-    El primo – the cousin (m.)
+    El primo - the cousin (m.)
 
-    La prima – the cousin (f.)
+    La prima - the cousin (f.)
 
-    El sobrino – the nephew
+    El sobrino - the nephew
 
-    La sobrina – the niece
+    La sobrina - the niece
 
-    El perro/La perra – the dog
+    El perro/La perra - the dog
 
-    El gato/La gata – the cat
+    El gato/La gata - the cat
 
-    El esposo – the husband
+    El esposo - the husband
 
-    La esposa – the wife
+    La esposa - the wife
 
 <a name="adjectives-in-spanish"></a>
 ## Adjectives in Spanish
