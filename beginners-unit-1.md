@@ -7,7 +7,7 @@
 <a name="the-spanish-alphabet"></a>
 ## The Spanish alphabet
 The Spanish alphabet has 27 letters. Here they are:
-
+  
     A 
 
     B (be) 
