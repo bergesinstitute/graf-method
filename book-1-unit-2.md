@@ -2,15 +2,15 @@
 
 - [Colors in Spanish](#colors-in-spanish)
 - [Some common adjectives](#some-common-adjectives)
-- [Spanish prepositions]()
-- [Spanish adverbs]()
-- [Basic words and expressions]()
-- [Numbers 1 through 5]()
-- [Spanish conjunctions]()
-- [Possessive adjectives in Spanish]()
-- [Introducing yourself in Spanish]()
-- [Asking questions in Spanish]()
-- [Talking about your favorite things]()
+- [Spanish prepositions](#spanish-prepositions)
+- [Spanish adverbs](#spanish-adverbs)
+- [Basic words and expressions](#basic-words-and-expressions)
+- [Numbers 1 through 5](#numbers-1-through-5)
+- [Spanish conjunctions](#spanish-conjunctions)
+- [Possessive adjectives in Spanish](#possessive-adjectives-in-spanish)
+- [Introducing yourself in Spanish](#introducing-yourself-in-spanish)
+- [Asking questions in Spanish](#asking-questions-in-spanish)
+- [Talking about your favorite things](#talking-about-your-favorite-things)
 
 <a name="colors-in-spanish"></a>
 ## Colors in Spanish
@@ -48,8 +48,6 @@ Using azul (N): el piano es azul, la guitarra es azul, los pianos son azules, la
 <a name="some-common-adjectives"></a>
 ## Some common adjectives
 
-
-
     Grande (N)/Pequeño – Big/Small
 
     Alto/Bajo – Tall/Short
@@ -66,6 +64,7 @@ Examples using SER (with permanent attributes): Yo soy alto, ella es pequeña, e
 
 Examples using ESTAR (with non-permanent attributes): Yo estoy enojado, Juan está triste, nosotros estamos cansados.
 
+<a name="spanish-prepositions"></a>
 ## Spanish prepositions
 
 Prepositions are words that express relationships between two words (usually spatial or temporal).
@@ -76,6 +75,7 @@ Prepositions are words that express relationships between two words (usually spa
 
 El abuelo es de España. El abuelo está en Nueva York. (The grandfather is from Spain. The grandfather is in New York.) Notice the use of ser and estar. Since de implies origin, we will always use it with ser. Since en implies location, we will always use it with estar.
 
+<a name="spanish-adverbs"></a>
 ## Spanish adverbs
 
 Adverbs are words that describe verbs or adjectives. They don’t have gender or number. Here's an important one:
@@ -84,6 +84,7 @@ Adverbs are words that describe verbs or adjectives. They don’t have gender or
 
 Yo estoy muy cansado. (I am very tired.) 
 
+<a name="basic-words-and-expressions"></a>
 ## Basic words and expressions
 
     Sí – yes
@@ -118,6 +119,7 @@ Yo estoy muy cansado. (I am very tired.)
 
     La niña – the girl
 
+<a name="numbers-1-through-5"></a>
 ## Numbers 1 through 5
 
     Uno – One
@@ -130,9 +132,8 @@ Yo estoy muy cansado. (I am very tired.)
 
     Cinco – Five
 
+<a name="spanish-conjunctions"></a>
 ## Spanish conjunctions
-
-
 
 Conjunctions are words used to connect words or sentences together.
 
@@ -144,6 +145,7 @@ Conjunctions are words used to connect words or sentences together.
 
 Yo soy de Madrid y Laura es de Barcelona. Juan está enojado o cansado. Yo estoy en Nueva York, pero Pedro está en Londres. (I am from Madrid and Laura is from Barcelona. Juan is either angry or tired. I am in New York, but Pedro is in London.)
 
+<a name="possessive-adjectives-in-spanish"></a>
 ## Possessive adjectives in Spanish
 
 Possessive adjectives show possession. In Spanish, we have different ones for one thing possessed or more than one thing possessed.
@@ -184,9 +186,8 @@ Some examples: mi casa, mis carros, sus tíos, nuestras casas, tus abuelos.
 
 When we are not using possessives and saying who the person is, in Spanish we cannot use ‘s (Juan’s house). We have to say la casa de Juan (the house of Juan).
 
+<a name="introducing-yourself-in-spanish"></a>
 ## Introducing yourself in Spanish
-
-
 
 Here's an easy formula:
 
@@ -200,9 +201,8 @@ Here's an easy formula:
  
 > Notice we use an opening inverted question mark: ¿………? Same for ¡……!
 
+<a name="asking-questions-in-spanish"></a>
 ## Asking questions in Spanish
-
-
 
 Here are the interrogative pronouns:
 
@@ -242,6 +242,7 @@ What is your address? ¿Cuál es tu dirección?
 
     Madrid está en España. – Madrid is in Spain.
 
+<a name="talking-about-your-favorite-things"></a>
 ## Talking about your favorite things
 
 For asking what is your favorite _____? we use cuál. We literally ask which is your favorite _____?
