@@ -363,3 +363,6 @@ Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis pad
 3. I have many books in my living room.
 4. Oscar’s restaurant is very good.
 5. Ana writes very well.
+6. You (formal, plural) study a lot.
+7. Our uncle cooks very badly.
+8. Casablanca is a good movie.

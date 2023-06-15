@@ -181,33 +181,33 @@ Also note how *a* + *el* becomes *al*.
 <a name="some-words-we-use-all-the-time-in-spanish"></a>
 ## Some words we use all the time in Spanish
 
-    Vale/dale/bien/bueno/listo/claro – ok
+    Vale/dale/bien/bueno/listo/claro - ok
 
-    Entonces – so/then
+    Entonces - so/then
 
 <a name="time-expressions-in-spanish"></a>
 ## Time expressions in Spanish
 
-    Por la mañana – In the morning
+    Por la mañana - In the morning
 
-    Por la tarde – In the afternoon/evening
+    Por la tarde - In the afternoon/evening
 
-    Por la noche – At night
+    Por la noche - At night
 
 > Note: in some countries, people say *en*  instead of *por: en la mañana, en la tarde,* etc.
 
 <a name="numbers-6-through-10"></a>
 ## Numbers 6 through 10
 
-    Seis – Six
+    Seis - Six
 
-    Siete – Seven
+    Siete - Seven
 
-    Ocho – Eight
+    Ocho - Eight
 
-    Nueve – Nine
+    Nueve - Nine
 
-    Diez – Ten
+    Diez - Ten
 
 
 <a name="example-using-ser-estar-tener-ir-and-hacer"></a>
