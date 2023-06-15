@@ -6,7 +6,7 @@
 - [Examples](#examples)
 - [Nouns related to time](#nouns-related-to-time)
 - [The days of the week in Spanish](#the-days-of-the-week-in-spanish)
-- [Spanish vocabulary: places](#spanish-vocabulary-places)
+- [Lugares (places)](#lugares-places)
 - [Spanish prepositions: a (to)](#spanish-prepositions-a-to)
 - [Going to places in Spanish](#going-to-places-in-spanish)
 - [Some words we use all the time in Spanish](#some-words-we-use-all-the-time-in-spanish)
@@ -109,8 +109,8 @@ Tengo una gata. - I have a [female] cat.
 
 In Spanish, days of the week are not capitalized: *lunes, martes, etc.* All of them are masculine. In order to make them plural, we just use the plural article (*el martes,* *los* *martes*)*,* except for *sábado* and *domingo*: *el sábado, los sábados; el domingo, los domingos*.
 
-<a name="spanish-vocabulary-places"></a>
-## Spanish vocabulary: places
+<a name="lugares-places"></a>
+## Lugares (places)
 
     El trabajo - [the] work
 
@@ -211,7 +211,7 @@ Also note how *a* + *el* becomes *al*.
 
 
 <a name="example-using-ser-estar-tener-ir-and-hacer"></a>
-## Example using ser, estar, tener, ir, and hacer
+## Example using *ser, estar, tener, ir,* and *hacer*
 
 Ana: Hola Victoria, ¿cómo estás?
 
