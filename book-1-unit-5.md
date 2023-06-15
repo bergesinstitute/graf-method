@@ -1,22 +1,4 @@
-# Unit 5
-
-- [Some nouns we can use with regular verbs](#some-nouns-we-can-use-with-regular-verbs)
-- [Subject and object](#subject-and-object)
-- [Spanish personal A](#spanish-personal-a)
-- [Spanish prepositions: con (with) and sin (without)](#spanish-prepositions-con-with-and-sin-without)
-- [Spanish adverbs mucho and poco](#spanish-adverbs-mucho-and-poco)
-- [Habit time expressions](#habit-time-expressions)
-- [Basic use of the Spanish present tense](#basic-use-of-the-spanish-present-tense)
-- [Conversación](#conversacin)
-- [Spanish regular verbs ending in -er](#spanish-regular-verbs-ending-in--er)
-- [Spanish regular verbs ending in -ir](#spanish-regular-verbs-ending-in--ir)
-- [More nouns we can use with regular verbs](#more-nouns-we-can-use-with-regular-verbs)
-- [Good vs. bad vs. well vs. badly](#good-vs-bad-vs-well-vs-badly)
-- [Más conversación](#ms-conversacin)
-- [Homework](#homework)
-
-<a name="some-nouns-we-can-use-with-regular-verbs"></a>
-## Some nouns we can use with regular verbs
+# Some nouns we can use with regular verbs
 
     El almuerzo - lunch
 
@@ -36,8 +18,7 @@
 
     La tienda - the store
 
-<a name="subject-and-object"></a>
-## Subject and object
+# Subject and object
 
 The subject is the person or the thing doing the action of the verb. The object is the person or the thing receiving it.
 
@@ -49,8 +30,7 @@ The subject is the person or the thing doing the action of the verb. The object 
 
     María llama a Jorge. Subject: María. Object: Jorge.
 
-<a name="spanish-personal-a"></a>
-## Spanish personal A
+# Spanish personal A
 
 Whenever the object of the action (the one receiving it) is a person or a pet, we must use the preposition *a* right after the verb:
 
@@ -58,8 +38,7 @@ Whenever the object of the action (the one receiving it) is a person or a pet, w
 
     Odio la canción. VS Odio a Pedro. 
 
-<a name="spanish-prepositions-con-with-and-sin-without"></a>
-## Spanish prepositions: con (with) and sin (without)
+# Spanish prepositions: con (with) and sin (without)
 
     Con - with
 
@@ -67,8 +46,7 @@ Whenever the object of the action (the one receiving it) is a person or a pet, w
 
 *María está con Juan. Hay una mesa sin sillas.* (María is with Juan. There is a table without chairs.) 
 
-<a name="spanish-adverbs-mucho-and-poco"></a>
-## Spanish adverbs mucho and poco
+# Spanish adverbs mucho and poco
 
     Mucho - a lot
 
@@ -80,8 +58,7 @@ Whenever the object of the action (the one receiving it) is a person or a pet, w
 
 *Hay muchas ventanas en mi sala. Hay pocos supermercados en Midtown.* (There are many windows in my living room. There are few/not many supermarkets in Midtown.)
 
-<a name="habit-time-expressions"></a>
-## Habit time expressions
+# Habit time expressions
 
     Normalmente - usually
 
@@ -97,8 +74,7 @@ Whenever the object of the action (the one receiving it) is a person or a pet, w
 
     Cada martes - every Tuesday
 
-<a name="basic-use-of-the-spanish-present-tense"></a>
-## Basic use of the Spanish present tense
+# Basic use of the Spanish present tense
 
 We use the present tense for habits or facts:
 
@@ -110,7 +86,6 @@ We use the present tense for habits or facts:
 
     Mi primo es de Boston.
 
-<a name="conversacin"></a>
 ## Conversación
 
 ALBERTO: Hola Nuria. ¿Dónde trabajas?
@@ -138,10 +113,9 @@ L: Sí, yo cocino el desayuno cada mañana y la cena cada noche.
 
 C: Yo nunca cocino. Yo desayuno en mi oficina y siempre ceno en un restaurante.
 
-<a name="spanish-regular-verbs-ending-in--er"></a>
-## Spanish regular verbs ending in -er
+# Spanish regular verbs ending in -er
 
-### Comer (to eat), present tense
+## Comer (to eat), present tense
 
     Yo como
 
@@ -155,7 +129,7 @@ C: Yo nunca cocino. Yo desayuno en mi oficina y siempre ceno en un restaurante.
 
     Ellos/as/Uds. comen
 
-### List of common -er verbs
+## List of common -er verbs
 
     Aprender - to learn
 
@@ -171,7 +145,7 @@ C: Yo nunca cocino. Yo desayuno en mi oficina y siempre ceno en un restaurante.
 
     Vender - to sell
 
-### How to conjugate -er verbs
+## How to conjugate -er verbs
 
 To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: we drop the *-er* ending and we add the corresponding ending for each person.
 
@@ -185,10 +159,9 @@ To conjugate these verbs, we will apply the same procedure we used with *-ar* ve
 
     Etc.
 
-<a name="spanish-regular-verbs-ending-in--ir"></a>
-## Spanish regular verbs ending in -ir
+# Spanish regular verbs ending in -ir
 
-### Vivir (to live), present tense
+## Vivir (to live), present tense
 
     Yo vivo
 
@@ -202,7 +175,7 @@ To conjugate these verbs, we will apply the same procedure we used with *-ar* ve
 
     Ellos/as/Uds. viven
 
-### List of common -ir verbs
+## List of common -ir verbs
 
     Abrir - to open
 
@@ -212,7 +185,7 @@ To conjugate these verbs, we will apply the same procedure we used with *-ar* ve
 
     Vivir - to live
 
-### How to conjugate -ir verbs
+## How to conjugate -ir verbs
 
 To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: we drop the *-ir* ending and we add the corresponding ending for each person.
 
@@ -226,8 +199,7 @@ To conjugate these verbs, we will apply the same procedure we used with *-ar* ve
 
     Etc.
 
-<a name="more-nouns-we-can-use-with-regular-verbs"></a>
-## More nouns we can use with regular verbs
+# More nouns we can use with regular verbs
 
     La carta - the letter
 
@@ -239,8 +211,7 @@ To conjugate these verbs, we will apply the same procedure we used with *-ar* ve
 
     El idioma - the language
 
-<a name="good-vs-bad-vs-well-vs-badly"></a>
-## Good vs. bad vs. well vs. badly
+# Good vs. bad vs. well vs. badly
 
     Bueno - good (adjective)
 
@@ -256,8 +227,7 @@ To conjugate these verbs, we will apply the same procedure we used with *-ar* ve
 
 *La comida americana, ¿es buena o es mala? Yo canto muy mal, pero mi primo Pedro canta muy bien.*
 
-<a name="ms-conversacin"></a>
-## Más conversación
+# Más conversación
 
 MAX: ¿Lees muchos libros?
 
@@ -281,10 +251,9 @@ VICENTE: No, yo hablo inglés y español, pero no hablo otros (other) idiomas.
 
 F: Yo hablo inglés y estudio español en la escuela.
 
-<a name="homework"></a>
-## Homework
+# Homework
 
-### 1. Translate (remember: en = in, on, at).
+## 1. Translate (remember: en = in, on, at).
 
 1. My father sings at Blue Note on Saturdays.
 2. I walk in the park every day.
@@ -300,9 +269,9 @@ F: Yo hablo inglés y estudio español en la escuela.
 12. I always sing and dance in my bedroom.
 13. I always cook pasta in my apartment on Friday nights.
 
-### 2. Write a conversation using regular verbs with *-ar* ending.
+## 2. Write a conversation using regular verbs with *-ar* ending.
 
-### 3. Translate.
+## 3. Translate.
 
 1. I always drink water (agua) on Monday nights.
 2. My friend never drinks water.
@@ -313,7 +282,7 @@ F: Yo hablo inglés y estudio español en la escuela.
 7. There are many people (personas) in Times Square on Sundays.
 8. There are few people at Macy’s on Tuesday mornings.
 
-### 4. Answer the questions.
+## 4. Answer the questions.
 
 1. ¿Bebes mucha Coca Cola?
 2. ¿Comes pizza casi cada día?
@@ -324,13 +293,13 @@ F: Yo hablo inglés y estudio español en la escuela.
 7. ¿Escribes mucho en tu computadora?
 8. ¿A veces hablas por teléfono con tu amiga?
 
-### 5. About me and my family.
+## 5. About me and my family.
 
 Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis padres viven en Maryland. Mi abuelo vive en Miami. Yo no tengo hijos, pero mi hermana tiene tres hijos. Tengo cinco tíos y muchos primos. Mis tíos viven en España. Mi primo Carlos vive en Nueva York. Los sábados yo toco la guitarra con mi primo. Los domingos como en el restaurante y voy al cine con mis amigos y miro películas (movies).
 
 ¿Tienes hermanos, hijos, tíos, primos, etc? ¿Dónde vive tu familia?
 
-### 6. Conjugate.
+## 6. Conjugate.
 
 - Comer (to eat) 
 - Beber (to drink) 
@@ -341,9 +310,9 @@ Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis pad
 - Abrir (to open)
 - Recibir (to receive)
 
-### 7. Write 5 questions and 5 answers using regular verbs (*-ar, -er* or *-ir*)
+## 7. Write 5 questions and 5 answers using regular verbs (*-ar, -er* or *-ir*)
 
-### 8. Fill in the blanks with the correct form of *mucho* or *poco*
+## 8. Fill in the blanks with the correct form of *mucho* or *poco*
 
 1. María tiene ____________________ zapatos. (mucho)
 2. Javier tiene ____________________ computadoras. (poco)
@@ -356,7 +325,7 @@ Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis pad
 9. Mi abuela cocina _____________ cada día. (mucho)
 10. La amiga de mi hermana come _________ tacos de pollo [chicken tacos]. (mucho)
 
-### 9. Translate.
+## 9. Translate.
 
 1. My mother buys a lot of food every Thursday.
 2. Mary has many black chairs.

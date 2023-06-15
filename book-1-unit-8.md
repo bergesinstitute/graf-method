@@ -1,13 +1,4 @@
-# Unit 8
-
-- [La ropa (the clothes)](#la-ropa-the-clothes)
-- [Prepositions por & para (simplified)](#prepositions-por--para-simplified)
-- [Mí & ti](#m--ti)
-- [Verb gustar (to please)](#verb-gustar-to-please)
-- [Homework](#homework)
-
-<a name="la-ropa-the-clothes"></a>
-## La ropa (the clothes)
+# La ropa (the clothes)
 
     La ropa - the clothes
 
@@ -47,12 +38,11 @@
 
 > Remember: llevar - to wear.
 
-<a name="prepositions-por--para-simplified"></a>
-## Prepositions por & para (simplified)
+# Prepositions por & para (simplified)
 
 Por and para are a little confusing because they both can be translated as for. But they have different uses. Here are some basic ones:
 
-### Para
+## Para
 
 We use it for purpose/destination/goal:
 
@@ -62,7 +52,7 @@ We use it for purpose/destination/goal:
 
     Voy a la escuela para aprender. (I go to school in order to learn. In this case it means in order to.)
 
-### Por
+## Por
 
 We use it for duration of time intervals:
 
@@ -72,8 +62,7 @@ or for exchange:
 
     Compro un vestido por veinte euros. (I buy a dress for twenty euros.)
 
-<a name="m--ti"></a>
-## Mí & ti
+# Mí & ti
 
 In Spanish, some pronouns change when they are placed after a preposition:
 
@@ -91,8 +80,7 @@ All the other persons remain the same. This is the equivalent of *for me, for hi
 
     ¿Tienes un minuto para ella? (Do you have a minute for her?)
 
-<a name="verb-gustar-to-please"></a>
-## Verb gustar (to please)
+# Verb gustar (to please)
 
 In Spanish, when we express the idea of liking things, we are not doing the action; we are receiving it from whatever is being liked. This is easier to see if we think of the verb *to please:*
 
@@ -120,7 +108,7 @@ We are also going to use a new set of pronouns (they are very similar to the ref
 
     (A ellos) Les gusta / Les gustan
 
-### Examples
+## Examples
 
     Me gustan las manzanas.* (I like apples.) or (Apples please me.)
 
@@ -146,10 +134,9 @@ When we want to say activities we like, we use the infinitive of the verb:
 
     Me gustan los gatos (I like cats).
 
-<a name="homework"></a>
-## Homework
+# Homework
 
-### 1. Answer using full sentences.
+## 1. Answer using full sentences.
 
 1. ¿Cuántos zapatos tienes?
 2. ¿Cuántos pantalones tienes?
@@ -160,7 +147,7 @@ When we want to say activities we like, we use the infinitive of the verb:
 7. ¿De qué color es tu camiseta favorita?
 8. ¿A veces llevas falda?
 
-### 2. Translate.
+## 2. Translate.
 
 1. I have a scarf for you.
 2. I am in Boston for two days.
@@ -168,7 +155,7 @@ When we want to say activities we like, we use the infinitive of the verb:
 4. I have two shirts for you.
 5. I always buy dresses for my sister for forty euros.
 
-### 3. Translate.
+## 3. Translate.
 
 1. Is the book for me?
 2. The song is for you.
@@ -176,7 +163,7 @@ When we want to say activities we like, we use the infinitive of the verb:
 4. The car is for us.
 5. The shoes are for them.
 
-### 4. Answer the questions.
+## 4. Answer the questions.
 
 1. ¿Te gusta bailar?
 2. ¿Te gustan las fresas (strawberries)?
@@ -185,7 +172,7 @@ When we want to say activities we like, we use the infinitive of the verb:
 5. ¿Te gusta el café (coffee)?
 6. ¿Te gusta cocinar? ¿Y a tu amigo/a?
 
-### 5. Translate.
+## 5. Translate.
 
 1. Do you like to study Spanish?
 2. Does Mary like chocolate?

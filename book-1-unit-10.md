@@ -1,11 +1,4 @@
-# Unit 10
-
-- [La comida (food)](#la-comida-food)
-- [Las bebidas (drinks)](#las-bebidas-drinks)
-- [Ordering food at a restaurant](#ordering-food-at-a-restaurant)
-
-<a name="la-comida-food"></a>
-## La comida (food)
+# La comida (food)
 
     La comida - [the] food
 
@@ -145,8 +138,7 @@
 
     El cilantro - the cilantro
 
-<a name="las-bebidas-drinks"></a>
-## Las bebidas (drinks)
+# Las bebidas (drinks)
 
     Las bebidas - [the] drinks
 
@@ -170,8 +162,7 @@
 
     Con hielo/sin hielo - with ice/without ice
 
-<a name="ordering-food-at-a-restaurant"></a>
-## Ordering food at a restaurant
+# Ordering food at a restaurant
 
 The most common way is saying what you want and *por favor* after it.
 

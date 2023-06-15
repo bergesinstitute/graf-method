@@ -1,18 +1,4 @@
-# Unit 1
-
-- [The Spanish alphabet](#the-spanish-alphabet)
-- [Letters with special behaviors](#letters-with-special-behaviors)
-- [Spanish personal pronouns](#spanish-personal-pronouns)
-- [Verbs ser and estar (to be)](#verbs-ser-and-estar-to-be)
-- [Spanish negation](#spanish-negation)
-- [Nouns in Spanish](#nouns-in-spanish)
-- [Articles in Spanish](#articles-in-spanish)
-- [Family members in Spanish](#family-members-in-spanish)
-- [Adjectives in Spanish](#adjectives-in-spanish)
-- [Homework](#homework)
-
-<a name="the-spanish-alphabet"></a>
-## The Spanish alphabet
+# The Spanish alphabet
 The Spanish alphabet has 27 letters. Here they are:
   
     A 
@@ -82,7 +68,6 @@ The Spanish alphabet has 27 letters. Here they are:
   - Vowel, when it is at the end of a word or by itself (*y = and*), it sounds like I: *hoy, estoy…*
   - Consonant, in every other scenario: *yo, hoyo…*
 
-<a name="letters-with-special-behaviors"></a>
 ## Letters with special behaviors
 
 ### C, Q, Z and S
@@ -112,8 +97,7 @@ Translation: *Syrup, boss, manager, cat, people, gin, war, guitar, goldfinch.*
 
 > Note: Whenever we need the U between G and E or between G and I to be pronounced, we need to add a diéresis on top of it: *pingüino, lingüística,* etc.
 
-<a name="spanish-personal-pronouns"></a>
-## Spanish personal pronouns
+# Spanish personal pronouns
 
     First-Person Singular: Yo (I)
 
@@ -131,14 +115,13 @@ Translation: *Syrup, boss, manager, cat, people, gin, war, guitar, goldfinch.*
 
 Traditionally, the plural persons are used in this way: if the group of people consists of women only, we use the feminine version. If it consists of men only or both men and women, we use the masculine version (even if there are 50 women and one man!). To be inclusive, we can use some gender-neutral formulas: *Nosotros y nosotras, nosotros/as* or *nosotr@s* are common ones.
 
-### Usted/Ustedes
+## Usted/Ustedes
 
 We have a second-person formal pronoun that we use to express courtesy or respect. It has a second-person meaning, but it is conjugated in third person, since it comes from the old courtesy formula *Vuestra Merced* (*Your Mercy*). (We say *your mercy/your majesty/your honor is*—as opposed to *you are*. We’ll do the same thing in Spanish when we learn the verbs.)
 
-<a name="verbs-ser-and-estar-to-be"></a>
-## Verbs ser and estar (to be)
+# Verbs ser and estar (to be)
 
-### Ser, present tense
+## Ser, present tense
 
     Yo soy
 
@@ -152,7 +135,7 @@ We have a second-person formal pronoun that we use to express courtesy or respec
 
     Ellos/Ellas/Ustedes son
 
-### Estar, present tense
+## Estar, present tense
 
     Yo estoy
 
@@ -166,7 +149,7 @@ We have a second-person formal pronoun that we use to express courtesy or respec
 
     Ellos/Ellas/Ustedes están
 
-### How to memorize the conjugations
+## How to memorize the conjugations
 
 Try to memorize them in columns, preceded by the pronoun: *Yo soy, tú eres, él/ella/usted es, nosotros/nosotras somos, [vosotros/vosotras sois], ellos/ellas/ustedes son. Yo estoy, tú estás, él/ella/usted está, nosotros/nosotras estamos, [vosotros/vosotras estáis], ellos/ellas/ustedes están.*
 
@@ -174,48 +157,47 @@ Try to memorize them in columns, preceded by the pronoun: *Yo soy, tú eres, él
 
 > In the rest of the world, for “you all,” people always use the formal versión *ustedes son*. Since the majority of the countries don’t use *vosotros*, we can choose to skip it when we learn verb conjugations.
 
-### SER - We use it for permanent attributes and professions.
+## Ser: We use it for permanent attributes and professions.
 
 Typical uses:
 
-#### Physical or personality traits
+### Physical or personality traits
 
     Yo soy alto. (I am tall.) 
 
     Laura es simpática. (Laura is nice.)
 
-#### Nationality/origin
+### Nationality/origin
 
     John es de España. (John is from Spain.)
 
-#### Professions (even if they are non-permanent!)
+### Professions (even if they are non-permanent!)
 
     Maria es secretaria. (Maria is a secretary.) 
 
-### ESTAR - We use it for non-permanent attributes and location.
+## Estar: We use it for non-permanent attributes and location.
 
 Typical uses:
 
-#### Moods/physical conditions
+### Moods/physical conditions
 
     Yo estoy triste. (I am sad.)
 
     Pedro está cansado. (Pedro is tired.)
 
-#### Location (even if it is permanent!)
+### Location (even if it is permanent!)
 
     Sara está en Nueva York. (Sara is in New York.)
 
     Madrid está en España. (Madrid is in Spain.)
 
-### Distinguishing example:
+## Distinguishing example:
 
     Mis ojos son azules (My eyes are blue—it’s their color.)
 
     Mis ojos están rojos (My eyes are red—it is a non-permanent state.)
 
-<a name="spanish-negation"></a>
-## Spanish negation
+# Spanish negation
 
 To make a sentence negative, we just place the word *no* right before the verb:
 
@@ -227,15 +209,13 @@ To make a sentence negative, we just place the word *no* right before the verb:
 
     Ellos no están
 
-<a name="nouns-in-spanish"></a>
-## Nouns in Spanish
+# Nouns in Spanish
 
 Nouns have number: they can be singular (one) or plural (more than one). In order to make them plural, we add *-s* at the end, or *-es* if the noun ends in a consonant. *Guitarra → Guitarras. Doctor → Doctores.*
 
 Nouns in Spanish have gender (they can be either masculine or feminine). A *piano* (piano) is masculine, while a *guitarra* (guitar) is feminine. Notice how *piano* ends in *-o* and *guitarra* ends in *-a*. It is quite common for masculine and feminine nouns to end in those letters respectively, but it is not a rule. So, in order to memorize the gender of nouns, we are going to learn all of them together with the article.
 
-<a name="articles-in-spanish"></a>
-## Articles in Spanish
+# Articles in Spanish
 
 There are two kinds of articles, both in Spanish and in English. In English, we have a definite article (*the*) that we use for nouns that are identifiable by the listener. For example, if I tell Mary I was at *the restaurant* last night, I’m assuming Mary knows what restaurant I am talking about.
 
@@ -243,7 +223,7 @@ We also have two indefinite articles (*a/some*) that we use for nouns that are n
 
 Here are the articles in Spanish. They have to match the noun both in gender (masculine/feminine) and number (singular [one]/plural [more than one]).
 
-### Definite article (the)
+## Definite article (the)
 
     El (singular, masculine)
 
@@ -255,7 +235,7 @@ Here are the articles in Spanish. They have to match the noun both in gender (ma
 
 Examples: *El piano, los pianos, la guitarra, las guitarras.*
 
-### Indefinite article (a/some)
+## Indefinite article (a/some)
 
     Un (singular, masculine)
 
@@ -279,8 +259,7 @@ In Spanish, generic/uncountable nouns at the beginning of a sentence must have a
 
     La gasolina es cara.
 
-<a name="family-members-in-spanish"></a>
-## Family members in Spanish
+# Family members in Spanish
 
     El padre - the father
 
@@ -324,8 +303,7 @@ In Spanish, generic/uncountable nouns at the beginning of a sentence must have a
 
     La esposa - the wife
 
-<a name="adjectives-in-spanish"></a>
-## Adjectives in Spanish
+# Adjectives in Spanish
 
 Adjectives describe or qualify a noun. In Spanish, they have to match gender and number (this does not happen in English: we can say *the red guitar*, for singular, or *the red guitars*, for plural, and *red* remains the same).
 
@@ -337,7 +315,6 @@ or
 
 *un piano rojo, unos pianos rojos, una guitarra roja, unas guitarras rojas* (for non-specific pianos or guitars).
 
-<a name="homework"></a>
-## Homework
+# Homework
 
 Memorize the conjugations for ser and estar and all the vocabulary presented in ths unit.

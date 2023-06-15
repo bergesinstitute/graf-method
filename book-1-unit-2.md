@@ -1,20 +1,4 @@
-# Unit 2
-
-- [Colors in Spanish](#colors-in-spanish)
-- [Some common adjectives](#some-common-adjectives)
-- [Spanish prepositions](#spanish-prepositions)
-- [Spanish adverbs](#spanish-adverbs)
-- [Basic words and expressions](#basic-words-and-expressions)
-- [Numbers 1 through 5](#numbers-1-through-5)
-- [Spanish conjunctions](#spanish-conjunctions)
-- [Possessive adjectives in Spanish](#possessive-adjectives-in-spanish)
-- [Introducing yourself in Spanish](#introducing-yourself-in-spanish)
-- [Asking questions in Spanish](#asking-questions-in-spanish)
-- [Talking about your favorite things](#talking-about-your-favorite-things)
-- [Homework](#homework)
-
-<a name="colors-in-spanish"></a>
-## Colors in Spanish
+# Colors in Spanish
 
 Here are some basic adjectives: the colors. Some of them remain neutral (N) when they are used with masculine and feminine nouns (but they still have plural):
 
@@ -40,14 +24,13 @@ Here are some basic adjectives: the colors. Some of them remain neutral (N) when
 
     Marrón (N) - Brown
 
-### Examples
+## Examples
 
 Using blanco: *el piano es blanco, la guitarra es blanca, los pianos son blancos, las guitarras son blancas.*
 
 Using azul (N): *el piano es azul, la guitarra es azul, los pianos son azules, las guitarras son azules.*
 
-<a name="some-common-adjectives"></a>
-## Some common adjectives
+# Some common Spanish adjectives
 
     Grande (N)/Pequeño - Big/Small
 
@@ -59,14 +42,13 @@ Using azul (N): *el piano es azul, la guitarra es azul, los pianos son azules, l
 
     Cansado - Tired
 
-### How they work with *ser* and *estar*:
+## How they work with *ser* and *estar*:
 
 Examples using *ser* (with permanent attributes): *Yo soy alto, ella es pequeña, ellos son grandes.*
 
 Examples using *estar* (with non-permanent attributes): *Yo estoy enojado, Juan está triste, nosotros estamos cansados.*
 
-<a name="spanish-prepositions"></a>
-## Spanish prepositions
+# Spanish prepositions
 
 Prepositions are words that express relationships between two words (usually spatial or temporal).
 
@@ -76,8 +58,7 @@ Prepositions are words that express relationships between two words (usually spa
 
 *El abuelo es de España. El abuelo está en Nueva York.* (The grandfather is from Spain. The grandfather is in New York.) Notice the use of *ser* and *estar*. Since *de* implies origin, we will always use it with *ser*. Since *en* implies location, we will always use it with *estar*.
 
-<a name="spanish-adverbs"></a>
-## Spanish adverbs
+# Spanish adverbs
 
 Adverbs are words that describe verbs or adjectives. They don’t have gender or number. Here's an important one:
 
@@ -85,8 +66,7 @@ Adverbs are words that describe verbs or adjectives. They don’t have gender or
 
 *Yo estoy muy cansado.* (I am very tired.) 
 
-<a name="basic-words-and-expressions"></a>
-## Basic words and expressions
+# Basic words and expressions in Spanish
 
     Sí - yes
 
@@ -120,8 +100,7 @@ Adverbs are words that describe verbs or adjectives. They don’t have gender or
 
     La niña - the girl
 
-<a name="numbers-1-through-5"></a>
-## Numbers 1 through 5
+# Numbers 1 through 5 in Spanish
 
     Uno - One
 
@@ -133,8 +112,7 @@ Adverbs are words that describe verbs or adjectives. They don’t have gender or
 
     Cinco - Five
 
-<a name="spanish-conjunctions"></a>
-## Spanish conjunctions
+# Spanish conjunctions
 
 Conjunctions are words used to connect words or sentences together.
 
@@ -146,12 +124,11 @@ Conjunctions are words used to connect words or sentences together.
 
 *Yo soy de Madrid y Laura es de Barcelona. Juan está enojado o cansado. Yo estoy en Nueva York, pero Pedro está en Londres.* (I am from Madrid and Laura is from Barcelona. Juan is either angry or tired. I am in New York, but Pedro is in London.)
 
-<a name="possessive-adjectives-in-spanish"></a>
-## Possessive adjectives in Spanish
+# Possessive adjectives in Spanish
 
 Possessive adjectives show possession. In Spanish, we have different ones for one thing possessed or more than one thing possessed.
 
-### One thing possessed
+## One thing possessed
 
     First-Person Singular: Mi (My)
 
@@ -165,7 +142,7 @@ Possessive adjectives show possession. In Spanish, we have different ones for on
 
     Third Person Plural: Su (Their)
 
-### More than one thing possessed
+## More than one thing possessed
 
     First-Person Singular: Mis (My)
 
@@ -183,12 +160,11 @@ Some examples: *mi casa, mis carros, sus tíos, nuestras casas, tus abuelos.*
 
 > Notice how the subject of the sentence is the object or the animal possessed: Mi gato es rojo uses the third person conjugation (él), not the first person conjugation (yo). The subject is the cat, not me.
 
-### Full way of expressing possession
+## Full way of expressing possession
 
 When we are not using possessives and saying who the person is, in Spanish we cannot use *‘s* (Juan’s house). We have to say *la casa de Juan* (the house of Juan).
 
-<a name="introducing-yourself-in-spanish"></a>
-## Introducing yourself in Spanish
+# Introducing yourself in Spanish
 
 Here's an easy formula:
 
@@ -202,8 +178,7 @@ Here's an easy formula:
  
 > Notice we use an opening inverted question mark: ¿………? Same for ¡……!
 
-<a name="asking-questions-in-spanish"></a>
-## Asking questions in Spanish
+# Asking questions in Spanish
 
 Here are the interrogative pronouns:
 
@@ -231,7 +206,7 @@ They all have an accent (´) on their strong syllable.
 
 *What is your address? ¿Cuál es tu dirección?*
 
-### Example
+## Example
 
 > Note: When we speak, we frequently omit the personal pronoun, since it’s implied in the conjugation of the verb: we say *estoy triste* instead of *yo estoy triste*, or *eres alto* instead of *tú eres alto*.
 
@@ -243,8 +218,7 @@ They all have an accent (´) on their strong syllable.
 
     Madrid está en España. - Madrid is in Spain.
 
-<a name="talking-about-your-favorite-things"></a>
-## Talking about your favorite things
+# Talking about your favorite things in Spanish
 
 For asking what is your favorite _____? we use *cuál*. We literally ask *which is your favorite _____?*
 
@@ -270,10 +244,9 @@ Some more nouns:
 
     La canción - the song
 
-<a name="homework"></a>
-## Homework
+# Homework
 
-### 1. Translate (m: male; f: female).
+## 1. Translate (m: male; f: female).
 
 1. The son is tired.
 2. I am tired.
@@ -286,7 +259,7 @@ Some more nouns:
 9. The uncle is sad.
 10. The aunt is happy.
 
-### 2. Translate. You decide the gender.
+## 2. Translate. You decide the gender.
 
 1. You (formal, singular) are short.
 2. You (form, sing) are tired.
@@ -295,7 +268,7 @@ Some more nouns:
 5. You (form, plural) are sad.
 6. You (form, plural) are happy. (Plural of feliz is felices.)
 
-### 3. Translate. If there is no translation shown, the name in Spanish is the same as in English (e.g.
+## 3. Translate. If there is no translation shown, the name in Spanish is the same as in English (e.g.
    China = China).
 
 1. The mother is from Spain (España).
@@ -318,7 +291,7 @@ Some more nouns:
 18. They (f) are tired.
 19. I am from Colombia.
 
-### 4. Translate.
+## 4. Translate.
 
 1. You are not sad.
 2. The brothers are not sad.
@@ -333,7 +306,7 @@ Some more nouns:
 11. You (plural, formal) are not angry.
 12. They (f) are not angry.
 
-### 5. Translate.
+## 5. Translate.
 
 1. My uncle and my brother are tall.
 2. You (m) and your sister are friends.
@@ -344,7 +317,7 @@ Some more nouns:
 7. Their cat (f) is green and your dog (f) is yellow.
 8. Our house is black and your house is white.
 
-### 6. Translate.
+## 6. Translate.
 
 1. My dog (m) is very happy.
 2. Your cat (f) is very sad.
@@ -355,7 +328,7 @@ Some more nouns:
    (Remember the plural of feliz has a spelling change.)
 7. Her son and my daughter are very tired.
 
-### 7. Fill in the blanks using *ser* and *estar*.
+## 7. Fill in the blanks using *ser* and *estar*.
 
    Yo ________ de España, pero mis hermanos__________ de Francia. Mi madre ________ de Madrid
    y mi padre _________ de Barcelona. Mi madre _________ alta y mi padre __________ bajo. Mis
@@ -363,7 +336,7 @@ Some more nouns:
    La casa de mis padres __________ grande. La casa_________ en Ibiza. El carro de mi padre ______
    negro.
 
-### 8. Translate.
+## 8. Translate.
 
 1. Your dogs are black.
 2. The grandfather is in Argentina.

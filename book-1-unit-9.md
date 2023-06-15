@@ -1,15 +1,8 @@
-# Unit 9
-
-- [Review](#review)
-- [Homework](#homework)
-
-<a name="review"></a>
-## Review
+# Review
 
 Go over units 1-8 and review everything until you know it to the point where you could explain it to someone else.
 
-<a name="homework"></a>
-## Homework
+# Homework
 
 Write an essay about yourself. Address the following questions.
 

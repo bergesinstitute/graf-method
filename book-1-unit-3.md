@@ -1,22 +1,4 @@
-# Unit 3
-
-- [Tener, present tense](#tener-present-tense)
-- [Ir, present tense](#ir-present-tense)
-- [Hacer, present tense](#hacer-present-tense)
-- [Examples](#examples)
-- [Nouns related to time](#nouns-related-to-time)
-- [The days of the week in Spanish](#the-days-of-the-week-in-spanish)
-- [Lugares (places)](#lugares-places)
-- [Spanish prepositions: a (to)](#spanish-prepositions-a-to)
-- [Going to places in Spanish](#going-to-places-in-spanish)
-- [Some words we use all the time in Spanish](#some-words-we-use-all-the-time-in-spanish)
-- [Time expressions in Spanish](#time-expressions-in-spanish)
-- [Numbers 6 through 10](#numbers-6-through-10)
-- [Example using ser, estar, tener, ir, and hacer](#example-using-ser-estar-tener-ir-and-hacer)
-- [Homework](#homework)
-
-<a name="tener-present-tense"></a>
-## Tener, present tense
+# Tener, present tense
 
     Yo tengo
 
@@ -30,8 +12,17 @@
 
     Ellos/Ellas/Ustedes tienen
 
-<a name="ir-present-tense"></a>
-## Ir, present tense
+## Examples
+
+¿Tienes hermanos o hermanas? - Do you have brothers or sisters?
+
+Sí, tengo tres hermanos y una hermana. - Yes, I have three brothers and a sister.
+
+¿Tienes un perro o un gato? - Do you have a dog or a cat?
+
+Tengo una gata. - I have a [female] cat.
+
+# Ir, present tense
 
     Yo voy
 
@@ -45,8 +36,7 @@
 
     Ellos/Ellas/Ustedes van
 
-<a name="hacer-present-tense"></a>
-## Hacer, present tense
+# Hacer, present tense
 
     Yo hago
 
@@ -60,19 +50,7 @@
 
     Ellos/Ellas/Ustedes hacen
 
-<a name="examples"></a>
-## Examples
-
-¿Tienes hermanos o hermanas? - Do you have brothers or sisters?
-
-Sí, tengo tres hermanos y una hermana. - Yes, I have three brothers and a sister.
-
-¿Tienes un perro o un gato? - Do you have a dog or a cat?
-
-Tengo una gata. - I have a [female] cat.
-
-<a name="nouns-related-to-time"></a>
-## Nouns related to time
+# Nouns related to time
 
     El segundo - the second
 
@@ -88,8 +66,7 @@ Tengo una gata. - I have a [female] cat.
 
     El año - the year
 
-<a name="the-days-of-the-week-in-spanish"></a>
-## The days of the week in Spanish
+# The days of the week in Spanish
 
     Lunes - Monday
 
@@ -109,8 +86,7 @@ Tengo una gata. - I have a [female] cat.
 
 In Spanish, days of the week are not capitalized: *lunes, martes, etc.* All of them are masculine. In order to make them plural, we just use the plural article (*el martes,* *los* *martes*)*,* except for *sábado* and *domingo*: *el sábado, los sábados; el domingo, los domingos*.
 
-<a name="lugares-places"></a>
-## Lugares (places)
+# Lugares (places)
 
     El trabajo - [the] work
 
@@ -144,8 +120,7 @@ In Spanish, days of the week are not capitalized: *lunes, martes, etc.* All of t
 
     El templo - the temple
 
-<a name="spanish-prepositions-to-a"></a>
-## Spanish prepositions: a (to)
+# Spanish prepositions: a (to)
 
     A - to
 
@@ -155,8 +130,7 @@ When we use our preposition *a* together with the masculine singular article *el
 
 *Voy* *al* *parque.* (I go to the park.)
 
-<a name="going-to-places-in-spanish"></a>
-## Going to places in Spanish
+# Going to places in Spanish
 
 We use the present tense (the only tense we’ve seen for now) for expressing habits. Here is an example using the present tense for describing activities we usually do during the week:
 
@@ -178,15 +152,13 @@ Note how, instead of saying *on Mondays,* we say *los lunes* (lit. “the Monday
 
 Also note how *a* + *el* becomes *al*.
 
-<a name="some-words-we-use-all-the-time-in-spanish"></a>
-## Some words we use all the time in Spanish
+# Some words we use all the time in Spanish
 
     Vale/dale/bien/bueno/listo/claro - ok
 
     Entonces - so/then
 
-<a name="time-expressions-in-spanish"></a>
-## Time expressions in Spanish
+# Time expressions in Spanish
 
     Por la mañana - In the morning
 
@@ -196,8 +168,7 @@ Also note how *a* + *el* becomes *al*.
 
 > Note: in some countries, people say *en*  instead of *por: en la mañana, en la tarde,* etc.
 
-<a name="numbers-6-through-10"></a>
-## Numbers 6 through 10
+# Numbers 6 through 10 in Spanish
 
     Seis - Six
 
@@ -210,8 +181,7 @@ Also note how *a* + *el* becomes *al*.
     Diez - Ten
 
 
-<a name="example-using-ser-estar-tener-ir-and-hacer"></a>
-## Example using *ser, estar, tener, ir,* and *hacer*
+# Example using *ser, estar, tener, ir,* and *hacer*
 
 Ana: Hola Victoria, ¿cómo estás?
 
@@ -249,10 +219,9 @@ A: ¿Dónde está Key Food?
 
 V: Key Food está en Brooklyn.
 
-<a name="homework"></a>
-## Homework
+# Homework
 
-### 1. Complete using *tener*.
+## 1. Complete using *tener*.
 
 1. Yo _________ un perro.
 2. Nosotros ___________ un piano y una guitarra.
@@ -263,7 +232,7 @@ V: Key Food está en Brooklyn.
 7. Mi hermana ____________ cinco casas.
 8. ¿Tú ___________ un gato?
 
-### 2. Complete using *ir*.
+## 2. Complete using *ir*.
 
 1. ¿Dónde _________ tú los lunes? Los lunes yo ________ al supermercado.
 2. ¿Dónde _________ ellos los miércoles? Ellos ________ al parque.
@@ -273,7 +242,7 @@ V: Key Food está en Brooklyn.
 
 > Note:  *adónde*  and  *a dónde*  are often used instead of *dónde*  when using verb *ir: ¿Dónde vas los lunes? ¿Adónde vas los lunes? ¿A dónde vas los lunes?* (The meaning is the same in all three examples.)
 
-### 3. Complete using *hacer* in the question and *ir* in the answer.
+## 3. Complete using *hacer* in the question and *ir* in the answer.
 
 1. ¿Qué _________ tú los viernes?
    Los viernes yo ____________________
@@ -292,7 +261,7 @@ V: Key Food está en Brooklyn.
 8. ¿Qué _________ tú los viernes?
    Los viernes yo ______________________
 
-### 4. Translate.
+## 4. Translate.
 
 1. I go to the park on Mondays.
 2. On Fridays, I go to [the] church.
@@ -301,7 +270,7 @@ V: Key Food está en Brooklyn.
 5. You don’t go to the coffee shop on Sundays.
 6. We go to your house on Saturdays.
 
-### 5. Complete the conversation.
+## 5. Complete the conversation.
 
 Hola, ¿de dónde eres?
 
@@ -317,7 +286,7 @@ Galicia_______ en España.
 
 Sí, tengo una hermana.
 
-### 6. Complete the sentences using *ir*.
+## 6. Complete the sentences using *ir*.
 
 1. Los lunes por la mañana yo
 2. Los martes por la tarde yo

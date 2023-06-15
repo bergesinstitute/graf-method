@@ -1,13 +1,4 @@
-# Unit 6
-
-- [Las partes del cuerpo (body parts)](#las-partes-del-cuerpo-body-parts)
-- [Numbers from 0 to 100 in Spanish](#numbers-from-0-to-100-in-spanish)
-- [Saying your age in Spanish](#saying-your-age-in-spanish)
-- [Telling time in Spanish](#telling-time-in-spanish)
-- [Homework](#homework)
-
-<a name="las-partes-del-cuerpo-body-parts"></a>
-## Las partes del cuerpo (body parts)
+# Las partes del cuerpo (body parts)
 
     El cuerpo - the body
 
@@ -41,8 +32,7 @@
 
     El pie - the foot
 
-<a name="numbers-from-0-to-100-in-spanish"></a>
-## Numbers from 0 to 100 in Spanish
+# Numbers from 0 to 100 in Spanish
 
     0 - Cero
 
@@ -106,7 +96,7 @@
 
     30 - Treinta
 
-### For over 30:
+## For over 30:
 
     31 - Treinta y uno 
 
@@ -132,7 +122,7 @@
 
     100 - Cien
 
-### Examples
+## Examples
 
 37 - Treinta y siete
 
@@ -144,8 +134,7 @@
 
 79 - Setenta y nueve
 
-<a name="saying-your-age-in-spanish"></a>
-## Saying your age in Spanish
+# Saying your age in Spanish
 
 In Spanish, we use tener for telling age:
 
@@ -155,7 +144,7 @@ In Spanish, we use tener for telling age:
 
     Yo tengo veinticinco.
 
-### Conversación
+## Conversación
 
 DAMIÁN: ¿Cuántos años tiene tu hermana?
 
@@ -165,8 +154,7 @@ D: ¿Cuántos años tienes tú?
 
 P: Yo tengo treinta años.
 
-<a name="telling-time-in-spanish"></a>
-## Telling time in Spanish
+# Telling time in Spanish
 
 When asking and answering what time is it, we do the following:
 
@@ -190,10 +178,9 @@ For half and quarter we have the option of saying *media* and *cuarto* respectiv
 
 > We don’t use AM or PM. We address the time frame using time expressions and the preposition *de: las tres de la tarde, las ocho de la noche,* etc.
 
-<a name="homework"></a>
-## Homework
+# Homework
 
-### 1. Answer the questions.
+## 1. Answer the questions.
 
 1. ¿Cuál es tu comida favorita?
 2. ¿Cuál es tu ciudad favorita?
@@ -206,7 +193,7 @@ For half and quarter we have the option of saying *media* and *cuarto* respectiv
 9. ¿Compras muchos zapatos normalmente?
 10. ¿Cocinas los domingos por la noche?
 
-### 2. Translate
+## 2. Translate
 
 1. My sister lives in Madrid.
 2. I always write letters to my cousin.
@@ -225,7 +212,7 @@ For half and quarter we have the option of saying *media* and *cuarto* respectiv
 15. I always open my restaurant at night.
 16. Julia receives many packages (paquetes).
 
-### 3. Draw a monster with:
+## 3. Draw a monster with:
 
 - Dos cabezas
 - Cuatro ojos (dos por cabeza)
@@ -236,7 +223,7 @@ For half and quarter we have the option of saying *media* and *cuarto* respectiv
 - Dos bocas muy grandes
 - Dientes muy afilados (sharp)
 
-### 4. Spell the numbers.
+## 4. Spell the numbers.
 
    5
 
@@ -276,7 +263,7 @@ For half and quarter we have the option of saying *media* and *cuarto* respectiv
 
    72
    
-### 5. ¿Qué hora es?
+## 5. ¿Qué hora es?
 
 2:45
 

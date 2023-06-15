@@ -1,13 +1,4 @@
-# Unit 4
-
-- [La casa (the house)](#la-casa-the-house)
-- [There is/there are](#there-isthere-are)
-- [Conversación](#conversacin)
-- [Spanish regular verbs ending in -ar](#spanish-regular-verbs-ending-in--ar)
-- [Homework](#homework)
-
-<a name="la-casa-the-house"></a>
-## La casa (the house)
+# La casa (the house)
 
     La casa - the house
 
@@ -35,8 +26,7 @@
 
     El apartamento - the apartment
 
-<a name="there-isthere-are"></a>
-## There is/there are
+# There is/there are
 
 In Spanish, we use *hay* to express either *there is* or *there are*. It doesn’t matter if it’s masculine, feminine, singular, or plural:
 
@@ -55,8 +45,7 @@ Option 1: *Hay una cocina grande en mi apartamento.* (There is a large kitchen i
 Option 2: *Tengo una cocina grande en mi apartamento.* (I have a large kitchen in my apartment.)
 Option 3: *Mi apartamento tiene una cocina grande.* (My apartment has a large kitchen.)
 
-<a name="conversacin"></a>
-## Conversación
+# Conversación
 
 JOHN: ¿Cuántas sillas hay en tu sala?*
 ISABEL: En mi sala hay tres sillas.
@@ -72,12 +61,11 @@ I: Mi cuarto es un armario.
 > *We must match cuánto in gender and number when using it with countable nouns (as in how many).
 > **It is an idiomatic expression (lit. “Of what color are your chairs?”)
 
-<a name="spanish-regular-verbs-ending-in--ar"></a>
-## Spanish regular verbs ending in -ar
+# Spanish regular verbs ending in -ar
 
 Regular verbs are divided into 3 categories based on their ending: *-ar, -er* and *-ir*. We are going to use *cantar* (to sing), *comer* (to eat) and *vivir* (to live) as models. 
 
-### Cantar (to sing), present tense
+## Cantar (to sing), present tense
 
     Yo canto
 
@@ -91,7 +79,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
     Ellos/as/Uds. cantan
 
-### List of common -ar verbs
+## List of common -ar verbs
 
     Amar - to love
 
@@ -133,7 +121,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
     Trabajar - to work
 
-### How to conjugate -ar verbs
+## How to conjugate -ar verbs
 
 To conjugate these verbs, we need to drop the *-ar* ending and add the corresponding ending for each person.
 
@@ -149,10 +137,9 @@ For example:
 
     Etc. 
 
-<a name="homework"></a>
-## Homework
+# Homework
 
-### 1. Translate.
+## 1. Translate.
 
 1. A house.
 2. Some big houses.
@@ -172,12 +159,12 @@ For example:
 16. My house has a very large living room and a very small kitchen.
 17. My kitchen does not have a door, but my kitchen has a window.
 
-### 2. Your house.
+## 2. Your house.
 En mi casa hay dos cuartos, cinco ventanas, una televisión, una sala, una cocina grande y blanca, una mesa roja, dos sillas negras, un piano, dos guitarras y una computadora (a computer).
 
 ¿Qué hay en tu casa?
 
-### 3. Translate.
+## 3. Translate.
 1. My mother has a green sofa and her living room is large.
 2. Her father is from NYC but she is from Uruguay.
 3. My apartment is small but my bedroom is large.
@@ -197,7 +184,7 @@ En mi casa hay dos cuartos, cinco ventanas, una televisión, una sala, una cocin
 17. What is her favorite movie?
 18. My mother’s sofa is yellow.
 
-### 4. Conjugate.
+## 4. Conjugate.
 
 - Hablar (to talk)
 - Cocinar (to cook) 
