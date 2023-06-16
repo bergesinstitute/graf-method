@@ -60,7 +60,7 @@ Prepositions are words that express relationships between two words (usually spa
 
 # Spanish adverbs
 
-Adverbs are words that describe verbs or adjectives. They don’t have gender or number. Here's an important one:
+Adverbs are words that describe verbs or adjectives. They don't have gender or number. Here's an important one:
 
     Muy - Very
 
@@ -162,7 +162,7 @@ Some examples: *mi casa, mis carros, sus tíos, nuestras casas, tus abuelos.*
 
 ## Full way of expressing possession
 
-When we are not using possessives and saying who the person is, in Spanish we cannot use *‘s* (Juan’s house). We have to say *la casa de Juan* (the house of Juan).
+When we are not using possessives and saying who the person is, in Spanish we cannot use *‘s* (Juan's house). We have to say *la casa de Juan* (the house of Juan).
 
 # Introducing yourself in Spanish
 
@@ -202,13 +202,13 @@ They all have an accent (´) on their strong syllable.
 
 > Note: Cuál is usually used before es (and other forms of ser) instead of qué when not seeking a definition:
 
-*What’s your phone number? ¿Cuál es tu número de teléfono?*
+*What's your phone number? ¿Cuál es tu número de teléfono?*
 
 *What is your address? ¿Cuál es tu dirección?*
 
 ## Example
 
-> Note: When we speak, we frequently omit the personal pronoun, since it’s implied in the conjugation of the verb: we say *estoy triste* instead of *yo estoy triste*, or *eres alto* instead of *tú eres alto*.
+> Note: When we speak, we frequently omit the personal pronoun, since it's implied in the conjugation of the verb: we say *estoy triste* instead of *yo estoy triste*, or *eres alto* instead of *tú eres alto*.
 
     ¿De dónde eres? - Where are you from? (Lit. “From where are you?”)
 
@@ -322,8 +322,8 @@ Some more nouns:
 1. My dog (m) is very happy.
 2. Your cat (f) is very sad.
 3. His cat (m) is very tired.
-4. My father’s cat (f) is not very tired.
-5. My sister’s dog (m) is not very tall.
+4. My father's cat (f) is not very tired.
+5. My sister's dog (m) is not very tall.
 6. Their uncle and my aunt are very happy.
    (Remember the plural of feliz has a spelling change.)
 7. Her son and my daughter are very tired.

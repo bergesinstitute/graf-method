@@ -250,17 +250,17 @@ For personal characteristics (physical or non-physical) and defining characteris
 
 *El perro es grande. Tu tío es muy alto. La casa es roja. Mi hija es muy simpática.*
 
-For professions, we generally use *ser*. Even if they may not always be permanent, professions are considered to be part of people’s identity.
+For professions, we generally use *ser*. Even if they may not always be permanent, professions are considered to be part of people's identity.
 
 *Pedro es dependiente. Mi hermano es estudiante en NYU. Yo no soy cocinero, soy cantante.*
 
 ## Estar
 
-For people’s feelings, or for condition/status of things or people, we generally use *estar:*
+For people's feelings, or for condition/status of things or people, we generally use *estar:*
 
 *Mi padre está muy cansado. Ella está triste. Estoy preocupado.*
 
-For location, we always use *estar* (even if it’s a permanent location):
+For location, we always use *estar* (even if it's a permanent location):
 
 *Yo estoy en Nueva York. Mi tío siempre está en su casa. La Casa Blanca está en Washington DC.*
 
@@ -316,8 +316,8 @@ Unfortunately, there is no specific or logical rule that tells us which adjectiv
 6. My sister is in Korea.
 7. I am a lawyer.
 8. I am very worried.
-9. Juan’s eyes are blue.
-10. Maria’s hair is long.
+9. Juan's eyes are blue.
+10. Maria's hair is long.
 11. Maria has long hair.
 
 ## 4. Fill in the blanks using ser or estar

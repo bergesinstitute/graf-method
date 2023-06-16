@@ -28,7 +28,7 @@
 
 # There is/there are
 
-In Spanish, we use *hay* to express either *there is* or *there are*. It doesn’t matter if it’s masculine, feminine, singular, or plural:
+In Spanish, we use *hay* to express either *there is* or *there are*. It doesn't matter if it's masculine, feminine, singular, or plural:
 
 *Hay un piano - There is a piano*
 *Hay una guitarra - There is a guitar*
@@ -151,11 +151,11 @@ For example:
 8. There is a table in the kitchen.
 9. My chair is red.
 10. My bathroom is small.
-11. My father’s kitchen is very large.
-12. John’s table is blue.
+11. My father's kitchen is very large.
+12. John's table is blue.
 13. There is a small bedroom in my apartment.
-14. There are two bathrooms in my sister’s house.
-15. My brother’s kitchen is red.
+14. There are two bathrooms in my sister's house.
+15. My brother's kitchen is red.
 16. My house has a very large living room and a very small kitchen.
 17. My kitchen does not have a door, but my kitchen has a window.
 
@@ -182,7 +182,7 @@ En mi casa hay dos cuartos, cinco ventanas, una televisión, una sala, una cocin
 15. Do you have brothers or sisters?
 16. What do you do on Sunday mornings?
 17. What is her favorite movie?
-18. My mother’s sofa is yellow.
+18. My mother's sofa is yellow.
 
 ## 4. Conjugate.
 

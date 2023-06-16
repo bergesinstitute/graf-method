@@ -1,6 +1,6 @@
 # Doing things at a certain time
 
-It is different saying it’s two o’clock than saying I have breakfast at two o’clock.
+It is different saying it's two o'clock than saying I have breakfast at two o'clock.
 
 In Spanish, we say it this way:
 
@@ -104,7 +104,7 @@ Here are some common reflexive verbs:
 
 ## Reflexive and non-reflexive meaning
 
-Many verbs in Spanish have a reflexive and a non-reflexive version. And, many times, they have different meanings. For example, *levantar* means *to lift*, while *levantarse* means *to wake up* or *to get up; dormirse* means *to fall asleep*, while *dormir* means *to sleep.* In some cases, the meaning is very close: *peinar* means *to comb someone’s hair,* while *peinarse* means *to comb your own hair.* We need to treat all reflexive verbs as independent verbs with their own specific meaning.
+Many verbs in Spanish have a reflexive and a non-reflexive version. And, many times, they have different meanings. For example, *levantar* means *to lift*, while *levantarse* means *to wake up* or *to get up; dormirse* means *to fall asleep*, while *dormir* means *to sleep.* In some cases, the meaning is very close: *peinar* means *to comb someone's hair,* while *peinarse* means *to comb your own hair.* We need to treat all reflexive verbs as independent verbs with their own specific meaning.
 
     Yo levanto mucho peso. (I lift a lot of weight.)
 
@@ -114,7 +114,7 @@ Many verbs in Spanish have a reflexive and a non-reflexive version. And, many ti
 
     Yo duermo mucho los domingos. (I sleep a lot on Sundays.)
 
-    Yo peino a mi amiga. (I comb my friend’s hair.)
+    Yo peino a mi amiga. (I comb my friend's hair.)
 
     Yo me peino cada mañana. (I comb my hair every morning [lit. I comb myself].)  
 
@@ -233,7 +233,7 @@ Laura y yo nos levantamos a las siete de la mañana cada día. Nos lavamos la ca
 3. ¿Cuántos años tiene tu amiga/o?
 4. ¿A qué hora vas al trabajo?
 5. ¿Cuántas horas trabajas cada día?
-6. ¿A qué hora abre Macy’s?
+6. ¿A qué hora abre Macy's?
 7. ¿A qué hora estudias español?
 
 ## 3. Fill in the blanks.

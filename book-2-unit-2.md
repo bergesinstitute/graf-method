@@ -152,7 +152,7 @@ Examples:
 
     Diciembre - December
 
-In Spanish, we don’t capitalize them: 
+In Spanish, we don't capitalize them: 
 
 *En enero Juan siempre va a Puerto Rico.*
 
@@ -175,15 +175,15 @@ We use cardinal (regular) numbers, and we use the article *el:*
 5. I have as many houses as Ana.
 6. María is taller than Javier.
 7. Beyoncé sells more tickets (boletos) than Pat Metheny.
-8. My mother is shorter than I. (Use *yo,* not *mí; que* is not a preposition, it’s a conjunction.)
-9. Our house is bigger than Frodo’s house.
+8. My mother is shorter than I. (Use *yo,* not *mí; que* is not a preposition, it's a conjunction.)
+9. Our house is bigger than Frodo's house.
 10. Eating a lot of veggies is better than eating a lot of pork. (Use infinitive [*comer*].)
-11. My apartment is smaller than my mother’s apartment.
+11. My apartment is smaller than my mother's apartment.
 12. George paints worse than Peter.
 13. I eat as much pizza as you.
 14. Rihanna has as many fans (aficionados) as Beyoncé.
 15. Kate is as beautiful as María.
-16. Michael’s house is the tallest in the neighborhood (vecindario).
+16. Michael's house is the tallest in the neighborhood (vecindario).
 17. My friend Kevin is the worst singer in Spain.
 18. My roommate (compañero de cuarto) works less than a koala.
 19. Ferrán Adriá is the best chef in the world.
@@ -192,7 +192,7 @@ We use cardinal (regular) numbers, and we use the article *el:*
 22. Bill Gates is the richest man in the world (el mundo).
 23. Jennifer is younger than Michael.
 24. James is nice, but his sister Jane is very unfriendly.
-25. Sarah’s hair is curlier than Brian’s hair. Mary’s hair is long and straight.
+25. Sarah's hair is curlier than Brian's hair. Mary's hair is long and straight.
 26. Peter works as much as Sarah.
 27. Francis has as many jackets as Jessica.
 
@@ -215,7 +215,7 @@ We use cardinal (regular) numbers, and we use the article *el:*
 5. On February 4th, I went to a restaurant.
 6. On June 5th, we went to the supermarket.
 7. On September 21st, you (form, sing) went to the movie theater.
-8. On October 22nd, they (f) went to Peter’s apartment.
+8. On October 22nd, they (f) went to Peter's apartment.
 9. On May 14th, I went to Philadelphia.
 10. On December 31st, he went to work.
 11. On August 1st, you (form, pl) went to Brooklyn.
@@ -223,4 +223,4 @@ We use cardinal (regular) numbers, and we use the article *el:*
 
 ## 5. Translate
 
-I went to the market on Monday. On Tuesday, I went to Central Park. On Wednesday, I went to a restaurant. On Thursday, I went to Boston. I went to my friend’s house on Friday. On Saturday, I went to the gym.
+I went to the market on Monday. On Tuesday, I went to Central Park. On Wednesday, I went to a restaurant. On Thursday, I went to Boston. I went to my friend's house on Friday. On Saturday, I went to the gym.

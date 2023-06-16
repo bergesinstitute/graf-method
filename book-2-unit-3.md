@@ -154,7 +154,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
 ## Examples
 
-*Ayer comí pizza en Franky’s.* (Yesterday I ate pizza at Franky’s.)
+*Ayer comí pizza en Franky's.* (Yesterday I ate pizza at Franky's.)
 
 *El lunes por la noche bailé en un club de salsa.* (On Monday night I danced at a salsa club.)
 
@@ -307,7 +307,7 @@ L: Yo fui al trabajo el lunes, comí ostras (oysters) con Pedro el martes, miré
 
     Pregunta - question
 
-We don’t usually use *preguntar* (to ask) and *pregunta* (question) in the same sentence; we frequently use *hacer* instead of *preguntar* when we are using the noun *pregunta:*
+We don't usually use *preguntar* (to ask) and *pregunta* (question) in the same sentence; we frequently use *hacer* instead of *preguntar* when we are using the noun *pregunta:*
 
 English:
 
@@ -315,7 +315,7 @@ English:
 
 Spanish:
 
-*Pregunté una pregunta.* (It’s grammatically correct, but it sounds a little redundant.)
+*Pregunté una pregunta.* (It's grammatically correct, but it sounds a little redundant.)
 
 *Hice una pregunta.* (This sounds much better.)
 
@@ -374,7 +374,7 @@ La semana pasada:
 10. Mary had an argument with Pete. (Use discutir)
 11. They opened a restaurant.
 12. I ate pizza.
-13. She didn’t understand the situation (la situación).
+13. She didn't understand the situation (la situación).
 14. I studied Spanish a little.
 15. We cleaned our apartment.
 16. You (form, pl) called Sara.
@@ -414,4 +414,4 @@ La semana pasada:
 6. El domingo tú ____________ (vender) la cámara en internet.
 7. ¿Dónde ____________ (desayunar) ellas?
 
-## 9. En mis últimas vacaciones, yo... Tell us everything you did on your last vacation (it’s always plural, vacaciones).
+## 9. En mis últimas vacaciones, yo... Tell us everything you did on your last vacation (it's always plural, vacaciones).

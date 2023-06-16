@@ -117,7 +117,7 @@ Traditionally, the plural persons are used in this way: if the group of people c
 
 ## Usted/Ustedes
 
-We have a second-person formal pronoun that we use to express courtesy or respect. It has a second-person meaning, but it is conjugated in third person, since it comes from the old courtesy formula *Vuestra Merced* (*Your Mercy*). (We say *your mercy/your majesty/your honor is*—as opposed to *you are*. We’ll do the same thing in Spanish when we learn the verbs.)
+We have a second-person formal pronoun that we use to express courtesy or respect. It has a second-person meaning, but it is conjugated in third person, since it comes from the old courtesy formula *Vuestra Merced* (*Your Mercy*). (We say *your mercy/your majesty/your honor is*—as opposed to *you are*. We'll do the same thing in Spanish when we learn the verbs.)
 
 # Verbs ser and estar (to be)
 
@@ -155,7 +155,7 @@ Try to memorize them in columns, preceded by the pronoun: *Yo soy, tú eres, él
 
 > Note: In all Spanish-speaking countries, people differentiate between *tú eres* (informal) versus *usted es* (formal). However, for the plural version (“you all”) this differentiation only happens in Spain (*vosotros sois* [informal] versus *ustedes son* [formal]).
 
-> In the rest of the world, for “you all,” people always use the formal versión *ustedes son*. Since the majority of the countries don’t use *vosotros*, we can choose to skip it when we learn verb conjugations.
+> In the rest of the world, for “you all,” people always use the formal versión *ustedes son*. Since the majority of the countries don't use *vosotros*, we can choose to skip it when we learn verb conjugations.
 
 ## Ser: We use it for permanent attributes and professions.
 
@@ -193,7 +193,7 @@ Typical uses:
 
 ## Distinguishing example:
 
-    Mis ojos son azules (My eyes are blue—it’s their color.)
+    Mis ojos son azules (My eyes are blue—it's their color.)
 
     Mis ojos están rojos (My eyes are red—it is a non-permanent state.)
 
@@ -217,7 +217,7 @@ Nouns in Spanish have gender (they can be either masculine or feminine). A *pian
 
 # Articles in Spanish
 
-There are two kinds of articles, both in Spanish and in English. In English, we have a definite article (*the*) that we use for nouns that are identifiable by the listener. For example, if I tell Mary I was at *the restaurant* last night, I’m assuming Mary knows what restaurant I am talking about.
+There are two kinds of articles, both in Spanish and in English. In English, we have a definite article (*the*) that we use for nouns that are identifiable by the listener. For example, if I tell Mary I was at *the restaurant* last night, I'm assuming Mary knows what restaurant I am talking about.
 
 We also have two indefinite articles (*a/some*) that we use for nouns that are not identifiable by the listener. If I tell Mary I was at *a restaurant* last night, it could be any restaurant, not a particular one that she already knows about.
 
@@ -247,7 +247,7 @@ Examples: *El piano, los pianos, la guitarra, las guitarras.*
 
 Examples: *Un piano, unos pianos, una guitarra, unas guitarras.*
 
-Articles work similarly in English and in Spanish. There is one exception, though: in English, generic/uncountable nouns at the beginning of a sentence don’t have an article:
+Articles work similarly in English and in Spanish. There is one exception, though: in English, generic/uncountable nouns at the beginning of a sentence don't have an article:
 
     Cats are fun.
 

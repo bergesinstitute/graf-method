@@ -92,7 +92,7 @@ In Spanish, we follow the second example:
 
     Me gusta NYC. Subject: NYC. Object: Yo.
 
-We don’t use the subject pronoun (*yo, tú*) when using *gustar.* If we want to use a pronoun, we need to use the personal A in front of it (since the object, the one being pleased, is a person) and thus use the pronouns we use after a preposition. We will say *a mí, a ti, a él, a nosotros, a vosotros,* or *a ellos.* 
+We don't use the subject pronoun (*yo, tú*) when using *gustar.* If we want to use a pronoun, we need to use the personal A in front of it (since the object, the one being pleased, is a person) and thus use the pronouns we use after a preposition. We will say *a mí, a ti, a él, a nosotros, a vosotros,* or *a ellos.* 
 
 We are also going to use a new set of pronouns (they are very similar to the reflexive pronouns):
 

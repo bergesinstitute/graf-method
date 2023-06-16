@@ -132,7 +132,7 @@ When we use our preposition *a* together with the masculine singular article *el
 
 # Going to places in Spanish
 
-We use the present tense (the only tense we’ve seen for now) for expressing habits. Here is an example using the present tense for describing activities we usually do during the week:
+We use the present tense (the only tense we've seen for now) for expressing habits. Here is an example using the present tense for describing activities we usually do during the week:
 
     Los lunes voy al gimnasio.
 
@@ -185,7 +185,7 @@ Also note how *a* + *el* becomes *al*.
 
 Ana: Hola Victoria, ¿cómo estás?
 
-Victoria: Hola Ana, estoy muy bien (I’m very well), gracias. ¿Tú cómo estás?
+Victoria: Hola Ana, estoy muy bien (I'm very well), gracias. ¿Tú cómo estás?
 
 A: Muy bien, gracias. ¿Cuál es tu libro favorito?
 
@@ -267,7 +267,7 @@ V: Key Food está en Brooklyn.
 2. On Fridays, I go to [the] church.
 3. On Saturday mornings, I go to the gym.
 4. My sister goes to a restaurant on Tuesdays.
-5. You don’t go to the coffee shop on Sundays.
+5. You don't go to the coffee shop on Sundays.
 6. We go to your house on Saturdays.
 
 ## 5. Complete the conversation.

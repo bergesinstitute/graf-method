@@ -54,7 +54,7 @@ Whenever the object of the action (the one receiving it) is a person or a pet, w
 
 *Eva canta mucho. Yo canto poco.* (Eva sings a lot. I sing a little.)
 
-*Mucho* and *poco* can work as adjectives. In that case they mean *many/a lot* of or *few/not many* (for countable nouns) or *much/a lot of* or *little* (for uncountable nouns) respectively. When they are adjectives, they need to match the noun’s gender and number.
+*Mucho* and *poco* can work as adjectives. In that case they mean *many/a lot* of or *few/not many* (for countable nouns) or *much/a lot of* or *little* (for uncountable nouns) respectively. When they are adjectives, they need to match the noun's gender and number.
 
 *Hay muchas ventanas en mi sala. Hay pocos supermercados en Midtown.* (There are many windows in my living room. There are few/not many supermarkets in Midtown.)
 
@@ -221,7 +221,7 @@ To conjugate these verbs, we will apply the same procedure we used with *-ar* ve
 
     Mal - badly (adverb)
 
-*Bueno* and *malo* can only be used with nouns. They must match the noun’s gender and number (*buenos, mala,* etc.)
+*Bueno* and *malo* can only be used with nouns. They must match the noun's gender and number (*buenos, mala,* etc.)
 
 *Bien* and *mal* can only be used with verbs. They define how well or how badly you perform an action.
 
@@ -259,10 +259,10 @@ F: Yo hablo inglés y estudio español en la escuela.
 2. I walk in the park every day.
 3. You dance with Rita.
 4. We work at a store.
-5. You (plural, formal) don’t cook on Mondays.
+5. You (plural, formal) don't cook on Mondays.
 6. They (f) always study at the school.
 7. Do you play the guitar?
-8. I don’t play the piano.
+8. I don't play the piano.
 9. I work at a store and my sister works at an office.
 10. Do you work at a restaurant?
 11. Sometimes I work with Peter, sometimes with Maria.
@@ -275,12 +275,12 @@ F: Yo hablo inglés y estudio español en la escuela.
 
 1. I always drink water (agua) on Monday nights.
 2. My friend never drinks water.
-3. I always eat pizza at Arturo’s.
+3. I always eat pizza at Arturo's.
 4. I sometimes read the New Yorker.
-5. I don’t understand Peter.
-6. They don’t sell guitars but they sell pianos.
+5. I don't understand Peter.
+6. They don't sell guitars but they sell pianos.
 7. There are many people (personas) in Times Square on Sundays.
-8. There are few people at Macy’s on Tuesday mornings.
+8. There are few people at Macy's on Tuesday mornings.
 
 ## 4. Answer the questions.
 
@@ -330,7 +330,7 @@ Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis pad
 1. My mother buys a lot of food every Thursday.
 2. Mary has many black chairs.
 3. I have many books in my living room.
-4. Oscar’s restaurant is very good.
+4. Oscar's restaurant is very good.
 5. Ana writes very well.
 6. You (formal, plural) study a lot.
 7. Our uncle cooks very badly.

@@ -176,7 +176,7 @@ Examples
 
 For half and quarter we have the option of saying *media* and *cuarto* respectively.
 
-> We don’t use AM or PM. We address the time frame using time expressions and the preposition *de: las tres de la tarde, las ocho de la noche,* etc.
+> We don't use AM or PM. We address the time frame using time expressions and the preposition *de: las tres de la tarde, las ocho de la noche,* etc.
 
 # Homework
 
@@ -206,9 +206,9 @@ For half and quarter we have the option of saying *media* and *cuarto* respectiv
 9. How many chairs do you have in your apartment?
 10. You (formal, singular) live in Manhattan.
 11. Do Sara and Mary live in New York City?
-12. You (formal, plural) don’t sell tables.
+12. You (formal, plural) don't sell tables.
 13. Do you write letters or do you write emails?
-14. Macy’s opens on Sundays.
+14. Macy's opens on Sundays.
 15. I always open my restaurant at night.
 16. Julia receives many packages (paquetes).
 
