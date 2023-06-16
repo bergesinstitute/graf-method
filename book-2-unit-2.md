@@ -1,0 +1,226 @@
+# Spanish comparatives and superlatives
+
+## Comparatives
+
+    Más (...) que - More than/[adjective]+er than (taller than, shorter than, etc.)
+
+    Menos (...) que - Less than
+
+*María es más alta que Javier.* (María is taller than Javier.)
+
+*Juan gana menos dinero que Pedro.* (Juan earns less money than Pedro.)
+
+    Mejor que - better than
+
+    Peor que - worse than
+
+*Trabajar es mejor que estudiar.* (Lit. To work is better than to study.)
+
+*La pizza de Nueva York es mejor que la pizza de L.A.* (New York pizza is better than L.A. pizza.)
+
+    Tan (...) como - As (..) as
+
+*Mi hermana está tan feliz como tu hermana.* (My sister is as happy as your sister.)
+
+> Note: Use with adjectives only: *alto, feliz, cansado, guapa,* etc.
+
+    Tanto (...) como - As much as/as many as
+
+When it relates to a verb, it's considered an adverb, so it doesn't change its number or gender. Also, in this case, there is nothing between *tanto* and *como:*
+
+*María trabaja tanto como Pedro.* (María works as much as Pedro.)
+
+When it relates to a noun, it's considered an adjective, so it needs to be adjusted in gender and number:
+
+*María tiene tantas hermanas como Pedro.* (Maria has as many sisters as Pedro.)
+
+## Superlatives
+
+    El más - The most/the [adjective]+est (the tallest, the shortest, etc.)
+
+    El menos - The least
+
+*María es la más alta en su clase.* (María is the tallest in her class.) [We make it *la* for feminine]
+
+*Juan es el menos experimentado.* (Juan is the least experienced.)
+
+    El mejor - The best
+
+    El peor - The worst
+
+*Yo soy el mejor.* (I am the best.)
+
+*David es el peor abogado de Nueva York.* (David is the worst lawyer in New York.)
+
+*Sara es la mejor estudiante en su clase.* (Sara is the best student in her class.) [We make it *la* for feminine]
+
+>Note: for *in New York,* we can say either *de Nueva York* or *en Nueva York;* for *in her class,* we can say either *de su clase* or *en su clase.* Both versions are correct.
+
+## Example: La familia de Juan
+
+«Mi madre es más alta que mi padre, y mi padre es más alto que mi hermano. Mi hermano es el menos alto. Mi abuelo es tan alto como mi abuela.
+
+Mi abuelo y mi abuela viven en Nevada, y tienen muchos gatos y dos perros. Mis padres viven en Vermont, y ellos tienen menos gatos que mis abuelos —tienen dos—, pero tienen más perros —tienen tres, y son muy grandes—. Yo no tengo un perro o un gato.
+
+Mi hermano va mucho a Nevada y a Vermont para visitar (in order to visit) a mis abuelos y a mis padres. Yo voy a Vermont y a Nevada a veces, pero no voy tanto como mi hermano».
+
+# Common words/expressions
+
+    También - also/too
+
+    Yo sé - I know
+
+# Verbs ir (to go), and hacer (to do/to make) in the past tense (pretérito perfecto)
+
+## Ir, past tense
+
+    Yo fui
+
+    Tú fuiste
+
+    Él/Ella/Usted fue
+
+    Nosotros/as fuimos
+
+    [Vosotros/as fuisteis]
+
+    Ellos/Ellas/Ustedes fueron
+
+## Hacer, past tense
+
+    Yo hice
+
+    Tú hiciste
+
+    Él/Ella/Usted hizo
+
+    Nosotros/as hicimos
+
+    [Vosotros/as hicisteis]
+
+    Ellos/Ellas/Ustedes hicieron
+
+# Spanish past tense
+
+
+
+We use the past tense, or *pretérito perfecto simple,* for events that happened at a specific point in time in the past. We usually indicate this specific point by using a time expression.
+
+Here are some common past tense time expressions in Spanish:
+
+    Ayer - yesterday
+
+    Anoche - last night
+
+    El martes pasado - on Tuesday/last Tuesday
+
+    El martes - on Tuesday/last Tuesday (we usually omit the word pasado)
+
+    El viernes por la noche - On Friday night
+
+Examples:
+
+*Ayer a las siete fui al supermercado.* (Yesterday at seven I went to the supermarket.)
+
+*El lunes por la noche fui al parque.* (On Monday night I went to the park.)
+
+*El jueves pasado fuimos al gimnasio.* (Last Thursday we went to the gym.)
+
+# Months of the year in Spanish
+
+    Enero - January
+
+    Febrero - February
+
+    Marzo - March
+
+    Abril - April
+
+    Mayo - May
+
+    Junio - June
+
+    Julio - July
+
+    Agosto - August
+
+    Septiembre - September
+
+    Octubre - October
+
+    Noviembre - November
+
+    Diciembre - December
+
+In Spanish, we don’t capitalize them: 
+
+*En enero Juan siempre va a Puerto Rico.*
+
+*En España, las tiendas normalmente no abren en agosto.*
+
+## Writing the date
+
+We use cardinal (regular) numbers, and we use the article *el:*
+
+*El 3 de julio, el 20 de enero,* etc. (July 3rd, January 20th, etc.)
+
+# Homework
+
+## 1. Translate
+
+1. David is more handsome than Michael.
+2. Who is as handsome as Peter?
+3. I have less money than Michael Bloomberg.
+4. My apartment is as small as a closet.
+5. I have as many houses as Ana.
+6. María is taller than Javier.
+7. Beyoncé sells more tickets (boletos) than Pat Metheny.
+8. My mother is shorter than I. (Use *yo,* not *mí; que* is not a preposition, it’s a conjunction.)
+9. Our house is bigger than Frodo’s house.
+10. Eating a lot of veggies is better than eating a lot of pork. (Use infinitive [*comer*].)
+11. My apartment is smaller than my mother’s apartment.
+12. George paints worse than Peter.
+13. I eat as much pizza as you.
+14. Rihanna has as many fans (aficionados) as Beyoncé.
+15. Kate is as beautiful as María.
+16. Michael’s house is the tallest in the neighborhood (vecindario).
+17. My friend Kevin is the worst singer in Spain.
+18. My roommate (compañero de cuarto) works less than a koala.
+19. Ferrán Adriá is the best chef in the world.
+20. Leo is as joyful as Peter.
+21. Francis is more polite than George. George is a little rude.
+22. Bill Gates is the richest man in the world (el mundo).
+23. Jennifer is younger than Michael.
+24. James is nice, but his sister Jane is very unfriendly.
+25. Sarah’s hair is curlier than Brian’s hair. Mary’s hair is long and straight.
+26. Peter works as much as Sarah.
+27. Francis has as many jackets as Jessica.
+
+## 2. Answer the questions
+
+1. Normalmente, ¿trabajas los lunes tanto como los sábados?
+2. ¿Quién es el doctor más famoso de la televisión?
+3. ¿Qué pais es más grande, Rusia o Canadá?
+4. ¿Dónde hace más frío, en Finlandia o Islandia?
+5. ¿Cuál es el desierto más grande del mundo?
+
+## 3. Write three sentences using comparatives and three using superlatives
+
+## 4. Translate
+
+1. On March 26th, I went to San Francisco.
+2. On July 4th, she went to the park.
+3. On April 30th, they went to Café Gijón.
+4. On January 23rd, you went to Madrid.
+5. On February 4th, I went to a restaurant.
+6. On June 5th, we went to the supermarket.
+7. On September 21st, you (form, sing) went to the movie theater.
+8. On October 22nd, they (f) went to Peter’s apartment.
+9. On May 14th, I went to Philadelphia.
+10. On December 31st, he went to work.
+11. On August 1st, you (form, pl) went to Brooklyn.
+12. On November 27th, they went to a club.
+
+## 5. Translate
+
+I went to the market on Monday. On Tuesday, I went to Central Park. On Wednesday, I went to a restaurant. On Thursday, I went to Boston. I went to my friend’s house on Friday. On Saturday, I went to the gym.
