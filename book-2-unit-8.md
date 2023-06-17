@@ -258,13 +258,13 @@ En pasado...
 
 ## 8. Translate
 
-1. I don’t know anybody in San Francisco.
+1. I don't know anybody in San Francisco.
 2. I know nobody.
-3. I don’t know anything about that. (Use saber. About = sobre)
+3. I don't know anything about that. (Use saber. About = sobre)
 4. I know nothing about that. (Use saber.)
 5. We have something.
 6. You (formal, sing.) have nothing.
-7. You (formal, sing.) don’t have anything.
+7. You (formal, sing.) don't have anything.
 
 ## 9. Escribir la respuesta utilizando to también o yo tampoco
 

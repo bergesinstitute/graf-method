@@ -17,6 +17,7 @@ Use * for italics, ** for bold. That said, avoid using bold for emphasis.
 # Italics
 
 Use them for foreign words, like *hablar.* Lo mismo si la oración es en español y estamos hablando del verbo *to sing.*
+Use them as well when referring to a term itself, like the adverb *normally.*
 
 # Letters
 
@@ -37,3 +38,11 @@ Leave a space between the opening sign (>) and the first word.
 # Apostrophe
 
 Only use the vertical one (')
+
+# Footnotes
+
+Here is a footnote at the end of a sentence.[1] Here's one after a comma,[2] and here is one[3] in the middle of a sentence.
+
+[1] First footnote
+[2] Second
+[3] Third
