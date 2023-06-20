@@ -44,7 +44,9 @@ Only use the vertical one (')
 Here is a footnote at the end of a sentence.[1] Here's one after a comma,[2] and here is one[3] in the middle of a sentence.
 
 [1] First footnote
+
 [2] Second
+
 [3] Third
 
 # Breaks between conversations, etc.

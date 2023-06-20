@@ -159,7 +159,7 @@ Here are some common “E to IE” verbs:
 
     Sentirse - to feel
 
-> * The stem change always happens in the strong syllable: *empiezo, entiendo, prefiero.*
+> *The stem change always happens in the strong syllable: *empiezo, entiendo, prefiero.*
 
 ## O changes to UE
 
