@@ -40,7 +40,8 @@
 
 # Prepositions por & para (simplified)
 
-Por and para are a little confusing because they both can be translated as for. But they have different uses. Here are some basic ones:
+Por and para are a little confusing because they both can be translated as *for.* But they have different uses. 
+Here are some basic ones:
 
 ## Para
 
@@ -82,7 +83,8 @@ All the other persons remain the same. This is the equivalent of *for me, for hi
 
 # Verb gustar (to please)
 
-In Spanish, when we express the idea of liking things, we are not doing the action; we are receiving it from whatever is being liked. This is easier to see if we think of the verb *to please:*
+In Spanish, when we express the idea of liking things, we are not doing the action; we are receiving it 
+from whatever is being liked. This is easier to see if we think of the verb *to please:*
 
     I like NYC. Subject: I. Object: NYC.
 
@@ -92,7 +94,10 @@ In Spanish, we follow the second example:
 
     Me gusta NYC. Subject: NYC. Object: Yo.
 
-We don't use the subject pronoun (*yo, tú*) when using *gustar.* If we want to use a pronoun, we need to use the personal A in front of it (since the object, the one being pleased, is a person) and thus use the pronouns we use after a preposition. We will say *a mí, a ti, a él, a nosotros, a vosotros,* or *a ellos.* 
+We don't use the subject pronoun (*yo, tú*) when using *gustar.* If we want to use a pronoun, 
+we need to use the personal A in front of it (since the object, the one being pleased, is a person) 
+and thus use the pronouns we use after a preposition. We will say *a mí, a ti, a él, 
+a nosotros, a vosotros,* or *a ellos.* 
 
 We are also going to use a new set of pronouns (they are very similar to the reflexive pronouns):
 
@@ -116,7 +121,8 @@ We are also going to use a new set of pronouns (they are very similar to the ref
 
     Nos gusta mucho la comida. (We like food a lot.) or (Food pleases us a lot.)
 
-> Note: We are not required to use the pronouns a *mí, a ti,* etc. unless we want to emphasize the person: *Me gustan las manzanas. Juan, ¿a ti te gustan las manzanas?*
+> We are not required to use the pronouns a *mí, a ti,* etc. unless we want to emphasize the person: 
+> *Me gustan las manzanas. Juan, ¿a ti te gustan las manzanas?*
 
 When we use a noun, we must use the preposition *a* in front of it: 
 
@@ -128,7 +134,8 @@ When we want to say activities we like, we use the infinitive of the verb:
 
     Me gusta cantar. A mi hermano no le gusta trabajar. 
 
-*Important: when using generic/uncountable nouns with gustar we must always use a definite article (*el, la, los, las*):
+*Important: when using generic/uncountable nouns with gustar we must always use a definite article 
+(*el, la, los, las*):
 
     Me gusta la piña (I like pineapple). 
 
@@ -136,7 +143,7 @@ When we want to say activities we like, we use the infinitive of the verb:
 
 # Homework
 
-## 1. Answer using full sentences.
+## 1. Answer using full sentences
 
 1. ¿Cuántos zapatos tienes?
 2. ¿Cuántos pantalones tienes?
@@ -147,7 +154,7 @@ When we want to say activities we like, we use the infinitive of the verb:
 7. ¿De qué color es tu camiseta favorita?
 8. ¿A veces llevas falda?
 
-## 2. Translate.
+## 2. Translate
 
 1. I have a scarf for you.
 2. I am in Boston for two days.
@@ -155,7 +162,7 @@ When we want to say activities we like, we use the infinitive of the verb:
 4. I have two shirts for you.
 5. I always buy dresses for my sister for forty euros.
 
-## 3. Translate.
+## 3. Translate
 
 1. Is the book for me?
 2. The song is for you.
@@ -163,7 +170,7 @@ When we want to say activities we like, we use the infinitive of the verb:
 4. The car is for us.
 5. The shoes are for them.
 
-## 4. Answer the questions.
+## 4. Answer the questions
 
 1. ¿Te gusta bailar?
 2. ¿Te gustan las fresas (strawberries)?
@@ -172,7 +179,7 @@ When we want to say activities we like, we use the infinitive of the verb:
 5. ¿Te gusta el café (coffee)?
 6. ¿Te gusta cocinar? ¿Y a tu amigo/a?
 
-## 5. Translate.
+## 5. Translate
 
 1. Do you like to study Spanish?
 2. Does Mary like chocolate?
