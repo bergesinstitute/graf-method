@@ -95,7 +95,7 @@ Translation: *Cheese, cuckoo, shoe, cherry, clog, hunting, house.*
 
 Translation: *Syrup, boss, manager, cat, people, gin, war, guitar, goldfinch.*
 
-> Whenever we need the U between G and E or between G and I to be pronounced, we need to add a diéresis on top of it: *pingüino, lingüística,* etc.
+> Whenever we need the U between G and E or between G and I to be pronounced, we need to add a diéresis on top of it: *pingüino, lingüística.*
 
 # Spanish personal pronouns
 
