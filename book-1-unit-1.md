@@ -166,7 +166,8 @@ tú estás, él/ella/usted está, nosotros/nosotras estamos, (vosotros/vosotras 
 > versus *usted es* (formal). However, for the plural version (“you all”) this differentiation 
 > only happens in Spain: *vosotros sois* (informal) versus *ustedes son* (formal).
 > In the rest of the world, for “you all,” people always use the formal versión *ustedes son*. 
-> Since the majority of the countries don't use *vosotros*, we can choose to skip it when we learn verb conjugations.
+> Since the majority of the Spanish-speaking countries don't use *vosotros*, we can 
+> choose to skip it when we learn verb conjugations.
 
 ## Ser: We use it for permanent attributes and professions.
 
