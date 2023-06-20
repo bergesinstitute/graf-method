@@ -176,8 +176,8 @@ Examples
 
 For half and quarter we have the option of saying *media* and *cuarto* respectively.
 
-> We don't use AM or PM. We address the time frame using time expressions and the preposition *de: 
-> las tres de la tarde, las ocho de la noche,* etc.
+We don't use AM or PM. We address the time frame using time expressions and the preposition *de: 
+las tres de la tarde, las ocho de la noche,* etc.
 
 # Homework
 
