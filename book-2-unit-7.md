@@ -20,15 +20,15 @@ Literal translation would be something like “it makes four months.”
 For the weather, we also use the impersonal form of *hacer.* Again, the impersonal form is built by 
 using the third-person singular, but without a subject: *Hace.*
 
-    Hace calor - it's hot (lit. It makes heat).
+    Hace calor - it's hot (lit. It makes heat)
 
-    Hace frío - it's cold (lit. It makes cold).
+    Hace frío - it's cold (lit. It makes cold)
 
-    Hace buen tiempo - it's nice outside (lit. It makes good weather).
+    Hace buen tiempo - it's nice outside (lit. It makes good weather)
 
-    Hace mal tiempo - the weather is bad (lit. It makes bad weather).
+    Hace mal tiempo - the weather is bad (lit. It makes bad weather)
 
-    Hace sol - it's sunny (lit. It makes sun).
+    Hace sol - it's sunny (lit. It makes sun)
 
     Hace viento - it's windy (lit. It makes wind).
 
