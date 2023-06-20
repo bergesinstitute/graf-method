@@ -132,7 +132,7 @@ C: Yo nunca cocino. Yo desayuno en mi oficina y siempre ceno en un restaurante.
 
     Nosotros/as comemos
 
-    [Vosotros/as coméis]
+    (Vosotros/as coméis)
 
     Ellos/as/Uds. comen
 
@@ -179,7 +179,7 @@ the *-er* ending, and we add the corresponding ending for each person.
 
     Nosotros/as vivimos
 
-    [Vosotros/as vivís]
+    (Vosotros/as vivís)
 
     Ellos/as/Uds. viven
 
