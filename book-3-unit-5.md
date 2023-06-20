@@ -2,9 +2,9 @@
 
     Entre - between/among
 
-Mi casa está entre la Quinta y la Sexta Avenida. (Lit. My house is between Fifth and Sixth Ave.)
+*Mi casa está entre la Quinta y la Sexta Avenida.* (Lit. My house is between Fifth and Sixth Ave.)
 
-Esta pizzería es popular entre los estudiantes universitarios. (This pizzeria is popular among college students.)
+*Esta pizzería es popular entre los estudiantes universitarios.* (This pizzeria is popular among college students.)
 
 # Cambios en conjunciones
 
