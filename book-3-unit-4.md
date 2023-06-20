@@ -266,7 +266,7 @@ hacemos un uso descriptivo, y para descripción en pasado normalmente en españo
 *No había nadie en la calle a las 2 de la mañana.*
 
 > Unless we are talking about a very specific event that happened at a 
-> very specific time in the past, we’ll usually prefer to use *había* over *hubo* in most contexts.
+> very specific time in the past, we'll usually prefer to use *había* over *hubo* in most contexts.
 
 ## En el museo había...
 

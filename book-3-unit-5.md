@@ -84,8 +84,8 @@ conjunción por *u.*
 
     Décimo/a (10º / 10ª) - Tenth
 
-> Nota: *Primero* y *tercero* pasan a ser *primer* y *tercer* respectivamente cuando van antes 
-de un sustantivo masculino: *el primer día, el tercer lugar,* etc.
+> *Primero* y *tercero* pasan a ser *primer* y *tercer* respectivamente cuando van antes 
+de un sustantivo (noun) masculino: *el primer día, el tercer lugar,* etc.
 
     Vigésimo/a (20º / 20ª) - Twentieth
 
@@ -117,9 +117,9 @@ Thirteenth - Décimo/a tercero/a (13º / 13ª)
 
 Twenty-first - Vigésimo/a primero/a (21º / 21ª)
 
-Hundred and first - Centésimo primero (101º / 101ª)
+A hundred and first - Centésimo primero (101º / 101ª)
 
-Hundred and twenty second - Centesimo/a vigésimo/a segundo/a (122º / 122ª)
+A hundred and twenty second - Centésimo/a vigésimo/a segundo/a (122º / 122ª)
 
 > *Eleventh and twelfth have an alternate version: *undécimo, duodécimo.*
 
@@ -127,18 +127,18 @@ Hundred and twenty second - Centesimo/a vigésimo/a segundo/a (122º / 122ª)
 
 - Los números ordinales son adjetivos, pero normalmente van antes del sustantivo:
 
-_Mi apartamento está en el sexto piso (floor)._
+*Mi apartamento está en el sexto piso (floor).*
 
-_La primera noche en Jamaica fue fantástica._
+*La primera noche en Jamaica fue fantástica.*
  
 - Para calles, avenidas, pisos, etc. usamos normalmente números ordinales del 1 al 10, pero después del
   10 usamos números cardinales (que, como sabemos, van después del sustantivo):
 
-_Vivo en el cuarto piso._ 
+*Vivo en el cuarto piso.* 
 
-_Vivo en el piso diecisiete._
+*Vivo en el piso diecisiete.*
 
-_La pizzería está en la calle cincuenta y ocho con la tercera avenida._
+*La pizzería está en la calle cincuenta y ocho con la tercera avenida.*
 
 ## Conversación
 
@@ -160,7 +160,7 @@ J: En la calle ochenta y ocho con la novena.
 
 1. Peter sits between María and Sarah.
 2. They always fall asleep in the subway.
-3. I don’t remember where my keys are.
+3. I don't remember where my keys are.
 4. Javier comes to the city every week.
 5. Yesterday, our brother slept for 10 hours.
 6. She wants to travel to Uruguay.
@@ -182,15 +182,15 @@ J: En la calle ochenta y ocho con la novena.
 
 ## 3. Traducir
 
-1. This restaurant doesn’t accept credit cards.
+1. This restaurant doesn't accept credit cards.
 2. The waiter has the dessert for me.
 3. Juan ate a first course, a second course, and a dessert for ten euros.
 4. Do you (formal) want chopsticks or do you prefer a fork and a knife?
 5. On March 19th, the restaurant closed because of the hurricane.
 6. This restaurant has at least (al menos) fifty customers (clientes) per night.
 7. When we were living in Vietnam, we would always eat with our friends in the market.
-8. When Ana was living in the U.S, she used to like to eat hamburgers.
+8. When Ana was living in the U.S., she used to like to eat hamburgers.
 9. I used to be a doctor, but now I am a lawyer. I used to work at a hospital, but now I work at an office.
 10. Last night I saw Michael, and we had a coffee in the restaurant near my office.
-11. I went to Carla’s party last weekend. She was very happy and the food was delicious. We had a lot of fun.
+11. I went to Carla's party last weekend. She was very happy and the food was delicious. We had a lot of fun.
 

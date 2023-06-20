@@ -206,10 +206,10 @@ __________ (ser) Pedro Almodóvar.
 5. The sun was high in the sky. You were very pretty that day.
 6. I arrived at the meeting very late.
 7. I always talk to my sister on the phone.
-8. Yesterday, I went to my friend’s house.
+8. Yesterday, I went to my friend's house.
 9. In the past, they always used to cook a lot.
 10. I like to walk. I love to walk.
-11. Last Tuesday, I went to Joe’s Burgers. I used to like it more when Joe worked there.
+11. Last Tuesday, I went to Joe's Burgers. I used to like it more when Joe worked there.
 12. The party was boring. My friend Pedro was tired and my friend Mary was sick. We left at 8.
 13. On Mondays, María plays football in the park.
 14. When I was a kid, I used to play tennis.
