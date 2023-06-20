@@ -28,9 +28,32 @@ Here are some common habit time expressions:
 
     Cada martes - every Tuesday
 
+### Conversación
+
+Javier: Beatriz, ¿tú dónde vives?
+
+Beatriz: Yo vivo en Queens, en Astoria.
+
+J: ¿Estudias o trabajas?
+
+B: Trabajo en una oficina en el centro (downtown).
+
+J: ¿Qué te gusta hacer el fin de semana (weekend)?
+
+B: Me gusta ir a restaurantes con mis amigos, caminar en el parque, ir a bailar...
+
+J: ¿Cuál es tu parque favorito?
+
+B: Mi parque favorito es Madison Square Park.
+
+J: ¿Dónde está?
+
+B: Está en Manhattan.
+
 ## Pretérito perfecto
 
-We use the *pretérito perfecto* tense for events that happened at a specific point in time in the past that we usually indicate by using a time expression.
+We use the *pretérito perfecto* tense for events that happened at a specific point in time in the past that 
+we usually indicate by using a time expression.
 
 *Ayer comí pizza en Ray's.*
 
@@ -50,61 +73,46 @@ Here are some common specific time expressions:
 
     El diecisiete de marzo - On March 17th
 
+### Conversación
+
+Rodolfo: Ana, ¿qué hiciste la semana pasada?
+
+Ana: El lunes fui a mi trabajo, el martes cociné todo el día, el miércoles compré un carro, el jueves conocí
+a una persona muy simpática y el viernes bailé toda la noche. ¿Qué hiciste tú?
+
+R: Yo estuve en Boston de lunes a miércoles. Volví a Nueva York el jueves. El viernes fui a una fiesta
+en SoHo y el sábado dormí todo el día (all day).
+
 ## Presente progresivo
 
-For actions that are currently happening, in English we use to be + verb-ing (it is raining, Juan is eating, I am writing a book...).
+For actions that are currently happening, in English we use *to be* + verb-*ing* (it is raining, 
+Juan is eating, I am writing a book...).
 
-In Spanish, we always use *estar* for progressive tenses, followed by the *gerundio,* our equivalent of the English *-ing* form, which is built by adding:
+In Spanish, we always use *estar* for progressive tenses, followed by the *gerundio,* our equivalent of the 
+English *-ing* form, which is built by adding:
 
-    -ando to the root of -AR verbs
+    -ando to the root of -ar verbs
 
 *Yo estoy cantando. Juan está llamando a su madre.*
 
-    -iendo to the root of -ER and -IR verbs 
+    -iendo to the root of -er and -ir verbs 
 
 *Nosotros estamos bebiendo agua. Usted está escribiendo.*
 
 This tense is commonly used with adverbs *ahora* (now) and *hoy* (today).
 
-## Conversación
+### Conversación
 
-JAVIER: Beatriz, ¿tú dónde vives?
+Mike: Hola Daisy, ¿qué estás haciendo?
 
-BEATRIZ: Yo vivo en Queens, en Astoria.
-
-J: ¿Estudias o trabajas?
-
-B: Trabajo en una oficina en el centro (downtown).
-
-J: ¿Qué te gusta hacer el fin de semana (weekend)?
-
-B: Me gusta ir a restaurantes con mis amigos, caminar en el parque, ir a bailar...
-
-J: ¿Cuál es tu parque favorito?
-
-B: Mi parque favorito es Madison Square Park.
-
-J: ¿Dónde está?
-
-B: Está en Manhattan.
-
-
-RODOLFO: Ana, ¿qué hiciste la semana pasada?
-
-ANA: El lunes fui a mi trabajo, el martes cociné todo el día, el miércoles compré un carro, el jueves conocí a una persona muy simpática y el viernes bailé toda la noche. ¿Qué hiciste tú?
-
-R: Yo estuve en Boston de lunes a miércoles. Volví a Nueva York el jueves. El viernes fui a una fiesta en SoHo y el sábado dormí todo el día (all day long).
-
-
-MIKE: Hola Daisy, ¿qué estás haciendo?
-
-DAISY: Estoy comiendo una pizza en un restaurante italiano y tomando un café. ¿Tú qué estás haciendo?
+Daisy: Estoy comiendo una pizza en un restaurante italiano y tomando un café. ¿Tú qué estás haciendo?
 
 MIKE: Yo estoy caminando en el parque y bebiendo mucha agua porque está haciendo mucho calor.
 
 # Spanish stem-changing verbs
 
-In the present tense, some verbs have a stem change: a letter in its root changes in some grammatical persons. There are two types of stem changes:
+In the present tense, some verbs have a stem change: a letter in its root changes in some grammatical 
+persons. There are two types of stem changes:
 
 ## E changes to IE
 
@@ -122,7 +130,8 @@ In the present tense, some verbs have a stem change: a letter in its root change
 
     Ellos/Ellas/Uds. piensan
 
-This happens in many verbs; it doesn't matter if they are *-ar, -er* or *-ir.* Note that the E changes to IE in all persons except *nosotros* and *vosotros.*
+This happens in many verbs; it doesn't matter if they are *-ar, -er* or *-ir.* Note that the E changes to IE in 
+all persons except *nosotros* and *vosotros.*
 
 Here are some common “E to IE” verbs:
 
@@ -150,7 +159,7 @@ Here are some common “E to IE” verbs:
 
     Sentirse - to feel
 
-> * Note: the stem change always happens in the strong syllable: *empiezo, entiendo, prefiero.*
+> * The stem change always happens in the strong syllable: *empiezo, entiendo, prefiero.*
 
 ## O changes to UE
 
@@ -168,7 +177,7 @@ Here are some common “E to IE” verbs:
 
     Ellos/Ellas/Uds. sueñan
 
-Again, the O changes to UE in all persons except nosotros and vosotros.
+Again, the O changes to UE in all persons except *nosotros* and *vosotros.*
 
 Here are some common “O to UE” verbs:
 
@@ -236,7 +245,8 @@ Stem-changing verbs do not change their stem in the past tense:
 
     Ellos/Ellas/Uds. soñaron
 
-> NOTE: Verbs *divertirse, mentir, morir, preferir, querer, sentirse, dormir and poder* are irregular in the *pretérito perfecto* tense. Try to look up their conjugations and memorize them.
+> Verbs *divertirse, mentir, morir, preferir, querer, sentirse, dormir and poder* are irregular in 
+> the *pretérito perfecto* tense. Try to look up their conjugations and memorize them.
 
 # Homework
 
