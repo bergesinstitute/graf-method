@@ -94,9 +94,9 @@ We use it for skills (*knowing how to*) or for information (*knowing about somet
 
 - Information
 
-*Yo sé que tú tienes dos hermanos.* (I know (that) you have two brothers.)
+*Yo sé que tú tienes dos hermanos.* (I know that you have two brothers.)
 
-*Yo sé que tus hermanos viven en Brasil.* (I know (that) your brothers live in Brazil.)
+*Yo sé que tus hermanos viven en Brasil.* (I know that your brothers live in Brazil.)
 
 *¿Sabes dónde vive Juan?* (Do you know where Juan lives?)
 
