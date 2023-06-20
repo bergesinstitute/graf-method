@@ -223,17 +223,26 @@ To make a sentence negative, we just place the word *no* right before the verb:
 
 # Nouns in Spanish
 
-Nouns have number: they can be singular (one) or plural (more than one). In order to make them plural, we add *-s* at the end, or *-es* if the noun ends in a consonant. *Guitarra → Guitarras. Doctor → Doctores.*
+Nouns have number: they can be singular (one) or plural (more than one). In order to make them plural, 
+we add *-s* at the end, or *-es* if the noun ends in a consonant. *Guitarra → Guitarras. Doctor → Doctores.*
 
-Nouns in Spanish have gender (they can be either masculine or feminine). A *piano* (piano) is masculine, while a *guitarra* (guitar) is feminine. Notice how *piano* ends in *-o* and *guitarra* ends in *-a*. It is quite common for masculine and feminine nouns to end in those letters respectively, but it is not a rule. So, in order to memorize the gender of nouns, we are going to learn all of them together with the article.
+Nouns in Spanish have gender (they can be either masculine or feminine). A *piano* (piano) is masculine, 
+while a *guitarra* (guitar) is feminine. Notice how *piano* ends in *-o* and *guitarra* ends in *-a*. 
+It is quite common for masculine and feminine nouns to end in those letters respectively, but it is not 
+a rule. So, in order to memorize the gender of nouns, we are going to learn all of them together with the article.
 
 # Articles in Spanish
 
-There are two kinds of articles, both in Spanish and in English. In English, we have a definite article (*the*) that we use for nouns that are identifiable by the listener. For example, if I tell Mary I was at *the restaurant* last night, I'm assuming Mary knows what restaurant I am talking about.
+There are two kinds of articles, both in Spanish and in English. In English, we have a definite 
+article (*the*) that we use for nouns that are identifiable by the listener. For example, if I tell 
+Mary I was at *the restaurant* last night, I'm assuming Mary knows what restaurant I am talking about.
 
-We also have two indefinite articles (*a/some*) that we use for nouns that are not identifiable by the listener. If I tell Mary I was at *a restaurant* last night, it could be any restaurant, not a particular one that she already knows about.
+We also have two indefinite articles (*a/some*) that we use for nouns that are not identifiable by 
+the listener. If I tell Mary I was at *a restaurant* last night, it could be any restaurant, 
+not a particular one that she already knows about.
 
-Here are the articles in Spanish. They have to match the noun both in gender (masculine/feminine) and number (singular [one]/plural [more than one]).
+Here are the articles in Spanish. They have to match the noun both in gender (masculine/feminine) 
+and number (singular, i.e. one/plural, i.e more than one).
 
 ## Definite article (the)
 
@@ -259,7 +268,8 @@ Examples: *El piano, los pianos, la guitarra, las guitarras.*
 
 Examples: *Un piano, unos pianos, una guitarra, unas guitarras.*
 
-Articles work similarly in English and in Spanish. There is one exception, though: in English, generic/uncountable nouns at the beginning of a sentence don't have an article:
+Articles work similarly in English and in Spanish. There is one exception, though: 
+in English, generic/uncountable nouns at the beginning of a sentence don't have an article:
 
     Cats are fun.
 
