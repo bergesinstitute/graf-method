@@ -115,7 +115,7 @@ We conjugate reflexive verbs in the past tense in the same way we do in the pres
 
     Nos levantamos
 
-    [Os levantasteis]
+    (Os levantasteis)
 
     Se levantaron
 
