@@ -16,7 +16,7 @@ Whenever there is a two-verb construction, we don't conjugate the second verb:
 
 Verbs *poder* and *querer* are “stem-changing” verbs. Here are their conjugations in the present tense.
 
-## Poder (can/to be able to) - present tense
+## Poder (can/to be able to), present tense
 
     Puedo
 
@@ -30,7 +30,7 @@ Verbs *poder* and *querer* are “stem-changing” verbs. Here are their conjuga
 
     Pueden
 
-Querer (to want) - present tense
+## Querer (to want), present tense
 
     Quiero
 
@@ -44,9 +44,9 @@ Querer (to want) - present tense
 
     Quieren
 
-Verbs *poder* and *querer* in the past tense (*pretérito perfecto*) are irregular:
+Verbs *poder* and *querer* are irregular in the past tense (*pretérito perfecto*):
 
-Poder (can/to be able to) - past tense
+## Poder (can/to be able to), past tense
 
     Pude
 
@@ -60,7 +60,7 @@ Poder (can/to be able to) - past tense
 
     Pudieron
 
-Querer (to want) - past tense
+## Querer (to want), past tense
 
     Quise
 
@@ -74,17 +74,21 @@ Querer (to want) - past tense
 
     Quisieron
 
-> Memorization tip: In the *pretérito perfecto* tense, *poder* has the same vowels as *tener,* and *querer* has the same vowels as *hacer*.
+> Memorization tip: In the *pretérito perfecto* tense, *poder* has the same vowels as *tener,* and *querer* has 
+> the same vowels as *hacer*.
 
 ## Una paella 
 
-«Para hacer una paella, necesitas arroz y mucho pescado. Tienes que cocinar el pescado un poco. Después de cocinar el pescado, tienes que poner el arroz. Cuando haces esto, no debes tocar (to touch) la paella por quince minutos. Puedes mirar la televisión y esperar (to wait). Después de quince minutos, necesitas poner la paella en la mesa y esperar cinco minutos más». 
+Para hacer una paella, necesitas arroz y mucho pescado. Tienes que cocinar el pescado un poco. 
+Después de cocinar el pescado, tienes que poner el arroz. Cuando haces esto, no debes tocar (to touch) 
+la paella por quince minutos. Puedes mirar la televisión y esperar (to wait). Después de quince minutos, 
+necesitas poner la paella en la mesa y esperar cinco minutos más. 
 
 ## Conversación
 
-CLARA: Hola Elena, ¿quieres ir al cine esta noche?
+Clara: Hola Elena, ¿quieres ir al cine esta noche?
 
-ELENA: ¿Qué película quieres mirar?
+Elena: ¿Qué película quieres mirar?
 
 C: Quiero mirar la película nueva (new) de Iñárritu. Podemos ir al AMC en la calle (street) 42.
 
@@ -98,14 +102,16 @@ C: Sí, es una buena idea. Podemos ir a la pizzería de la calle 43.
 
 E: Perfecto.
 
+****
 
-JOHN: Peter, ¿fuiste a clase de español ayer?
+John: Peter, ¿fuiste a clase de español ayer?
 
-PETER: Sí, nosotros estudiamos el pretérito perfecto y las construcciones con dos verbos. ¿Por qué no fuiste?
+Peter: Sí, nosotros estudiamos el pretérito perfecto y las construcciones con dos verbos. ¿Por qué no fuiste?
 
 J: No pude ir porque tuve que trabajar. ¿Cuál es la tarea (the homework)?
 
-P: Hay mucha tarea. Podemos estudiar juntos (together). Tenemos que memorizar los verbos y también debemos practicar conversación.
+P: Hay mucha tarea. Podemos estudiar juntos (together). Tenemos que memorizar los verbos y también 
+debemos practicar conversación.
 
 J: Perfecto. Necesito practicar mucho.
 
@@ -117,7 +123,7 @@ J: Perfecto. Necesito practicar mucho.
 2. Tú siempre _________ bailar.
 3. Nosotros __________ cocinar.
 4. Ellos __________ visitar a Maria.
-5. Ella ___________ mirar el programa (the show).
+5. Ella ___________ mirar el programa.
 
 ## 2. Answer the questions
 
@@ -138,7 +144,7 @@ J: Perfecto. Necesito practicar mucho.
 2. El martes, tú _________ bailar.
 3. Nosotros __________ cocinar.
 4. El jueves, ellos __________ visitar a Maria.
-5. El veinte de enero, ella ___________ mirar el programa (the show).
+5. El veinte de enero, ella ___________ mirar el programa.
 
 ## 4. Answer the question
 
@@ -155,9 +161,11 @@ J: Perfecto. Necesito practicar mucho.
 
 ## 5. Yo puedo/yo no puedo
 
-Yo puedo tocar (to play) la guitarra, yo puedo cocinar una pasta fantástica, yo puedo correr diez kilómetros, yo puedo cantar más o menos bien, yo puedo escribir muchos emails por día.
+Yo puedo tocar (to play) la guitarra, yo puedo cocinar una pasta fantástica, yo puedo correr diez kilómetros, 
+yo puedo cantar más o menos bien, yo puedo escribir muchos emails por día.
 
-Yo no puedo hacer yoga, yo no puedo bailar bien, yo no puedo hablar ruso, yo no puedo mirar la televisión por más de tres horas por día, yo no puedo visitar a mis padres cada semana.
+Yo no puedo hacer yoga, yo no puedo bailar bien, yo no puedo hablar ruso, yo no puedo mirar la televisión por 
+más de tres horas por día, yo no puedo visitar a mis padres cada semana.
 
 ¿Qué puedes y qué no puedes hacer?
 
