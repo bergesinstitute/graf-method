@@ -210,10 +210,8 @@ Here are the interrogative pronouns:
 They all have an accent (´) on their strong syllable.
 
 > *Cuál* is usually used before *es* (and other forms of *ser*) instead of *qué* when not seeking a definition:
-
-*What's your phone number? ¿Cuál es tu número de teléfono?*
-
-*What is your address? ¿Cuál es tu dirección?*
+> *What's your phone number? ¿Cuál es tu número de teléfono?*
+> *What is your address? ¿Cuál es tu dirección?*
 
 ## Example
 
