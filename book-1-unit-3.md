@@ -184,7 +184,7 @@ Also note how *a* + *el* becomes *al*.
 
     Diez - Ten
 
-# Example using *ser, estar, tener, ir,* and *hacer*
+# Conversación
 
 Ana: Hola Victoria, ¿cómo estás?
 
