@@ -36,7 +36,7 @@
 
     Los guantes - the gloves
 
-> Remember: llevar - to wear.
+> Remember: *llevar - to wear.*
 
 # Prepositions por & para (simplified)
 
