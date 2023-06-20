@@ -290,7 +290,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
 # Conversación
 
-Laura: ¿Qué hiciste la semana pasada? (Last week)
+Laura: ¿Qué hiciste la semana pasada?
 
 Daniel: El lunes fui al doctor. El martes fui al cine. El miércoles trabajé mucho todo el día (all day long). 
 El jueves compré unos zapatos. El viernes comí con mi hermano. El sábado estuve en la iglesia. 
