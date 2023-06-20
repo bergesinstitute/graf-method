@@ -1,6 +1,6 @@
 # Numbers from 101 to 1 million in Spanish
 
-For hundreds, we use:
+For hundreds:
 
     100 - Cien
 
@@ -22,7 +22,7 @@ For hundreds, we use:
 
     900 to 999 - Novecientos*
 
-*Irregular: it doesn't follow the number + "cientos" pattern
+> *Irregular: it doesn't follow the number + *cientos* pattern
 
 For thousands:
 
@@ -32,11 +32,13 @@ For millions:
 
 1.000.000 - Un millón 2.000.000 - Dos millones etc.
 
-> Note: In most Spanish-speaking countries, we traditionally use periods, instead of commas, for thousands.
+> In most Spanish-speaking countries, we traditionally use periods, instead of commas, for thousands.
 
-> Note 2: Hundreds from 200 through 900 have gender in Spanish. When we use them as adjectives, we can either keep them masculine (*cuatrocientos dieciséis gatos*) or make them feminine (*quinientas quince sillas*).
+> Hundreds from 200 through 900 have gender in Spanish. When we use them as adjectives, we can either 
+> keep them masculine (*cuatrocientos dieciséis gatos*) or make them feminine (*quinientas quince sillas*).
 
-> Note 3: We don't add any extra *y* when using hundreds. For example, 457 would be *cuatrocientos cincuenta y siete;* it would never be *cuatrocientos “y” cincuenta y siete.*
+> We don't add any extra *y* when using hundreds. For example, 457 would be *cuatrocientos cincuenta y siete;* 
+> it would never be *cuatrocientos “y” cincuenta y siete.*
 
 # Homework
 
