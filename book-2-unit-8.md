@@ -106,7 +106,7 @@ We use it for skills (*knowing how to*) or for information (*knowing about somet
 > people or places you know, etc.)
 
 When we use *saber* with “information,” most of the time we are really using it with subordinate clauses, 
-which have a subject and a verb of their own. (*I know (that) Mary is tall. She knows (that) we live here. 
+which have a subject and a verb of their own. (*I know that Mary is tall. She knows that we live here. 
 Yo sé que Mary es alta. Ella sabe que nosotros vivimos aquí.*)
 
 ## Subordinate clauses in Spanish
