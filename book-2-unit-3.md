@@ -1,6 +1,7 @@
 # Past tense examples
 
-Again, we use the *pretérito perfecto* tense for events that happened at a specific point in time in the past. We usually indicate that specific point by using a time expression:
+Again, we use the *pretérito perfecto* tense for events that happened at a specific point in time in the past. 
+We usually indicate that specific point by using a time expression:
 
 *El lunes pasado fui al gimnasio.*
 
@@ -42,7 +43,7 @@ J: Ayer por la noche fui al cine.
 
     Nosotros/as fuimos
 
-    [Vosotros/as fuisteis]
+    (Vosotros/as fuisteis)
 
     Ellos/Ellas/Ustedes fueron
 
@@ -56,7 +57,7 @@ J: Ayer por la noche fui al cine.
 
     Nosotros/as estuvimos
 
-    [Vosotros/as estuvisteis]
+    (Vosotros/as estuvisteis)
 
     Ellos/Ellas/Ustedes estuvieron
 
@@ -70,11 +71,16 @@ J: Ayer por la noche fui al cine.
 
     Nosotros/as tuvimos
 
-    [Vosotros/as tuvisteis]
+    (Vosotros/as tuvisteis)
 
     Ellos/Ellas/Ustedes tuvieron
 
-> Note how *ser* is, in this tense, identical to *ir.* Spanish developed from Vulgar Latin, which was brought to the Iberian Peninsula by the Roman soldiers during the Second Punic War (3rd Century BC). In Classical Latin, the equivalent verbs for *ser* and *ir* (*esse* and *ire,* respectively) did have different past tenses, but Spanish, as it developed from a not-so-well-spoken version of the ancient language, “took” the Latin past tense for *esse* (*ser*) and applied it to both verbs *ser* and *ir,* ignoring the original Latin past tense for *ire.*
+> Note how *ser* is, in this tense, identical to *ir.* Spanish developed from Vulgar Latin, which was brought to the 
+> Iberian Peninsula by the Roman soldiers during the Second Punic War (3rd Century BC). In Classical Latin, 
+> the equivalent verbs for *ser* and *ir* (*esse* and *ire,* respectively) did have different past tenses, 
+> but Spanish, as it developed from a not-so-well-spoken version of the ancient language, “took” the Latin past 
+> tense for *esse* (*ser*) and applied it to both verbs *ser* and *ir,* ignoring the original Latin past 
+> tense for *ire.*
 
 ## Conversación
 
@@ -92,7 +98,8 @@ P: No, nunca fui, no me gusta nadar (to swim).
 
 # Spanish regular verbs in the past tense
 
-Regular verbs are divided into 3 categories based on their ending: *-ar, -er* and *-ir.* We are going to use *cantar* (to sing), *comer* (to eat) and *abrir* (to open) as models. 
+Regular verbs are divided into 3 categories based on their ending: *-ar, -er* and *-ir.* We are going to use 
+*cantar* (to sing), *comer* (to eat) and *abrir* (to open) as models. 
 
 ## Personal pronouns
 
@@ -104,7 +111,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
     Nosotros / Nosotras
 
-    [Vosotros / Vosotras]
+    (Vosotros / Vosotras)
 
     Ellos / Ellas / Ustedes
 
@@ -118,7 +125,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
     Cantamos
 
-    [Cantasteis]
+    (Cantasteis)
 
     Cantaron
 
@@ -132,7 +139,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
     Comimos
 
-    [Comisteis]
+    (Comisteis)
 
     Comieron
 
@@ -146,11 +153,12 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
     Abrimos
 
-    [Abristeis]
+    (Abristeis)
 
     Abrieron
 
-> Notice how *-er* and *-ir* verbs have the same endings in this tense. Also, note how the first-person plural (nosotros) is identical to the present tense conjugation for *-ar* and *-ir* verbs.
+> Notice how *-er* and *-ir* verbs have the same endings in this tense. Also, note how the first-person plural 
+> (nosotros) is identical to the present tense conjugation for *-ar* and *-ir* verbs.
 
 ## Examples
 
@@ -270,15 +278,17 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
     
     Vivir - to live
 
-> *In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first person singular: *llegué, pagué.*
+> *In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first person 
+> singular: *llegué, pagué.*
 >
-> **Also, *llegar* always uses the preposition *a: Llegué a la oficina* (I arrived at/in the office).
+> ***Llegar* always uses the preposition *a.* We arrive "to" places. *Llegué a la oficina* (I arrived at/in the office).
 >
 > ***In the *pretérito perfecto* tense, *tocar* has a spelling change in the first-person singular: *toqué.*
 >
-> ****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
+> ****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person 
+> singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
 
-# Example dialogues in the past tense
+# Conversación
 
 JUAN: Hola Pepe, ¿cómo estás?
 
@@ -286,28 +296,37 @@ PEPE: Hola Juan, muy bien, gracias. ¿Tú cómo estás?
 
 J: Muy bien, gracias. ¿Qué hiciste el fin de semana?
 
-P: Muchas cosas (things). El viernes estuve en el restaurante de mi amigo, y el sábado fui a un concierto de jazz. ¿Tú qué hiciste?
+P: Muchas cosas (things). El viernes estuve en el restaurante de mi amigo, y el sábado fui a un concierto de jazz. 
+¿Tú qué hiciste?
 
-J: El viernes fui a New Jersey, a casa de mi abuela. Ella cocina mejor que yo, pero peor que mi esposa. El sábado fui a la playa (the beach), también en New Jersey. Me gusta más que la playa de Brooklyn. ¿Tú fuiste a la playa de Brooklyn?
+J: El viernes fui a New Jersey, a casa de mi abuela. Ella cocina mejor que yo, pero peor que mi esposa. 
+El sábado fui a la playa (the beach), también en New Jersey. Me gusta más que la playa de Brooklyn. 
+¿Tú fuiste a la playa de Brooklyn?
 
 P: No, nunca fui, no me gusta nadar (to swim).
 
+****
 
 LAURA: ¿Qué hiciste la semana pasada? (Last week)
 
-DANIEL: El lunes fui al doctor. El martes fui al cine. El miércoles trabajé mucho todo el día (all day long). El jueves compré unos zapatos. El viernes comí con mi hermano. El sábado estuve en la iglesia. El domingo escribí un artículo.
+DANIEL: El lunes fui al doctor. El martes fui al cine. El miércoles trabajé mucho todo el día (all day long). 
+El jueves compré unos zapatos. El viernes comí con mi hermano. El sábado estuve en la iglesia. 
+El domingo escribí un artículo.
 
 L: Hiciste muchas cosas (things).
 
 D: ¡Yo sé! ¿Qué hiciste tú?
 
-L: Yo fui al trabajo el lunes, comí ostras (oysters) con Pedro el martes, miré la televisión el miércoles, cociné el jueves, comí mucha comida peruana (Peruvian) el viernes, descansé el sábado y fui al parque con mi perro el domingo.
+L: Yo fui al trabajo el lunes, comí ostras (oysters) con Pedro el martes, miré la televisión el miércoles, 
+cociné el jueves, comí mucha comida peruana (Peruvian) el viernes, descansé el sábado y fui al parque 
+con mi perro el domingo.
 
 # Preguntar una pregunta
 
     Pregunta - question
 
-We don't usually use *preguntar* (to ask) and *pregunta* (question) in the same sentence; we frequently use *hacer* instead of *preguntar* when we are using the noun *pregunta:*
+We don't usually use *preguntar* (to ask) and *pregunta* (question) in the same sentence; we frequently use 
+*hacer* instead of *preguntar* when we are using the noun *pregunta:*
 
 English:
 
@@ -356,7 +375,8 @@ Spanish:
 6. El martes pasado usted no ___________ (estar) en su casa.
 7. ¿Dónde ____________ (estar) ella el sábado?
 
-> Note: *adónde* and *a dónde* are often used instead of *dónde* when using verb *ir: ¿Dónde vas los lunes? ¿Adónde vas los lunes? ¿A dónde vas los lunes?* (The meaning is the same in all three examples.)
+> *Adónde* and *a dónde* are often used instead of *dónde* when using verb *ir: ¿Dónde vas los lunes? 
+> ¿Adónde vas los lunes? ¿A dónde vas los lunes?* (The meaning is the same in all three examples.)
 
 ## 5. Translate
 
