@@ -8,7 +8,7 @@
 
 # Cambios en conjunciones
 
-## Y >> E
+## Y => E
 
 Cuando una palabra está después de la conjunción *y* y empieza por la letra I necesitamos cambiar la
 conjunción por *e.*
@@ -17,7 +17,7 @@ conjunción por *e.*
 
 *Pedro e Ismael están en mi casa.*
 
-## O >> U
+## O => U
 
 Cuando una palabra está después de la conjunción *o* y empieza por la letra O necesitamos cambiar la
 conjunción por *u.*
