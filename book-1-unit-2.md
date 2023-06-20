@@ -228,7 +228,7 @@ They all have an accent (´) on their strong syllable.
 
 # Talking about your favorite things in Spanish
 
-For asking what is your favorite _____? we use *cuál*. We literally ask *which is your favorite _____?*
+For asking *what is your favorite _____?* we use *cuál*. We literally ask *which is your favorite _____?*
 
 Here are some examples:
 
