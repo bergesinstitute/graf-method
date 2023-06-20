@@ -82,7 +82,7 @@ Sara: Y, para mí, el bistec con papas fritas.
 
 Mesero: Perfecto, gracias.
 
- ***
+****
 
 (Después de comer)
 
@@ -92,7 +92,7 @@ Sara: Gracias a usted. Voy a pagar con tarjeta.
 
 Mesero: Perfecto. Aceptamos Visa y American Express.
 
- ***
+****
 
 (Más tarde)
 
@@ -126,7 +126,7 @@ Sara: ¡De nada!
 
 *Nosotros vamos a la escuela para aprender español.* (We go to school in order to learn Spanish.)
 
-*Fui a New Jersey para visitar a mi amiga.* (I went to New Jersey (in order) to visit my friend.)
+*Fui a New Jersey para visitar a mi amiga.* (Lit. I went to New Jersey in order to visit my friend.)
 
 *Voy al gimnasio para estar fuerte.* (I go to the gym in order to be/to stay strong.)
 
@@ -142,7 +142,7 @@ Sara: ¡De nada!
 
 *Estoy en Nueva York por tres días.* (I am in New York for three days.)
 
-### Razón/Causa (reason/cause) (meaning because of)[4]
+### Razón/causa (reason/cause) (meaning because of)[4]
 
 *Berges Institute está cerrado por Thanksgiving.* (Berges Institute is closed “because of” Thanksgiving.)
 
@@ -162,7 +162,7 @@ Sara: ¡De nada!
 
 *Leo tres libros por semana.* (I read three books per week.)
 
-**********
+****
 
 [1] In these examples we could use *a* instead of *para* with the same meaning:
 
@@ -188,9 +188,9 @@ Sara: ¡De nada!
 
 Cuando ponemos estos sufijos al final de una palabra, ésta se modifica. No hay una regla sobre cuándo
 usar -ito o cuando usar -cito, simplemente a veces funciona uno mejor que otro. Podemos usarlos con
-nombre, adjetivo o adverbio.
+sustantivos (nouns), adjetivos o adverbios.
 
-Cuando la palabra es un sustantivo (noun), el sufijo tiene valor diminutivo:
+Cuando la palabra es un sustantivo, el sufijo tiene valor diminutivo:
 
 Casa - house
 
@@ -218,7 +218,7 @@ Tiene valor aumentativo. Solamente usamos este sufijo con adjetivos o adverbios.
 
 *Yo como muchísimo.* (I really eat a lot.)
 
-> Nota: No podemos usar todos los sufijos con todas las palabras. A veces podemos, a veces no. No existe una
+> No podemos usar todos los sufijos con todas las palabras. A veces podemos, a veces no. No existe una
 regla específica.
 
 ## Uso de los sufijos con nombres propios
@@ -258,7 +258,7 @@ puntual o exacto:
 
 ## Había (pretérito imperfecto) 
 
-Es la forma más común. Cuando usamos *there was/there* were normalmente
+Es la forma más común. Cuando usamos *there was/there were* normalmente
 hacemos un uso descriptivo, y para descripción en pasado normalmente en español usamos imperfecto:
 
 *Había muchos libros en la mesa.*
