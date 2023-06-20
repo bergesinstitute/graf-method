@@ -127,7 +127,7 @@ We cannot omit *que* like we do in English with *that.*
 
 In English, we can say either *I know you are rich* or *I know that you are rich.*
 
-In Spanish, we always say: *Yo sé que tú eres rico.*
+In Spanish, we'll have to say *Yo sé que tú eres rico.*
 
 ## Conversación
 
