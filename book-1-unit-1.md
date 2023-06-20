@@ -111,9 +111,13 @@ Translation: *Syrup, boss, manager, cat, people, gin, war, guitar, goldfinch.*
 
     Third Person Plural: Ellos / Ellas (They)
 
-> The neuter pronoun it is not usually expressed in Spanish. We use él/ella instead, or we just omit the pronoun and use the verb only.
+> The neuter pronoun *it* is not usually expressed in Spanish. We use él/ella instead, 
+or we just omit the pronoun and use the verb only.
 
-Traditionally, the plural persons are used in this way: if the group of people consists of women only, we use the feminine version. If it consists of men only or both men and women, we use the masculine version (even if there are 50 women and one man!). To be inclusive, we can use some gender-neutral formulas: *Nosotros y nosotras, nosotros/as* or *nosotr@s* are common ones.
+Traditionally, the plural persons are used in this way: if the group of people consists 
+of women only, we use the feminine version. If it consists of men only or both men and women, 
+we use the masculine version (even if there are 50 women and one man!). To be inclusive, 
+we can use some gender-neutral formulas: *Nosotros y nosotras, nosotros/as* or *nosotr@s* are common ones.
 
 ## Usted/Ustedes
 
