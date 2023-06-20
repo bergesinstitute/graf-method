@@ -242,7 +242,7 @@ the listener. If I tell Mary I was at *a restaurant* last night, it could be any
 not a particular one that she already knows about.
 
 Here are the articles in Spanish. They have to match the noun both in gender (masculine/feminine) 
-and number (singular, i.e. one/plural, i.e more than one).
+and number (singular, i.e. one/plural, i.e. more than one).
 
 ## Definite article (the)
 
