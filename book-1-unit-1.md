@@ -1,5 +1,5 @@
 # The Spanish alphabet
-The Spanish alphabet has 27 letters. Here they are:
+The Spanish alphabet has 27 letters:
   
     A 
 
@@ -73,10 +73,10 @@ The Spanish alphabet has 27 letters. Here they are:
 ### C, Q, Z and S
 
 - C sounds /k/ with A, O and U, and /θ/ or /s/ with E and I.
-- We use Qu to obtain the sound /k/ with E and I.
+- We use QU to obtain the sound /k/ with E and I.
 - The sound /θ/ is used only in Spain. In the rest of the world za, ce, ci, zo, zu would be pronounced /sa, se, si, so, su/. In Spain, it would be pronounced /θa, θe, θi, θo, θu/.
 
-> Note: In Spanish, we can never use Z with vowels E and I.
+> In Spanish, we don't really use Z with vowels E and I.
 
 #### Some words to pronounce 
 
@@ -95,7 +95,7 @@ Translation: *Cheese, cuckoo, shoe, cherry, clog, hunting, house.*
 
 Translation: *Syrup, boss, manager, cat, people, gin, war, guitar, goldfinch.*
 
-> Note: Whenever we need the U between G and E or between G and I to be pronounced, we need to add a diéresis on top of it: *pingüino, lingüística,* etc.
+> Whenever we need the U between G and E or between G and I to be pronounced, we need to add a diéresis on top of it: *pingüino, lingüística,* etc.
 
 # Spanish personal pronouns
 
