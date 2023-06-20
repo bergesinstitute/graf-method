@@ -25,9 +25,9 @@ day long.)
 
 # Conversación usando el pretérito imperfecto
 
-CARLOS: Hola Isabel, tú estudiaste en la universidad en Florida, ¿es correcto?
+Carlos: Hola Isabel, tú estudiaste en la universidad en Florida, ¿es correcto?
 
-ISABEL: Hola Carlos. Es correcto.
+Isabel: Hola Carlos. Es correcto.
 
 C: ¿Cómo era la vida (life) en Florida?
 
@@ -135,7 +135,7 @@ acción), usamos generalmente imperfecto:
 *My mom always used to/would always cook pasta on Fridays.*
 
 - We can translate it as: *Mi mamá siempre solía cocinar pasta los viernes.*
-- But it is better translated as: *Mi mamá siempre* *cocinaba* *pasta los viernes.*
+- But it is better translated as: *Mi mamá siempre cocinaba pasta los viernes.*
 
 # Fui/Era/Estuve/Estaba
 
