@@ -46,3 +46,11 @@ Here is a footnote at the end of a sentence.[1] Here's one after a comma,[2] and
 [1] First footnote
 [2] Second
 [3] Third
+
+# Breaks between conversations, etc.
+
+Use four asterisks, like this:
+
+****
+
+That's it.

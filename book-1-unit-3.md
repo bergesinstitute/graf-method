@@ -1,4 +1,4 @@
-# Tener, present tense
+# Tener (to have), present tense
 
     Yo tengo
 
@@ -22,7 +22,7 @@ Sí, tengo tres hermanos y una hermana. - Yes, I have three brothers and a siste
 
 Tengo una gata. - I have a (female) cat.
 
-# Ir, present tense
+# Ir (to go), present tense
 
     Yo voy
 
@@ -36,7 +36,7 @@ Tengo una gata. - I have a (female) cat.
 
     Ellos/Ellas/Ustedes van
 
-# Hacer, present tense
+# Hacer (to do/to make), present tense
 
     Yo hago
 

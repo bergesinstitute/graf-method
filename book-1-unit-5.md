@@ -20,7 +20,8 @@
 
 # Subject and object
 
-The subject is the person or the thing doing the action of the verb. The object is the person or the thing receiving it.
+The subject is the person or the thing doing the action of the verb. The object is the person 
+or the thing receiving it.
 
     Juan compra una manzana (an apple). Subject: Juan. Object: una manzana.  
 
@@ -32,13 +33,14 @@ The subject is the person or the thing doing the action of the verb. The object 
 
 # Spanish personal A
 
-Whenever the object of the action (the one receiving it) is a person or a pet, we must use the preposition *a* right after the verb:
+Whenever the object of the action (the one receiving it) is a person or a pet, we must use 
+the preposition *a* right after the verb:
 
     Amo Madrid. VS Amo a María.
 
     Odio la canción. VS Odio a Pedro. 
 
-# Spanish prepositions: con (with) and sin (without)
+# Spanish prepositions con and sin
 
     Con - with
 
@@ -54,9 +56,13 @@ Whenever the object of the action (the one receiving it) is a person or a pet, w
 
 *Eva canta mucho. Yo canto poco.* (Eva sings a lot. I sing a little.)
 
-*Mucho* and *poco* can work as adjectives. In that case they mean *many/a lot* of or *few/not many* (for countable nouns) or *much/a lot of* or *little* (for uncountable nouns) respectively. When they are adjectives, they need to match the noun's gender and number.
+*Mucho* and *poco* can work as adjectives. In that case they mean *many/a lot of* or 
+*few/not many* (for countable nouns) or *much/a lot of* or *little* (for uncountable nouns) 
+respectively. When they are adjectives, they need to match the noun's gender and number.
 
-*Hay muchas ventanas en mi sala. Hay pocos supermercados en Midtown.* (There are many windows in my living room. There are few/not many supermarkets in Midtown.)
+*Hay muchas ventanas en mi sala.* (There are many windows in my living room.)
+
+*Hay pocos supermercados en Midtown.* (There are few/not many supermarkets in Midtown.)
 
 # Habit time expressions
 
@@ -102,6 +108,7 @@ N: ¿Dónde está tu escuela?
 
 A: Mi escuela está en Midtown.
 
+****
 
 CARMEN: Luis, normalmente, ¿dónde desayunas?
 
@@ -147,7 +154,8 @@ C: Yo nunca cocino. Yo desayuno en mi oficina y siempre ceno en un restaurante.
 
 ## How to conjugate -er verbs
 
-To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: we drop the *-er* ending and we add the corresponding ending for each person.
+To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: we drop 
+the *-er* ending, and we add the corresponding ending for each person.
 
     Aprender:
 
@@ -187,7 +195,8 @@ To conjugate these verbs, we will apply the same procedure we used with *-ar* ve
 
 ## How to conjugate -ir verbs
 
-To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: we drop the *-ir* ending and we add the corresponding ending for each person.
+To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: 
+we drop the *-ir* ending, and we add the corresponding ending for each person.
 
     Escribir:
 
@@ -237,6 +246,7 @@ M: Yo no leo mucho. Yo miro muchas películas. Mi director (filmmaker) favorito 
 
 P: Yo no tengo televisión en mi casa, pero miro películas en mi computadora (computer).
 
+****
 
 LUISA: Tomás, ¿tú envías y recibes muchos emails cada día?
 
@@ -244,6 +254,7 @@ TOMÁS: Sí, recibo muchos, pero envío pocos. Odio escribir emails. ¿Tú recib
 
 L: Yo recibo mucho spam.
 
+****
 
 FRAN: Vicente, ¿hablas muchos idiomas?
 
@@ -253,7 +264,7 @@ F: Yo hablo inglés y estudio español en la escuela.
 
 # Homework
 
-## 1. Translate (remember: en = in, on, at).
+## 1. Translate (remember: en = in, on, at)
 
 1. My father sings at Blue Note on Saturdays.
 2. I walk in the park every day.
@@ -269,9 +280,9 @@ F: Yo hablo inglés y estudio español en la escuela.
 12. I always sing and dance in my bedroom.
 13. I always cook pasta in my apartment on Friday nights.
 
-## 2. Write a conversation using regular verbs with *-ar* ending.
+## 2. Write a conversation using regular verbs with -ar ending
 
-## 3. Translate.
+## 3. Translate
 
 1. I always drink water (agua) on Monday nights.
 2. My friend never drinks water.
@@ -282,24 +293,24 @@ F: Yo hablo inglés y estudio español en la escuela.
 7. There are many people (personas) in Times Square on Sundays.
 8. There are few people at Macy's on Tuesday mornings.
 
-## 4. Answer the questions.
+## 4. Answer the questions
 
 1. ¿Bebes mucha Coca Cola?
 2. ¿Comes pizza casi cada día?
-3. ¿A veces comes en McDonalds?
+3. ¿A veces comes en McDonald's?
 4. ¿Comprendes español?
 5. ¿Lees People o Life cada semana?
 6. ¿A veces lees Vogue?
 7. ¿Escribes mucho en tu computadora?
 8. ¿A veces hablas por teléfono con tu amiga?
 
-## 5. About me and my family.
+## 5. About me and my family
 
 Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis padres viven en Maryland. Mi abuelo vive en Miami. Yo no tengo hijos, pero mi hermana tiene tres hijos. Tengo cinco tíos y muchos primos. Mis tíos viven en España. Mi primo Carlos vive en Nueva York. Los sábados yo toco la guitarra con mi primo. Los domingos como en el restaurante y voy al cine con mis amigos y miro películas (movies).
 
-¿Tienes hermanos, hijos, tíos, primos, etc? ¿Dónde vive tu familia?
+¿Tienes hermanos, hijos, tíos, primos, etc.? ¿Dónde vive tu familia?
 
-## 6. Conjugate.
+## 6. Conjugate
 
 - Comer (to eat) 
 - Beber (to drink) 
@@ -310,9 +321,9 @@ Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis pad
 - Abrir (to open)
 - Recibir (to receive)
 
-## 7. Write 5 questions and 5 answers using regular verbs (*-ar, -er* or *-ir*)
+## 7. Write 5 questions and 5 answers using regular verbs (-ar, -er or -ir)
 
-## 8. Fill in the blanks with the correct form of *mucho* or *poco*
+## 8. Fill in the blanks with the correct form of mucho or poco
 
 1. María tiene ____________________ zapatos. (mucho)
 2. Javier tiene ____________________ computadoras. (poco)
@@ -323,9 +334,9 @@ Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis pad
 7. Ana tiene ___________________ sillas en su cuarto. (poco)
 8. Luis escribe _________________________ cartas. (mucho)
 9. Mi abuela cocina _____________ cada día. (mucho)
-10. La amiga de mi hermana come _________ tacos de pollo [chicken tacos]. (mucho)
+10. La amiga de mi hermana come _________ tacos de pollo (chicken tacos). (mucho)
 
-## 9. Translate.
+## 9. Translate
 
 1. My mother buys a lot of food every Thursday.
 2. Mary has many black chairs.
