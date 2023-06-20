@@ -174,7 +174,7 @@ In Spanish, we must use double negatives:
 
     Yo no conozco a nadie. (Lit. I don't know nobody.)
 
-We cannot use nada or nadie in affirmative sentences.
+We cannot use *nada* or *nadie* in affirmative sentences.
 
 *I have nothing* and *I don't have anything* can only be translated into *yo no tengo nada.*
 
