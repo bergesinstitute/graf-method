@@ -179,10 +179,6 @@ For half and quarter we have the option of saying *media* and *cuarto* respectiv
 We don't use AM or PM. We address the time frame using time expressions with the preposition *de: 
 las tres de la tarde, las ocho de la noche,* etc.
 
-> When we want to say *I go to the gym on Monday mornings,* we'll say *voy al gimnasio los lunes por/en la mañana.*
-> As soon as we include the specific time, we have to switch to *de: voy al gimnasio los lunes a las 9 de
-la mañana.*
-
 # Homework
 
 ## 1. Answer the questions
