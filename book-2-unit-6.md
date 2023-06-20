@@ -42,13 +42,13 @@ For millions:
     
     etc.
 
-> In most Spanish-speaking countries, we traditionally use periods, instead of commas, for thousands.
+In most Spanish-speaking countries, we traditionally use periods, instead of commas, for thousands.
 
-> Hundreds from 200 through 900 have gender in Spanish. When we use them as adjectives, we can either 
-> keep them masculine (*cuatrocientos dieciséis gatos*) or make them feminine (*quinientas quince sillas*).
+Hundreds from 200 through 900 have gender in Spanish. When we use them as adjectives, we can either 
+keep them masculine (*cuatrocientos dieciséis gatos*) or make them feminine (*quinientas quince sillas*).
 
-> We don't add any extra *y* when using hundreds. For example, 457 would be *cuatrocientos cincuenta y siete;* 
-> it would never be *cuatrocientos “y” cincuenta y siete.*
+We don't add any extra *y* when using hundreds. For example, 457 would be *cuatrocientos cincuenta y siete;* 
+it would never be *cuatrocientos “y” cincuenta y siete.*
 
 # Homework
 
