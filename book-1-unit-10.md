@@ -1,6 +1,6 @@
 # La comida (food)
 
-    La comida - [the] food
+    La comida - (the) food
 
     Los cereales - the cereals
 
@@ -140,7 +140,7 @@
 
 # Las bebidas (drinks)
 
-    Las bebidas - [the] drinks
+    Las bebidas - (the) drinks
 
     El agua - the water
 
