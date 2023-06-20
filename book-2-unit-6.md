@@ -26,11 +26,21 @@ For hundreds:
 
 For thousands:
 
-1.000 - Mil 2.000 - Dos mil 3.000 - Tres mil etc.
+    1.000 - Mil 
+    
+    2.000 - Dos mil 
+    
+    3.000 - Tres mil 
+    
+    etc.
 
 For millions:
 
-1.000.000 - Un millón 2.000.000 - Dos millones etc.
+    1.000.000 - Un millón 
+    
+    2.000.000 - Dos millones 
+    
+    etc.
 
 > In most Spanish-speaking countries, we traditionally use periods, instead of commas, for thousands.
 
