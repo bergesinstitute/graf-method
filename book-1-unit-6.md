@@ -136,7 +136,7 @@
 
 # Saying your age in Spanish
 
-In Spanish, we use tener for telling age:
+In Spanish, we use *tener* for age:
 
     ¿Cuántos años tienes?
 
@@ -156,7 +156,7 @@ P: Yo tengo treinta años.
 
 # Telling time in Spanish
 
-When asking and answering what time is it, we do the following:
+When asking and answering what time it is, we do the following:
 
     ¿Qué hora es?
 
@@ -166,7 +166,7 @@ When asking and answering what time is it, we do the following:
 
 The easiest way to tell time is to say:
 
-    Son las X y Y (where X=hour, Y=minutes).
+    Son las X y Y (where X = hour, Y = minutes).
 
 Examples
 
@@ -176,11 +176,12 @@ Examples
 
 For half and quarter we have the option of saying *media* and *cuarto* respectively.
 
-> We don't use AM or PM. We address the time frame using time expressions and the preposition *de: las tres de la tarde, las ocho de la noche,* etc.
+> We don't use AM or PM. We address the time frame using time expressions and the preposition *de: 
+> las tres de la tarde, las ocho de la noche,* etc.
 
 # Homework
 
-## 1. Answer the questions.
+## 1. Answer the questions
 
 1. ¿Cuál es tu comida favorita?
 2. ¿Cuál es tu ciudad favorita?
@@ -223,7 +224,7 @@ For half and quarter we have the option of saying *media* and *cuarto* respectiv
 - Dos bocas muy grandes
 - Dientes muy afilados (sharp)
 
-## 4. Spell the numbers.
+## 4. Spell the numbers
 
    5
 
