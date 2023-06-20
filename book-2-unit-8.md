@@ -62,8 +62,9 @@ In the past tense, *conocer* is regular, *saber* is irregular.
 
 ## Usage
 
+### Conocer
 
-### Conocer - We use it as *to be familiar with* and for *meeting someone for the first time.* Here are some examples:
+We use it as *to be familiar with* and for *meeting someone for the first time.* Here are some examples:
 
 - For people
 
@@ -79,7 +80,9 @@ In the past tense, *conocer* is regular, *saber* is irregular.
 
 *¿Conoces la película Casablanca?* (Do you know the movie Casablanca?)
 
-### Saber - We use it for skills (*knowing how to*) or for information (*knowing about something*).
+### Saber
+
+We use it for skills (*knowing how to*) or for information (*knowing about something*). Here are some examples:
 
 - Skills
 
@@ -97,9 +100,14 @@ In the past tense, *conocer* is regular, *saber* is irregular.
 
 *¿Sabes dónde vive Juan?* (Do you know where Juan lives?)
 
-> Note 1: In the *pretérito perfecto* tense, we use *conocer* more frequently than *saber,* and most of the time for meeting someone for the first time. For most other situations, we use the present tense, since both verbs usually refer to facts (skills you have, people or places you know, etc.)
+> In the *pretérito perfecto* tense, we use *conocer* more frequently than *saber,* 
+> and most of the time for meeting someone for the first time. For most other situations, 
+> we use the present tense, since both verbs usually refer to facts (skills you have, 
+> people or places you know, etc.)
 
-> Note 2: When we use *saber* with “information,” most of the time we are really using it with subordinate clauses, which have a subject and a verb. (*I know (that) Mary is tall. She knows (that) we live here. Yo sé que Mary es alta. Ella sabe que nosotros vivimos aquí.*)
+When we use *saber* with “information,” most of the time we are really using it with subordinate clauses, 
+which have a subject and a verb of their own. (*I know (that) Mary is tall. She knows (that) we live here. 
+Yo sé que Mary es alta. Ella sabe que nosotros vivimos aquí.*)
 
 ## Subordinate clauses in Spanish
 
@@ -115,7 +123,7 @@ In Spanish, we must use the word *que* whenever the concept we know about is a f
 
     Yo sé que tú vas a nadar los martes. (Lit. I know that you go to swim on Tuesdays.)
 
-We cannot omit *que* like we do in English with *that:*
+We cannot omit *que* like we do in English with *that.*
 
 In English, we can say either *I know you are rich* or *I know that you are rich.*
 
@@ -123,9 +131,9 @@ In Spanish, we always say: *Yo sé que tú eres rico.* (We can never omit the wo
 
 ## Conversación
 
-LAUREN: Jenny, ¿tú conoces a mi amiga Jessica?
+Lauren: Jenny, ¿tú conoces a mi amiga Jessica?
 
-JENNY: Conozco a Jessica, sé que ella vive en Queens y trabaja con Mike.
+Jenny: Conozco a Jessica, sé que ella vive en Queens y trabaja con Mike.
 
 L: Correcto. ¿Sabes que ella fue a España el mes pasado?
 
@@ -157,7 +165,8 @@ L: Sí, yo también.
 
 In English, we cannot use double negatives:
 
-We say either *I have nothing* or *I don't have anything.* (We use *anything* instead of *nothing* in negative sentences.)
+We say either *I have nothing* or *I don't have anything.* (We use *anything* instead of *nothing* 
+in negative sentences.)
 
 In Spanish, we must use double negatives:
 
@@ -179,7 +188,8 @@ We cannot use nada or nadie in affirmative sentences.
 
 *Mi amigo Pedro tiene un perro. Yo también tengo un perro.* (My friend Pedro has a dog. I also have a dog.)
 
-*Mi amigo Pedro no tiene un perro. Yo tampoco tengo un perro.* (My friend Pedro doesn't have a dog. I don't have a dog either.) 
+*Mi amigo Pedro no tiene un perro. Yo tampoco tengo un perro.* (My friend Pedro doesn't have a dog. 
+I don't have a dog either.) 
 
 # Homework
 
@@ -198,7 +208,7 @@ Ayer...
 9. Usted no ________________ (lavarse) la cara.
 10. Francisco ________________ (acostarse) a las nueve de la noche.
 
-## 2. Write five tenses using reflexive verbs in the pretérito perfecto tense
+## 2. Write five sentences using reflexive verbs in the pretérito perfecto tense
 
 ## 3. Translate
 
@@ -260,13 +270,13 @@ En pasado...
 
 1. I don't know anybody in San Francisco.
 2. I know nobody.
-3. I don't know anything about that. (Use saber. About = sobre)
-4. I know nothing about that. (Use saber.)
+3. I don't know anything about that. (Use *saber. About = sobre*.)
+4. I know nothing about that. (Use *saber.*)
 5. We have something.
 6. You (formal, sing.) have nothing.
 7. You (formal, sing.) don't have anything.
 
-## 9. Escribir la respuesta utilizando to también o yo tampoco
+## 9. Escribir la respuesta utilizando yo también o yo tampoco
 
 1. Yo no tengo un perro azul.
 2. Pedro no come en su cama.
