@@ -172,13 +172,13 @@ Sara: ¡De nada!
 
 [2] When using *para* as *in order to,* we usually use it with the infinitive form of a verb.
 
-[3] For periods of time, por is frequently omitted: 
+[3] For periods of time, *por* is frequently omitted:
 
 *Trabajo ocho horas cada día.*
 
 *Estoy en Nueva York tres días.*
 
-[4] When using por as because of, we usually use it with a noun.
+[4] When using *por* as *because of,* we usually use it with a noun.
 
 # Sufijos (suffixes)
 
