@@ -20,7 +20,7 @@ Sí, tengo tres hermanos y una hermana. - Yes, I have three brothers and a siste
 
 ¿Tienes un perro o un gato? - Do you have a dog or a cat?
 
-Tengo una gata. - I have a [female] cat.
+Tengo una gata. - I have a (female) cat.
 
 # Ir, present tense
 
@@ -84,11 +84,13 @@ Tengo una gata. - I have a [female] cat.
 
     El fin de semana - the weekend
 
-In Spanish, days of the week are not capitalized: *lunes, martes, etc.* All of them are masculine. In order to make them plural, we just use the plural article (*el martes,* *los* *martes*)*,* except for *sábado* and *domingo*: *el sábado, los sábados; el domingo, los domingos*.
+In Spanish, days of the week are not capitalized: *lunes, martes, etc.* All of them are masculine. 
+In order to make them plural, we just use the plural article (*el martes, los martes*), 
+except for *sábado* and *domingo*: *el sábado, los sábados; el domingo, los domingos*.
 
 # Lugares (places)
 
-    El trabajo - [the] work
+    El trabajo - work
 
     El mercado - the market
 
@@ -124,15 +126,16 @@ In Spanish, days of the week are not capitalized: *lunes, martes, etc.* All of t
 
     A - to
 
-When we use our preposition *a* together with the masculine singular article *el,* we must combine them:
+When we use our preposition *a* together with the masculine singular article *el,* we have to combine them:
 
     A + el = Al
 
-*Voy* *al* *parque.* (I go to the park.)
+*Voy al parque.* (I go to the park.)
 
 # Going to places in Spanish
 
-We use the present tense (the only tense we've seen for now) for expressing habits. Here is an example using the present tense for describing activities we usually do during the week:
+We use the present tense (the only tense we've seen for now) for expressing habits. Here is an example 
+using the present tense for describing activities we usually do during the week:
 
     Los lunes voy al gimnasio.
 
@@ -148,7 +151,8 @@ We use the present tense (the only tense we've seen for now) for expressing habi
 
     Los domingos voy al cine.
 
-Note how, instead of saying *on Mondays,* we say *los lunes* (lit. “the Mondays”). We do the same thing with all the other days.
+Note how, instead of saying *on Mondays,* we say *los lunes* (lit. “the Mondays”). We do the same 
+thing with all the other days.
 
 Also note how *a* + *el* becomes *al*.
 
@@ -166,7 +170,7 @@ Also note how *a* + *el* becomes *al*.
 
     Por la noche - At night
 
-> Note: in some countries, people say *en*  instead of *por: en la mañana, en la tarde,* etc.
+> In some countries, people say *en*  instead of *por: en la mañana, en la tarde,* etc.
 
 # Numbers 6 through 10 in Spanish
 
@@ -179,7 +183,6 @@ Also note how *a* + *el* becomes *al*.
     Nueve - Nine
 
     Diez - Ten
-
 
 # Example using *ser, estar, tener, ir,* and *hacer*
 
@@ -221,7 +224,7 @@ V: Key Food está en Brooklyn.
 
 # Homework
 
-## 1. Complete using *tener*.
+## 1. Complete using tener
 
 1. Yo _________ un perro.
 2. Nosotros ___________ un piano y una guitarra.
@@ -232,7 +235,7 @@ V: Key Food está en Brooklyn.
 7. Mi hermana ____________ cinco casas.
 8. ¿Tú ___________ un gato?
 
-## 2. Complete using *ir*.
+## 2. Complete using ir
 
 1. ¿Dónde _________ tú los lunes? Los lunes yo ________ al supermercado.
 2. ¿Dónde _________ ellos los miércoles? Ellos ________ al parque.
@@ -240,37 +243,31 @@ V: Key Food está en Brooklyn.
 4. ¿Dónde _________ ustedes los jueves? Los jueves nosotros________ al club.
 5. ¿Dónde _________ ella los viernes? Ella_____ al gimnasio.
 
-> Note:  *adónde*  and  *a dónde*  are often used instead of *dónde*  when using verb *ir: ¿Dónde vas los lunes? ¿Adónde vas los lunes? ¿A dónde vas los lunes?* (The meaning is the same in all three examples.)
+> *Adónde*  and  *a dónde*  are often used instead of *dónde*  when using verb *ir: 
+> ¿Dónde vas los lunes? ¿Adónde vas los lunes? ¿A dónde vas los lunes?* (The meaning is the 
+> same in all three examples.)
 
-## 3. Complete using *hacer* in the question and *ir* in the answer.
+## 3. Complete using hacer in the question and ir in the answer
 
-1. ¿Qué _________ tú los viernes?
-   Los viernes yo ____________________
-2. ¿Qué _________ ellos los domingos?
-   Los domingos ellos _________________
-3. ¿Qué _________ nosotros los lunes?
-   Los lunes nosotros __________________
-4. ¿Qué _________ él los miércoles?
-   Los miércoles él ____________________
-5. ¿Qué _________ ustedes los martes?
-   Los martes nosotros __________________
-6. ¿Qué ___________ ellos los jueves?
-   Los jueves ellos _____________________
-7. ¿Qué _________ usted los sábados?
-   Los sábados yo ______________________
-8. ¿Qué _________ tú los viernes?
-   Los viernes yo ______________________
+1. ¿Qué _________ tú los viernes? Los viernes yo ____________________
+2. ¿Qué _________ ellos los domingos? Los domingos ellos _________________
+3. ¿Qué _________ nosotros los lunes? Los lunes nosotros __________________
+4. ¿Qué _________ él los miércoles? Los miércoles él ____________________
+5. ¿Qué _________ ustedes los martes? Los martes nosotros __________________
+6. ¿Qué ___________ ellos los jueves? Los jueves ellos _____________________
+7. ¿Qué _________ usted los sábados? Los sábados yo ______________________
+8. ¿Qué _________ tú los viernes? Los viernes yo ______________________
 
-## 4. Translate.
+## 4. Translate
 
 1. I go to the park on Mondays.
-2. On Fridays, I go to [the] church.
+2. On Fridays, I go to (the) church.
 3. On Saturday mornings, I go to the gym.
 4. My sister goes to a restaurant on Tuesdays.
 5. You don't go to the coffee shop on Sundays.
 6. We go to your house on Saturdays.
 
-## 5. Complete the conversation.
+## 5. Complete the conversation
 
 Hola, ¿de dónde eres?
 
@@ -286,7 +283,7 @@ Galicia_______ en España.
 
 Sí, tengo una hermana.
 
-## 6. Complete the sentences using *ir*.
+## 6. Complete the sentences using ir
 
 1. Los lunes por la mañana yo
 2. Los martes por la tarde yo
@@ -296,12 +293,12 @@ Sí, tengo una hermana.
 6. Los sábados nosotros
 7. Los domingos ellos
 
-## 7. Translate.
+## 7. Translate
 
 1. What is your favorite movie?
 2. Where do you go on Sunday mornings?
 3. What do you do on Tuesday nights?
-4. On Sunday mornings I go to [the] church.
+4. On Sunday mornings I go to (the) church.
 5. Our cat (f) is happy but your dog (m) is sad.
 6. Your (formal, singular) grandsons are happy.
 7. My niece has a dog (f) and a cat (f). They are friends but they do not go to the park.
