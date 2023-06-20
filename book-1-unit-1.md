@@ -111,7 +111,7 @@ Translation: *Syrup, boss, manager, cat, people, gin, war, guitar, goldfinch.*
 
     Third Person Plural: Ellos / Ellas (They)
 
-> The neuter pronoun *it* is not usually expressed in Spanish. We use él/ella instead, 
+> The neuter pronoun *it* is not usually expressed in Spanish. We use *él/ella* instead, 
 or we just omit the pronoun and use the verb only.
 
 Traditionally, the plural persons are used in this way: if the group of people consists 
