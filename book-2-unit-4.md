@@ -121,16 +121,22 @@ as *this one, these ones, that one* or *those ones,* respectively; we don't need
 
 ## 3. Translate. For that, you can use either ese or aquel; it's up to you.
 
+    El problema - the problem
+
+    El programa - the program
+
+> *Problema* and *programa* are both masculine!
+
 1. I like these apples.
 2. Did you go to that theatre with Mary?
 3. That house is red, but that house is yellow.
 4. This letter arrived last night.
 5. Before the concert, I went to that restaurant in Queens where we usually go on Thursdays.
-6. Did you see that show (programa, masc.)?
+6. Did you see that show?
 7. I did not go to that museum (museo) in Paris.
 8. This window is very large. That one is small.
 9. Is this your cat?
-10. You did not understand this problem (problema, masc.).
+10. You did not understand this problem.
 11. Mary went from that house to that restaurant.
 12. I sold these books for forty dollars (dólares).
 13. I have this little table. It is in my living room.
