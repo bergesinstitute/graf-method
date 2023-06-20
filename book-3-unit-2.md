@@ -44,7 +44,8 @@
 
 > Los verbos *-er, -ir* usan los mismos sufijos.
 
-En este tiempo verbal usamos las mismas expresiones habituales de tiempo que usamos en el presente simple, pero refiriéndonos al pasado:
+En este tiempo verbal usamos las mismas expresiones habituales de tiempo que usamos en el presente simple, 
+pero refiriéndonos al pasado:
 
     Siempre - always
 
@@ -56,11 +57,13 @@ En este tiempo verbal usamos las mismas expresiones habituales de tiempo que usa
 
     Cada jueves - every Thursday
 
-Es también muy común usar el adverbio *antes,* con el significado de “en el pasado” (in the past)*, cuando usamos el p. imperfecto:
+Es también muy común usar el adverbio *antes,* con el significado de “en el pasado” (in the past)*, 
+cuando usamos el pretérito imperfecto:
 
 *Antes yo tenía un perro.* (In the past, I used to have a dog.)
 
-*Antes yo siempre iba a casa de mi hermana los viernes.* (In the past, I always used to go to my sister's house on Fridays.)
+*Antes yo siempre iba a casa de mi hermana los viernes.* 
+(In the past, I always used to go to my sister's house on Fridays.)
 
 > *Es un uso muy diferente del uso típico de antes (de)/después (de) como *before/after.*
 
@@ -68,7 +71,8 @@ Es también muy común usar el adverbio *antes,* con el significado de “en el 
 
 ### Hábitos
 
-Hacemos un uso similar al presente; usamos este tiempo verbal para expresar cosas que fueron un hábito en el pasado. En inglés significa más o menos *used to,* o *would always:*
+Hacemos un uso similar al presente; usamos este tiempo verbal para expresar cosas que fueron un hábito en el pasado. 
+En inglés significa más o menos *used to,* o *would always:*
 
 *Antes siempre comía pizza en D'Angelo.* (In the past, I always used to eat pizza at D'Angelo.)
 
@@ -86,7 +90,7 @@ el imperfecto para descripciones. En inglés significa más o menos *I was* + ve
 (I arrived home. Vanessa was singing a song and my dog was eating a bone. I took a shower and went
 to bed.)*
 
-> Nota: en estos casos, es equivalente usar una versión progresiva del imperfecto: *Vanessa estaba cantando - Vanessa was
+> En estos casos, es equivalente usar una versión progresiva del imperfecto: *Vanessa estaba cantando - Vanessa was
     singing* a usar el imperfecto directamente: *Vanessa cantaba - Vanessa was singing.* Recomendamos usar la segunda opción.
 
 ### Emociones y estados de ánimo o físicos
@@ -292,13 +296,15 @@ describing the scene, not narrating actions.
     
     Vivir - to live
 
-> *In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first person singular: *llegué, pagué.*
+> *In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first person singular:
+> *llegué, pagué.*
 >
-> **Also, *llegar* always uses the preposition *a: Llegué a la oficina* (I arrived at/in the office).
+> ***Llegar* always uses the preposition *a.* We arrive "to" places. *Llegué a la oficina* (I arrived at/in the office).
 >
 > ***In the *pretérito perfecto* tense, *tocar* has a spelling change in the first-person singular: *toqué.*
 >
-> ****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
+> ****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person 
+> singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
 
 # Nota sobre el verbo soler
 
@@ -320,7 +326,7 @@ El significado es prácticamente el mismo; la única diferencia es que cuando us
 muy fuerte. (*Solía* has a sense of habituation, and the imperfect tense means something used to be, without really stating anything
 about habituation. They often overlap, though.)
 
-Recomendamos usar el imperfecto directamente, y no usar el verbo soler.
+Recomendamos usar el imperfecto directamente, y no usar el verbo *soler.*
 
 # Un uso muy específico del imperfecto
 
@@ -343,12 +349,19 @@ sábados iba al parque de atracciones. Allí comía algodón de azúcar y montab
 me gustaba el barco pirata porque me mareaba y vomitaba.
 
     Había - There was/there were
+
     Montar - to ride
+
     Parque de atracciones - amusement park
+
     Atracciones - rides
+
     Algodón de azúcar - cotton candy
+
     Barco pirata - Pirate ship
+
     Marearse - to get dizzy
+
     Vomitar - to throw up
 
 # Homework
