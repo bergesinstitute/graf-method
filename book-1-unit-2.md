@@ -274,7 +274,7 @@ Some more nouns:
 3. You (form, sing) are angry.
 4. You (form, plural) are tired.
 5. You (form, plural) are sad.
-6. You (form, plural) are happy. (Plural of feliz is felices.)
+6. You (form, plural) are happy. (Plural of *feliz* is *felices.*)
 
 ## 3. Translate. If there is no translation shown, the name in Spanish is the same as in English (e.g. China = China).
 
