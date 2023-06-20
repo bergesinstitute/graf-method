@@ -14,7 +14,9 @@ Whenever there is a two-verb construction, we don't conjugate the second verb:
 
 *Debo correr. Necesito llamar a Sara. No puedo tocar el piano. Tengo que beber mucha agua.*
 
-Verbs *poder* and *querer* are “stem-changing” verbs. Here are their conjugations in the present tense.
+Verbs *poder* and *querer* are “stem-changing” verbs (verbs in which O becomes UE or E becomes IE
+in the present tense in all persons except *nosotros* and *vosotros*). 
+Here are their conjugations in the present tense.
 
 ## Poder (can/to be able to), present tense
 
