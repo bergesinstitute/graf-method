@@ -74,6 +74,7 @@ J: ¿Tu apartamento tiene armarios?
 I: Mi cuarto es un armario.
 
 > *We must match *cuánto* in gender and number when using it with countable nouns (as in how many).
+> 
 > **It is an idiomatic expression (lit. “Of what color are your chairs?”)
 
 # Spanish regular verbs ending in -ar
