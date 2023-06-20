@@ -30,7 +30,7 @@ using the third-person singular, but without a subject: *Hace.*
 
     Hace sol - it's sunny (lit. It makes sun)
 
-    Hace viento - it's windy (lit. It makes wind).
+    Hace viento - it's windy (lit. It makes wind)
 
 # Las cuatro estaciones (the four seasons)
 
