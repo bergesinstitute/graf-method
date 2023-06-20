@@ -1,6 +1,7 @@
 # Colors in Spanish
 
-Here are some basic adjectives: the colors. Some of them remain neutral (N) when they are used with masculine and feminine nouns (but they still have plural):
+Here are some basic adjectives: the colors. Some of them remain neutral (N) when they are used 
+with masculine and feminine nouns (but they still have plural):
 
     Rojo - Red
 
@@ -46,7 +47,8 @@ Using azul (N): *el piano es azul, la guitarra es azul, los pianos son azules, l
 
 Examples using *ser* (with permanent attributes): *Yo soy alto, ella es pequeña, ellos son grandes.*
 
-Examples using *estar* (with non-permanent attributes): *Yo estoy enojado, Juan está triste, nosotros estamos cansados.*
+Examples using *estar* (with non-permanent attributes): *Yo estoy enojado, Juan está triste, 
+nosotros estamos cansados.*
 
 # Spanish prepositions
 
@@ -56,7 +58,9 @@ Prepositions are words that express relationships between two words (usually spa
 
     En - In, on, at
 
-*El abuelo es de España. El abuelo está en Nueva York.* (The grandfather is from Spain. The grandfather is in New York.) Notice the use of *ser* and *estar*. Since *de* implies origin, we will always use it with *ser*. Since *en* implies location, we will always use it with *estar*.
+*El abuelo es de España. El abuelo está en Nueva York.* (The grandfather is from Spain. 
+The grandfather is in New York.) Notice the use of *ser* and *estar*. Since *de* implies origin, 
+we will always use it with *ser*. Since *en* implies location, we will always use it with *estar*.
 
 # Spanish adverbs
 
@@ -84,7 +88,7 @@ Adverbs are words that describe verbs or adjectives. They don't have gender or n
 
     La casa - the house
 
-    El carro - the car (also el coche [Sp])
+    El carro - the car (also el coche in Spain)
 
     Buenos días - good morning
 
@@ -122,11 +126,14 @@ Conjunctions are words used to connect words or sentences together.
 
     Pero - but
 
-*Yo soy de Madrid y Laura es de Barcelona. Juan está enojado o cansado. Yo estoy en Nueva York, pero Pedro está en Londres.* (I am from Madrid and Laura is from Barcelona. Juan is either angry or tired. I am in New York, but Pedro is in London.)
+*Yo soy de Madrid y Laura es de Barcelona. Juan está enojado o cansado. Yo estoy en Nueva York, 
+pero Pedro está en Londres.* (I am from Madrid and Laura is from Barcelona. Juan is either angry 
+or tired. I am in New York, but Pedro is in London.)
 
 # Possessive adjectives in Spanish
 
-Possessive adjectives show possession. In Spanish, we have different ones for one thing possessed or more than one thing possessed.
+Possessive adjectives show possession. In Spanish, we have different ones for one thing possessed 
+or more than one thing possessed.
 
 ## One thing possessed
 
@@ -158,11 +165,13 @@ Possessive adjectives show possession. In Spanish, we have different ones for on
 
 Some examples: *mi casa, mis carros, sus tíos, nuestras casas, tus abuelos.*
 
-> Notice how the subject of the sentence is the object or the animal possessed: Mi gato es rojo uses the third person conjugation (él), not the first person conjugation (yo). The subject is the cat, not me.
+> Notice how the subject of the sentence is the object or the animal possessed: Mi gato es rojo 
+> uses the third person conjugation (*él*), not the first person conjugation (*yo*). The subject is the cat, not me.
 
 ## Full way of expressing possession
 
-When we are not using possessives and saying who the person is, in Spanish we cannot use *‘s* (Juan's house). We have to say *la casa de Juan* (the house of Juan).
+When we are not using possessives and saying who the person is, in Spanish we cannot use *'s* (Juan's house). 
+We have to say *la casa de Juan* (the house of Juan).
 
 # Introducing yourself in Spanish
 
@@ -182,7 +191,7 @@ Here's an easy formula:
 
 Here are the interrogative pronouns:
 
-    Qué -What
+    Qué - What
 
     Dónde - Where
 
@@ -200,7 +209,7 @@ Here are the interrogative pronouns:
 
 They all have an accent (´) on their strong syllable.
 
-> Note: Cuál is usually used before es (and other forms of ser) instead of qué when not seeking a definition:
+> *Cuál* is usually used before *es* (and other forms of *ser*) instead of *qué* when not seeking a definition:
 
 *What's your phone number? ¿Cuál es tu número de teléfono?*
 
@@ -208,7 +217,8 @@ They all have an accent (´) on their strong syllable.
 
 ## Example
 
-> Note: When we speak, we frequently omit the personal pronoun, since it's implied in the conjugation of the verb: we say *estoy triste* instead of *yo estoy triste*, or *eres alto* instead of *tú eres alto*.
+> When we speak, we frequently omit the personal pronoun, since it's implied in the conjugation of the verb: 
+> we say *estoy triste* instead of *yo estoy triste*, or *eres alto* instead of *tú eres alto*.
 
     ¿De dónde eres? - Where are you from? (Lit. “From where are you?”)
 
@@ -222,7 +232,7 @@ They all have an accent (´) on their strong syllable.
 
 For asking what is your favorite _____? we use *cuál*. We literally ask *which is your favorite _____?*
 
-Common examples:
+Here are some examples:
 
     ¿Cuál es tu color favorito? (Lit. Which is your favorite color?)
 
@@ -246,7 +256,7 @@ Some more nouns:
 
 # Homework
 
-## 1. Translate (m: male; f: female).
+## 1. Translate (m: male; f: female)
 
 1. The son is tired.
 2. I am tired.
@@ -268,8 +278,7 @@ Some more nouns:
 5. You (form, plural) are sad.
 6. You (form, plural) are happy. (Plural of feliz is felices.)
 
-## 3. Translate. If there is no translation shown, the name in Spanish is the same as in English (e.g.
-   China = China).
+## 3. Translate. If there is no translation shown, the name in Spanish is the same as in English (e.g. China = China).
 
 1. The mother is from Spain (España).
 2. The father is from Africa.
@@ -291,7 +300,7 @@ Some more nouns:
 18. They (f) are tired.
 19. I am from Colombia.
 
-## 4. Translate.
+## 4. Translate
 
 1. You are not sad.
 2. The brothers are not sad.
@@ -306,7 +315,7 @@ Some more nouns:
 11. You (plural, formal) are not angry.
 12. They (f) are not angry.
 
-## 5. Translate.
+## 5. Translate
 
 1. My uncle and my brother are tall.
 2. You (m) and your sister are friends.
@@ -317,7 +326,7 @@ Some more nouns:
 7. Their cat (f) is green and your dog (f) is yellow.
 8. Our house is black and your house is white.
 
-## 6. Translate.
+## 6. Translate
 
 1. My dog (m) is very happy.
 2. Your cat (f) is very sad.
@@ -328,7 +337,7 @@ Some more nouns:
    (Remember the plural of feliz has a spelling change.)
 7. Her son and my daughter are very tired.
 
-## 7. Fill in the blanks using *ser* and *estar*.
+## 7. Fill in the blanks using ser or estar
 
    Yo ________ de España, pero mis hermanos__________ de Francia. Mi madre ________ de Madrid
    y mi padre _________ de Barcelona. Mi madre _________ alta y mi padre __________ bajo. Mis
@@ -336,7 +345,7 @@ Some more nouns:
    La casa de mis padres __________ grande. La casa_________ en Ibiza. El carro de mi padre ______
    negro.
 
-## 8. Translate.
+## 8. Translate
 
 1. Your dogs are black.
 2. The grandfather is in Argentina.
@@ -347,5 +356,5 @@ Some more nouns:
 7. Your house is white and my house is red.
 8. Your dogs are happy.
 9. Her sister and my daughter are friends.
-10. My [male] cousin is from Peru.
-11. My [female] cousin is in Chile.
+10. My (male) cousin is from Peru.
+11. My (female) cousin is in Chile.

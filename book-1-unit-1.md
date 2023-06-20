@@ -162,7 +162,7 @@ Try to memorize them in columns, preceded by the pronoun: *Yo soy, tú eres, él
 nosotros/nosotras somos, (vosotros/vosotras sois), ellos/ellas/ustedes son. Yo estoy, 
 tú estás, él/ella/usted está, nosotros/nosotras estamos, (vosotros/vosotras estáis), ellos/ellas/ustedes están.*
 
-> Note: In all Spanish-speaking countries, people differentiate between *tú eres* (informal) 
+> In all Spanish-speaking countries, people differentiate between *tú eres* (informal) 
 > versus *usted es* (formal). However, for the plural version (“you all”) this differentiation 
 > only happens in Spain: *vosotros sois* (informal) versus *ustedes son* (formal).
 > In the rest of the world, for “you all,” people always use the formal versión *ustedes son*. 
