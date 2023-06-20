@@ -120,9 +120,9 @@ their own specific meaning.
 
     Yo me levanto a las 10. (I get up at 10. Lit. I lift myself up.)
 
-    Yo me duermo a las 11. (I fall asleep at 11. Lit. I sleep myself.)
-
     Yo duermo mucho los domingos. (I sleep a lot on Sundays.)
+
+    Yo me duermo a las 11. (I fall asleep at 11. Lit. I sleep myself.)
 
     Yo peino a mi amiga. (I comb my friend's hair.)
 
