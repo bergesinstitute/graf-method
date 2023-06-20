@@ -121,7 +121,10 @@ we can use some gender-neutral formulas: *Nosotros y nosotras, nosotros/as* or *
 
 ## Usted/Ustedes
 
-We have a second-person formal pronoun that we use to express courtesy or respect. It has a second-person meaning, but it is conjugated in third person, since it comes from the old courtesy formula *Vuestra Merced* (*Your Mercy*). (We say *your mercy/your majesty/your honor is*—as opposed to *you are*. We'll do the same thing in Spanish when we learn the verbs.)
+We have a second-person formal pronoun that we use to express courtesy or respect. It 
+has a second-person meaning, but it is conjugated in third person, since it comes from the 
+old courtesy formula *Vuestra Merced* (*Your Mercy*). (We say *your mercy/your 
+majesty/your honor is*—as opposed to *you are*. We'll do the same thing in Spanish when we learn the verbs.)
 
 # Verbs ser and estar (to be)
 
@@ -155,11 +158,15 @@ We have a second-person formal pronoun that we use to express courtesy or respec
 
 ## How to memorize the conjugations
 
-Try to memorize them in columns, preceded by the pronoun: *Yo soy, tú eres, él/ella/usted es, nosotros/nosotras somos, [vosotros/vosotras sois], ellos/ellas/ustedes son. Yo estoy, tú estás, él/ella/usted está, nosotros/nosotras estamos, [vosotros/vosotras estáis], ellos/ellas/ustedes están.*
+Try to memorize them in columns, preceded by the pronoun: *Yo soy, tú eres, él/ella/usted es, 
+nosotros/nosotras somos, (vosotros/vosotras sois), ellos/ellas/ustedes son. Yo estoy, 
+tú estás, él/ella/usted está, nosotros/nosotras estamos, (vosotros/vosotras estáis), ellos/ellas/ustedes están.*
 
-> Note: In all Spanish-speaking countries, people differentiate between *tú eres* (informal) versus *usted es* (formal). However, for the plural version (“you all”) this differentiation only happens in Spain (*vosotros sois* [informal] versus *ustedes son* [formal]).
-
-> In the rest of the world, for “you all,” people always use the formal versión *ustedes son*. Since the majority of the countries don't use *vosotros*, we can choose to skip it when we learn verb conjugations.
+> Note: In all Spanish-speaking countries, people differentiate between *tú eres* (informal) 
+> versus *usted es* (formal). However, for the plural version (“you all”) this differentiation 
+> only happens in Spain: *vosotros sois* (informal) versus *ustedes son* (formal).
+> In the rest of the world, for “you all,” people always use the formal versión *ustedes son*. 
+> Since the majority of the countries don't use *vosotros*, we can choose to skip it when we learn verb conjugations.
 
 ## Ser: We use it for permanent attributes and professions.
 
