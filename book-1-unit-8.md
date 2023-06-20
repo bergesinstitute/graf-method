@@ -40,7 +40,7 @@
 
 # Prepositions por & para (simplified)
 
-Por and para are a little confusing because they both can be translated as *for.* But they have different uses. 
+*Por* and *para* are a little confusing because they both can be translated as *for.* But they have different uses. 
 Here are some basic ones:
 
 ## Para
