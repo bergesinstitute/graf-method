@@ -84,9 +84,9 @@ J: Ayer por la noche fui al cine.
 
 ## Conversación
 
-JUAN: Hola Pepe, ¿cómo estás?
+Juan: Hola Pepe, ¿cómo estás?
 
-PEPE: Hola Juan, muy bien, gracias. ¿Tú cómo estás?
+Pepe: Hola Juan, muy bien, gracias. ¿Tú cómo estás?
 
 J: Muy bien, gracias. ¿Qué hiciste el fin de semana?
 
@@ -290,26 +290,9 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
 # Conversación
 
-JUAN: Hola Pepe, ¿cómo estás?
+Laura: ¿Qué hiciste la semana pasada? (Last week)
 
-PEPE: Hola Juan, muy bien, gracias. ¿Tú cómo estás?
-
-J: Muy bien, gracias. ¿Qué hiciste el fin de semana?
-
-P: Muchas cosas (things). El viernes estuve en el restaurante de mi amigo, y el sábado fui a un concierto de jazz. 
-¿Tú qué hiciste?
-
-J: El viernes fui a New Jersey, a casa de mi abuela. Ella cocina mejor que yo, pero peor que mi esposa. 
-El sábado fui a la playa (the beach), también en New Jersey. Me gusta más que la playa de Brooklyn. 
-¿Tú fuiste a la playa de Brooklyn?
-
-P: No, nunca fui, no me gusta nadar (to swim).
-
-****
-
-LAURA: ¿Qué hiciste la semana pasada? (Last week)
-
-DANIEL: El lunes fui al doctor. El martes fui al cine. El miércoles trabajé mucho todo el día (all day long). 
+Daniel: El lunes fui al doctor. El martes fui al cine. El miércoles trabajé mucho todo el día (all day long). 
 El jueves compré unos zapatos. El viernes comí con mi hermano. El sábado estuve en la iglesia. 
 El domingo escribí un artículo.
 
