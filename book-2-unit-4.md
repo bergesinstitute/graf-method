@@ -17,6 +17,8 @@ to a certain point in time:
 
 *Después de las 5 nunca miro televisión.* (After 5 I never watch TV.)
 
+> *When we use the preposition *de* followed by the article *el*, we need to merge them together into *del.*
+
 Also, when we place an event before or after an action (after running, before eating…), in Spanish we always 
 use the infinitive form of the verb (*correr, comer,* etc.):
 
@@ -34,8 +36,6 @@ Después de trabajar, fui al supermercado.*
 *Durante el desayuno nunca leo el periódico* (the newspaper).
 
 Also, *durante* cannot be used with verbs (we can't say *durante cenar,* we have to say *durante la cena*).
-
-> *When we use the preposition *de* followed by the article *el*, we need to merge them together into *del.*
 
 # Spanish demonstrative adjectives and pronouns
 
