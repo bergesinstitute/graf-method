@@ -194,3 +194,90 @@ J: En la calle ochenta y ocho con la novena.
 10. Last night I saw Michael, and we had a coffee in the restaurant near my office.
 11. I went to Carla's party last weekend. She was very happy and the food was delicious. We had a lot of fun.
 
+## 4. Comentario de texto
+
+### Mis abuelos
+
+Mi abuelo Francisco era un hombre amable.[1] Trabajaba en el campo.[2] Cada día se
+levantaba a las cuatro de la mañana para ir a regar[3] las tierras que tenía —el
+suministro[4] de agua era limitado; la Diputación de Guipúzcoa abría el canal por
+solo un par de horas cada mañana—. Vivía en una pequeña casita con mi abuela Manuela.
+La casita tenía un cuarto, una sala, un baño y una cocina muy pequeña. En la casa también
+había un piano —mi abuela tocaba el piano—.
+
+Recuerdo que mi abuela cocinaba muy bien. Cada viernes, ella preparaba habichuelas[5] con carne.
+Eran deliciosas, me gustaban muchísimo.
+
+Mi abuela no trabajaba. Ella se quedaba en la casa, limpiaba, lavaba la ropa, hablaba con
+otras vecinas... eran otros tiempos, ninguna[6] de sus amigas trabajaba tampoco
+—a excepción de doña Matilde, que tenía una tienda y ahí trabajaba—.
+
+Mi abuelo y mi abuela eran muy religiosos —eran católicos—, e iban a la iglesia cada domingo.
+El cura[7] del pueblo se llamaba don Ramón, y era un hombre bueno y amable. A veces, él comía en casa
+de mis abuelos los domingos, y yo también comía con ellos. Don Ramón contaba historias de cuando
+trabajaba en un hospital antes de ser cura.
+
+¡Pasaba muy buenos ratos[8] visitando a mis abuelos en el pueblo!
+
+[1] Kind
+
+[2] Field/land
+
+[3] To water
+
+[4] Supply
+
+[5] Beans
+
+[6] None
+
+[7] Priest
+
+[8] Pasar un buen rato - to have a good time
+
+### Preguntas
+
+1. ¿A qué hora se levantaba normalmente el abuelo de la persona del texto?
+2. ¿Por qué se levantaba tan temprano?
+3. ¿Qué comida preparaba la abuela de la persona del texto los viernes?
+4. ¿Por qué no trabajaba la abuela de la persona del texto?
+5. ¿Qué hacían los abuelos de la persona del texto cada domingo?
+
+## 5. Traducir. Puedes usar un diccionario para las palabras que no conoces.
+
+1. On May 22nd, there was a party in my apartment.
+2. I arrived at the house. My mother was watching TV and my father was cooking in the kitchen.
+3. There was an interesting concert last Saturday at Lincoln Center.
+4. At the party, there was a lot of food. Also, there were musicians playing music.
+5. There was a book on the table.
+6. There were two cats at Peter’s apartment.
+7. There was music at the restaurant. At 6 PM, there was a magic show (espectáculo de magia).
+8. I dance salsa perfectly.
+9. I run rapidly and Irene runs slowly.
+10. When I was living in Valencia, I used to go to the beach a lot.
+11. Last night, while I was writing, my dog was sleeping.
+12. When I was a kid, I used to play the piano every day.
+13. Can you kindly go to the supermarket?
+14. Fortunately, my aunt visited my brother last week. When we were living in Bogotá, she would never visit my brother.
+15. Surprisingly, my friend Peter and his wife were happy.
+16. My cousin James was always sad when he would sing out of tune (desafinado) at the karaoke.
+
+## 6. Números ordinales
+
+5th 
+
+9th
+
+1st
+
+3rd 
+
+10th 
+
+second 
+
+fourth 
+
+7th 
+
+sixth
