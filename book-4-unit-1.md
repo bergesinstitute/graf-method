@@ -312,7 +312,7 @@ cuando queremos enfatizar la información más que la acción. *The restaurant o
 5. We are calling Sarah.
 6. She is watching TV.
 7. My sister is working in Dallas.
-8. They are cooking in Peter’s kitchen.
+8. They are cooking in Peter's kitchen.
 
 ## 7. Completar, usando pretérito imperfecto
 
@@ -331,7 +331,7 @@ cuando queremos enfatizar la información más que la acción. *The restaurant o
 
 1. In Madrid, I always used to eat at a restaurant in my neighborhood.
 2. I used to go to the gym on Monday nights.
-3. When I was living in Barcelona, I didn’t have a car.
+3. When I was living in Barcelona, I didn't have a car.
 4. She used to walk in the park on Sundays.
 5. I used to be stronger.
 6. At the party, people were dancing and Mary was talking to Joe.
@@ -345,7 +345,7 @@ cuando queremos enfatizar la información más que la acción. *The restaurant o
 3. She went to Albuquerque last week.
 4. We are watching TV.
 5. They are going to visit Mary on Sunday.
-6. When I was living in Spain, I would always eat dinner at my neighbor’s apartment.
+6. When I was living in Spain, I would always eat dinner at my neighbor's apartment.
 7. They used to be very nice.
 8. She lives in Brooklyn with James.
 9. They are studying at the library.

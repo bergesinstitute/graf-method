@@ -250,7 +250,7 @@ trabajaba en un hospital antes de ser cura.
 3. There was an interesting concert last Saturday at Lincoln Center.
 4. At the party, there was a lot of food. Also, there were musicians playing music.
 5. There was a book on the table.
-6. There were two cats at Peter’s apartment.
+6. There were two cats at Peter's apartment.
 7. There was music at the restaurant. At 6 PM, there was a magic show (espectáculo de magia).
 8. I dance salsa perfectly.
 9. I run rapidly and Irene runs slowly.

@@ -201,9 +201,9 @@ Steve: No hay problema.
 5. My favorite train station used to be Grand Central, but now it is Penn Station.
 6. I used to love San Francisco. Now I prefer Los Angeles.
 7. Last night, I stayed at a hostel.
-8. Tomorrow, I’m going to wake up early in order to go to the bus station.
-9. A plane ticket is usually more expensive than a bus ticket, but you can’t go to Europe on the bus.
-10. I never take taxis, I always prefer the train; it’s cheaper.
+8. Tomorrow, I'm going to wake up early in order to go to the bus station.
+9. A plane ticket is usually more expensive than a bus ticket, but you can't go to Europe on the bus.
+10. I never take taxis, I always prefer the train; it's cheaper.
 11. My flight departs (use salir) at 7 PM.
 12. The best hotels are in Las Vegas. The worst hotels are in __________________.
 

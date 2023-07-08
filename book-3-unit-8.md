@@ -4,7 +4,7 @@
 
 Es una persona o cosa que recibe la acción del verbo.
 
-Muchos verbos no pueden tener objeto: *nadar, trabajar...* (you can’t swim or work something or someone).
+Muchos verbos no pueden tener objeto: *nadar, trabajar...* (you can't swim or work something or someone).
 
 Pero muchos verbos normalmente tienen objeto: *comprar, cocinar, mirar,* etc.
 
@@ -68,8 +68,8 @@ J: Vale, voy a pensarlo esta noche y mañana voy a decidir. Pero probablemente v
 
 1. Can you bring a flower? Can you bring it?
 2. I have a red car. I have it.
-3. I don’t have them (f). Maybe you have them in your jacket.
-4. I’ll call her tomorrow.
+3. I don't have them (f). Maybe you have them in your jacket.
+4. I'll call her tomorrow.
 5. I always watch TV. I always watch it.
 6. Can you wash the dishes? Can you wash them?
 7. I can sing the songs. I can sing them.
@@ -93,11 +93,11 @@ J: Vale, voy a pensarlo esta noche y mañana voy a decidir. Pero probablemente v
 ## 5. Traducir
 
 1. I am in my house now, can you bring it (m) here?
-2. Can you bring the dessert to Pedro’s house? I will be there soon.
+2. Can you bring the dessert to Pedro's house? I will be there soon.
 3. Can you take it (m) to the train station? I will be there this evening.
-4. I’m at the office. I will buy it (f) for you tonight and I will take it to our house.
+4. I'm at the office. I will buy it (f) for you tonight and I will take it to our house.
 5. Last week I took them (m) there.
-6. You can’t bring them (f) here.
+6. You can't bring them (f) here.
 7. Mary brought coffee for everybody (todos) this morning.
 8. Javier is taking them (f) to his apartment.
 9. Sarah needs to bring here that computer.

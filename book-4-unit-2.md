@@ -472,7 +472,7 @@ Es correcto, y es muy común: *Le regalé una rosa a María.* (*Le* y *María* s
 5. You called me last night at 9.
 6. Will you visit me in Chicago?
 7. I will never forget her.
-8. I met her at Alice’s apartment.
+8. I met her at Alice's apartment.
 9. Do you love us?
 10. I visited him last Sunday.
 11. They helped me last year. I will help them next year.

@@ -3,9 +3,9 @@
 Podemos formar el futuro conjugando el verbo *ir* en presente. Es similar a la forma *going to* en inglés.
 Podemos usar esta forma para cualquier tipo de futuro:
 
-*Mañana voy a bailar salsa.* (Tomorrow I’m going to dance salsa.)
+*Mañana voy a bailar salsa.* (Tomorrow I'm going to dance salsa.)
 
-*El sábado voy a comer en case de mi madre.* (On Saturday I’m going to eat at my mother's house.) 
+*El sábado voy a comer en case de mi madre.* (On Saturday I'm going to eat at my mother's house.) 
 
 *Él va a venir el lunes.* (He will come on Monday.)
 
@@ -25,7 +25,7 @@ Solamente necesitamos conjugar el verbo *ir:*
     
     Ellos/ellas/uds. van a cantar
 
-> Con el verbo *ir: Yo voy a ir a Miami.* (“I’m going to go to Miami”). We need to use it twice!
+> Con el verbo *ir: Yo voy a ir a Miami.* (“I'm going to go to Miami”). We need to use it twice!
 
 ## Expresiones temporales de futuro
 
@@ -270,7 +270,7 @@ y nos reuníamos con amigos en la plaza.
 
 [2] Neighborhood
 
-[3] It’s true
+[3] It's true
 
 [4] Asistir (a) - to attend
 
@@ -316,7 +316,7 @@ y nos reuníamos con amigos en la plaza.
 9. He is going to wear a black shirt.
 10. She is going to buy a new car.
 11. Julia is going to get up at 7 AM every day.
-12. I’m going to wash my hands.
+12. I'm going to wash my hands.
 13. Peter is going to shower tonight.
 
 ## 5. Responder

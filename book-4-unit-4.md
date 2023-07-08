@@ -48,11 +48,11 @@ En el futuro los sufijos son iguales para los tres tipos de verbos, pero hay una
 respecto a los tiempos presentes y pasados: los añadimos al infinitivo del verbo 
 (mantenemos *-ar, -er, -ir,* respectivamente).
 
-*Mañana yo comeré en casa de mi madre.* (Tomorrow, I’m going to eat at my mother’s house.) 
+*Mañana yo comeré en casa de mi madre.* (Tomorrow, I'm going to eat at my mother's house.) 
 
 *El año que viene yo viajaré a Japón.* (Next year, I will travel to Japan.)
 
-*El domingo me levantaré muy tarde.* (On Sunday, I’m going to wake up very late.)
+*El domingo me levantaré muy tarde.* (On Sunday, I'm going to wake up very late.)
 
 ## Uso
 
@@ -155,11 +155,11 @@ que el tiempo futuro), pero en la práctica tienen un valor temporal virtualment
 
 ### Ejemplos
 
-*En mayo estaré en Francia.* (In May, I’ll be in France.)
+*En mayo estaré en Francia.* (In May, I'll be in France.)
 
-*Mañana seré un hombre nuevo.* (Tomorrow, I’ll be a new man.)
+*Mañana seré un hombre nuevo.* (Tomorrow, I'll be a new man.)
 
-*El próximo jueves haré una tarta.* (Next Thursday, I’m going to make a pie.)
+*El próximo jueves haré una tarta.* (Next Thursday, I'm going to make a pie.)
 
 *En el futuro, tendré una casa en la playa.* (In the future, I will have a house at/by the beach.)
 
@@ -177,7 +177,7 @@ Siempre podemos usar la construcción *ir* + infinitivo con un significado prác
 
 ## 1. Comentario de texto
 
-## El cura de Santiago y don Illán, el mago de Toledo
+### El cura de Santiago y don Illán, el mago de Toledo
 
 En Santiago había un cura[1] que quería aprender magia. Don Illán, de Toledo, era el hombre que más sabía de magia 
 en aquella época. El cura fue a Toledo para aprender magia con él. Cuando llegó a Toledo, fue a casa de don Illán. 
@@ -265,29 +265,53 @@ con él (o con ella) en el pasado.*
 De *El Conde Lucanor* (1330-1335), Don Juan Manuel
 
 [1] Priest
+
 [2] Magician
+
 [3] Until
+
 [4] Trip
+
 [5] Lonely
+
 [6] Dark
+
 [7] Stair
+
 [8] Archbishop 
+
 [9] To appoint
+
 [10] When they were going to start 
+
 [11] Bishop
+
 [12] With me
+
 [13] Pope
+
 [14] Cardinal
+
 [15] Any person
+
 [16] For sure
+
 [17] Added
+
 [18] Trust his word
+
 [19] If you keep asking 
+
 [20] Heresy
+
 [21] Not even
+
 [22] Suddenly
+
 [23] Embarrassed 
+
 [24] To trust
+
 [25] Towards
 
 ### Preguntas
@@ -304,17 +328,17 @@ De *El Conde Lucanor* (1330-1335), Don Juan Manuel
 
 1. I will go to the supermarket on Friday.
 2. Next year, I will tell them the story.
-3. On Saturday, I’m going to visit Mary in China.
+3. On Saturday, I'm going to visit Mary in China.
 4. I will be famous one day.
-5. I’ll make a paella on Sunday at 2 PM.
-6. I’m going to the theatre tomorrow night.
+5. I'll make a paella on Sunday at 2 PM.
+6. I'm going to the theatre tomorrow night.
 7. She will not be here at 7.
 8. Will they be at the park tomorrow?
-9. I don’t know if I’ll need to see this.
+9. I don't know if I'll need to see this.
 10. Do you think you will have to go?
 11. I will not arrive on time (a tiempo) tonight.
 12. Will they call me?
-13. I’ll tell you the plan tomorrow. I’ll finally tell it to you.
+13. I'll tell you the plan tomorrow. I'll finally tell it to you.
 
 ## 3. Escritura creativa
 

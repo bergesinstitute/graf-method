@@ -167,6 +167,8 @@ le gusta usarlo.
 
 ## 2. Comentario de texto
 
+### El flautista de Hamelin
+
 En la ciudad de Hamelin, en Alemania,[1] las casas eran grises y los habitantes eran honestos. Era una ciudad 
 muy rica, pero tenían un problema muy grande: en Hamelin[2]
 había muchísimas ratas. Los gatos no podían enfrentarse a tantas. Las ratas se
@@ -206,19 +208,33 @@ y fueron hacia las montañas. Los niños nunca regresaron[15] a Hamelin, y nunca
 *Tradicional*
 
 [1] Germany
+
 [2] To confront
+
 [3] Mayor
+
 [4] Feather
+
 [5] Flute
+
 [6] If
+
 [7] Done
+
 [8] Outsider
+
 [9] Sewers
+
 [10] Towards
+
 [11] Followed him 
+
 [12] Current
+
 [13] Town hall
+
 [14] Laughed (en imperfecto) 
+
 [15] Came back
 
 ### Preguntas

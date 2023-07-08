@@ -6,7 +6,7 @@ Cuando viajaba, me levantaba a las siete de la mañana, tomaba el metro al aerop
 Normalmente me gusta viajar, pero cuando tenía que viajar cada semana era un poco intenso. Siempre intentaba llegar
 el primero al avión. De esta forma podía poner mi equipaje en los compartimentos superiores. Muchas veces tenía que
 cambiar (to change) de avión en Charlotte cuando viajaba a Europa. Siempre que estaba en el aeropuerto de
-Charlotte me gustaba comer en Steve’s, un restaurante de estilo sureño.
+Charlotte me gustaba comer en Steve's, un restaurante de estilo sureño.
 
 Normalmente iba a hoteles caros y bonitos, pero casi nunca podía dormir bien, en parte por el jet lag, en parte
 porque es complicado dormir bien lejos de casa. Normalmente miraba la televisión por varias (several) horas
