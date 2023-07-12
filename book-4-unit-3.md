@@ -201,7 +201,7 @@ Casi siempre tiene objeto directo y objeto indirecto (you give things, OD, to pe
 
 # Homework
 
-## 1. Decir qué tipo de objetos hay en estas frases
+## 1. Decir qué tipo de objetos hay en estas oraciones
 
 Hay tres posibilidades: A. No hay objeto. B. Hay objeto directo. C. Hay objeto directo y objeto indirecto.
 

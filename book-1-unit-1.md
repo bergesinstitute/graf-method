@@ -339,4 +339,4 @@ or
 
 # Homework
 
-Memorize the conjugations for ser and estar and all the vocabulary presented in ths unit.
+Memorize the conjugations for *ser* and *estar* and all the vocabulary presented in the unit.

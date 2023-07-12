@@ -113,7 +113,7 @@ cuando la segunda sucedió:
 
 # Homework
 
-## 1. Traducir. Puedes usar un diccionario.
+## 1. Traducir, usando presente, p. perfecto y p. imperfecto. Puedes usar un diccionario.
 
 1. I always eat at a restaurant on Saturday nights.
 2. In the past, I used to play guitar.
@@ -122,18 +122,18 @@ cuando la segunda sucedió:
 5. I already knew the story.
 6. Did you go to the supermarket?
 7. When I was ten, I used to eat chocolate all the time.
-8. When I was living in Spain, I would sometimes go to my friend’s house on Friday nights.
+8. When I was living in Spain, I would sometimes go to my friend's house on Friday nights.
 9. Did you know she was going to the party?
 10. I always ask her for favors.
 11. My cousin has a house in the woods.
 12. How did you meet your girlfriend?
 13. We used to listen to music all night long.
-14. I couldn’t go to work. I was sick.
+14. I couldn't go to work. I was sick.
 15. I used to like football when I was younger.
 16. On May 17th, 2014, I called Victor.
 17. I sent that letter ten days ago.
 
-## 2. Traducir. Puedes usar un diccionario.
+## 2. Traducir, usando reflexivos/gustar. Puedes usar un diccionario.
 
 1. I used to get up early in college. Now, I never get up early because I go to bed late.
 2. George took a shower and left his house.
@@ -141,15 +141,15 @@ cuando la segunda sucedió:
 4. Did you brush your teeth?
 5. They always look at themselves in the mirror.
 6. I used to like country music. Now, I only like hip hop.
-7. I like apples. My friend Peter doesn’t like apples.
+7. I like apples. My friend Peter doesn't like apples.
 8. My sister likes to dance. She used to dance more in the past, but she still dances a little.
 9. Last night I washed my face. I always wash my face at night. I like to wash my face.
 
 ## 3. Escribir cinco oraciones en presente, cinco en pretérito perfecto y cinco en pretérito imperfecto. 
 
-Usa locuciones temporales (time expressions) en todas las frases.
+Usa locuciones temporales (time expressions) en todas las oraciones.
 
-## 4. Traducir. Puedes usar un diccionario.
+## 4. Traducir, usando pronombres de objeto directo. Puedes usar un diccionario.
 
 Objeto directo, con cosas:
 
@@ -166,7 +166,7 @@ Objeto directo, con personas:
 2. You used to love me.
 3. I know you.
 4. I called you last night.
-5. Did you invite me to Frank’s dinner?
+5. Did you invite me to Frank's dinner?
 6. She helped me.
 
 ## 5. Escribir una historia corta sobre un objeto que tú tienes y que amas. Referirse misteriosamente al objeto como lo o la.

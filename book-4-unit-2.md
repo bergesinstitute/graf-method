@@ -19,7 +19,7 @@ aceptan objeto directo; y verbos que aceptan objeto directo y objeto indirecto.
 
 Ejemplos: *dormir* (to sleep), *escapar* (to escape) o *ir* (to go).
 
-No podemos “dormir una manzana”, “escapar una manzana” o “ir una manzana”. Cuando decimos *yo duermo* la frase 
+No podemos “dormir una manzana”, “escapar una manzana” o “ir una manzana”. Cuando decimos *yo duermo* la oración 
 tiene un sentido completo, no necesitamos un objeto recibiendo la acción.
 
 Aquí tenemos una pequeña lista de verbos intransitivos:
