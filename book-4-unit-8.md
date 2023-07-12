@@ -231,7 +231,7 @@ Estos animales, parásitos de las aves[51], son pequeños en el medio habitual,[
 favorables, pueden hacerse[53] muy grandes. La sangre humana les gusta especialmente, y no es extraño 
 encontrarlos en las almohadas de plumas.
 
-De *Cuentos de amor, de locura y de muerte* (1917), Horacio Quiroga
+*De* Cuentos de amor, de locura y de muerte *(1917), Horacio Quiroga*
 
 [1] The feather pillow 
 [2] Honeymoon

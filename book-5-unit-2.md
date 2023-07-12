@@ -291,7 +291,7 @@ new law when the president presents it.)
 *Cuando vaya a la biblioteca, buscaré un libro en español.* 
 (When I go to library, I will look for a book in Spanish.)
 
-## Uso 6: Aunque (even though). Es opcional!
+## Uso 6: Aunque (even though). ¡Es opcional!
 
 *Aunque* puede tener o no tener subjuntivo. Depende de la intención:
 

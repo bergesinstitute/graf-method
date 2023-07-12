@@ -20,3 +20,21 @@ Martín en su apartamento en La Rambla. Allí cocinamos una sopa tradicional cat
 Ayer sábado, me levanté muy temprano para ir al aeropuerto. Llegué a Nueva York esta mañana y, aquí estoy, 
 descansando en mi apartamento en Brooklyn. Me gusta mucho Nueva York, pero, después de este viaje, 
 ¡Barcelona es mi ciudad favorita!
+
+# Homework
+
+Go to https://www.bergesinstitutespanish.com/spanish-verb-conjugations
+and memorize/review the present and *pretérito perfecto* conjugations for the following verbs:
+
+- Cantar
+- Comer
+- Vivir
+- Ser
+- Estar
+- Ir
+- Tener
+- Hacer
+- Querer
+- Poder
+- Conocer
+- Saber

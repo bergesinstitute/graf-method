@@ -15,3 +15,32 @@ cada noche en el hotel. A veces salía a caminar. A veces tomaba un refresco y r
 Siempre que volvía a casa estaba muy contento, y normalmente también muy cansado. Siempre dejaba a mi perro en
 casa de mi hermana cuando estaba de viaje. Cuando llegaba, mi perro estaba muy feliz y movía la cola mucho.
 Después de un viaje largo siempre me gustaba dormir por diez o doce horas mínimo.
+
+# Homework
+
+Go to https://www.bergesinstitutespanish.com/spanish-verb-conjugations
+and memorize/review the present, *pretérito perfecto,* and *pretérito imperfecto* conjugations for the following verbs:
+
+- Cantar
+- Comer
+- Vivir
+- Conocer
+- Divertirse
+- Dormir
+- Estar
+- Hacer
+- Ir
+- Mentir
+- Morir
+- Poder
+- Poner
+- Preferir
+- Querer
+- Saber
+- Salir
+- Sentirse
+- Ser
+- Tener
+- Traer
+- Venir
+- Ver

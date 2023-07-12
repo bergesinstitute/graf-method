@@ -292,7 +292,7 @@ El campesino respondió:
 
 Todas las personas rieron.[19] Los hombres arrogantes, humillados, pagaron los pasteles y se fueron.
 
-De *Sobremesa y alivio de caminantes* (1563), Juan de Timoneda
+*De* Sobremesa y alivio de caminantes *(1563), Juan de Timoneda*
 
 [1] Peasant
 

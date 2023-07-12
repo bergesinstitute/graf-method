@@ -1,5 +1,7 @@
 # La comida (food)
 
+Here is a vocab list for reference. No need to memorize everything at this point.
+
     La comida - (the) food
 
     Los cereales - the cereals
@@ -167,3 +169,17 @@
 The most common way is saying what you want and *por favor* after it.
 
     Unas ostras y un agua, por favor.
+
+# Homework
+
+Go to https://www.bergesinstitutespanish.com/spanish-verb-conjugations
+and memorize/review the present tense conjugations for the following verbs:
+
+- Cantar
+- Comer
+- Vivir
+- Ser
+- Estar
+- Ir
+- Tener
+- Hacer

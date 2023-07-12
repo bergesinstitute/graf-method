@@ -262,7 +262,7 @@ y que podía irse de su casa. Le dijo:
 *A veces cuando una persona se hace muy importante, olvida sus promesas a las personas que fueron amables 
 con él (o con ella) en el pasado.*
 
-De *El Conde Lucanor* (1330-1335), Don Juan Manuel
+*De* El Conde Lucanor *(1330-1335), Don Juan Manuel*
 
 [1] Priest
 
