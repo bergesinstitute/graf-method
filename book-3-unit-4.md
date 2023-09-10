@@ -56,7 +56,7 @@
 
 *Aprender un nuevo idioma es difícil.*
 
-# Una conversación en el restaurante
+# Una conversación en el restaurante (a conversation at the restaurant)
 
 En el restaurante
 
@@ -100,7 +100,7 @@ Juan: Gracias por la comida, Sara.
 
 Sara: ¡De nada!
 
-# Preposiciones por y para
+# Preposiciones por y para (prepositions por and para)
 
 ## Para (for/in order to)
 
@@ -188,15 +188,21 @@ Sara: ¡De nada!
 
 Cuando ponemos estos sufijos al final de una palabra, ésta se modifica. No hay una regla sobre cuándo
 usar -ito o cuando usar -cito, simplemente a veces funciona uno mejor que otro. Podemos usarlos con
-sustantivos (nouns), adjetivos o adverbios.
+sustantivos, adjetivos o adverbios.
 
-Cuando la palabra es un sustantivo, el sufijo tiene valor diminutivo:
+> In English: When we put these suffixes at the end of a word, the word is modified. There is no rule about when to use 
+-ito or when to use -cito, sometimes one just works better than the other. We can use them with
+nouns, adjectives or adverbs.
+
+Cuando la palabra es un sustantivo, el sufijo tiene valor diminutivo.
+When the word is a noun, the suffix has diminutive value.
 
 Casa - house
 
 Casita - little house 
 
-Cuando la palabra es un adjetivo o un adverbio, el significado es más “suave” (soft):
+Cuando la palabra es un adjetivo o un adverbio, el significado es más “suave”.
+When the word is an adjective or an adverb, the meaning is "softer".
 
 Gordo - fat (sounds stronger) 
 
@@ -209,6 +215,7 @@ Bajita - “a little short” (sounds softer)
     -ísimo / -ísima
 
 Tiene valor aumentativo. Solamente usamos este sufijo con adjetivos o adverbios.
+It has an augmentative value. We only use this suffix with adjectives or adverbs.
 
 *Marta es guapa.* (Marta is pretty.)
 
@@ -219,12 +226,14 @@ Tiene valor aumentativo. Solamente usamos este sufijo con adjetivos o adverbios.
 *Yo como muchísimo.* (I really eat a lot.)
 
 > No podemos usar todos los sufijos con todas las palabras. A veces podemos, a veces no. No existe una
-regla específica.
+regla específica. We cannot use all suffixes with all words. Sometimes we can, sometimes we can't. 
+There is no specific rule.
 
-## Uso de los sufijos con nombres propios
+## Uso de los sufijos con nombres propios (use of suffixes with proper names) 
 
 Es muy común usar los sufijos con los nombres propios para niños o adultos con los que hay un una
-relación estrecha (close relationship).
+relación estrecha.
+It is very common to use suffixes with proper names for children or adults with whom there is a close relationship.
 
     Laura - Laurita
     
@@ -245,12 +254,13 @@ También comí el pescado con patatitas y cebollitas. Todo estaba delicioso.
 
 # Hubo y había
 
-*Hay* (*there is/there are*) en pasado (*there was/there were*) tiene dos formas:
+*Hay* (*there is/there are*) en pasado (*there was/there were*) tiene dos versiones.
+*Hay* (*there is/there are*) in the past tense (*there was/there were*) has two versions.
 
 ## Hubo (pretérito perfecto)
 
-Usamos esta forma para eventos o catástrofes que ocurrieron en un pasado muy
-puntual o exacto:
+Usamos esta versión para eventos o catástrofes que ocurrieron en un pasado muy puntual o exacto.
+We use this version for events or catastrophes that occurred in a very punctual or exact past.
 
 *El veinte de septiembre hubo un huracán en Florida.*
 
@@ -258,15 +268,17 @@ puntual o exacto:
 
 ## Había (pretérito imperfecto) 
 
-Es la forma más común. Cuando usamos *there was/there were* normalmente
-hacemos un uso descriptivo, y para descripción en pasado normalmente en español usamos imperfecto:
+Es la versión más común. Cuando usamos *there was/there were* normalmente
+hacemos un uso descriptivo, y para descripción en pasado normalmente en español usamos imperfecto.
+This is the most common version. When we use *there was/there were* normally we use it descriptively, 
+and for descriptions in the past we normally use imperfect.
 
 *Había muchos libros en la mesa.*
 
 *No había nadie en la calle a las 2 de la mañana.*
 
 > Unless we are talking about a very specific event that happened at a 
-> very specific time in the past, we'll usually prefer to use *había* over *hubo* in most contexts.
+very specific time in the past, we'll usually prefer to use *había* over *hubo* in most contexts.
 
 ## En el museo había...
 

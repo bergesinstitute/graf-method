@@ -1,6 +1,7 @@
-# Equivalencias del imperfecto en inglés
+# Equivalencias del imperfecto en inglés (equivalences of the imperfect tense in English)
 
-El pretérito imperfecto se puede traducir al inglés de cuatro maneras:
+El pretérito imperfecto se puede traducir al inglés de cuatro maneras.
+The imperfect tense can be translated into English in four ways.
 
 *En el pasado yo tocaba la guitarra.* (In the past, I used to play the guitar.)
 
@@ -14,7 +15,11 @@ En inglés hay muchas construcciones para pasado. En español, sólo dos: cuando
 ocurre en un momento específico, siempre usamos pretérito perfecto. Cuando es un pasado habitual o
 descriptivo, siempre usamos pretérito imperfecto.
 
-# Una expresión común
+> In English: In English there are many past tense constructions. In Spanish, there are only two: 
+when we have an action that occurs at a specific time, we always use preterite. When it is a habitual or descriptive past, 
+we always use the imperfect tense.
+
+# Una expresión común (a common expression)
 
     Todo el día - all day long/all day/for the whole day
 
@@ -23,7 +28,7 @@ day long.)
 
 *El martes pasado jugué al fútbol todo el día.* (Last Tuesday, I played soccer for the whole day.)
 
-# Conversación usando el pretérito imperfecto
+# Conversación usando el pretérito imperfecto (conversation using the imperfect tense)
 
 Carlos: Hola Isabel, tú estudiaste en la universidad en Florida, ¿es correcto?
 
@@ -50,11 +55,14 @@ C: En general, ¿te gustaba vivir en Florida?
 
 I: Sí, mucho.
 
-# Periodo de tiempo específico: usamos pretérito perfecto
+# Periodo de tiempo específico: usamos pretérito perfecto (specific period of time: we use preterite)
 
 Cuando hablamos de un periodo de tiempo e indicamos cuándo empezó y cuándo terminó, utilizamos
-pretérito perfecto. Normalmente usamos las preposiciones entre (between) o de/a (from/to) para
+pretérito perfecto. Normalmente usamos las preposiciones *entre* (between) o *de/a* (from/to) para
 delimitar el periodo de tiempo.
+
+> In English: When we talk about a period of time and we indicate when it started and when it ended, we use
+preterite. We usually use the prepositions *entre* (between) or *de/a* (from/to) to delimit the period of time.
 
 *Entre 1999 y 2005 viví en Toronto.*
 
@@ -62,7 +70,9 @@ delimitar el periodo de tiempo.
 
 # Mientras (while)
 
-Es muy común usar mientras con el pretérito imperfecto cuando hacemos un uso descriptivo:
+Es muy común usar *mientras* con el pretérito imperfecto cuando hacemos un uso descriptivo.
+It is very common to use *mientras* with the imperfect tense when we make a descriptive use.
+
 While I was doing action A, action B was also happening.
 
 *Mientras yo comía mi perro bebía agua.* (While I was eating, my dog was drinking water.)
@@ -70,7 +80,7 @@ While I was doing action A, action B was also happening.
 *Mientras Elena bailaba Juan miraba una película.* (While Elena was dancing, Juan was watching a
 movie.)
 
-# Acción vs. descripción
+# Acción vs. descripción (action vs. description)
 
 Ciertos verbos tienen naturalmente un significado de acción: *llegar, salir, mirar...* Pero otros verbos
 tienen un significado más “descriptivo”: *tener* (for possession), *saber* (for knowledge), *creer* (for
@@ -80,8 +90,19 @@ Thursday; I left my house*) y los verbos “descriptivos” van normalmente en i
 Juan vivía en Madrid; Creía que estabas en casa; Tenía un gato.* En inglés: *I knew Juan lived in
 Madrid; I believed you were home; I used to have a cat*).
 
+> In English: Certain verbs naturally have a meaning of action: *arrive, go out, look...* But other verbs
+have a more "descriptive" meaning: *tener* (for possession), *saber* (for knowledge), *creer* (for beliefs)... 
+Action verbs are usually in the preterite tense (*Juan llegó a las siete; Miré el
+programa el jueves pasado; Salí de casa.*
+In English: *Juan arrived at seven; I watched the show last
+Thursday; I left my house*) and "descriptive" verbs are usually in the imperfect tense (*Yo sabía que
+Juan vivía en Madrid; Creía que estabas en casa; Tenía un gato.* In English: *I knew Juan lived in
+Madrid; I believed you were home; I used to have a cat*).
+
 En algunos casos, las dos opciones son correctas; usamos uno u otro dependiendo de la sensación que
-queremos transmitir:
+queremos transmitir.
+
+> In English: In some cases, both options are correct; we use one or the other depending on the feeling we want to convey.
 
 *Estuve enfermo todo el día.* (I was sick all day.) — We are saying for how long that happened.
 
@@ -91,10 +112,11 @@ queremos transmitir:
 
 *Pedro sabía todo.* (Pedro knew everything.) — He knew, in general.
 
-# Cuadro explicativo: pretérito perfecto vs. pretérito imperfecto
+# Cuadro explicativo (explanatory table): pretérito perfecto vs. pretérito imperfecto
 
 Como sabemos, para acciones que ocurrieron en un momento específico en el pasado, usamos siempre
-pretérito perfecto:
+pretérito perfecto. As we know, for actions that took place at a specific time in the past, we always use
+preterite.
 
 *I bought a house last year. - Compré una casa el año pasado.*
 
@@ -105,7 +127,8 @@ pretérito perfecto:
 *Did you go? - ¿Fuiste?*
 
 Para todo lo demás (incluyendo ciertos verbos que en inglés van en *past simple* pero que no indican
-acción), usamos generalmente imperfecto:
+acción), usamos generalmente imperfecto. For everything else (including certain verbs that in English 
+go in past simple but do not indicate action), we generally use the imperfect.
 
 *I knew that.*
 
@@ -137,10 +160,13 @@ acción), usamos generalmente imperfecto:
 - We can translate it as: *Mi mamá siempre solía cocinar pasta los viernes.*
 - But it is better translated as: *Mi mamá siempre cocinaba pasta los viernes.*
 
-# Fui/Era/Estuve/Estaba
+# Fui / era / estuve / estaba
 
 En general, usamos más las versiones en imperfecto (*era/estaba*) para *was/were,* porque normalmente
-hacemos un uso descriptivo de estos verbos:
+hacemos un uso descriptivo de estos verbos.
+
+> In English: In general, we use more the imperfect versions (*era/estaba*) for *was/were,* 
+because we normally use these verbs descriptively
 
 *Yo antes era abogado.* (In the past, I was/used to be a lawyer.)
 

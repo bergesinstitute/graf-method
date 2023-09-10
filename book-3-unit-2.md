@@ -1,4 +1,4 @@
-# Pretérito imperfecto
+# Pretérito imperfecto (imperfect tense)
 
 ## Cantar
 
@@ -42,10 +42,13 @@
 
     Abrían
 
-> Los verbos *-er, -ir* usan los mismos sufijos.
+> Los verbos *-er, -ir* usan los mismos sufijos. Verbs *-er, -ir* use the same suffixes.
 
 En este tiempo verbal usamos las mismas expresiones habituales de tiempo que usamos en el presente simple, 
-pero refiriéndonos al pasado:
+pero refiriéndonos al pasado.
+
+> In English: In this tense, we use the same habit time expressions we use in the present simple, 
+but referring to the past.
 
     Siempre - always
 
@@ -57,22 +60,29 @@ pero refiriéndonos al pasado:
 
     Cada jueves - every Thursday
 
-Es también muy común usar el adverbio *antes,* con el significado de “en el pasado” (in the past)*, 
-cuando usamos el pretérito imperfecto:
+Es también muy común usar el adverbio *antes,* con el significado de “en el pasado”* 
+cuando usamos el pretérito imperfecto.
+
+> In English: It is also very common to use the adverb *antes,* with the meaning of "in the past"*
+when we use the imperfect.
 
 *Antes yo tenía un perro.* (In the past, I used to have a dog.)
 
 *Antes yo siempre iba a casa de mi hermana los viernes.* 
 (In the past, I always used to go to my sister's house on Fridays.)
 
-> *Es un uso muy diferente del uso típico de antes (de)/después (de) como *before/after.*
+> *Es un uso muy diferente del uso típico de *antes (de)/después (de)* como *before/after.* 
+This is a very different usage from the typical use of *antes (de)/después (de)* as *before/after.*
 
-## Usos del pretérito imperfecto
+## Usos del pretérito imperfecto (uses of the imperfect tense)
 
-### Hábitos
+### Hábitos (habits)
 
-Hacemos un uso similar al presente; usamos este tiempo verbal para expresar cosas que fueron un hábito en el pasado. 
-En inglés significa más o menos *used to,* o *would always:*
+Usamos este tiempo verbal para expresar cosas que fueron un hábito en el pasado. 
+En inglés significa más o menos *used to,* o *would always.*
+
+> In English: We use this tense to express things that were a habit in the past.
+In English it means more or less *used to,* or *would always:*.
 
 *Antes siempre comía pizza en D'Angelo.* (In the past, I always used to eat pizza at D'Angelo.)
 
@@ -80,30 +90,39 @@ En inglés significa más o menos *used to,* o *would always:*
 
 *En esos días, ella siempre trabajaba por la noche.* (On those days, she would always work at night.)
 
-### Descripción
+### Descripción (description)
 
 Cuando narramos en el pasado y añadimos descripciones, éstas deben usar el imperfecto. Normalmente, 
 lo combinamos con el pretérito perfecto; básicamente usamos el pretérito perfecto para acciones y 
-el imperfecto para descripciones. En inglés significa más o menos *I was* + verb *-ing:*
+el imperfecto para descripciones. En inglés significa más o menos *I was* + verb *-ing.*
+
+> In English: When we narrate in the past and add descriptions, they must use the imperfect tense. Normally,
+we combine it with the preterite; basically we use the preterite for actions and the imperfect for descriptions.
+the imperfect for descriptions. In English it roughly means *I was* + verb *-ing:*.
 
 *Llegué a mi casa. Vanessa cantaba una canción y mi perro comía un hueso. Me duché y me acosté.*
 (I arrived home. Vanessa was singing a song and my dog was eating a bone. I took a shower and went
 to bed.)*
 
 > En estos casos, es equivalente usar una versión progresiva del imperfecto: *Vanessa estaba cantando - Vanessa was
-    singing* a usar el imperfecto directamente: *Vanessa cantaba - Vanessa was singing.* Recomendamos usar la segunda opción.
+singing* a usar el imperfecto directamente: *Vanessa cantaba - Vanessa was singing.* Recomendamos usar la segunda opción.
+In these cases, it is equivalent to use a progressive version of the imperfect: *Vanessa estaba cantando - Vanessa was
+singing* to using the imperfect directly: *Vanessa cantaba - Vanessa was singing.* We recommend using the second option. 
 
-### Emociones y estados de ánimo o físicos
+### Emociones y estados de ánimo o físicos (feelings, moods, and physical states)
 
 Cuando queremos expresar cómo nos sentimos en el pasado, usamos normalmente el imperfecto.
-Siempre usamos el verbo *estar* en estos casos:
+Siempre usamos el verbo *estar* en estos casos.
+
+> In English: When we want to express how we feel in the past, we normally use the imperfect.
+We always use the verb *estar* in these cases.
 
 *El jueves María no fue a trabajar porque estaba enferma.* (Last Thursday María did no go to work
 because she was sick.)
 
 *Peter estaba muy triste.* (Peter was very sad.)
 
-## Verbos importantes en pretérito imperfecto
+## Verbos importantes, en pretérito imperfecto (important verbs, in the imperfect tense)
 
 ### Ser
 
@@ -175,9 +194,9 @@ because she was sick.)
 
     Hacían
 
-Los verbos *estar, tener* y *hacer* son 100% regulares.
+Los verbos *estar, tener* y *hacer* son 100% regulares. Verbs *estar, tener* and *hacer* are 100% regular.
 
-### Ejemplos usando el pretérito imperfecto
+### Ejemplos usando el pretérito imperfecto (examples using the imperfect tense)
 
 *Mi padre siempre cantaba canciones viejas.* (My father always used to sing/would always sing old
 songs.)
@@ -188,7 +207,7 @@ songs.)
 blue. Julia was resting on the bed. I was working and drinking coffee.) — Descriptive use. We are
 describing the scene, not narrating actions.
 
-# Lista de verbos regulares
+# Lista de verbos regulares (list of regular verbs)
 
 ## -ar
 
@@ -306,11 +325,15 @@ describing the scene, not narrating actions.
 > ****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person 
 > singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
 
-# Nota sobre el verbo soler
+# Nota sobre el verbo soler (note about verb soler)
 
 Es un “stem-changing” verb: *suelo, sueles, suele, solemos, (soléis), suelen*, que significa, más o menos, to *usually do
 something,* to *tend to do something,* to *be accustomed to do something,* o en imperfecto, *used to do something.* En
-español, normalmente va seguido de un infinitivo:
+español, normalmente va seguido de un infinitivo.
+
+> In English: It is a stem-changing verb: *suelo, sueles, suele, solemos, (soléis), suelen*, meaning, more or less, to *usually do
+something,* to *tend to do something,* to *be accustomed to do something,* or in the imperfect tense, *used to do something.*
+Spanish, it is usually followed by an infinitive.
 
 *Yo solía caminar en el parque los martes.* (I used to walk in the park on Tuesdays.)
 
@@ -323,14 +346,21 @@ Podemos expresar esto mismo conjugando los verbos directamente en imperfecto:
 *Mi madre iba al supermercado los viernes.* (My mother used to go to the supermarket on Fridays.)
 
 El significado es prácticamente el mismo; la única diferencia es que cuando usamos *soler* añadimos una connotación de hábito
-muy fuerte. (*Solía* has a sense of habituation, and the imperfect tense means something used to be, without really stating anything
+muy fuerte. 
+
+> In English: The meaning is practically the same; the only difference is that when we use *soler* we add a very 
+strong connotation of habit.
+
+> *Solía* has a sense of habituation, and the imperfect tense means something used to be, without really stating anything
 about habituation. They often overlap, though.)
 
-Recomendamos usar el imperfecto directamente, y no usar el verbo *soler.*
+Recomendamos usar el imperfecto directamente, y no usar el verbo *soler.* We recommend using the imperfect 
+directly, and not using the verb *soler.*
 
-# Un uso muy específico del imperfecto
+# Un uso muy específico del imperfecto (a very specific use of the imperfect tense)
 
-*When I was a kid / When I was 12:* Siempre usamos imperfecto con los verbos *ser* y *tener* respectivamente:
+*When I was a kid / When I was 12:* Siempre usamos imperfecto con los verbos *ser* y *tener* respectivamente.
+We always use imperfect with the verbs *ser* and *tener* respectively.
 
 *Cuando era niño comía siempre en la casa de mi abuela los sábados.*
 (When I was a kid, I would always eat at my grandmother's house on Saturdays.)
@@ -338,7 +368,7 @@ Recomendamos usar el imperfecto directamente, y no usar el verbo *soler.*
 *Cuando tenía doce años jugaba con mi amigo Pedro cada día.*
 (When I was twelve, I used to play with my friend Pedro every day.)
 
-# Historia en imperfecto (things that I used to do)
+# Historia en imperfecto: cosas que hacía cuando era pequeña (story in the imperfect tense: things that I used to do when I was little)
 
 Cuando era pequeña vivía en Barcelona. Me gustaba ir al mercado con mi madre cada viernes. Era
 muy bonito y siempre había muchas personas. Después de comprar, mi madre y yo siempre

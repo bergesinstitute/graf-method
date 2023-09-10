@@ -6,12 +6,13 @@
 
 *Esta pizzería es popular entre los estudiantes universitarios.* (This pizzeria is popular among college students.)
 
-# Cambios en conjunciones
+# Cambios en conjunciones (changes in conjunctions)
 
 ## Y => E
 
 Cuando una palabra está después de la conjunción *y* y empieza por la letra I necesitamos cambiar la
-conjunción por *e.*
+conjunción por *e.* When a word is after the conjunction *y* and starts with the letter I we need to change 
+the conjunction to *e.*.
 
 *Pedro y Javier están en mi casa.*
 
@@ -20,13 +21,14 @@ conjunción por *e.*
 ## O => U
 
 Cuando una palabra está después de la conjunción *o* y empieza por la letra O necesitamos cambiar la
-conjunción por *u.*
+conjunción por *u.* When a word is after the conjunction *o* and starts with the letter O we need to change
+the conjunction to *u.*.
 
 *¿Quieres queso o cacahuetes?*
 
 *¿Quieres queso u olivas?*
 
-# Adverbios que terminan en -mente
+# Adverbios que terminan en -mente (adverbs ending in -mente)
 
     Fácilmente - easily
 
@@ -85,7 +87,9 @@ conjunción por *u.*
     Décimo/a (10º / 10ª) - Tenth
 
 > *Primero* y *tercero* pasan a ser *primer* y *tercer* respectivamente cuando van antes 
-de un sustantivo (noun) masculino: *el primer día, el tercer lugar,* etc.
+de un sustantivo masculino: *el primer día, el tercer lugar,* etc.
+*Primero* and *tercero* become *primer* and *tercer* respectively when they go before a masculine noun: 
+*el primer día, el tercer lugar,* etc.
 
     Vigésimo/a (20º / 20ª) - Twentieth
 
@@ -125,14 +129,17 @@ A hundred and twenty second - Centésimo/a vigésimo/a segundo/a (122º / 122ª)
 
 ## Consideraciones
 
-- Los números ordinales son adjetivos, pero normalmente van antes del sustantivo:
+- Los números ordinales son adjetivos, pero normalmente van antes del sustantivo. 
+Ordinal numbers are adjectives, but they usually go before the noun.
 
 *Mi apartamento está en el sexto piso (floor).*
 
 *La primera noche en Jamaica fue fantástica.*
  
 - Para calles, avenidas, pisos, etc. usamos normalmente números ordinales del 1 al 10, pero después del
-  10 usamos números cardinales (que, como sabemos, van después del sustantivo):
+  10 usamos números cardinales (que, como sabemos, van después del sustantivo).
+  For streets, avenues, floors, etc. we normally use ordinal numbers from 1 to 10, but after 10 we use 
+  cardinal numbers (which, as we know, go after the noun).
 
 *Vivo en el cuarto piso.* 
 

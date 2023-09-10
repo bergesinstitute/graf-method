@@ -1,7 +1,10 @@
-# Los tiempos compuestos
+# Los tiempos compuestos (compound tenses)
 
 Usamos el verbo *haber* para formar los tiempos compuestos con el participio pasado, igual que en inglés 
-usamos el verbo *to have* como verbo auxiliar, sin usarlo con su significado original de posesión (*I have an apple*):
+usamos el verbo *to have* como verbo auxiliar, sin usarlo con su significado original de posesión (*I have an apple*).
+
+> In English: We use the verb *haber* to form the compound tenses along with the past participle, just like in English
+we use the verb *to have* as an auxiliary verb, without using it with its original meaning of possession (*I have an apple*).
 
     I have + past participle (I have been, you have taken, etc). 
     
@@ -11,11 +14,19 @@ Los tiempos verbales equivalentes al *present perfect* (*I have* + participle) y
 (*I had* + participle) se llaman en español *pretérito perfecto compuesto* y *pretérito pluscuamperfecto,* 
 respectivamente.
 
+> In English: The equivalent verb tenses to the present perfect (*I have* + participle) and to the past perfect 
+(*I had* + participle) are called in Spanish *pretérito perfecto compuesto* and *pretérito pluscuamperfecto,*
+respectively.
+
 Aquí tenemos un modelo, usando el verbo *manejar* (to drive). El participio del verbo *manejar* 
 (*driven,* en inglés) es *manejado* en español. Para formar estos tiempos verbales, conjugamos el 
-verbo auxiliar *haber,* y ponemos el participio del verbo que queremos usar a continuación:
+verbo auxiliar *haber,* y ponemos el participio del verbo que queremos usar a continuación.
 
-### Pretérito perfecto compuesto
+> In English: Here we have a model, using the verb *manejar* (to drive). The participle of the verb *manejar* 
+(*driven,* in English) is *manejado* in Spanish. To form these verb tenses, we conjugate the
+auxiliary verb *haber,* and place the participle of the verb we want to use right after.
+
+### Pretérito perfecto compuesto / present perfect
 
     He manejado
     
@@ -29,7 +40,7 @@ verbo auxiliar *haber,* y ponemos el participio del verbo que queremos usar a co
     
     Han manejado
 
-### Pretérito pluscuamperfecto
+### Pretérito pluscuamperfecto / past perfect
 
     Había manejado 
     
@@ -44,19 +55,25 @@ verbo auxiliar *haber,* y ponemos el participio del verbo que queremos usar a co
     Habían manejado
 
 El pretérito perfecto compuesto se traduce como *I have driven, you have driven,* etc. El pretérito pluscuamperfecto 
-se traduce como *I had driven, you had driven,* etc.
+se traduce como *I had driven, you had driven,* etc. The *pretérito perfecto compuesto* translates as
+*I have driven, you have driven,* etc. The *pretérito pluscuamperfecto*
+translates as *I had driven, you had driven,* etc.
 
-En español, es importante no romper (break) nunca el núcleo verbal. No podemos poner nada entre el 
+En español, es importante no romper nunca el núcleo verbal. No podemos poner nada entre el 
 verbo *haber* y el participio. En inglés: *I have always driven, I have not driven,* etc. En español: 
 *Yo siempre he manejado, yo no he manejado,* etc.
 
-## El participio
+> In English: In Spanish, it is important never to break the verbal nucleus. We cannot put anything between the
+verb *haber* and the participle. In English: *I have always driven, I have not driven,* etc. In Spanish:
+*Yo siempre he manejado, yo no he manejado,* etc.
 
-Para formar el participio en español, hacemos lo siguiente: 
+## El participio / the participle
+
+Para formar el participio en español, hacemos lo siguiente: / To form the participle in Spanish, we do the following:
 
 ### Verbos -ar
 
-    Añadimos a la raíz el sufijo -ado 
+    Añadimos a la raíz el sufijo -ado / We add the suffix -ado to the root
 
 *Cantar* (to sing): *Cantado* (sung)
 
@@ -64,7 +81,7 @@ Para formar el participio en español, hacemos lo siguiente:
 
 ### Verbos -er, -ir
 
-    Añadimos a la raíz el sufijo -ido 
+    Añadimos a la raíz el sufijo -ido / We add the suffix -ido to the root
 
 *Comer* (to eat): *Comido* (eaten)
 
@@ -80,17 +97,21 @@ Para formar el participio en español, hacemos lo siguiente:
 
 *Son las tres y todavía no he comido.* (It's three and I haven't eaten yet/I still haven't eaten.)
 
-## Uso de los tiempos compuestos
+## Uso de los tiempos compuestos (usage of the compound tenses)
 
 El uso de los tiempos compuestos es muy similar al inglés en sus dos versiones —el pretérito perfecto 
 compuesto (*yo he manejado*) equivale al *present perfect* (*I have driven*); el pretérito pluscuamperfecto 
 (*yo había manejado*) equivale al *past perfect* (*I had driven*)—.
 
-### Pretérito perfecto compuesto/present perfect
+> In English: The use of the compound tenses is very similar to English in its two versions - the *pretérito perfecto
+compuesto* tense (*yo he manejado*) is equivalent to the *present perfect* (*I have driven*); the *pretérito pluscuamperfecto*
+tense (*yo había manejado*) is equivalent to *past perfect* (*I had driven*).
 
-Principalmente tenemos dos usos, en inglés y en español: 
+### Pretérito perfecto compuesto / present perfect
 
-#### 1. Experiencia
+Principalmente tenemos dos usos, en inglés y en español: / We have two main uses, in English and in Spanish:
+
+#### 1. Experiencia (experience)
 
 *Yo nunca he estado en Roma.* (I have never been to Rome.)
 
@@ -98,15 +119,16 @@ Principalmente tenemos dos usos, en inglés y en español:
 
 *María ha corrido tres maratones.* (Maria has run three marathons.)
 
-#### 2. Una acción que empezó en el pasado y continúa en el presente
+#### 2. Una acción que empezó en el pasado y continúa en el presente (an action that started in the past and continues in the present)
 
 *He vivido en NYC por tres meses.* (I have lived in NYC for three months.)
 
 *He estado aquí todo el día.* (I have been here all day.)
 
-### Pretérito pluscuamperfecto/past perfect
+### Pretérito pluscuamperfecto / past perfect
 
-Igual que en inglés, usamos los tiempos compuestos en pasado para indicar que una acción ocurrió antes que otra:
+Igual que en inglés, usamos los tiempos compuestos en pasado para indicar que una acción ocurrió antes que otra.
+As in English, we use the compound past tenses to indicate that one action occurred before another.
 
 *Cuando ellos me ofrecieron la posición yo ya había aceptado otro trabajo.* 
 (When they offered me the position I had already accepted another job.)
@@ -117,9 +139,13 @@ Igual que en inglés, usamos los tiempos compuestos en pasado para indicar que u
 > En algunas regiones usamos el pretérito perfecto compuesto para indicar pasado reciente: *Esta mañana 
 he ido al mercado*, en lugar de *esta mañana fui al mercado.* Recomendamos usar pretérito perfecto simple 
 (*yo fui*) para el pasado reciente, reservando los tiempos compuestos para los usos específicos 
-descritos en esta página únicamente. Es más fácil.
+descritos en esta página únicamente. Es más fácil. 
 
-## Participios irregulares
+> In English: In some regions we use the *pretérito perfecto compuesto* to indicate recent past: *Esta mañana
+he ido al mercado*, instead of *esta mañana fui al mercado.* We recommend using the simple preterite (*yo fui*) 
+for recent past, reserving the compound tenses for the specific uses described on this page only. It is easier.
+
+## Participios irregulares en español (irregular participles in Spanish)
 
     Abrir => abierto (opened/open)
     
@@ -139,16 +165,22 @@ descritos en esta página únicamente. Es más fácil.
     
     Volver => vuelto (returned/gone back)
 
-## Combinando tiempos compuestos con tiempos progresivos
+## Combinando tiempos compuestos con tiempos progresivos (combining compound tenses with progressive tenses)
 
 Igual que en inglés, en español podemos combinar tiempos compuestos con tiempos progresivos. En lugar de decir 
 *I have driven,* cuando queremos expresar más continuidad podemos decir *I have been driving.* En este caso, 
 estamos usando el verbo *to be* en participio (*been*). El verbo *manejar* ahora va en gerundio (*driving*). 
-En español, podemos hacer exactamente lo mismo:
+En español, podemos hacer exactamente lo mismo.
+
+> In English: As in English, in Spanish we can combine compound tenses with progressive tenses. Instead of saying
+*I have driven,* when we want to express more continuity we can say *I have been driving.* In this case,
+we are using the verb *to be* in participle (*been*). The verb *to drive* now goes in gerund (*driving*).
+In Spanish, we can do exactly the same.
 
 *Yo he manejado. Yo he estado manejando.*
 
 Debemos recordar que los tiempos progresivos en español se forman siempre con el verbo *estar.*
+We must remember that the progressive tenses in Spanish are always formed with the verb *estar.*
 
 ### Ejemplos
 
@@ -157,16 +189,18 @@ Debemos recordar que los tiempos progresivos en español se forman siempre con e
 *Yo había estado pensando en Silvia por tres horas cuando ella finalmente llamó.* 
 (I had been thinking about Silvia for three hours when she finally called.)
 
-## Uso del participio como adjetivo
+## Uso del participio como adjetivo (use of the participle as adjective)
 
-Tanto en inglés como en español, muchos participios pueden ser usados como adjetivos: 
+Tanto en inglés como en español, muchos participios pueden ser usados como adjetivos: /
+In both English and Spanish, many participles can be used as adjectives:
 
 *I have taken it.* (Participio)
 
 *The seat is taken.* (Adjetivo)
 
 (En inglés, el verbo *to die* y el verbo *to open* cambian su forma cuando se transforman en adjetivos. 
-En español esto no ocurre.)
+En español esto no ocurre. In English, the verb *to die* and the verb *to open* change their form when transformed into adjectives.
+In Spanish this does not happen).
 
 *He has died.* (Participio) 
 
@@ -176,7 +210,8 @@ En español esto no ocurre.)
 
 *The window was open.* (Adjetivo)
 
-En español, cuando usamos un participio como adjetivo debemos, como siempre, ajustarlo en número y género:
+En español, cuando usamos un participio como adjetivo debemos, como siempre, ajustarlo en número y género.
+In Spanish, when we use a participle as an adjective we must, as always, adjust it in number and gender.
 
 *Yo he roto la ventana.* (Participio)
 

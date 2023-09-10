@@ -1,6 +1,6 @@
 # Preguntar y pedir (to ask/to ask for)
 
-## Presente
+## Presente (present)
 
 ### Preguntar (to ask)
 
@@ -30,11 +30,13 @@
     
     Piden
 
-Usamos *preguntar* para preguntas, o para inquirir (inquire) sobre algo o alguien. 
+Usamos *preguntar* para preguntas, o para inquirir sobre algo o alguien.
+We use *preguntar* for questions, or to inquire about something or someone.
 
-Usamos *pedir* para objetos, favores o servicios.
+Usamos *pedir* para cosas, favores o servicios.
+We use *pedir* for things, favors or services.
 
-Los dos verbos admiten objeto indirecto:
+Los dos verbos admiten objeto indirecto. Both verbs can take an indirect object.
 
 *Yo pregunto una pregunta a Juan.* (I ask Juan a question.)*
 
@@ -54,7 +56,11 @@ Los dos verbos admiten objeto indirecto:
 es muy común sustituir el verbo *preguntar* por el verbo *hacer,* para evitar la redundancia: 
 *Yo hago una pregunta a Juan.*
 
-## Pretérito perfecto
+> In English: Although this sentence is grammatically correct, we must remember that, when we use the noun *pregunta,*
+it is very common to substitute the verb *preguntar* for the verb *hacer,* to avoid redundancy:
+*Yo hago una pregunta a Juan.*
+
+## Pretérito perfecto (preterite)
 
 *Preguntar* es regular. *Pedir* es irregular.
 
@@ -72,7 +78,7 @@ es muy común sustituir el verbo *preguntar* por el verbo *hacer,* para evitar l
     
     Preguntaron
 
-### Preguntaron
+### Pedir
 
     Pedí 
     
@@ -86,7 +92,8 @@ es muy común sustituir el verbo *preguntar* por el verbo *hacer,* para evitar l
     
     Pidieron
 
-*Preguntar* y *pedir* son regulares en pretérito imperfecto y futuro: 
+*Preguntar* y *pedir* son regulares en pretérito imperfecto y futuro: /  
+*Preguntar* and *pedir* are regular in the imperfect and future tenses:
 
 *Yo te pediré las llaves mañana.* (I will ask you for the keys tomorrow.)
 
@@ -94,6 +101,9 @@ es muy común sustituir el verbo *preguntar* por el verbo *hacer,* para evitar l
 
 IMPORTANTE: El verbo *pedir* nunca usa preposición. Cuando traducimos del inglés es un error muy común tratar 
 de traducir la preposición *for* como *por* o *para.* El verbo *pedir* tiene un significado completo sin preposición.
+
+> In English: IMPORTANT: The verb *pedir* never uses a preposition. When translating from English it is a common mistake to try
+to translate the preposition *for* as *por* or *para.* The verb *pedir* has a complete meaning without a preposition.
 
 *I asked her for the keys. Le pedí las llaves.*
 

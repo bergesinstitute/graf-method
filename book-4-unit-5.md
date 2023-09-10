@@ -1,4 +1,4 @@
-# Las preposiciones del español
+# Las preposiciones del español (Spanish prepositions)
 
     A - to
 
@@ -7,9 +7,18 @@ antes de un objeto, cuando éste es una persona (o un animal doméstico): *Llam�
 Cuando la preposición *a* y el artículo determinado masculino singular *el* van juntos, debemos combinarlos 
 en la contracción *al: Voy al supermercado.*
 
+> In English: It is used with verbs that have a place as their destination: *llegar (a), ir (a), llevar una cosa (a).*
+It is also used before an object, when the object is a person (or a pet): *Llamé a María. Pedro ama a su gato.*
+When the preposition *a* and the masculine singular definite article *el* go together, we have to combine them
+in the contraction *al: Voy al supermercado.*
+
     Con/sin - with/without
 
-*Estoy en casa con mi amigo Juan. Me gusta la cerveza sin alcohol.*
+*Estoy en casa con mi amigo Juan.*
+(I'm at my friend Juan's house.)
+
+*Me gusta la cerveza sin alcohol.*
+(I like non-alcoholic beer.)
 
     Conmigo - with me
 
@@ -18,11 +27,18 @@ en la contracción *al: Voy al supermercado.*
 Cuando el objeto de la preposición es la primera o la segunda persona del singular, alteramos la preposición 
 *con* de este modo. Con el resto de personas esto no pasa: *con él, con ustedes,* etc.
 
+> In English: When the object of the preposition is either the first or the second person singular, we alter the preposition
+*con* in this way. With the rest of the persons this does not happen: *con él, con ustedes,* etc.
+
     De - from, of
 
 Usamos esta preposición con el verbo *ser* para indicar origen: *Soy de Lima.* También la usamos para indicar posesión: 
 *El perro de Juan es grande.* Cuando la preposición *de* y el artículo determinado masculino singular *el* van juntos, 
 debemos combinarlos en la contracción *del: Ésta es la casa del hermano de Alicia.*
+
+> In English: We use this preposition with the verb *ser* to indicate origin: *Soy de Lima.* We also use it to indicate possession:
+*El perro de Juan es grande.* When the preposition *de* and the masculine singular definite article *el* go together,
+we must combine them in the contraction *del: Ésta es la casa del hermano de Alicia.*
 
     Desde - from/since (for space or time)
 
@@ -31,112 +47,186 @@ Podemos expresar esto mismo con *de/a,* pero tiene una connotación diferente: e
 indica dirección (similar a *towards*). En *desde/hasta,* la preposición *hasta* tiene un significado de destino, 
 espacial o temporal (similar a *all the way to* o *until*).
 
+> In English: It is used in conjunction with *hasta: Estuve allí desde la una hasta las nueve. Fui desde Boston hasta Maine en mi carro.*
+We can express this same thing with *de/a,* but it has a different connotation: in *de/a,* the preposition *a*
+indicates direction (similar to *towards*). In *desde/hasta,* the preposition *hasta* has a meaning of destination,
+spatial or temporal (similar to *all the way to* or *until*).
+
 No se recomienda usar *de/hasta* o *desde/a,* usaremos *desde* siempre con *hasta.*
+It is not recommended to use *de/hasta* or *desde/a*, we'll always use *desde* with *hasta.*
 
     En - in, on, at
 
-En español solamente tenemos una preposición de ubicación (location), que usamos para todos los casos. 
+En español solamente tenemos una preposición de ubicación, que usamos para todos los casos.
+In Spanish we only have one preposition of location, which we use for all cases.
+
 *Estoy en Chile. Estoy en Broadway. Estoy en el supermercado.*
+(I'm in Chile. I'm on Broadway. I'm at the supermarket.)
 
     Entre - Between/among
 
 *La letra B está entre la A y la C.*
+(The letter B is between A and C.)
 
     Hacia - towards
 
 Usamos *hacia* para expresar dirección: *Voy hacia tu casa* significa lo mismo que *voy en dirección a tu casa.*
+We use *hacia* to express direction: *Voy hacia tu casa* means the same as *I'm headed towards your house.*
 
     Hasta - to/until (for space or time) 
 
-Ver *desde.*
+Ver *desde.* See *desde.*
 
     Para - for/in order to
 
-Usamos la preposición *para* para propósito, destino u objetivo: *Pedro tiene una sorpresa para Laura.
-Trabajo para Google. Este pescado es para la cena.*
+Usamos la preposición *para* para propósito, destino u objetivo.
+We use the preposition *para* for purpose, destination or objective.
 
-La usamos como *in order to,* siempre con un verbo: *Tomé el autobús a California para visitar a mi tío. 
-Voy al gimnasio cada día para estar muy fuerte.*
+*Pedro tiene una sorpresa para Laura.* (Pedro has a surprise for Laura.)
 
-También la usamos para fechas de entrega (deadlines): *La tarea es para mañana.*
+*Trabajo para Google.* (I work for Google.)
+
+*Este pescado es para la cena.* (Lit. This fish is for dinner.)
+
+La usamos como *in order to,* siempre con un verbo.
+We use it as *in order to,* always with a verb.
+
+*Tomé el autobús a California para visitar a mi tío.* (I took the bus to California to/in order to visit my uncle.)
+
+*Voy al gimnasio cada día para estar muy fuerte.* (I go to the gym every day in order to be/stay very strong.)
+
+También la usamos para fechas de entrega.
+We also use it for deadlines.
+
+*La tarea es para mañana.* (The homework is for tomorrow.) (Meaning it has to be submitted by tomorrow.)
 
     Por - for/because of
 
-Usamos la preposición *por* con períodos de tiempo: *Estuve allí por una semana.*
-También la usamos para expresar razón o causa (como *because of;* en este caso nunca va con un verbo):
-*Llegué tarde por el tráfico. Cerraron por bancarrota* (bankruptcy).
+Usamos la preposición *por* con períodos de tiempo.
+We use the preposition *por* with periods of time.
 
-La usamos para intercambios de dinero (o de otras cosas):
-*La compré por cincuenta dólares. Cambié mi carro por una motocicleta.*
+*Estuve allí por una semana.* (I was there for a week.)
 
-La usamos para expresar ratios (como *per*): *Voy al gimnasio tres veces por semana.
-El treinta por ciento de la clase no pasó el examen.*
+> We often omit it and say *Estuve allí una semana.*
+
+También la usamos para expresar razón o causa (como *because of;* en este caso nunca va con un verbo).
+We also use it to express reason or cause (as in *because of;* in this case it never goes with a verb).
+
+*Llegué tarde por el tráfico.* (I arrived late because of the traffic.)
+
+*Cerraron por bancarrota*. (Lit. They closed "because of" bankruptcy.) (Meaning "due to").
+
+La usamos para intercambios de dinero (o de otras cosas).
+We use it for exchange of money (or other things).
+
+*La compré por cincuenta dólares.* (I bought it for fifty dollars.)
+
+*Cambié mi carro por una motocicleta.* (I exchanged my car for a motorcycle.)
+
+La usamos para expresar ratios (como *per*). We use it to express ratios (like *per*):
+
+*Voy al gimnasio tres veces por semana.* (I go to the gym three times per week.)
+
+*El treinta por ciento de la clase no pasó el examen.* (Thirty percent of the class didn't pass the exam.)
 
     Sobre - about/on
 
-*Juan sólo habla sobre matemáticas. Me preguntó sobre mi profesión.*
+*Juan sólo habla sobre matemáticas.* (Juan only talks about math.)
 
-Podemos usar *sobre* en lugar de *en* cuando queremos añadir la connotación de *encima de* (on top of): 
+*Me preguntó sobre mi profesión.* (He asked me about my profession.)
+
+Podemos usar *sobre* en lugar de *en* cuando queremos añadir la connotación de *encima de:* 
 *El libro está en la mesa* o *el libro está sobre la mesa* son equivalentes, pero el segundo ejemplo 
 describe con más detalle la posición física del libro.
 
-# Adverbios importantes
+> In English: We can use *sobre* instead of *en* when we want to add the connotation of *on top of:*
+*El libro está en la mesa* or *el libro está sobre la mesa* are equivalent, but the second example
+describes in more detail the physical position of the book.
+
+# Adverbios importantes en español (important adverbs in Spanish)
 
     Ahora - now
 
-Normalmente se usa con el presente progresivo: *¿Qué estás haciendo ahora? Ahora estoy cocinando.* 
+Normalmente se usa con el presente progresivo. We usually use it with the present progressive tense.
+
+*¿Qué estás haciendo ahora? Ahora estoy cocinando.* (What are you doing right now? Now I'm cooking.)
+
 Podemos añadir *mismo* cuando queremos expresar *right now: Ahora mismo estoy comiendo.*
+We can add *mismo* when we want to express *right now: Ahora mismo estoy comiendo.*
 
     Pronto - soon
 
-*Voy a estar en Virginia muy pronto.*
+*Voy a estar en Virginia muy pronto.* (I'm going to be in Virginia very soon.)
 
     Temprano - early
 
     Tarde - late
 
-*Me levanté muy temprano y me acosté muy tarde.*
+*Me levanté muy temprano y me acosté muy tarde.* (I got up very early and went to bed very late.)
 
     Mucho - a lot
 
     Poco - a little
 
-*Voy al cine mucho. Cocino poco.*
+*Voy al cine mucho. Cocino poco.* (I go to the cinema a lot. I don't cook much.)
 
 *Mucho* y *poco* se pueden usar también como adjetivos. En este caso significan *many/a lot of* o *few/not many* 
-(for countable nouns) o *much/a lot of* o *little* (for uncountable nouns). Recuerda que los adjetivos deben 
-concordar en género y número con el sustantivo (noun): *Miré muchas películas. Cociné pocas cosas.*
+(para sustantivos contables) o *much/a lot of* o *little* (para sustantivos no contables). Recuerda que los adjetivos deben 
+concordar en género y número con el sustantivo: *Miré muchas películas. Cociné pocas cosas.*
+
+> In English: *Mucho* and *poco* can also be used as adjectives. In this case they mean *many/a lot of* or *few/not many* 
+(for countable nouns) or *much/a lot of* or *little* (for uncountable nouns).
+Remember that adjectives must
+agree in gender and number with the noun: *Miré muchas películas. Cociné pocas cosas.*
 
     Cerca (de) - near/close/nearby
 
     Lejos (de) - far
 
-Cuando se usan con un sustantivo, deben llevar la preposición *de.* Cuando van solos, no la llevan. 
+Cuando se usan con un sustantivo, deben llevar la preposición *de.* Cuando van solos, no la llevan.
+When used with a noun, they must have the preposition *de.* When used alone, they do not have it.
+
 *¿Dónde está tu casa? Está muy cerca. La casa de Juan está cerca de mi oficina.*
+(Where is your house? It's nearby. Juan's house is near my office.)
 
     Antes (de) - before
 
     Después (de) - after
 
 Podemos usar *antes* y *después* con sustantivos o con verbos. Cuando los usamos con verbos, utilizamos 
-siempre el infinitivo. *Fui al concierto. Después del concierto, llamé a Sara.
+siempre el infinitivo. 
+
+> In English: We can use *antes* and *después* with nouns or with verbs. When we use them with verbs, we
+always use the infinitive.
+
+*Fui al concierto. Después del concierto, llamé a Sara.
 Cené. Después de cenar, miré la televisión. Después de mirar la televisión, me acosté.*
+
+(I went to the concert. After the concert, I called Sara. I ate dinner.
+After eating dinner, I watched TV. After watching TV, I went to bed.)
 
     Durante - during
 
-No podemos usar durante con verbos, sólo con sustantivos. *Nunca hablo durante los partidos.
-Durante la cena Juan explicó su idea.*
+No podemos usar *durante* con verbos, sólo con sustantivos. 
+We cannot use *durante* with verbs, only with nouns.
+
+*Nunca hablo durante los partidos.* (I never talk during matches.)
+
+*Durante la cena Juan explicó su idea.* (Lit. During dinner, Juan explained his idea.) (Meaning while we were having dinner.)
 
     Delante (de) - In front (of)/right before (spatially)
 
     Detrás (de) - Behind
 
-Cuando van con un sustantivo (y casi siempre van con un sustantivo) debemos usar la preposición *de. Mi casa 
-está detrás de la estación. La silla está delante de la mesa.*
+Cuando van con un sustantivo (y casi siempre van con un sustantivo) debemos usar la preposición *de. 
+
+*Mi casa está detrás de la estación.* (Mi house is behind the station.)
+
+*La silla está delante de la mesa.* (The chair is in front of the table.)
 
     Todavía - still/yet
 
-*Todavía no sé dónde será el evento.*
+*Todavía no sé dónde será el evento.* (I still don't know where the event will be/take place.)
 
     Sólo/solamente - only
 
@@ -144,11 +234,16 @@ Son sinónimos. Tradicionalmente se pone acento en *sólo* cuando es adverbio, y
 adjetivo (*solo = alone*). Desde hace unos años, el acento no es oficialmente necesario, pero a mucha gente 
 le gusta usarlo.
 
+> In English: They are synonyms. Traditionally, the accent is placed on *sólo* when it is an adverb, 
+and it is not placed when it is an adjective (*solo = alone*).
+Since a few years ago, the accent is not officially necessary, but many people like to use it.
+
 *Sólo compré verduras en el supermercado. Solamente compré verduras en el supermercado.*
+(I only bought vegetables at the supermarket.)
 
     Ya - already
 
-*Ya estoy en la estación.*
+*Ya estoy en la estación.* (I'm already at the station.)
 
 # Homework
 

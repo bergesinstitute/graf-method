@@ -48,15 +48,20 @@ En el futuro los sufijos son iguales para los tres tipos de verbos, pero hay una
 respecto a los tiempos presentes y pasados: los añadimos al infinitivo del verbo 
 (mantenemos *-ar, -er, -ir,* respectivamente).
 
+> In English: In the future tense, the suffixes are the same for all three types of verbs, 
+but there is a difference with respect to the present and past tenses: we add them to the infinitive form of the verb.
+(we keep *-ar, -er, -ir,* respectively).
+
 *Mañana yo comeré en casa de mi madre.* (Tomorrow, I'm going to eat at my mother's house.) 
 
 *El año que viene yo viajaré a Japón.* (Next year, I will travel to Japan.)
 
 *El domingo me levantaré muy tarde.* (On Sunday, I'm going to wake up very late.)
 
-## Uso
+## Uso (usage)
 
-El tiempo futuro tiene el mismo significado que la construcción *ir* + infinitivo*:
+El tiempo futuro tiene el mismo significado que la construcción *ir* + infinitivo*.
+The future tense has the same meaning as the *ir* + infinitive* construction.
 
 *Mañana yo voy a comer en casa de mi madre.* 
 
@@ -66,8 +71,10 @@ El tiempo futuro tiene el mismo significado que la construcción *ir* + infiniti
 
 > En realidad hay una pequeña diferencia cognitiva (*ir a* suena un poco más cercano y probable 
 que el tiempo futuro), pero en la práctica tienen un valor temporal virtualmente idéntico.
+There is actually a small cognitive difference (*ir a* sounds a bit closer and more probable 
+than future tense), but in practice they have a virtually identical temporal value.
 
-## Verbos importantes, en futuro
+## Verbos importantes, en futuro (important verbs, in the future tense)
 
 ### Ser (regular)
 
@@ -163,7 +170,8 @@ que el tiempo futuro), pero en la práctica tienen un valor temporal virtualment
 
 *En el futuro, tendré una casa en la playa.* (In the future, I will have a house at/by the beach.)
 
-Siempre podemos usar la construcción *ir* + infinitivo con un significado prácticamente idéntico:
+Siempre podemos usar la construcción *ir* + infinitivo con un significado prácticamente idéntico.
+We can always use the construction *ir* + infinitive with a practically identical meaning.
 
 *En mayo voy a estar en Francia.*
 

@@ -39,7 +39,8 @@
 ## Verbo tomar (para transportes)
 
 En países diferentes usamos verbos diferentes para los transportes. El verbo más típico e internacional
-es *tomar:*
+es *tomar.* In different countries we use different verbs for transportation. The most typical and international verb
+is *tomar.*
 
 *Yo tomo un avión.*
 
@@ -51,7 +52,7 @@ es *tomar:*
 
 ## Verbo ir + preposición en (para transportes)
 
-Siempre podemos usar también esta fórmula:
+Siempre podemos usar también esta fórmula. We can always use this formula as well.
 
 *Yo siempre voy en avión a España.*
 
@@ -86,7 +87,8 @@ C: ¡Mucho!
 
 # Expresiones con tener
 
-En español, usamos muchas expresiones con el verbo *tener:*
+En español, usamos muchas expresiones con el verbo *tener.*
+In Spanish, we use many expressions with the verb *tener.*
 
     Tener hambre - to be hungry (lit. to have hunger)
     
@@ -118,7 +120,8 @@ En español, usamos muchas expresiones con el verbo *tener:*
 
 # Traer (to bring) vs llevar (to carry/to take)
 
-El verbo *traer* es irregular en el presente y el pretérito perfecto: 
+El verbo *traer* es irregular en el presente y el pretérito perfecto.
+The verb *traer* is irregular in the present and preterite tenses.
 
 ## Traer
 
@@ -164,15 +167,17 @@ El verbo *traer* es irregular en el presente y el pretérito perfecto:
     
     Traían
 
-*Llevar* es 100% regular.
+*Llevar* es 100% regular. *Llevar* is 100% regular.
 
 ## Usos
 
-*Traer:* Mover un objeto al lugar del hablante (speaker). Es común usar este verbo con
-el adverbio *aquí.*
+*Traer:* Mover un objeto al lugar del hablante. Es común usar este verbo con
+el adverbio *aquí.* To move an object to the speaker's place. It is common to use this verb with
+the adverb *aquí.*
 
 *Llevar:* Mover un objeto a un lugar diferente de donde está el hablante. Es común
-usar este verbo con el adverbio *allí.*
+usar este verbo con el adverbio *allí.* To move an object to a different location from where the speaker is. It is common to
+to use this verb with the adverb *allí.*
 
 ### Ejemplo
 

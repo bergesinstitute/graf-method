@@ -1,8 +1,8 @@
-# Repaso de tiempos verbales básicos
+# Repaso de tiempos verbales básicos (review of basic tenses)
 
-## Presente
+## Presente (present tense)
 
-Usamos el presente para hábitos o hechos:
+Usamos el presente para hábitos o hechos. We use the present tense for habits or facts.
 
 *Los martes voy al gimnasio.* 
 
@@ -12,7 +12,8 @@ Usamos el presente para hábitos o hechos:
 
 *Mi tío es de California.*
 
-Aquí tenemos algunas expresiones temporales que típicamente usamos con el presente:
+Aquí tenemos algunas expresiones temporales que típicamente usamos con el presente.
+Here are some time expressions that we typically use with the present tense.
 
     Normalmente 
     
@@ -51,9 +52,10 @@ P: Yo soy economista, y trabajo en la universidad. Además (in addition), escrib
 
 A: Muy interesante.
 
-## Pretérito perfecto
+## Pretérito perfecto (preterite)
 
-*Usamos el pretérito perfecto para narrar acciones específicas en el pasado.*
+Usamos el pretérito perfecto para narrar acciones específicas en el pasado.
+We use the preterite to narrate specific actions in the past.
 
 *Ayer cené en un restaurante.*
 
@@ -61,7 +63,8 @@ A: Muy interesante.
 
 *El catorce de junio de dos mil doce compré una casa.*
 
-Aquí tenemos algunas expresiones temporales que típicamente usamos con el pretérito perfecto:
+Aquí tenemos algunas expresiones temporales que típicamente usamos con el pretérito perfecto.
+Here are some time expressions that we typically use with the preterite.
 
     Ayer
     
@@ -95,22 +98,24 @@ y miré una película. El miércoles fui a cenar con mi amigo David. El jueves t
 y estuve allí hasta muy tarde. El viernes fui a un concierto de Norah Jones en el Club 9:30. Ayer no hice 
 nada, pero esta mañana desayuné en un restaurante con mi amiga Ann.
 
-## Presente progresivo
+## Presente progresivo (present progressive)
 
 Para las acciones que están sucediendo en este momento, usamos los verbos en gerundio precedidos
-por el verbo estar, conjugado.
+por el verbo *estar,* conjugado.
+For actions that are happening at the moment, we use verbs in the gerund form preceded by
+the verb *estar,* conjugated.
 
-Para construir el gerundio, en español, añadimos:
+Para construir el gerundio, en español, añadimos: / To build the gerund, in Spanish, we add:
 
-    -ando a la raíz de los verbos -ar
+    -ando a la raíz de los verbos -ar / -ando to the root of -ar verbs
 
 *Yo estoy hablando. Pedro está visitando a su hermana.*
 
-    -iendo a la raíz de los verbos -er, -ir
+    -iendo a la raíz de los verbos -er, -ir / -iendo to the root of -er, -ir verbs
 
 *Nosotros estamos comiendo. Usted está abriendo la puerta.*
 
-Expresiones temporales típicas:
+Expresiones temporales típicas / typical time expressions:
 
     Ahora 
     
@@ -128,24 +133,25 @@ pero le gusta su universidad. ¿Qué está haciendo tu hermana Eliza?
 J: Eliza está viviendo en Vermont, con su esposo. Está trabajando en una oficina de abogados, y está 
 bastante (quite) bien, en general.
 
-## Pretérito imperfecto
+## Pretérito imperfecto (imperfect)
 
 Usamos el pretérito imperfecto para expresar un pasado habitual o descriptivo. Estos son los usos
-más típicos:
+más típicos.
+We use the imperfect to express a habitual or descriptive past. These are the most typical uses.
 
-- Hábito:
+- Hábito (habit):
 
 *Antes yo siempre estudiaba mucho.*
 
 *En la universidad, me levantaba a las 8 de la mañana cada día.*
 
-- Descripción:
+- Descripción (description):
 
 *En la fiesta, la gente bailaba y se divertía. Había mucha gente en la tienda.*
 
 *El cielo estaba muy hermoso aquel día.*
 
-- Sentimientos (con el verbo *estar*): 
+- Sentimientos, con el verbo *estar* (feelings, with the verb *estar*): 
 
 *No fui porque estaba muy cansado.*
 
@@ -186,12 +192,13 @@ N: Ya veo.
 
     Ya veo - I see
 
-## Futuro (con el verbo ir)
+## Futuro, con el verbo ir (future, with the verb ir)
 
 Usamos el futuro para expresar acciones futuras. Como sabemos, podemos construir el futuro usando
-la siguiente fórmula:
+la siguiente fórmula: / We use the future to express future actions. As we know, we can construct the future using
+the following formula:
 
-    Verbo *ir,* conjugado + a + verbo de acción
+    Verbo *ir,* conjugado + a + verbo de acción / Verb *ir,* conjugated + a + action verb
 
 *Voy a mirar la televisión.* 
 
@@ -199,7 +206,8 @@ la siguiente fórmula:
 
 *Nosotros vamos a estudiar para el examen.* 
 
-Aquí tenemos algunas expresiones temporales que típicamente usamos con el futuro:
+Aquí tenemos algunas expresiones temporales que típicamente usamos con el futuro.
+Here are some temporal expressions that we typically use with the future tense.
 
     Mañana
     

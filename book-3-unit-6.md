@@ -1,7 +1,11 @@
 # Futuro (con el verbo ir)
 
 Podemos formar el futuro conjugando el verbo *ir* en presente. Es similar a la forma *going to* en inglés.
-Podemos usar esta forma para cualquier tipo de futuro:
+Podemos usar esta forma para cualquier tipo de futuro.
+
+> In English: We can form the future tense by conjugating the verb *ir* in the present tense. 
+It is similar to the form *going to* in English.
+We can use this form for any type of future.
 
 *Mañana voy a bailar salsa.* (Tomorrow I'm going to dance salsa.)
 
@@ -9,7 +13,7 @@ Podemos usar esta forma para cualquier tipo de futuro:
 
 *Él va a venir el lunes.* (He will come on Monday.)
 
-Solamente necesitamos conjugar el verbo *ir:*
+Solamente necesitamos conjugar el verbo *ir.* We only need to conjugate the verb *ir.*
 
     Cantar
     
@@ -25,9 +29,9 @@ Solamente necesitamos conjugar el verbo *ir:*
     
     Ellos/ellas/uds. van a cantar
 
-> Con el verbo *ir: Yo voy a ir a Miami.* (“I'm going to go to Miami”). We need to use it twice!
+> With the verb *ir: Yo voy a ir a Miami.* (“I'm going to go to Miami”). We need to use it twice!
 
-## Expresiones temporales de futuro
+## Expresiones temporales de futuro (future time expressions)
 
     La semana próxima - next week 
     
@@ -67,9 +71,10 @@ C: Sí, durante dos semanas. Voy a ir a la playa. ¿Tú no tienes vacaciones?
 
 F: Sí, pero no tengo dinero. La semana que viene voy a ir a los museos y voy a caminar en el parque.
 
-# Verbos reflexivos en todos los tiempos verbales
+# Verbos reflexivos en todos los tiempos verbales (reflexive verbs in all tenses)
 
-Los verbos reflexivos se forman igualmente en todos los tiempos verbales:
+Los verbos reflexivos se forman igualmente en todos los tiempos verbales. 
+Reflexive verbs are formed in the same way in all tenses.
 
 Para el verbo *levantarse:*
 
@@ -131,7 +136,7 @@ Para el verbo *levantarse:*
 
 ## Verbos reflexivos típicos
 
-Aquí tenemos algunos verbos reflexivos de uso habitual:
+Aquí tenemos algunos verbos reflexivos de uso habitual. Here are some commonly used reflexive verbs.
 
     Acostarse – to go to bed
     
@@ -153,11 +158,11 @@ Aquí tenemos algunos verbos reflexivos de uso habitual:
     
     Quedarse – to stay
 
-## Verbos reflexivos en infinitivo y gerundio
+## Verbos reflexivos en infinitivo y gerundio (reflexive verbs in infinitive and gerund)
 
-Tenemos dos opciones
+Tenemos dos opciones. We have two options.
 
-- Podemos poner el pronombre antes del primer verbo:
+- Podemos poner el pronombre antes del primer verbo. We can place the pronoun before the first verb.
 
 *Yo me voy a levantar a las 8 de la mañana.* (I am going to wake up at 8AM.)
 
@@ -167,7 +172,7 @@ Tenemos dos opciones
 
 *Nosotros nos estamos mirando en el espejo.* (We are looking at ourselves in the mirror.)
 
-- Podemos poner el pronombre al final, unido al último verbo:
+- Podemos poner el pronombre al final, unido al último verbo. We can place the pronoun at the end, attached to the last verb.
 
 *Yo voy a levantarme a las 8 de la mañana.* 
 

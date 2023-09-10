@@ -1,12 +1,17 @@
-# Pronombres dobles
+# Pronombres dobles en español (double pronouns in Spanish)
 
 En las oraciones con objeto indirecto, muchas veces usamos pronombre doble (usamos el pronombre de objeto 
 directo y también el de objeto indirecto). En este caso tenemos dos reglas:
 
-1. El pronombre de OI (la persona) siempre va primero. 
-2. En la tercera persona, sustituimos *le/les* por *se*.
+> In English: In sentences with indirect object, we often use a double pronoun 
+(we use the direct object pronoun and also the indirect object pronoun). In this case we have two rules:
 
-Los pronombres de OI, cuando usamos pronombre doble, son:
+1. El pronombre de OI (la persona) siempre va primero. 
+The IO pronoun (the person) always goes first.
+2. En la tercera persona, en lugar de *le/les* usamos *se*.
+In the third person, instead of *le/les* we use *se*.
+
+Los pronombres de OI, cuando usamos pronombre doble, son: / The IO pronouns, when using double pronouns, are:
 
     Me
     
@@ -23,6 +28,7 @@ Los pronombres de OI, cuando usamos pronombre doble, son:
 ## Ejemplos
 
 Formato: Sin pronombre de OD u OI. Con pronombre de OI. Con pronombre doble.
+Format: Without DO or IO pronoun. With IO pronoun. With double pronouns.
 
 *Juan regala un libro a mí. Juan me regala un libro. Juan me lo regala.*
 
@@ -45,9 +51,9 @@ Formato: Sin pronombre de OD u OI. Con pronombre de OI. Con pronombre doble.
 *Nosotros explicamos la lección a ellos. Nosotros les explicamos la lección. Nosotros se la explicamos.* 
 (Lit. We explain the lesson to them. “We explain them the lesson.” We explain it to them.) OD: la lección. OI: ellos.
 
-# Pronombres reflexivos
+# Pronombres reflexivos en español (reflexive pronouns in Spanish)
 
-Los pronombres reflexivos son:
+Los pronombres reflexivos son: / Reflexive pronouns are:
 
     Me
 
@@ -62,7 +68,10 @@ Los pronombres reflexivos son:
     Se
 
 En los pronombres reflexivos, el sujeto y el objeto siempre son la misma persona. Pueden ser objeto directo (OD) u
-objeto indirecto (OI), pero no nos importa. El pronombre nunca cambia:
+objeto indirecto (OI), pero no nos importa. El pronombre nunca cambia.
+
+> In English: In reflexive pronouns, the subject and object are always the same person. They can be direct object (DO) or
+indirect object (IO), but we don't care. The pronoun never changes.
 
 *Juan se mira en el espejo.*
 (Juan looks at himself in the mirror.) Sujeto: Juan. OD: Juan.
@@ -70,11 +79,13 @@ objeto indirecto (OI), pero no nos importa. El pronombre nunca cambia:
 *Juan se compra 5 libros por Navidad.*
 (Juan buys himself 5 books for Christmas.) Sujeto: Juan. OD: 5 libros. OI: Juan.
 
-# Pronombres con verbos en infinitivo y gerundio
+# Pronombres con verbos en infinitivo y gerundio (pronouns with verbs in their infinitive or gerund form)
 
-Tenemos dos opciones (con todos los pronombres: objeto directo (OD), objeto indirecto (OI) o reflexivos): 
+Tenemos dos opciones, con todos los pronombres: objeto directo (OD), objeto indirecto (OI) o reflexivos.
 
-## 1. Podemos poner el pronombre antes del verbo o de los verbos
+> In English: We have two options, with all pronouns: direct object (DO), indirect object (IO) or reflexive.
+
+## 1. Podemos poner el pronombre antes del verbo o de los verbos. We can place the pronoun before the first verb/verbs.
 
 *Yo no te puedo llamar.* (I cannot call you.)
 
@@ -82,7 +93,7 @@ Tenemos dos opciones (con todos los pronombres: objeto directo (OD), objeto indi
 
 *Nosotros lo estamos comprando.* (We are buying it.)
 
-## 2. Podemos poner el pronombre al final, unido al último verbo
+## 2. Podemos poner el pronombre al final, unido al último verbo. We can place the pronoun at the end, attached to the last verb.
 
 *Yo no puedo llamarte.*
 
@@ -136,7 +147,7 @@ Tenemos dos opciones (con todos los pronombres: objeto directo (OD), objeto indi
     
     Decían
 
-Admite objeto directo e indirecto.
+Admite objeto directo e indirecto. Takes both direct and indirect object.
 
 *Él lo dijo.* (He said it.)
 
@@ -188,7 +199,8 @@ Admite objeto directo e indirecto.
     
     Daban
 
-Casi siempre tiene objeto directo y objeto indirecto (you give things, OD, to people, OI).
+Casi siempre tiene objeto directo y objeto indirecto (damos cosas, OD, a personas, OI).
+It almost always has a direct object and an indirect object (we give things, DO, to people, IO).
 
 *Yo te doy el libro. Yo te lo doy.* 
 (I give you the book. I give it to you.)
