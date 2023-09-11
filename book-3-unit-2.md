@@ -200,7 +200,9 @@ because she was sick.)
 
     Hacían
 
-Los verbos *estar, tener* y *hacer* son 100% regulares. Verbs *estar, tener* and *hacer* are 100% regular.
+Los verbos *estar, tener* y *hacer* son 100% regulares. 
+
+💂 Verbs *estar, tener* and *hacer* are 100% regular.
 
 ### Ejemplos usando el pretérito imperfecto (examples using the imperfect tense)
 
@@ -323,13 +325,13 @@ describing the scene, not narrating actions.
 
 > *In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first-person singular:
 > *llegué, pagué.*
->
+
 > ***Llegar* always uses the preposition *a.* We arrive "to" places. *Llegué a la oficina* (I arrived at/in the office).
->
+
 > ***In the *pretérito perfecto* tense, *tocar* has a spelling change in the first-person singular: *toqué.*
->
+
 > ****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person 
-> singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
+singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
 
 # Nota sobre el verbo soler (note about verb soler)
 
@@ -368,7 +370,10 @@ Recomendamos usar el imperfecto directamente, y no usar el verbo *soler.*
 
 # Un uso muy específico del imperfecto (a very specific use of the imperfect tense)
 
-*When I was a kid / When I was 12:* Siempre usamos imperfecto con los verbos *ser* y *tener* respectivamente.
+*When I was a kid / When I was 12:*
+
+Siempre usamos imperfecto con los verbos *ser* y *tener* respectivamente.
+
 💂 We always use imperfect with the verbs *ser* and *tener* respectively.
 
 *Cuando era niño comía siempre en la casa de mi abuela los sábados.*

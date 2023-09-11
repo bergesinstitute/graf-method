@@ -1,7 +1,8 @@
 # Equivalencias del imperfecto en inglés (equivalences of the imperfect tense in English)
 
 El pretérito imperfecto se puede traducir al inglés de cuatro maneras.
-The imperfect tense can be translated into English in four ways.
+
+💂 The imperfect tense can be translated into English in four ways.
 
 *En el pasado yo tocaba la guitarra.* (In the past, I used to play the guitar.)
 
@@ -15,7 +16,7 @@ En inglés hay muchas construcciones para pasado. En español, sólo dos: cuando
 ocurre en un momento específico, siempre usamos pretérito perfecto. Cuando es un pasado habitual o
 descriptivo, siempre usamos pretérito imperfecto.
 
-> In English: In English there are many past tense constructions. In Spanish, there are only two: 
+💂 In English there are many past tense constructions. In Spanish, there are only two: 
 when we have an action that occurs at a specific time, we always use preterite. When it is a habitual or descriptive past, 
 we always use the imperfect tense.
 
@@ -61,7 +62,7 @@ Cuando hablamos de un periodo de tiempo e indicamos cuándo empezó y cuándo te
 pretérito perfecto. Normalmente usamos las preposiciones *entre* (between) o *de/a* (from/to) para
 delimitar el periodo de tiempo.
 
-> In English: When we talk about a period of time and we indicate when it started and when it ended, we use
+💂 When we talk about a period of time and we indicate when it started and when it ended, we use
 preterite. We usually use the prepositions *entre* (between) or *de/a* (from/to) to delimit the period of time.
 
 *Entre 1999 y 2005 viví en Toronto.*
@@ -90,7 +91,7 @@ Thursday; I left my house*) y los verbos “descriptivos” van normalmente en i
 Juan vivía en Madrid; Creía que estabas en casa; Tenía un gato.* En inglés: *I knew Juan lived in
 Madrid; I believed you were home; I used to have a cat*).
 
-> In English: Certain verbs naturally have a meaning of action: *arrive, go out, look...* But other verbs
+💂 Certain verbs naturally have a meaning of action: *arrive, go out, look...* But other verbs
 have a more "descriptive" meaning: *tener* (for possession), *saber* (for knowledge), *creer* (for beliefs)... 
 Action verbs are usually in the preterite tense (*Juan llegó a las siete; Miré el
 programa el jueves pasado; Salí de casa.*
@@ -102,7 +103,7 @@ Madrid; I believed you were home; I used to have a cat*).
 En algunos casos, las dos opciones son correctas; usamos uno u otro dependiendo de la sensación que
 queremos transmitir.
 
-> In English: In some cases, both options are correct; we use one or the other depending on the feeling we want to convey.
+💂 In some cases, both options are correct; we use one or the other depending on the feeling we want to convey.
 
 *Estuve enfermo todo el día.* (I was sick all day.) — We are saying for how long that happened.
 
@@ -165,7 +166,7 @@ go in past simple but do not indicate action), we generally use the imperfect.
 En general, usamos más las versiones en imperfecto (*era/estaba*) para *was/were,* porque normalmente
 hacemos un uso descriptivo de estos verbos.
 
-> In English: In general, we use more the imperfect versions (*era/estaba*) for *was/were,* 
+💂 In general, we use more the imperfect versions (*era/estaba*) for *was/were,* 
 because we normally use these verbs descriptively
 
 *Yo antes era abogado.* (In the past, I was/used to be a lawyer.)

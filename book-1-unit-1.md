@@ -210,9 +210,9 @@ Typical uses:
 
 ## Distinguishing example:
 
-    Mis ojos son azules (My eyes are blue—it's their color.)
+    Mis ojos son azules (My eyes are blue — it's their color.)
 
-    Mis ojos están rojos (My eyes are red—it is a non-permanent state.)
+    Mis ojos están rojos (My eyes are red — it is a non-permanent state.)
 
 # Spanish negation
 

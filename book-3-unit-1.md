@@ -252,6 +252,8 @@ Stem-changing verbs do not change their stem in the past tense:
 
 ## 1. Traducir. Puedes usar un diccionario para las palabras que no conoces.
 
+💂 Translate. You can use a dictionary for words you don't know.
+
 1. My mother sings very well, but she does not play an instrument.
 2. Their parents are in NYC for 5 days.
 3. Juan's wife is an economist, and she works at an office.

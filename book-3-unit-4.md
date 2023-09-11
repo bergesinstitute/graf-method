@@ -190,7 +190,7 @@ Cuando ponemos estos sufijos al final de una palabra, ésta se modifica. No hay 
 usar -ito o cuando usar -cito, simplemente a veces funciona uno mejor que otro. Podemos usarlos con
 sustantivos, adjetivos o adverbios.
 
-> In English: When we put these suffixes at the end of a word, the word is modified. There is no rule about when to use 
+💂 When we put these suffixes at the end of a word, the word is modified. There is no rule about when to use 
 -ito or when to use -cito, sometimes one just works better than the other. We can use them with
 nouns, adjectives or adverbs.
 

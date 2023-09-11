@@ -3,7 +3,7 @@
 Podemos formar el futuro conjugando el verbo *ir* en presente. Es similar a la forma *going to* en inglés.
 Podemos usar esta forma para cualquier tipo de futuro.
 
-> In English: We can form the future tense by conjugating the verb *ir* in the present tense. 
+💂 We can form the future tense by conjugating the verb *ir* in the present tense. 
 It is similar to the form *going to* in English.
 We can use this form for any type of future.
 

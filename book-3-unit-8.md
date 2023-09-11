@@ -4,7 +4,7 @@ Un objeto directo es una persona o cosa que recibe la acción del verbo.
 Muchos verbos no pueden tener objeto: *nadar, trabajar...* (you can't swim or work something or someone).
 Pero muchos verbos normalmente tienen objeto: *comprar, cocinar, mirar,* etc.
 
-> In English: A direct object is a person or thing that receives the action of the verb.
+💂 A direct object is a person or thing that receives the action of the verb.
 Many verbs cannot have an object: *swim, work...* (you can't swim or work something or someone).
 But many verbs usually have an object: *buy, cook, watch,* etc.
 
