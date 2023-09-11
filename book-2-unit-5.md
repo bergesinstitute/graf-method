@@ -18,7 +18,7 @@ Verbs *poder* and *querer* are “stem-changing” verbs (verbs in which O becom
 in the present tense in all persons except *nosotros* and *vosotros*). 
 Here are their conjugations in the present tense.
 
-## Poder (can/to be able to), present tense
+## Poder (can/to be able to), presente
 
     Puedo
 
@@ -32,7 +32,7 @@ Here are their conjugations in the present tense.
 
     Pueden
 
-## Querer (to want), present tense
+## Querer (to want), presente
 
     Quiero
 
@@ -46,9 +46,9 @@ Here are their conjugations in the present tense.
 
     Quieren
 
-Verbs *poder* and *querer* are irregular in the past tense (*pretérito perfecto*):
+Verbs *poder* and *querer* are irregular in the preterite tense (*pretérito perfecto*):
 
-## Poder (can/to be able to), past tense
+## Poder (can/to be able to), pretérito perfecto
 
     Pude
 
@@ -62,7 +62,7 @@ Verbs *poder* and *querer* are irregular in the past tense (*pretérito perfecto
 
     Pudieron
 
-## Querer (to want), past tense
+## Querer (to want), pretérito perfecto
 
     Quise
 
@@ -77,7 +77,7 @@ Verbs *poder* and *querer* are irregular in the past tense (*pretérito perfecto
     Quisieron
 
 > Memorization tip: In the *pretérito perfecto* tense, *poder* has the same vowels as *tener,* and *querer* has 
-> the same vowels as *hacer*.
+the same vowels as *hacer*.
 
 ## Una paella 
 
@@ -140,7 +140,7 @@ J: Perfecto. Necesito practicar mucho.
 9. ¿Puedes correr 5 millas en menos de 40 minutos?
 10. ¿Necesitas tomar cafe por la mañana?
 
-## 3. Fill in the blanks using querer in the past tense
+## 3. Fill in the blanks using querer in the preterite tense
 
 1. El lunes pasado, yo _______ cantar.
 2. El martes, tú _________ bailar.
@@ -161,7 +161,7 @@ J: Perfecto. Necesito practicar mucho.
 9. ¿Necesitaste llamar al doctor?
 10. ¿Pudiste ir al gimnasio esta mañana?
 
-## 5. Yo puedo/yo no puedo
+## 5. Yo puedo / yo no puedo
 
 Yo puedo tocar (to play) la guitarra, yo puedo cocinar una pasta fantástica, yo puedo correr diez kilómetros, 
 yo puedo cantar más o menos bien, yo puedo escribir muchos emails por día.

@@ -1,6 +1,6 @@
-# Conocer & Saber (to know)
+# Conocer & saber (to know)
 
-## Conocer, present tense
+## Conocer, presente
 
     Conozco
 
@@ -14,7 +14,7 @@
 
     Conocen
 
-## Saber, present tense
+## Saber, presente
 
     Sé
 
@@ -30,7 +30,7 @@
 
 Both verbs are irregular in the first-person singular.
 
-## Conocer, past tense
+## Conocer, pretérito perfecto
 
     Conocí
 
@@ -44,7 +44,7 @@ Both verbs are irregular in the first-person singular.
 
     Conocieron
 
-## Saber, past tense
+## Saber, pretérito perfecto
 
     Supe
 
@@ -58,7 +58,7 @@ Both verbs are irregular in the first-person singular.
 
     Supieron
 
-In the past tense, *conocer* is regular, *saber* is irregular.
+In the preterite tense, *conocer* is regular, *saber* is irregular.
 
 ## Usage
 
@@ -101,9 +101,9 @@ We use it for skills (*knowing how to*) or for information (*knowing about somet
 *¿Sabes dónde vive Juan?* (Do you know where Juan lives?)
 
 > In the *pretérito perfecto* tense, we use *conocer* more frequently than *saber,* 
-> and most of the time for meeting someone for the first time. For most other situations, 
-> we use the present tense, since both verbs usually refer to facts (skills you have, 
-> people or places you know, etc.)
+and most of the time for meeting someone for the first time. For most other situations, 
+we use the present tense, since both verbs usually refer to facts (skills you have, 
+people or places you know, etc.)
 
 When we use *saber* with “information,” most of the time we are really using it with subordinate clauses, 
 which have a subject and a verb of their own. (*I know that Mary is tall. She knows that we live here. 

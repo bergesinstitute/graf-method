@@ -100,12 +100,12 @@ V: Estoy escribiendo un artículo y lavando mi ropa. Mi perro está comiendo.
 
 P: Muy bien. 
 
-# Spanish reflexive verbs in the past tense
+# Spanish reflexive verbs in the preterite
 
-We conjugate reflexive verbs in the past tense in the same way we do in the present tense 
+We conjugate reflexive verbs in the preterite tense in the same way we do in the present tense 
 (we first use the reflexive pronoun, and then we conjugate the verb, ignoring *se*).
 
-    Levantarse (to get up/to wake up)
+    Levantarse (to get up/to wake up), pretérito perfecto
 
     Me levanté
 
@@ -167,7 +167,7 @@ In the present tense:
 
 *Yo me voy de la fiesta.* I leave ("from") the party.
 
-In the past tense:
+In the preterite tense:
 
 *Yo fui a una fiesta ayer a las cinco.* I went to a party yesterday at five.
 

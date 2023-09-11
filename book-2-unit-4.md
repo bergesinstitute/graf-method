@@ -112,7 +112,7 @@ as *this one, these ones, that one* or *those ones,* respectively; we don't need
 - Vivir (to live)
 - Discutir (to argue)
 
-## 2. Write six sentences using regular verbs in the past tense
+## 2. Write six sentences using regular verbs in the preterite
 
 ## 3. Explain in detail everything you did last weekend (using antes and después)
 

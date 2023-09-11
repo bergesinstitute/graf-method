@@ -2,7 +2,7 @@
 
 ## Comparatives
 
-    Más (...) que - More (...) than/(adjective)+er than (taller than, shorter than, etc.)
+    Más (...) que - More (...) than / (adjective)+er than (taller than, shorter than, etc.)
 
     Menos (...) que - Less (...) than
 
@@ -24,7 +24,7 @@
 
 > Use it with adjectives only: *alto, feliz, cansado, guapa,* etc.
 
-    Tanto (...) como - As much (...) as/as many (...) as
+    Tanto (...) como - As much (...) as / as many (...) as
 
 When it relates to a verb, it's considered an adverb, so it doesn't change its number or gender. 
 Also, in this case, there is nothing between *tanto* and *como:*
@@ -37,7 +37,7 @@ When it relates to a noun, it's considered an adjective, so it needs to be adjus
 
 ## Superlatives
 
-    El más - The most/the (adjective)+est (the tallest, the shortest, etc.)
+    El más - The most / the (adjective)+est (the tallest, the shortest, etc.)
 
     El menos - The least
 
@@ -76,9 +76,9 @@ Yo voy a Vermont y a Nevada a veces, pero no voy tanto como mi hermano.
 
     Yo sé - I know
 
-# Verbs ir (to go), and hacer (to do/to make) in the past tense (pretérito perfecto)
+# Verbs ir (to go), and hacer (to do/to make) in the past tense, AKA preterite (pretérito perfecto)
 
-## Ir, past tense
+## Ir, pretérito perfecto
 
     Yo fui
 
@@ -92,7 +92,7 @@ Yo voy a Vermont y a Nevada a veces, pero no voy tanto como mi hermano.
 
     Ellos/Ellas/Ustedes fueron
 
-## Hacer, past tense
+## Hacer, pretérito perfecto
 
     Yo hice
 
@@ -106,9 +106,10 @@ Yo voy a Vermont y a Nevada a veces, pero no voy tanto como mi hermano.
 
     Ellos/Ellas/Ustedes hicieron
 
-# Spanish past tense
+# Spanish preterite (pretérito perfecto)
 
-We use the past tense, or *pretérito perfecto simple,* for events that happened at a specific point in 
+We use the past tense, also called *pretérito perfecto* in Spanish or *preterite* in English, 
+for events that happened at a specific point in 
 time in the past. We usually indicate this specific point by using a time expression.
 
 Here are some common past tense time expressions in Spanish:

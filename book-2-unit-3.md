@@ -1,4 +1,4 @@
-# Past tense examples
+# Preterite examples
 
 Again, we use the *pretérito perfecto* tense for events that happened at a specific point in time in the past. 
 We usually indicate that specific point by using a time expression:
@@ -31,9 +31,9 @@ M: ¿Qué hiciste ayer por la noche?
 
 J: Ayer por la noche fui al cine.
 
-# Verbs ser (to be), estar (to be), and tener (to have) in the past tense (pretérito perfecto)
+# Verbs ser (to be), estar (to be), and tener (to have) in the preterite (pretérito perfecto)
 
-## Ser, past tense
+## Ser, pretérito perfecto
 
     Yo fui
 
@@ -47,7 +47,7 @@ J: Ayer por la noche fui al cine.
 
     Ellos/Ellas/Ustedes fueron
 
-## Estar, past tense
+## Estar, pretérito perfecto
 
     Yo estuve
 
@@ -61,7 +61,7 @@ J: Ayer por la noche fui al cine.
 
     Ellos/Ellas/Ustedes estuvieron
 
-## Tener, past tense
+## Tener, pretérito perfecto
 
     Yo tuve
 
@@ -96,7 +96,7 @@ J: El viernes fui a New Jersey, a casa de mi abuela. Ella cocina mejor que yo, p
 
 P: No, nunca fui, no me gusta nadar (to swim).
 
-# Spanish regular verbs in the past tense
+# Spanish regular verbs in the preterite
 
 Regular verbs are divided into 3 categories based on their ending: *-ar, -er* and *-ir.* We are going to use 
 *cantar* (to sing), *comer* (to eat) and *abrir* (to open) as models. 
@@ -115,7 +115,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
     Ellos / Ellas / Ustedes
 
-## Cantar (to sing), past tense
+## Cantar (to sing), pretérito perfecto
 
     Canté
 
@@ -129,7 +129,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
     Cantaron
 
-## Comer (to eat), past tense
+## Comer (to eat), pretérito perfecto
 
     Comí
 
@@ -143,7 +143,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
     Comieron
 
-## Abrir (to open), past tense
+## Abrir (to open), pretérito perfecto
 
     Abrí
 
@@ -158,7 +158,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
     Abrieron
 
 > Notice how *-er* and *-ir* verbs have the same endings in this tense. Also, note how the first-person plural 
-> (nosotros) is identical to the present tense conjugation for *-ar* and *-ir* verbs.
+(nosotros) is identical to the present tense conjugation for *-ar* and *-ir* verbs.
 
 ## Examples
 
@@ -278,15 +278,15 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
     
     Vivir - to live
 
-> *In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first person 
-> singular: *llegué, pagué.*
->
+> *In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first-person 
+singular: *llegué, pagué.*
+
 > ***Llegar* always uses the preposition *a.* We arrive "to" places. *Llegué a la oficina* (I arrived at/in the office).
->
+
 > ***In the *pretérito perfecto* tense, *tocar* has a spelling change in the first-person singular: *toqué.*
->
+
 > ****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person 
-> singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
+singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
 
 # Conversación
 

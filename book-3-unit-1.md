@@ -1,6 +1,6 @@
 # Tense review
 
-## Presente
+## Presente (present)
 
 We use the present tense for habits or facts:
 
@@ -50,7 +50,7 @@ J: ¿Dónde está?
 
 B: Está en Manhattan.
 
-## Pretérito perfecto
+## Pretérito perfecto (preterite)
 
 We use the *pretérito perfecto* tense for events that happened at a specific point in time in the past that 
 we usually indicate by using a time expression.
@@ -83,7 +83,7 @@ a una persona muy simpática y el viernes bailé toda la noche. ¿Qué hiciste t
 R: Yo estuve en Boston de lunes a miércoles. Volví a Nueva York el jueves. El viernes fui a una fiesta
 en SoHo y el sábado dormí todo el día (all day).
 
-## Presente progresivo
+## Presente progresivo (present progressive)
 
 For actions that are currently happening, in English we use *to be* + verb-*ing* (it is raining, 
 Juan is eating, I am writing a book...).

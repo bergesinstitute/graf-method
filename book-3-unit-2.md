@@ -1,6 +1,6 @@
 # Pretérito imperfecto (imperfect tense)
 
-## Conjugación de verbos regulares (regular verbs conjugation)
+## Conjugación de verbos regulares (conjugation of regular verbs)
 
 ### Cantar
 
@@ -77,7 +77,7 @@ when we use the imperfect.
 
 > *Es un uso muy diferente del uso típico de *antes (de)/después (de)* como *before/after.* 
 
-> *💂This is a very different usage from the typical use of *antes (de)/después (de)* as *before/after.*
+> *💂 This is a very different usage from the typical use of *antes (de)/después (de)* as *before/after.*
 
 ## Usos del pretérito imperfecto (uses of the imperfect tense)
 

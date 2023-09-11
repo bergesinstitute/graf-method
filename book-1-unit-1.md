@@ -119,7 +119,7 @@ of women only, we use the feminine version. If it consists of men only or both m
 we use the masculine version (even if there are 50 women and one man!). To be inclusive, 
 we can use some gender-neutral formulas: *Nosotros y nosotras, nosotros/as* or *nosotr@s* are common ones.
 
-## Usted/Ustedes
+## Usted / Ustedes
 
 We have a second-person formal pronoun that we use to express courtesy or respect. It 
 has a second-person meaning, but it is conjugated in third person, since it comes from the 
