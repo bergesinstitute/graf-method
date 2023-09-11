@@ -222,7 +222,7 @@ without an object or have a direct object of "thing" type.
 
 *Odio a Javier.*
 
-*Paseo a mi perro.* (Los animales domésticos son personas gramaticalmente hablando. Pets are people grammatically speaking.)
+*Paseo a mi perro.* (Los animales domésticos son personas gramaticalmente hablando. 💂 Pets are people grammatically speaking.)
 
 *Visito a Juan en New Jersey.*
 

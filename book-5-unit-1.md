@@ -1,112 +1,150 @@
 # Repaso de conceptos básicos
 
-## Presente 
+## Presente (present)
 
-Lo usamos para cosas que hacemos normalmente (hábitos) o para hechos:
+Lo usamos para cosas que hacemos normalmente (hábitos) o para hechos.
 
-_Los lunes voy al supermercado._
+💂 We use it for things we normally do (habits) or for facts.
 
-_Mi tío tiene una casa en New Jersey._
+*Los lunes voy al supermercado.*
 
-## Pretérito Perfecto 
+*Mi tío tiene una casa en New Jersey.*
 
-Lo usamos para expresar acciones puntuales en el pasado: 
+## Pretérito perfecto (preterite)
 
-_Ayer a las siete y treinta comí una pizza._
+Lo usamos para expresar acciones puntuales en el pasado.
 
-_El lunes pasado mi amigo Luis llegó a la ciudad._
+💂 We use it to express punctual actions in the past.
 
-## Pretérito Imperfecto 
+*Ayer a las siete y treinta comí una pizza.*
+
+*El lunes pasado mi amigo Luis llegó a la ciudad.*
+
+## Pretérito imperfecto (imperfect)
 
 Tiene diferentes usos.
 
-### Hábito en pasado 
+💂 It has several uses.
 
-_Antes yo cantaba._ (In the past, I used to sing.)
+### Hábito en pasado (habit in the past)
 
-### Descripción en pasado 
+*Antes yo cantaba.* (In the past, I used to sing.)
 
-_El cielo estaba azul y María cantaba en el jardín._ (The sky was blue and María was singing in the garden.)
+### Descripción en pasado (description in the past)
 
-### Sentimientos (feelings) y estados físicos en el pasado (con el verbo estar) 
+*El cielo estaba azul y María cantaba en el jardín.* (The sky was blue and María was singing in the garden.)
 
-_Ayer Javier estaba enfermo._ (Javier was sick yesterday.)
+### Sentimientos (feelings) y estados físicos (physical states) en el pasado, usando el verbo estar 
 
-### Futuro 
+*Ayer Javier estaba enfermo.* (Javier was sick yesterday.)
+
+### Futuro (future)
 
 Podemos formar el futuro con ir (*yo voy a cantar*) o usar el tiempo verbal (*yo cantaré*). Su significado es el mismo.
 
-### Pronombres de Objeto Directo 
+💂 We can form the future with ir (*yo voy a cantar*) or use the verb tense (*yo cantaré*). Their meaning is the same.
+
+### Pronombres de objeto directo (direct object pronouns)
 
 Van con verbos que sólo pueden tener un objeto. Algunos verbos funcionan con personas, otros con “cosas”*, 
 y algunos con ambas. Los pronombres de tercera persona son *lo, la, los, las.*
 
-_Yo tengo un carro. Yo lo tengo._ 
+💂 They go with verbs that can only have one object. Some verbs work with people, some with "things "*,
+and some with both. Third-person pronouns are *lo, la, los, las.*
 
-_Yo amo a Laura. Yo la amo._
+*Yo tengo un carro. Yo lo tengo.* 
 
-> *Usamos “cosa” porque “objeto inanimado o concepto” puede crear confusión con el “objeto gramatical”.
+*Yo amo a Laura. Yo la amo.*
 
-### Pronombres de Objeto Indirecto
+> *Usamos el término “cosa” porque “objeto inanimado” puede crear confusión con el objeto gramatical.
+
+> *💂 We use the term "thing" because "inanimate object" can create confusion with the grammatical object.
+
+### Pronombres de objeto indirecto (indirect object pronouns)
 
 Van con verbos que aceptan dos objetos: una “cosa” (objeto directo) y una persona (objeto indirecto). 
 Algunos verbos típicos que aceptan estos dos objetos son *dar, contar, explicar, decir, regalar,* etc. 
 Los pronombres de tercera persona son *le, les.*
 
-_Yo regalo un libro a Laura. Yo le regalo un libro._
+💂 They go with verbs that accept two objects: a "thing" (direct object) and a person (indirect object).
+Some typical verbs that accept these two objects are *dar, contar, explicar, decir, regalar,* etc.
+Third-person pronouns are *le, les.*
 
-_Yo cuento una historia a Juan. Yo le cuento una historia._
+*Yo regalo un libro a Laura. Yo le regalo un libro.*
 
-### Pronombres dobles
+*Yo cuento una historia a Juan. Yo le cuento una historia.*
+
+### Pronombres dobles (double pronouns)
 
 Cuando usamos verbos que pueden tener dos objetos, podemos combinar los pronombres. Siempre ponemos primero a 
 la persona (el pronombre de objeto indirecto) y después la “cosa” (el pronombre de objeto directo). Cuando 
-tenemos una tercera persona, cambiamos *le/les* por *se:*
+tenemos una tercera persona, cambiamos *le/les* por *se.*
 
-_Juan me regala un libro. Juan me lo regala._ 
+💂 When we use verbs that can have two objects, we can combine the pronouns. We always put the person first
+(the indirect object pronoun) and then the "thing" (the direct object pronoun). When
+when we have a third person, we change *le/les* to *se.*
 
-_Yo le regalo un libro. Yo se lo regalo._
+*Juan me regala un libro. Juan me lo regala.* 
 
-_Yo le cuento una historia. Yo se la cuento._
+*Yo le regalo un libro. Yo se lo regalo.*
 
-### Verbos reflexivos
+*Yo le cuento una historia. Yo se la cuento.*
+
+### Verbos reflexivos (reflexive verbs)
 
 Debemos recordar que la tercera persona siempre usa el pronombre *se.* 
 
-_Pedro se levanta._ 
+💂 We must remember that the third person always uses the pronoun *se.*
 
-_María se mira en el espejo._ 
+*Pedro se levanta.* 
 
-_Ellos se duchan._
+*María se mira en el espejo.* 
 
-### Gustar
+*Ellos se duchan.*
+
+### Gustar (to please)
 
 Debemos recordar que la “cosa” o la persona que nos gusta es el sujeto de la oración. *He likes me* 
 se traduce como *(yo) le gusto. I like him* se traduce como *(él) me gusta.* Como sabemos, la tercera persona 
-siempre usa los pronombres *le/les:* 
+siempre usa los pronombres *le/les.* 
 
-_A mi amigo Pedro le gustan las manzanas._ 
+💂 We must remember that the "thing" or person we like is the subject of the sentence. *He likes me*
+translates as *(yo) le gusto. I like him* translates as *(él) me gusta.* As we know, the third person
+always uses the pronouns *le/les.*
 
-_A ellos les gusta nadar._
+*A mi amigo Pedro le gustan las manzanas.* 
 
-### Por/Para
+*A ellos les gusta nadar.*
 
-Usamos *para* para propósito, destino, trabajar para alguien, o *deadline.* 
+### Por/para
 
-Usamos *por* para intervalos de tiempo (por un día, por una hora, etc.), para intercambio (de dinero o de otra cosa), 
+Usamos *para* para propósito, destino, trabajar para alguien, o fechas de entrega. 
+
+💂 We use *para* for purpose, destination, working for someone, or deadlines.
+
+Usamos *por* para intervalos de tiempo (*por un día, por una hora,* etc.), para intercambio (de dinero o de otra cosa), 
 para razón (se traduce como *because of*) y para expresar *per* (millas por hora, porcentajes, etc).
 
-### Tiempos Compuestos 
+💂 We use *por* for time intervals (*por un día, por una hora,* etc.), for exchange (of money or something else),
+for reason (translated as *because of*) and to express *per* (miles per hour, percentages, etc).
+
+### Tiempos compuestos (compound tenses)
 
 Se forman con el verbo *haber.* Usamos el pretérito perfecto compuesto (*he cantado*) para expresar experiencia 
-o acciones que empezaron en el pasado y continúan:
+o acciones que empezaron en el pasado y continúan hasta hoy.
 
-_Yo he estado en Madrid tres veces._ (I have been to Madrid three times.)
+💂 They are formed with the verb *haber.* We use the *pretérito perfecto compuesto* tense (*he cantado*) to express experience
+or actions that began in the past and continue until today.
 
-_Yo he vivido en Brooklyn por cinco años._ (I have lived in Brooklyn for five years.)
+*Yo he estado en Madrid tres veces.* (I have been to Madrid three times.)
+
+*Yo he vivido en Brooklyn por cinco años.* (I have lived in Brooklyn for five years.)
 
 Usamos el pretérito pluscuamperfecto (*había cantado*) para indicar que una primera acción ya había sucedido 
-cuando la segunda sucedió:
+cuando la segunda sucedió.
+
+💂 We use the *pretérito pluscuamperfecto* tense (*había cantado*) to indicate that a first action had already happened
+when the second action happened.
 
 *Cuando José llegó al restaurante, yo ya me había ido.* 
 (I had already left by the time José arrived at the restaurant.)

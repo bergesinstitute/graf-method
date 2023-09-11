@@ -1,6 +1,6 @@
 # Repaso de tiempos verbales básicos (review of basic tenses)
 
-## Presente (present tense)
+## Presente (present)
 
 Usamos el presente para hábitos o hechos. 
 
