@@ -1,5 +1,7 @@
 # Preterite examples
 
+## Examples
+
 Again, we use the *pretérito perfecto* tense for events that happened at a specific point in time in the past. 
 We usually indicate that specific point by using a time expression:
 
@@ -97,6 +99,8 @@ J: El viernes fui a New Jersey, a casa de mi abuela. Ella cocina mejor que yo, p
 P: No, nunca fui, no me gusta nadar (to swim).
 
 # Spanish regular verbs in the preterite
+
+## Categories
 
 Regular verbs are divided into 3 categories based on their ending: *-ar, -er* and *-ir.* We are going to use 
 *cantar* (to sing), *comer* (to eat) and *abrir* (to open) as models. 

@@ -82,6 +82,8 @@ respectively. When they are adjectives, they need to match the noun's gender and
 
 # Basic use of the Spanish present tense
 
+## Use
+
 We use the present tense for habits or facts:
 
     Los martes trabajo en mi casa.

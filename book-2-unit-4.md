@@ -39,6 +39,8 @@ Also, *durante* cannot be used with verbs (we can't say *durante cenar,* we have
 
 # Spanish demonstrative adjectives and pronouns
 
+## Degrees
+
 While in English there are only two degrees of distance (here and there), in Spanish we have three degrees 
 of distance: *aquí* (here), *ahí* (there), and *allí/allá* (there, but further than ahí). 
 

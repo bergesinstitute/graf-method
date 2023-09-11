@@ -1,4 +1,7 @@
 # The Spanish alphabet
+
+## The alphabet
+
 The Spanish alphabet has 27 letters:
   
     A 
@@ -98,6 +101,8 @@ Translation: *Syrup, boss, manager, cat, people, gin, war, guitar, goldfinch.*
 > Whenever we need the U between G and E or between G and I to be pronounced, we need to add a diéresis on top of it: *pingüino, lingüística.*
 
 # Spanish personal pronouns
+
+## Basic pronouns
 
     First-Person Singular: Yo (I)
 
@@ -232,6 +237,8 @@ It is quite common for masculine and feminine nouns to end in those letters resp
 a rule. So, in order to memorize the gender of nouns, we are going to learn all of them together with the article.
 
 # Articles in Spanish
+
+## Article types
 
 There are two kinds of articles, both in Spanish and in English. In English, we have a definite 
 article (*the*) that we use for nouns that are identifiable by the listener. For example, if I tell 

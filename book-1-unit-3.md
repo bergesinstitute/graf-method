@@ -1,5 +1,7 @@
 # Tener (to have), present tense
 
+## Conjugation
+
     Yo tengo
 
     Tú tienes

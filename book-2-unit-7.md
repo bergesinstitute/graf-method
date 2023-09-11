@@ -44,6 +44,8 @@ using the third-person singular, but without a subject: *Hace.*
 
 # Spanish present progressive
 
+## El presente progresivo
+
 For actions that are currently happening, in English we use *to be* + verb-*ing* 
 (*it is raining, Juan is eating, I am writing a book...*).
 
@@ -102,6 +104,8 @@ P: Muy bien.
 
 # Spanish reflexive verbs in the preterite
 
+## How it works
+
 We conjugate reflexive verbs in the preterite tense in the same way we do in the present tense 
 (we first use the reflexive pronoun, and then we conjugate the verb, ignoring *se*).
 
@@ -143,6 +147,8 @@ Después del gimnasio, compré comida en el supermercado. Llegué a casa las och
 Cociné y miré la televisión. Me acosté las once de la noche. Fue un día casi perfecto.
 
 # Ir vs. irse
+
+## How it works
 
 Sometimes, when we take a verb, and we make it reflexive, the meaning completely changes. 
 That happens in English when adding prepositions: *to look*, for example, is different from *to look after*.

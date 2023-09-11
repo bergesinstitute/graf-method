@@ -26,7 +26,7 @@
 
     El apartamento - the apartment
 
-# There is/there are
+# There is / there are
 
 In Spanish, we use *hay* to express either *there is* or *there are*. It doesn't matter if it's masculine, 
 feminine, singular, or plural:
@@ -78,6 +78,8 @@ I: Mi cuarto es un armario.
 > **It is an idiomatic expression (lit. “Of what color are your chairs?”)
 
 # Spanish regular verbs ending in -ar
+
+## Categories
 
 Regular verbs are divided into 3 categories based on their ending: *-ar, -er* and *-ir*. 
 We are going to use *cantar* (to sing), *comer* (to eat) and *vivir* (to live) as models. 

@@ -40,6 +40,8 @@
 
 # Prepositions por & para (simplified)
 
+## Meaning
+
 *Por* and *para* are a little confusing because they both can be translated as *for.* But they have different uses. 
 Here are some basic ones:
 
@@ -82,6 +84,8 @@ All the other persons remain the same. This is the equivalent of *for me, for hi
     ¿Tienes un minuto para ella? (Do you have a minute for her?)
 
 # Verb gustar (to please)
+
+## How it works
 
 In Spanish, when we express the idea of liking things, we are not doing the action; we are receiving it 
 from whatever is being liked. This is easier to see if we think of the verb *to please:*

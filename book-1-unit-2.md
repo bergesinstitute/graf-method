@@ -1,5 +1,7 @@
 # Colors in Spanish
 
+## Colors
+
 Here are some basic adjectives: the colors. Some of them remain neutral (N) when they are used 
 with masculine and feminine nouns (but they still have plural):
 
@@ -32,6 +34,8 @@ Using blanco: *el piano es blanco, la guitarra es blanca, los pianos son blancos
 Using azul (N): *el piano es azul, la guitarra es azul, los pianos son azules, las guitarras son azules.*
 
 # Some common Spanish adjectives
+
+## Common adjectives
 
     Grande (N)/Pequeño - Big/Small
 
@@ -132,6 +136,8 @@ or tired. I am in New York, but Pedro is in London.)
 
 # Possessive adjectives in Spanish
 
+## Possessive adjectives
+
 Possessive adjectives show possession. In Spanish, we have different ones for one thing possessed 
 or more than one thing possessed.
 
@@ -189,7 +195,7 @@ Here's an easy formula:
 
 # Asking questions in Spanish
 
-Here are the interrogative pronouns:
+## Interrogative pronouns
 
     Qué - What
 
@@ -210,13 +216,13 @@ Here are the interrogative pronouns:
 They all have an accent (´) on their strong syllable.
 
 > *Cuál* is usually used before *es* (and other forms of *ser*) instead of *qué* when not seeking a definition:
-> *What's your phone number? ¿Cuál es tu número de teléfono?*
-> *What is your address? ¿Cuál es tu dirección?*
+*What's your phone number? ¿Cuál es tu número de teléfono?*
+*What is your address? ¿Cuál es tu dirección?*
 
 ## Example
 
 > When we speak, we frequently omit the personal pronoun, since it's implied in the conjugation of the verb: 
-> we say *estoy triste* instead of *yo estoy triste*, or *eres alto* instead of *tú eres alto*.
+we say *estoy triste* instead of *yo estoy triste*, or *eres alto* instead of *tú eres alto*.
 
     ¿De dónde eres? - Where are you from? (Lit. “From where are you?”)
 

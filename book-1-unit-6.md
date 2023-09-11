@@ -34,6 +34,8 @@
 
 # Numbers from 0 to 100 in Spanish
 
+## 1 through 30
+
     0 - Cero
 
     1 - Uno
@@ -96,7 +98,7 @@
 
     30 - Treinta
 
-## For over 30:
+## 31 through 100
 
     31 - Treinta y uno 
 
@@ -135,6 +137,8 @@
 79 - Setenta y nueve
 
 # Saying your age in Spanish
+
+## We use tener
 
 In Spanish, we use *tener* for age:
 

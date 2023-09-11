@@ -150,6 +150,8 @@ For personality traits, we usually use *ser* (even if they change sometimes).
 
 # Talking about your skin, hair and eyes in Spanish
 
+## We use tener
+
 To talk about our skin, hair, and eyes, we use *tener* (Juan has blue eyes, Marta has fair skin, 
 etc.). Here are some adjectives we can use for each:
 
@@ -249,6 +251,8 @@ ellos hacen una barbacoa (barbecue) en su patio. Entonces, sus hijos están muy 
 a ellos les gustan mucho las hamburguesas con queso.
 
 # Ser & estar beyond permanent vs. temporary
+
+## Identity and status/condition/location
 
 We could say that we use *ser* with permanent attributes and professions and *estar* with non-permanent 
 attributes and location, but it would be better to say that *ser* implies identity, while *estar* implies status, 
