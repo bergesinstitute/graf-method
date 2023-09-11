@@ -1,9 +1,12 @@
-# Imperativo (commands)
+# Imperativo en español (Spanish imperative, i.e. commands)
 
 El imperativo se puede formar con las siguientes personas: *tú, usted, nosotros, (vosotros), ustedes.* En las
-personas *tú* y *vosotros* la conjugación es diferente para el afirmativo y el negativo:
+personas *tú* y *vosotros* la conjugación es diferente para el afirmativo y el negativo.
 
-## Conjugación de verbos regulares
+The imperative can be formed with the following persons: *tú, usted, usted, nosotros, (vosotros), ustedes.* In the
+persons *tú* and *vosotros* the conjugation is different for the affirmative and the negative version.
+
+## Conjugación de verbos regulares (conjugation of regular verbs)
 
 ### Cantar
 
@@ -51,7 +54,11 @@ personas *tú* y *vosotros* la conjugación es diferente para el afirmativo y el
 
 La conjugación para *-ir* es la misma que para *-er.* Todas las formas, excepto *tú* y *vosotros* en su 
 versión afirmativa, utilizan subjuntivo. La versión informal afirmativa de la segunda persona del singular (*tú*) 
-es como la tercera persona del singular del presente simple (*él canta, él come*).
+es como la tercera persona del singular del presente de indicativo (*él canta, él come*).
+
+💂 The conjugation for *-ir* is the same as for *-er.* All forms, except *tú* and *vosotros* in their
+affirmative version, use the subjunctive. The informal affirmative version of the second-person singular (*tú*)
+is like the third-person singular of the present indicative (*él canta, él come*).
 
 ### Ejemplos
 
@@ -59,7 +66,7 @@ es como la tercera persona del singular del presente simple (*él canta, él com
 
 *Por favor, explique los hechos al jurado.* (Please explain the facts to the jury.)
 
-## Verbos irregulares en su forma imperativa "tú"
+## Verbos irregulares en su forma imperativa "tú" (irregular verbs in their imperative form for "tú")
 
 ### Decir
 
@@ -101,15 +108,19 @@ es como la tercera persona del singular del presente simple (*él canta, él com
 
 *No hagas nada. No digas nada.*
 
-## Pronombres e imperativo
+## Pronombres e imperativo (pronouns and imperative)
 
-Cuando tenemos un caso afirmativo, los pronombres van al final del verbo:
+Cuando tenemos una oración afirmativa, los pronombres van al final del verbo.
+
+💂 When we have an affirmative sentence, the pronouns go at the end of the verb.
 
 *Llama a María. Llámala.*
 
 *Cuenta la historia a Carlos. Cuéntale la historia. Cuéntasela.*
 
-Cuando tenemos un caso negativo, los pronombres van antes del verbo: 
+Cuando tenemos una oración negativa, los pronombres van antes del verbo.
+
+💂 When we have a negative sentence, the pronouns go before the verb.
 
 *No llames a María. No la llames.*
 
@@ -127,7 +138,9 @@ Cuando tenemos un caso negativo, los pronombres van antes del verbo:
 
 *Por favor, no cante.* (Please, don't sing.)
 
-Es muy común expresar mandatos en forma de pregunta modal:
+Es muy común expresar mandatos en forma de pregunta modal.
+
+💂 It is very common to express commands in the form of a modal question.
 
 *¿Puedes explicármelo?*
 
@@ -159,7 +172,7 @@ y, sobre todo, ¡no olvide ponerse protector solar!»
     
     Protector solar - sunscreen
 
-## ¿Cómo voy a la calle Serrano? (Giving directions in Spanish)
+##  Indicaciones en español (giving directions in Spanish)
 
     Ir todo recto - to go straight 
     
@@ -175,7 +188,9 @@ y, sobre todo, ¡no olvide ponerse protector solar!»
     
     La esquina - the corner
 
-Tenemos tres opciones:
+Tenemos tres opciones. 
+
+💂 We have three options.
 
 ### Opción 1: Imperativo, informal
 
@@ -187,7 +202,7 @@ cuando llegues a la esquina con Gran Vía, gira a la derecha. El museo está enf
 «Para llegar al museo, tome el tren F hasta Plaza de Cuzco. Desde la plaza, vaya todo recto por la calle San Juan y, 
 cuando llegue a la esquina con Gran Vía, gire a la derecha. El museo está enfrente de la biblioteca».
 
-### Opción 3: Presente. Es una manera muy informal, pero común.
+### Opción 3: Presente. Es una manera muy informal, pero común (it's informal, but common)
 
 «Para llegar al museo, tomas el tren F hasta la Plaza de Cuzco. Desde la plaza, vas todo recto por la calle San Juan y, 
 cuando llegues a la esquina con Gran Vía, giras a la derecha. El museo está enfrente de la biblioteca».

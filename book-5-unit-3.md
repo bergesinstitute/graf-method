@@ -1,6 +1,6 @@
-# Imperfecto de subjuntivo
+# Imperfecto de subjuntivo (imperfect subjunctive)
 
-## Verbos regulares
+## Conjugación de verbos regulares (conjugation of regular verbs)
 
 ### Cantar
 
@@ -45,6 +45,8 @@
     Vivieran
 
 > Los verbos *-ir* tienen la misma conjugación que los verbos *-er*.
+
+> 💂 The *-ir* verbs have the same conjugation as the *-er* verbs.
 
 ## Verbos irregulares importantes
 
@@ -122,18 +124,33 @@ Todos están formados a partir de la forma irregular del pretérito perfecto sim
 Tuve ✒ Tuviera.* Esto pasa con todos los verbos que son irregulares en pretérito perfecto: *Quiso ✒ Quisiera. 
 Pudimos ✒ Pudiéramos. Dieron ✒ Dieran.* Etc.
 
+💂 They are all formed from the irregular form of the *pretérito perfecto simple de indicativo:\* Hice ✒ Hiciera.
+Tuve ✒ Tuviera.* This happens with all verbs that are irregular in the preterite: *Quiso ✒ Quisiera.
+Pudimos ✒ Pudiéramos. Dieron ✒ Dieran.* Etc.
+
 > *Todo lo que no es subjuntivo se llama *indicativo*.
+
+> *💂 Everything that is not subjunctive is called *indicative*.
 
 > El imperfecto de subjuntivo tiene una forma alternativa que todavía está en uso: *cantase, cantases, 
 cantase, cantásemos, (cantaseis), cantasen. Comiese, comieses, comiese, comiésemos, (comieseis), comiesen.* 
 Es igual para los irregulares (*fuese, tuviese,* etc.)
 
-# Uso del subjuntivo en diferentes tiempos
+> 💂 The imperfect subjunctive has an alternative form that is still in use: *cantase, cantases,
+cantase, cantase, cantásemos, (cantaseis), canten. Comiese, comieses, comiese, comiésemos, (comieseis), comiesen.*
+It is the same for irregulars verbs (*fuese, tuviese,* etc.).
+
+# Uso de los diferentes tiempos de subjuntivo (use of the different subjunctive tenses)
 
 El subjuntivo no es tan completo como el indicativo: sólo tenemos dos tiempos: presente e imperfecto 
 (existen otros tiempos, pero están en desuso). Los usaremos de la siguiente manera:
 
+💂 The subjunctive is not as complete as the indicative: we only have two tenses: present and imperfect
+(there are other tenses, but they are in disuse). We will use them as follows:
+
 - Para presente o futuro: Usaremos presente de subjuntivo.
+
+💂 For present or future: We will use the present subjunctive.
 
 *Sé que Juan está en su casa. ✒ Dudo que Juan esté en su casa.*
 
@@ -141,7 +158,9 @@ El subjuntivo no es tan completo como el indicativo: sólo tenemos dos tiempos: 
 
 - Para pasado (imperfecto o perfecto, no importa): Usaremos imperfecto de subjuntivo.
 
-*Sé que Juan estuvo en su casa ayer a las cinco. ✒ Dudo que Juan estuviera en su casa ayer a las cinco.***
+💂 For past (imperfect or perfect, it doesn't matter): We will use imperfect subjunctive.
+
+*Sé que Juan estuvo en su casa ayer a las cinco. ✒ Dudo que Juan estuviera en su casa ayer a las cinco.**
 
 *Sé que Juan antes siempre estaba en su casa. ✒ Dudo que Juan antes siempre estuviera en su casa.*
 
@@ -149,12 +168,19 @@ El subjuntivo no es tan completo como el indicativo: sólo tenemos dos tiempos: 
 *deseo que mañana Juan llame* y *desearé que mañana Juan llame,* Juan estará igualmente llamando en el futuro, 
 no importa si yo lo deseo hoy o mañana.
 
-> **IDEM (same)
+> * 💂 The tense in which we doubt, wish, etc. need not correspond to the subjunctive one. In the sentences
+*deseo que mañana Juan llame* and *desearé que mañana Juan llame,* Juan will equally be calling in the future,
+it doesn't matter if I wish it today or tomorrow.
 
-# Verbos con modo subjuntivo irregular
+# Verbos con modo subjuntivo irregular (verbs with irregular subjunctive mood)
 
 Generalmente, los verbos que son irregulares en el presente o en el pretérito perfecto lo son en el 
-modo subjuntivo de la misma manera: *Yo me duermo ✒ Yo me duerma. Él quiso ✒ Él quisiera. 
+modo subjuntivo de la misma manera:
+
+💂 Generally, verbs that are irregular in the present or preterite tense are irregular in the
+subjunctive mood in the same way:
+
+*Yo me duermo ✒ Yo me duerma. Él quiso ✒ Él quisiera.
 Yo puedo ✒ Yo pueda. Nosotros dimos ✒ Nosotros diéramos. Yo supe ✒ Yo supiera.*
 
 ## Querer (presente de subjuntivo)
@@ -185,7 +211,11 @@ Yo puedo ✒ Yo pueda. Nosotros dimos ✒ Nosotros diéramos. Yo supe ✒ Yo sup
     
     Quisieran
 
-Hay una excepción: *Dije ✒ Dijera*
+Hay una excepción: 
+
+💂 There is one exception:
+
+*Dije ✒ Dijera*
 
 # Homework
 

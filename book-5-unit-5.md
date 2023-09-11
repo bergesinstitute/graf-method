@@ -1,9 +1,12 @@
 # El tiempo condicional (the conditional tense)
 
 El condicional, que en inglés se forma con *I would,* es en español un tiempo verbal. Igual que en el futuro, 
-el sufijo de conjugación se pone después del infinitivo del verbo:
+el sufijo de conjugación se pone después del infinitivo del verbo.
 
-## Conjugación
+💂 The conditional, which in English is formed with *I would,* is a verb tense in Spanish. As in the future,
+the conjugation suffix is placed after the infinitive form of the verb.
+
+## Conjugación de verbos regulares (conjugation of regular verbs)
 
 ### Cantar
 
@@ -74,9 +77,12 @@ Carmen: Creo que sería astronauta. Siempre me gustó la astrofísica. ¿Y tú?
 
 M: Sería detective. Siempre me gustaron las novelas negras.
 
-## Verbos con condicional irregular
+## Verbos con condicional irregular (verbs with irregular conditional form)
 
-Los verbos que son irregulares en el futuro lo son en el tiempo condicional de la misma manera: 
+Los verbos que son irregulares en el futuro lo son en el tiempo condicional de la misma manera:
+
+💂 Verbs that are irregular in the future tense are irregular in the conditional tense in the same way:
+
 *Yo diré ✒ Yo diría. Él tendrá ✒ Él tendría. Yo podré ✒ Yo podría. Yo sabré ✒ Yo sabría.*
 
 ### Tener (futuro)
@@ -149,28 +155,42 @@ En inglés:
 
 Usamos el verbo *haber* en condicional para construir el condicional compuesto (lo veremos más adelante).
 
+💂 We use the verb *haber* in the conditional to build the compound conditional (we will see it later).
+
 ## Construcciones condicionales
 
     Si - if
 
 ### Tipo 1: Todo en presente, o presente + futuro
 
-Lo usamos para hechos (facts) realistas:
+💂 Type 1: All in the present tense, or present + future
+
+Lo usamos para casos en los que el cumplimiento de la condición garantiza un resultado obvio.
+
+💂 We use it for cases in which the fulfillment of the condition guarantees an obvious result.
 
 *Si no estoy feliz, no trabajo bien.* (If I am not happy, I don't work well.)
 
 *Si te vas ahora, llegarás a tiempo al aeropuerto.* (If you leave now, you will arrive on time at the airport.)
 
-### Tipo 2: Suposición + condicional
+*Si no respiras, te mueres.* (If you don't breathe, you die.)
+
+### Tipo 2: Suposición imaginaria + condicional
+
+💂 Type 2: Imaginary supposition + conditional
 
 La suposición siempre va en imperfecto de subjuntivo*.
+
+💂 The supposition is always in the imperfect subjunctive tense*.
 
 *Si yo tuviera un millón de dólares, compraría una casa grande.* (If I had a million dollars, I would buy a
 large house.)
 
 *Si María llamara, le diría lo que pienso.* (If María called, I would tell her what I think.)
 
-A veces usamos primero el condicional y después la suposición:
+A veces usamos primero el condicional y después la suposición.
+
+💂 Sometimes we use the conditional first and then the supposition.
 
 *Compraría una casa grande si tuviera un millón de dólares.* (I would buy a large house if I had a million dollars.)
 
@@ -180,17 +200,20 @@ A veces usamos primero el condicional y después la suposición:
 the same way we “borrow” the past tense in English: *If I sang* = *Si yo cantara.* As we know, this is not the 
 standard use of the *imperfecto de subjuntivo* tense.
 
-### Tipo 3: What could have happened, but didn't happen (suposición en pasado)
+### Tipo 3: What could have happened, but didn't happen
 
 Para este último tipo de construcción condicional necesitamos usar el pluscuamperfecto de subjuntivo (*hubiera*) 
-y el condicional compuesto (*habría*):
+y el condicional compuesto (*habría*).
+
+💂 For this last type of conditional construction we need to use the *pluscuamperfecto de subjuntivo* tense (*hubiera*)
+and the compound conditional tense (*habría*).
 
 *Si hubiera sabido eso, no habría dicho nada.* (If I had known that, I would not have said anything.)
 
 *Si no me hubieras despertado a las cinco de la mañana, no habría estado tan cansado todo el día.* (If you
 had not woken me up at five in the morning, I would not have been so tired all day.)
 
-### Cuadro explicativo para tipos 2 y 3
+### Cuadro explicativo para tipos 2 y 3 (explanatory chart for types 2 and 3)
 
 #### Tipo 2
 
@@ -217,7 +240,10 @@ had not woken me up at five in the morning, I would not have been so tired all d
     Yo habría llegado más temprano si yo hubiera manejado más rápido.
 
 La suposición y el condicional son independientes, no tienen que ir en el mismo tiempo (es decir, 
-podemos combinar los tipos 2 y 3):
+podemos combinar los tipos 2 y 3).
+
+💂 The supposition and the conditional are independent, they do not have to go in the same tense (i.e.,
+we can combine types 2 and 3).
 
 *Si yo hubiera manejado más rápido, Sara no estaría enojada conmigo ahora.* 
 (If I had driven faster, Sara would not be mad at me now.)
@@ -228,7 +254,10 @@ podemos combinar los tipos 2 y 3):
 > Nota: en algunas regiones la gente usa la forma subjuntiva *hubiera* en lugar del condicional *habría: 
 Si yo hubiera manejado más rápido, yo hubiera llegado más temprano.* Es correcto, pero no recomendamos hacerlo.
 
-### Más ejemplos de condicionales de tipos 2 y 3
+> 💂 Note: in some regions people use the subjunctive form *hubiera* instead of the conditional *habría:
+Si yo hubiera manejado más rápido, yo hubiera llegado más temprano.* It is correct, but we do not recommend doing so.
+
+### Más ejemplos de condicionales de tipos 2 y 3 (more examples of type 2 and 3 conditionals)
 
 #### Tipo 2
 
@@ -258,24 +287,34 @@ Si yo hubiera manejado más rápido, yo hubiera llegado más temprano.* Es corre
 
 *Te lo podría haber dado si me hubieras llamado.* (I could have given it to you if you had called me.)
 
-#### Combinando tipo 2 y tipo 3
+> *En inglés, el verbo modal *could* puede funcionar como condicional sin necesidad del verbo modal
+*would: I would give it to you, I would tell you, I would be able to do that, I could do that.*
+(*Yo te lo daría, yo te lo diría, yo podría hacer eso, yo podría hacer eso,* respectivamente).
 
-Como dijimos, no siempre necesitamos que la suposición y el condicional estén en el mismo tiempo:
+> 💂 In English, the modal verb *could* can function as a conditional without the need for the modal verb
+*would: I would give it to you, I would tell you, I would be able to do that, I could do that.*
+(*Yo te lo daría, yo te lo diría, yo podría hacer eso, yo podría hacer eso,* respectively).
 
-*Si hubiera estudiado más, ahora tendría un trabajo.() (If I had studied more, I would have a job now.)
+#### Combinando tipo 2 y tipo 3 (combining type 2 and type 3)
 
-(Ahora tendría un trabajo si hubiera estudiado más.() (I would have a job now if I had studied more.)
+Como dijimos, no siempre necesitamos que la suposición y el condicional estén en el mismo tiempo.
+
+💂 As we said, we do not always need the supposition and the conditional to be in the same tense.
+
+*Si hubiera estudiado más, ahora tendría un trabajo.* (If I had studied more, I would have a job now.)
+
+*Ahora tendría un trabajo si hubiera estudiado más.* (I would have a job now if I had studied more.)
 
 *Si me hubieras llamado ayer, hoy no estaría aquí.* (If you had called me yesterday, I would not be here today.)
 
 *Hoy no estaría aquí si me hubieras llamado ayer.* (I would not be here today if you had called me yesterday.)
 
-> *En inglés, el verbo modal *could* puede funcionar como condicional sin necesidad del verbo modal 
-*would: I would give it to you, I would tell you, I would be able to do that, I could do that.* 
-(*Yo te lo daría, yo te lo diría, yo podría hacer eso, yo podría hacer eso,* respectivamente).
-
 > *Should,* que también tiene valor condicional en inglés sin necesidad de usar *would,* se traduce 
 siempre como *debería* (verbo *deber,* conjugado en condicional): *If you had a million dollars, 
+you should buy a large house. Si tuvieras un millón de dólares, deberías comprar una casa grande.*
+
+> 💂 *Should,* which also has a conditional value in English without the need to use *would,* is always translated
+as *debería* (verb *deber,* conjugated in the conditional tense): *If you had a million dollars,
 you should buy a large house. Si tuvieras un millón de dólares, deberías comprar una casa grande.*
 
 # Homework

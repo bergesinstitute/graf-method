@@ -5,6 +5,11 @@ En las construcciones pasivas, el objeto pasa a ser el sujeto, y el sujeto pasa 
 *by* en inglés). Siempre usamos el verbo *ser* + participio. El participio debe concordar con el sujeto en 
 género y en número.
 
+💂 In passive constructions, the object becomes the subject, and the subject becomes what is called the *agent.*
+This agent is always introduced by the preposition *por* (equivalent to
+*by* in English). We always use the verb *ser* + participle. The participle must agree with the subject in
+gender and number.
+
 *Juan come una manzana. Una manzana es comida por Juan.*
 (Juan eats an apple. An apple is eaten by Juan.)
 
@@ -13,13 +18,15 @@ género y en número.
 
 # Me encanta/me duele/me recuerda
 
-Algunos verbos funcionan igual que el verbo *gustar.* El objeto es el que hace la acción hacia la persona:
+Algunos verbos funcionan igual que el verbo *gustar.* El objeto es el que hace la acción hacia la persona.
+
+💂 Some verbs function the same as the verb *gustar.* The object is the one doing the action toward the person.
 
 ## Encantar
 
     Encantar - “to charm” (it really means “gustar mucho”)
 
-Decimos: “Apples charm me.” *Las manzanas me encantan.*
+Decimos: / 💂 We say: “Apples charm me.” *Las manzanas me encantan.*
 
     (A mí) me encanta / me encantan
     
@@ -37,7 +44,7 @@ Decimos: “Apples charm me.” *Las manzanas me encantan.*
 
     Doler - “to hurt”
 
-Decimos: “My hand hurts me.” *Me duele la mano.* (We don't usually say *mi mano,* it's implied).
+Decimos: / 💂 We say: “My hand hurts me.” *Me duele la mano.* (We don't usually say *mi mano,* it's implied).
 
     (A mí) me duele / me duelen
     
@@ -57,7 +64,7 @@ Decimos: “My hand hurts me.” *Me duele la mano.* (We don't usually say *mi m
 
 > *Also, *to remember/to recall* in other contexts
 
-Decimos: “This reminds me of that”. *Esto me recuerda eso.*
+Decimos: / 💂 We say: “This reminds me of that”. *Esto me recuerda eso.*
 
     (A mí) me recuerda / me recuerdan
     

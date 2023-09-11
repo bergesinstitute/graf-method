@@ -2,7 +2,11 @@
 
 Los adverbios interrogativos (*qué, cuándo, dónde,* etc.) pueden funcionar como adverbios relativos 
 (y en este caso no tienen acento). Funcionan igual que en inglés. Tradicionalmente usábamos todos, 
-pero es verdad que hoy usamos *que* más que *quien* cuando nos referimos a una persona:
+pero es verdad que hoy usamos *que* más que *quien* cuando nos referimos a una persona.
+
+💂 Interrogative adverbs (*qué, cuándo, dónde,* etc.) can function as relative adverbs
+(and in this case they do not have an accent). They function the same as in English. Traditionally we used all of them,
+but it is true that today we use *que* more than *quien* when referring to a person.
 
 *Este es el hombre que te llamó.*
 
@@ -16,11 +20,13 @@ pero es verdad que hoy usamos *que* más que *quien* cuando nos referimos a una 
 
 *Lo que* equivale a *what* cuando se refiere a una idea:
 
+💂 *Lo que* is equivalent to *what* when referring to an idea:
+
 *This is what I said. ✒ Esto es lo que dije.*
 
 *I hope you don't tell me what I already know. ✒ Espero que no me digas lo que ya sé.*
 
-# Tiempos compuestos en modo subjuntivo
+# Tiempos compuestos en modo subjuntivo (compound tenses in the subjunctive mood)
 
 ## Pretérito perfecto compuesto de subjuntivo
 
@@ -55,7 +61,10 @@ Con *comer* o *vivir: haya comido, hubiera comido, haya vivido, hubiera vivido.*
 ## Uso
 
 Los usamos de la misma manera que usamos los tiempos compuestos de indicativo, 
-pero en los casos que necesitan subjuntivo:
+pero en los casos que necesitan subjuntivo.
+
+💂 We use them in the same way we use the compound tenses of indicative,
+but in the cases that require the subjunctive.
 
 Indicativo: *Yo sé que Pedro ha estado en Brasil.*
 
@@ -69,9 +78,15 @@ Subjuntivo. *Llegué a la casa. No podía creer que María ya se hubiera ido al 
 todavía está en uso: *hubiese cantado, hubieses cantado, hubiese cantado, hubiésemos cantado, (hubieseis cantado), 
 hubiesen cantado.*
 
-# El verbo haber en todos los tiempos
+> 💂 Like the imperfect subjunctive, the *pluscuamperfecto de subjuntivo* tense has an alternative form that
+is still in use: *hubiese cantado, hubieses cantado, hubiese cantado, hubiésemos cantado, (hubieseis cantado),
+hubiesen cantado.*
+
+# El verbo haber en todos los tiempos (the verb haber in all tenses)
 
 (Excepto el condicional, que lo veremos más adelante.)
+
+💂 (Except for the conditional, which we will see later).
 
 ## Indicativo
 
@@ -117,12 +132,17 @@ hubiesen cantado.*
     
     Habrán
 
-### Nota sobre su uso
+### Nota sobre su uso (note about its use)
 
 Como sabemos, el verbo *haber* no podemos usarlo por sí mismo; siempre necesitamos usarlo con otro verbo 
 en participio, y entonces el tiempo cambia de nombre (*pretérito perfecto compuesto,* o *pretérito pluscuamperfecto,* 
 por ejemplo). No es importante memorizar los nombres de todos los tiempos compuestos, 
 pero sí es importante saber usarlos correctamente.
+
+💂 As we know, the verb *haber* cannot be used by itself; we always need to use it with another verb
+in participle form, and then the tense changes its name (*pretérito perfecto compuesto,* or *pretérito pluscuamperfecto,*
+for example). It is not important to memorize the names of all the compound tenses,
+but it is important to know how to use them correctly.
 
 ## Subjuntivo
 
@@ -160,14 +180,21 @@ Estos tiempos no tienen traducción al inglés; son el equivalente subjuntivo de
 de la misma manera que el presente de subjuntivo (*yo sea*) es el equivalente subjuntivo del presente de 
 indicativo (*yo soy*).
 
+💂 These tenses have no English translation; they are the subjunctive equivalent of the indicative compound tenses,
+in the same way that the present subjunctive (*yo sea*) is the subjunctive equivalent of the present
+indicative (*yo soy*).
+
 *Yo soy alto. Mi madre duda que yo sea alto.* (I'm tall. My mom doubts I'm tall.)
 
 *Yo he comido. Mi madre duda que yo haya comido.* (I have eaten. My mom doubts I have eaten.)
 
-# Adjetivos posesivos tónicos
+# Adjetivos posesivos tónicos (tonic possessive adjectives)
 
 Los adjetivos posesivos tónicos tienen género y número dependiendo del objeto poseído, y no de la persona que posee. 
 Se usan después del verbo ser para expresar posesión.
+
+💂 Tonic possessive adjectives have gender and number that depends on the object possessed, and not on the person who possesses.
+They are used after the verb *ser* to express possession.
 
 *La guitarra es mía. Los pianos son tuyos.* (The guitar is mine. The pianos are yours.) 
 
@@ -187,9 +214,11 @@ Se usan después del verbo ser para expresar posesión.
 
     Theirs/Yours (formal, plural): Suyo | Suya | Suyos | Suyas
 
-# Pronombres posesivos
+# Pronombres posesivos (possessive pronouns)
 
 Los pronombres posesivos son similares a los adjetivos posesivos tónicos, pero sustituyen a un sustantivo. 
+
+💂 Possessive pronouns are similar to tonic possessive adjectives, but they replace a noun.
 
 *Tu carro es rojo. El mío es negro.* (You car is red. Mine is black.)
 
