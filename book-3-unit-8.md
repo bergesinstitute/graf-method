@@ -1,5 +1,7 @@
 # Pronombres de objeto directo de tercera persona (direct object third-person pronouns)
 
+## Los pronombres de objeto directo
+
 Un objeto directo es una persona o cosa que recibe la acción del verbo.
 Muchos verbos no pueden tener objeto: *nadar, trabajar...* (you can't swim or work something or someone).
 Pero muchos verbos normalmente tienen objeto: *comprar, cocinar, mirar,* etc.
@@ -16,7 +18,9 @@ But many verbs usually have an object: *buy, cook, watch,* etc.
 
 *Sara llama a Pedro.*
 
-Podemos usar pronombres en lugar de estos objetos. We can use pronouns in place of these objects.
+Podemos usar pronombres en lugar de estos objetos. 
+
+💂 We can use pronouns in place of these objects.
 
     Lo
     
@@ -35,20 +39,30 @@ Podemos usar pronombres en lugar de estos objetos. We can use pronouns in place 
 *Sara llama a Pedro. ⇒ Sara lo llama. (Sara le llama*).*
 
 > *Está aceptado el uso de *le* cuando el objeto es una persona masculina: *Yo llamo a Juan. ⇒ Yo lo llamo. Yo le llamo.*
-Recomendamos usar siempre *lo.* It is accepted to use *le* when the object is a masculine person: *Yo llamo a Juan. ⇒ Yo lo llamo. Yo le llamo.*
-We recommend always using *lo.*.
+Recomendamos usar siempre *lo.* 
+ 
+> 💂 It is accepted to use *le* when the object is a masculine person: *Yo llamo a Juan. ⇒ Yo lo llamo. Yo le llamo.*
+We recommend always using *lo.*
 
 ## Pronombres de objeto directo con verbos en infinitivo y gerundio (direct object pronouns with verbs in infinitive and gerund form)
 
 Cuando usamos una construcción de dos verbos (*puedo llamar, tengo que comprar, necesito llevar,* etc.) 
 tenemos dos opciones.
-When we use a two-verb construction (*puedo llamar, tengo que comprar, necesito llevar,* etc.)
+
+💂 When we use a two-verb construction (*puedo llamar, tengo que comprar, necesito llevar,* etc.)
 we have two options.
 
-1. Podemos poner el pronombre antes del primer verbo. We can place the pronoun before the first verb. 
-*Juan necesita comprar un carro. ⇒ Juan lo necesita comprar.*
-2. Podemos poner el pronombre al final, unido al segundo verbo. We can place the pronoun at the end, attached to 
-the last verb. *Juan necesita comprar un carro. ⇒ Juan necesita comprarlo.*
+1. Podemos poner el pronombre antes del primer verbo.
+
+    💂 We can place the pronoun before the first verb. 
+
+    *Juan necesita comprar un carro. ⇒ Juan lo necesita comprar.*
+
+2. Podemos poner el pronombre al final, unido al segundo verbo.
+
+   💂 We can place the pronoun at the end, attached to the last verb. 
+
+   *Juan necesita comprar un carro. ⇒ Juan necesita comprarlo.*
 
 ## Conversación
 

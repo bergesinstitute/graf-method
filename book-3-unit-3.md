@@ -72,7 +72,8 @@ preterite. We usually use the prepositions *entre* (between) or *de/a* (from/to)
 # Mientras (while)
 
 Es muy común usar *mientras* con el pretérito imperfecto cuando hacemos un uso descriptivo.
-It is very common to use *mientras* with the imperfect tense when we make a descriptive use.
+
+💂 It is very common to use *mientras* with the imperfect tense when we make a descriptive use.
 
 While I was doing action A, action B was also happening.
 
@@ -116,7 +117,9 @@ queremos transmitir.
 # Cuadro explicativo (explanatory table): pretérito perfecto vs. pretérito imperfecto
 
 Como sabemos, para acciones que ocurrieron en un momento específico en el pasado, usamos siempre
-pretérito perfecto. As we know, for actions that took place at a specific time in the past, we always use
+pretérito perfecto. 
+
+💂 As we know, for actions that took place at a specific time in the past, we always use
 preterite.
 
 *I bought a house last year. - Compré una casa el año pasado.*
@@ -128,7 +131,9 @@ preterite.
 *Did you go? - ¿Fuiste?*
 
 Para todo lo demás (incluyendo ciertos verbos que en inglés van en *past simple* pero que no indican
-acción), usamos generalmente imperfecto. For everything else (including certain verbs that in English 
+acción), usamos generalmente imperfecto. 
+
+💂 For everything else (including certain verbs that in English 
 go in past simple but do not indicate action), we generally use the imperfect.
 
 *I knew that.*
@@ -177,7 +182,9 @@ because we normally use these verbs descriptively
 
 *Fui a casa de Juan, pero Juan no estaba allí.* (I went to Juan's house, but Juan wasn't there.)
 
-Pero podemos usar las versiones en pretérito perfecto cuando queremos hacer un uso temporal específico:
+Pero podemos usar las versiones en pretérito perfecto cuando queremos hacer un uso temporal específico.
+
+💂 But we can use the preterite versions when we want to make a specific temporal use.
 
 *De 1999 a 2003 yo fui abogado.*
 

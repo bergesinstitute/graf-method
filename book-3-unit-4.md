@@ -180,7 +180,9 @@ Sara: ¡De nada!
 
 [4] When using *por* as *because of,* we usually use it with a noun.
 
-# Sufijos (suffixes)
+# Sufijos diminutivos y aumentativos en español (diminutive and augmentative suffixes in Spanish)
+
+## Sufijos diminutivos y aumentativos
 
     -ito / -ita (tiene dos equivalentes: -ico and -illo)
 
@@ -195,14 +197,16 @@ sustantivos, adjetivos o adverbios.
 nouns, adjectives or adverbs.
 
 Cuando la palabra es un sustantivo, el sufijo tiene valor diminutivo.
-When the word is a noun, the suffix has diminutive value.
+
+💂 When the word is a noun, the suffix has diminutive value.
 
 Casa - house
 
 Casita - little house 
 
 Cuando la palabra es un adjetivo o un adverbio, el significado es más “suave”.
-When the word is an adjective or an adverb, the meaning is "softer".
+
+💂 When the word is an adjective or an adverb, the meaning is "softer".
 
 Gordo - fat (sounds stronger) 
 
@@ -215,7 +219,8 @@ Bajita - “a little short” (sounds softer)
     -ísimo / -ísima
 
 Tiene valor aumentativo. Solamente usamos este sufijo con adjetivos o adverbios.
-It has an augmentative value. We only use this suffix with adjectives or adverbs.
+
+💂 It has an augmentative value. We only use this suffix with adjectives or adverbs.
 
 *Marta es guapa.* (Marta is pretty.)
 
@@ -226,14 +231,17 @@ It has an augmentative value. We only use this suffix with adjectives or adverbs
 *Yo como muchísimo.* (I really eat a lot.)
 
 > No podemos usar todos los sufijos con todas las palabras. A veces podemos, a veces no. No existe una
-regla específica. We cannot use all suffixes with all words. Sometimes we can, sometimes we can't. 
+regla específica. 
+
+> 💂 We cannot use all suffixes with all words. Sometimes we can, sometimes we can't. 
 There is no specific rule.
 
 ## Uso de los sufijos con nombres propios (use of suffixes with proper names) 
 
 Es muy común usar los sufijos con los nombres propios para niños o adultos con los que hay un una
 relación estrecha.
-It is very common to use suffixes with proper names for children or adults with whom there is a close relationship.
+
+💂 It is very common to use suffixes with proper names for children or adults with whom there is a close relationship.
 
     Laura - Laurita
     
@@ -254,13 +262,17 @@ También comí el pescado con patatitas y cebollitas. Todo estaba delicioso.
 
 # Hubo y había
 
+## Dos versiones
+
 *Hay* (*there is/there are*) en pasado (*there was/there were*) tiene dos versiones.
-*Hay* (*there is/there are*) in the past tense (*there was/there were*) has two versions.
+
+💂 *Hay* (*there is/there are*) in the past tense (*there was/there were*) has two versions.
 
 ## Hubo (pretérito perfecto)
 
 Usamos esta versión para eventos o catástrofes que ocurrieron en un pasado muy puntual o exacto.
-We use this version for events or catastrophes that occurred in a very punctual or exact past.
+
+💂 We use this version for events or catastrophes that occurred in a very punctual or exact past.
 
 *El veinte de septiembre hubo un huracán en Florida.*
 
@@ -270,7 +282,8 @@ We use this version for events or catastrophes that occurred in a very punctual 
 
 Es la versión más común. Cuando usamos *there was/there were* normalmente
 hacemos un uso descriptivo, y para descripción en pasado normalmente en español usamos imperfecto.
-This is the most common version. When we use *there was/there were* normally we use it descriptively, 
+
+💂 This is the most common version. When we use *there was/there were* normally we use it descriptively, 
 and for descriptions in the past we normally use imperfect.
 
 *Había muchos libros en la mesa.*

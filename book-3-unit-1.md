@@ -111,6 +111,8 @@ MIKE: Yo estoy caminando en el parque y bebiendo mucha agua porque está haciend
 
 # Spanish stem-changing verbs
 
+## How it works
+
 In the present tense, some verbs have a stem change: a letter in its root changes in some grammatical 
 persons. There are two types of stem changes:
 

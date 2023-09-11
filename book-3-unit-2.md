@@ -48,10 +48,10 @@
 
 > 💂 Verbs *-er, -ir* use the same suffixes.
 
-En este tiempo verbal usamos las mismas expresiones habituales de tiempo que usamos en el presente simple, 
+En este tiempo verbal usamos las mismas expresiones habituales de tiempo que usamos en el presente, 
 pero refiriéndonos al pasado.
 
-💂 In this tense, we use the same habit time expressions we use in the present simple, 
+💂 In this tense, we use the same habit time expressions we use in the present tense, 
 but referring to the past.
 
     Siempre - always
@@ -341,7 +341,7 @@ español, normalmente va seguido de un infinitivo.
 
 💂 It is a stem-changing verb: *suelo, sueles, suele, solemos, (soléis), suelen*, meaning, more or less, to *usually do
 something,* to *tend to do something,* to *be accustomed to do something,* or in the imperfect tense, *used to do something.*
-Spanish, it is usually followed by an infinitive.
+In Spanish, it is usually followed by an infinitive.
 
 *Yo solía caminar en el parque los martes.* (I used to walk in the park on Tuesdays.)
 

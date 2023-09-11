@@ -1,5 +1,7 @@
 # Futuro (con el verbo ir)
 
+## How it works
+
 Podemos formar el futuro conjugando el verbo *ir* en presente. Es similar a la forma *going to* en inglés.
 Podemos usar esta forma para cualquier tipo de futuro.
 
@@ -13,7 +15,9 @@ We can use this form for any type of future.
 
 *Él va a venir el lunes.* (He will come on Monday.)
 
-Solamente necesitamos conjugar el verbo *ir.* We only need to conjugate the verb *ir.*
+Solamente necesitamos conjugar el verbo *ir.* 
+
+💂 We only need to conjugate the verb *ir.*
 
     Cantar
     
@@ -73,12 +77,15 @@ F: Sí, pero no tengo dinero. La semana que viene voy a ir a los museos y voy a 
 
 # Verbos reflexivos en todos los tiempos verbales (reflexive verbs in all tenses)
 
+## How it works
+
 Los verbos reflexivos se forman igualmente en todos los tiempos verbales. 
-Reflexive verbs are formed in the same way in all tenses.
+
+💂 Reflexive verbs are formed in the same way in all tenses.
 
 Para el verbo *levantarse:*
 
-## Presente
+### Presente
 
     Yo me levanto
     
@@ -92,7 +99,7 @@ Para el verbo *levantarse:*
     
     Ellos/ellas/uds. se levantan
 
-## Pretérito perfecto
+### Pretérito perfecto
 
     Yo me levanté
     
@@ -106,7 +113,7 @@ Para el verbo *levantarse:*
     
     Ellos/ellas/uds. se levantaron
 
-## Pretérito imperfecto
+### Pretérito imperfecto
 
     Yo me levantaba
     
@@ -120,7 +127,7 @@ Para el verbo *levantarse:*
     
     Ellos/ellas/uds. se levantaban
 
-## Futuro
+### Futuro
 
     Yo me voy a levantar
     
@@ -136,7 +143,9 @@ Para el verbo *levantarse:*
 
 ## Verbos reflexivos típicos
 
-Aquí tenemos algunos verbos reflexivos de uso habitual. Here are some commonly used reflexive verbs.
+Aquí tenemos algunos verbos reflexivos de uso habitual. 
+
+💂 Here are some commonly used reflexive verbs.
 
     Acostarse – to go to bed
     
@@ -160,9 +169,13 @@ Aquí tenemos algunos verbos reflexivos de uso habitual. Here are some commonly 
 
 ## Verbos reflexivos en infinitivo y gerundio (reflexive verbs in infinitive and gerund)
 
-Tenemos dos opciones. We have two options.
+Tenemos dos opciones. 
 
-- Podemos poner el pronombre antes del primer verbo. We can place the pronoun before the first verb.
+💂 We have two options.
+
+- Podemos poner el pronombre antes del primer verbo. 
+
+💂 We can place the pronoun before the first verb.
 
 *Yo me voy a levantar a las 8 de la mañana.* (I am going to wake up at 8AM.)
 
@@ -172,7 +185,9 @@ Tenemos dos opciones. We have two options.
 
 *Nosotros nos estamos mirando en el espejo.* (We are looking at ourselves in the mirror.)
 
-- Podemos poner el pronombre al final, unido al último verbo. We can place the pronoun at the end, attached to the last verb.
+- Podemos poner el pronombre al final, unido al último verbo. 
+
+💂 We can place the pronoun at the end, attached to the last verb.
 
 *Yo voy a levantarme a las 8 de la mañana.* 
 
