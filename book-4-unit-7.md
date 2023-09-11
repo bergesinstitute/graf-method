@@ -4,8 +4,8 @@ Con un uso muy similar al pluscuamperfecto, podemos construir en español un fut
 (equivale al *future perfect* en inglés, *I will have* + participle). Al igual que en inglés, 
 usamos este tiempo para indicar que una acción en el futuro va a suceder y terminar antes que otra.
 
-> In English: With a very similar usage to the past perfect, we can construct in Spanish a compound future tense
-(equivalent to future perfect in English, *I will have* + participle). As in English,
+💂 With a very similar usage to the past perfect, we can build in Spanish a compound future tense
+(equivalent to the future perfect in English, *I will have* + participle). As in English,
 we use this tense to indicate that one action in the future is going to happen and end before another.
 
 *By the time Juan gets here, I will have already finished my essay.*
@@ -15,7 +15,7 @@ el modo subjuntivo (se verá en el volumen 5) en español. Así que, por ahora, 
 tiempo de manera completa. Podemos usarlo utilizando días u horas como referencia, no teniendo un 
 verbo en la acción que sucede más tarde.
 
-> In English: The problem is that the action that happens second (*by the time Juan gets here*) 
+💂 The problem is that the action that happens second (*by the time Juan gets here*) 
 needs to use the subjunctive mood (which will be seen in volume 5) in Spanish.
 So, for now, we cannot use this tense completely.
 We can use it by using days or hours as a reference, not having a verb in the action that happens later.
@@ -26,7 +26,8 @@ We can use it by using days or hours as a reference, not having a verb in the ac
 station). (Lit. "At 7".)
 
 Aquí está la conjugación del futuro compuesto, para el verbo *manejar:* 
-/ Here is the conjugation of the future perfect tense, for the verb *manejar:*.
+
+💂 Here is the conjugation of the future perfect tense, for the verb *manejar:*.
 
     Habré manejado 
     
@@ -41,13 +42,14 @@ Aquí está la conjugación del futuro compuesto, para el verbo *manejar:*
     Habrán manejado
 
 Se traduce como *I will have driven, you will have driven,* etc.
-It translates as *I will have driven, you will have driven,* etc.
+
+💂 It translates as *I will have driven, you will have driven,* etc.
 
 > Existe un cuarto tiempo compuesto llamado *pretérito anterior* (hube manejado, hubiste manejado, 
 hubo manejado, hubimos manejado, hubieron manejado). Este tiempo está en desuso. Cuando hablamos 
 en pasado, usamos siempre el pretérito pluscuamperfecto que hemos estado estudiando.
 
-> In English: There is a fourth compound tense called *pretérito anterior* (*hube manejado, hubiste manejado,
+> 💂 There is a fourth compound tense called *pretérito anterior* (*hube manejado, hubiste manejado,
 hubo manejado, hubimos manejado, hubieron manejado*). This tense is in disuse. When we speak
 in the past, we always use the *pretérito pluscuamperfecto* that we have been studying.
 
@@ -56,7 +58,7 @@ in the past, we always use the *pretérito pluscuamperfecto* that we have been s
 Dijimos anteriormente que no podemos romper nunca el núcleo verbal (no podemos poner nada entre el verbo haber 
 y el participio). Siempre tendremos los pronombres justo antes del núcleo verbal.
 
-> In English: We said earlier that we can never break the verbal nucleus (we cannot put anything between the verb *haber* and the participle).
+💂 We said earlier that we can never break the verbal nucleus (we cannot put anything between the verb *haber* and the participle).
 We will always have the pronouns just before the verbal nucleus.
 
 *Juan ha dado una rosa a María. Juan le ha dado una rosa. Juan se la ha dado.*
@@ -72,7 +74,7 @@ Los tiempos compuestos no se consideran una construcción de dos verbos. No tene
 poner el pronombre al final del segundo verbo. En cambio, si combinamos tiempos compuestos con 
 progresivos (*estar* + gerundio), sí que tenemos las dos opciones.
 
-> In English: Compound tenses are not considered a two-verb construction. We do not have the option of
+💂 Compound tenses are not considered a two-verb construction. We do not have the option of
 placing the pronoun at the end of the second verb. On the other hand, if we combine compound tenses with
 progressive tenses (*estar* + gerund), we do have both options.
 

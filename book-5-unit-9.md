@@ -5,3 +5,5 @@ Go over units 1-8 and review everything until you know it to the point where you
 # Homework
 
 Escribe un artículo de opinión sobre lo que tú quieras.
+
+💂 Write an opinion article about anything you want.

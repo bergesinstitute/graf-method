@@ -385,7 +385,7 @@ las palabras “Ábrete, Sésamo”.
 [22] Pegarse - to stick
 [23] Asunto - matter/business 
 [24] It seems
-[25] It’s not your business
+[25] It's not your business
 [26] Greedy
 [27] Share
 [28] Place

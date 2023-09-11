@@ -48,6 +48,8 @@
 
 > 💂 Verbs *-er, -ir* use the same suffixes.
 
+## Expresiones
+
 En este tiempo verbal usamos las mismas expresiones habituales de tiempo que usamos en el presente, 
 pero refiriéndonos al pasado.
 
@@ -101,7 +103,7 @@ Cuando narramos en el pasado y añadimos descripciones, éstas deben usar el imp
 lo combinamos con el pretérito perfecto; básicamente usamos el pretérito perfecto para acciones y 
 el imperfecto para descripciones. En inglés significa más o menos *I was* + verb *-ing.*
 
-💂 When we narrate in the past and add descriptions, they must use the imperfect tense. Normally,
+💂 When we narrate in the past and add descriptions, they must use the imperfect tense. Usually,
 we combine it with the preterite; basically we use the preterite for actions and the imperfect for descriptions.
 the imperfect for descriptions. In English it roughly means *I was* + verb *-ing:*.
 

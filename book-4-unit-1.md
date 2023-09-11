@@ -2,7 +2,9 @@
 
 ## Presente (present tense)
 
-Usamos el presente para hábitos o hechos. We use the present tense for habits or facts.
+Usamos el presente para hábitos o hechos. 
+
+💂 We use the present tense for habits or facts.
 
 *Los martes voy al gimnasio.* 
 
@@ -13,7 +15,8 @@ Usamos el presente para hábitos o hechos. We use the present tense for habits o
 *Mi tío es de California.*
 
 Aquí tenemos algunas expresiones temporales que típicamente usamos con el presente.
-Here are some time expressions that we typically use with the present tense.
+
+💂 Here are some time expressions that we typically use with the present tense.
 
     Normalmente 
     
@@ -55,7 +58,8 @@ A: Muy interesante.
 ## Pretérito perfecto (preterite)
 
 Usamos el pretérito perfecto para narrar acciones específicas en el pasado.
-We use the preterite to narrate specific actions in the past.
+
+💂 We use the preterite to narrate specific actions in the past.
 
 *Ayer cené en un restaurante.*
 
@@ -64,7 +68,8 @@ We use the preterite to narrate specific actions in the past.
 *El catorce de junio de dos mil doce compré una casa.*
 
 Aquí tenemos algunas expresiones temporales que típicamente usamos con el pretérito perfecto.
-Here are some time expressions that we typically use with the preterite.
+
+💂 Here are some time expressions that we typically use with the preterite.
 
     Ayer
     
@@ -102,10 +107,13 @@ nada, pero esta mañana desayuné en un restaurante con mi amiga Ann.
 
 Para las acciones que están sucediendo en este momento, usamos los verbos en gerundio precedidos
 por el verbo *estar,* conjugado.
-For actions that are happening at the moment, we use verbs in the gerund form preceded by
+
+💂 For actions that are happening at the moment, we use verbs in the gerund form preceded by
 the verb *estar,* conjugated.
 
-Para construir el gerundio, en español, añadimos: / To build the gerund, in Spanish, we add:
+Para construir el gerundio, en español, añadimos:
+
+💂 To build the gerund, in Spanish, we add:
 
     -ando a la raíz de los verbos -ar / -ando to the root of -ar verbs
 
@@ -115,7 +123,9 @@ Para construir el gerundio, en español, añadimos: / To build the gerund, in Sp
 
 *Nosotros estamos comiendo. Usted está abriendo la puerta.*
 
-Expresiones temporales típicas / typical time expressions:
+Expresiones temporales típicas
+
+💂 Typical time expressions:
 
     Ahora 
     
@@ -137,7 +147,8 @@ bastante (quite) bien, en general.
 
 Usamos el pretérito imperfecto para expresar un pasado habitual o descriptivo. Estos son los usos
 más típicos.
-We use the imperfect to express a habitual or descriptive past. These are the most typical uses.
+
+💂 We use the imperfect to express a habitual or descriptive past. These are the most typical uses.
 
 - Hábito (habit):
 
@@ -195,7 +206,9 @@ N: Ya veo.
 ## Futuro, con el verbo ir (future, with the verb ir)
 
 Usamos el futuro para expresar acciones futuras. Como sabemos, podemos construir el futuro usando
-la siguiente fórmula: / We use the future to express future actions. As we know, we can construct the future using
+la siguiente fórmula:
+
+💂 We use the future to express future actions. As we know, we can construct the future using
 the following formula:
 
     Verbo *ir,* conjugado + a + verbo de acción / Verb *ir,* conjugated + a + action verb
@@ -207,7 +220,8 @@ the following formula:
 *Nosotros vamos a estudiar para el examen.* 
 
 Aquí tenemos algunas expresiones temporales que típicamente usamos con el futuro.
-Here are some temporal expressions that we typically use with the future tense.
+
+💂 Here are some temporal expressions that we typically use with the future tense.
 
     Mañana
     
@@ -246,6 +260,10 @@ A: Mi avión aterriza (lands) a las siete de la tarde.*
 > *Igual que en inglés, es común en español usar el presente con valor de futuro. *María llega a las siete* (mañana). 
 *Juan está aquí desde el martes hasta el domingo* (próximos). Hacemos esto, tanto en inglés como en español, 
 cuando queremos enfatizar la información más que la acción. *The restaurant opens at 7* (tonight). *My train leaves at 6 pm.*
+
+> *💂 As in English, it is common in Spanish to use the present tense with a future value. *María llega a las siete* (tomorrow).
+*Juan está aquí desde el martes hasta el domingo* (next Tuesday through next Sunday). We do this in both English and Spanish
+when we want to emphasize the information rather than the action. *The restaurant opens at 7* (tonight). *My train leaves at 6 pm.* (tonight).
 
 # Homework
 

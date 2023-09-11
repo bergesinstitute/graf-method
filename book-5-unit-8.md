@@ -37,7 +37,7 @@ Decimos: “Apples charm me.” *Las manzanas me encantan.*
 
     Doler - “to hurt”
 
-Decimos: “My hand hurts me.” *Me duele la mano.* (We don’t usually say *mi mano,* it’s implied).
+Decimos: “My hand hurts me.” *Me duele la mano.* (We don't usually say *mi mano,* it's implied).
 
     (A mí) me duele / me duelen
     
