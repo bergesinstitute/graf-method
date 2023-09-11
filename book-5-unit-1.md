@@ -4,7 +4,7 @@
 
 Lo usamos para cosas que hacemos normalmente (hábitos) o para hechos.
 
-💂 We use it for things we normally do (habits) or for facts.
+💂 We use it for things we usually do (habits) or for facts.
 
 *Los lunes voy al supermercado.*
 
@@ -38,13 +38,13 @@ Tiene diferentes usos.
 
 *Ayer Javier estaba enfermo.* (Javier was sick yesterday.)
 
-### Futuro (future)
+## Futuro (future)
 
 Podemos formar el futuro con ir (*yo voy a cantar*) o usar el tiempo verbal (*yo cantaré*). Su significado es el mismo.
 
 💂 We can form the future with ir (*yo voy a cantar*) or use the verb tense (*yo cantaré*). Their meaning is the same.
 
-### Pronombres de objeto directo (direct object pronouns)
+## Pronombres de objeto directo (direct object pronouns)
 
 Van con verbos que sólo pueden tener un objeto. Algunos verbos funcionan con personas, otros con “cosas”*, 
 y algunos con ambas. Los pronombres de tercera persona son *lo, la, los, las.*
@@ -60,7 +60,7 @@ and some with both. Third-person pronouns are *lo, la, los, las.*
 
 > *💂 We use the term "thing" because "inanimate object" can create confusion with the grammatical object.
 
-### Pronombres de objeto indirecto (indirect object pronouns)
+## Pronombres de objeto indirecto (indirect object pronouns)
 
 Van con verbos que aceptan dos objetos: una “cosa” (objeto directo) y una persona (objeto indirecto). 
 Algunos verbos típicos que aceptan estos dos objetos son *dar, contar, explicar, decir, regalar,* etc. 
@@ -74,7 +74,7 @@ Third-person pronouns are *le, les.*
 
 *Yo cuento una historia a Juan. Yo le cuento una historia.*
 
-### Pronombres dobles (double pronouns)
+## Pronombres dobles (double pronouns)
 
 Cuando usamos verbos que pueden tener dos objetos, podemos combinar los pronombres. Siempre ponemos primero a 
 la persona (el pronombre de objeto indirecto) y después la “cosa” (el pronombre de objeto directo). Cuando 
@@ -90,7 +90,7 @@ when we have a third person, we change *le/les* to *se.*
 
 *Yo le cuento una historia. Yo se la cuento.*
 
-### Verbos reflexivos (reflexive verbs)
+## Verbos reflexivos (reflexive verbs)
 
 Debemos recordar que la tercera persona siempre usa el pronombre *se.* 
 
@@ -102,7 +102,7 @@ Debemos recordar que la tercera persona siempre usa el pronombre *se.*
 
 *Ellos se duchan.*
 
-### Gustar (to please)
+## Gustar (to please)
 
 Debemos recordar que la “cosa” o la persona que nos gusta es el sujeto de la oración. *He likes me* 
 se traduce como *(yo) le gusto. I like him* se traduce como *(él) me gusta.* Como sabemos, la tercera persona 
@@ -116,7 +116,7 @@ always uses the pronouns *le/les.*
 
 *A ellos les gusta nadar.*
 
-### Por/para
+## Por/para
 
 Usamos *para* para propósito, destino, trabajar para alguien, o fechas de entrega. 
 
@@ -128,7 +128,7 @@ para razón (se traduce como *because of*) y para expresar *per* (millas por hor
 💂 We use *por* for time intervals (*por un día, por una hora,* etc.), for exchange (of money or something else),
 for reason (translated as *because of*) and to express *per* (miles per hour, percentages, etc).
 
-### Tiempos compuestos (compound tenses)
+## Tiempos compuestos (compound tenses)
 
 Se forman con el verbo *haber.* Usamos el pretérito perfecto compuesto (*he cantado*) para expresar experiencia 
 o acciones que empezaron en el pasado y continúan hasta hoy.
