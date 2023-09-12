@@ -194,7 +194,9 @@ J: En la calle ochenta y ocho con la novena.
 18. I think (that) you have to study more.
 19. I always have fun on Saturday nights.
 
-## 2. Choose a person. Describe this person in a very exaggerated manner, heavily using the suffix -ísimo/a.
+## 2. Write a short essay
+
+Choose a person. Describe this person in a very exaggerated manner, heavily using the suffix *-ísimo/a.*
 
 ## 3. Traducir
 

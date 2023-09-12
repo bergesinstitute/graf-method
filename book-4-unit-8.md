@@ -134,29 +134,21 @@ to translate the preposition *for* as *por* or *para.* The verb *pedir* has a co
 
 ## 2. En las traducciones al español anteriores, identificar con un círculo el objeto indirecto
 
+💂 In the Spanish translations above, circle the indirect object.
+
 > Nota: cuando usamos preguntar con la preposición *sobre,* técnicamente estamos usando el verbo con objeto 
 indirecto (*a Juan, a su primo,* etc.) pero sin objeto directo (todo lo que va después de *sobre* se denomina 
 *complemento preposicional,* y no se puede considerar objeto). El verbo *preguntar* es un verbo muy especial 
 que nos permite hacer esto. Como sabemos, en general, cuando un verbo admite objeto indirecto 
 (“a una persona”) necesita también objeto directo (“una cosa”).
 
-## 3. Tienes que hacer una entrevista a una persona famosa que tú admiras mucho para la revista Rolling Stone. ¿Qué le preguntas?
+> 💂 Note: when we use preguntar with the preposition *sobre,* we are technically using the verb with an
+indirect object (*a Juan, a su primo,* etc.) but without a direct object (everything after *sobre* is called a
+*prepositional complement,* and cannot be considered an object). The verb *preguntar* is a very special verb
+that allows us to do this. As we know, in general, when a verb admits indirect objects
+("to a person") it also needs a direct object ("a thing").
 
-- Pregunta 1:
-- Pregunta 2:
-- Pregunta 3:
-- Pregunta 4:
-- Pregunta 5:
-
-## 4. Encuentras una lámpara mágica en el desierto con un genio (a jinn). Puedes pedir cinco deseos (wishes). ¿Qué le pides?
-
-- Deseo 1:
-- Deseo 2:
-- Deseo 3:
-- Deseo 4:
-- Deseo 5:
-
-## 5. Seleccionar la opción correcta
+## 3. Seleccionar la opción correcta
 
 1. Yo te quiero preguntar/pedir un favor.
 2. ¿Te envié los documentos que me preguntaste/pediste?
@@ -164,7 +156,40 @@ que nos permite hacer esto. Como sabemos, en general, cuando un verbo admite obj
 4. Juan preguntó/pidió pizza en el restaurante Pakistaní.
 5. El filósofo siempre nos preguntaba/pedía cuestiones trascendentales.
 
-## 6. Escribir 3 oraciones con pedir y 3 con preguntar
+## 4. Escribir 3 oraciones con pedir y 3 con preguntar
+
+## 5. Repaso de pronombres de OD A
+
+A. Con cosas. Completar.
+
+1. Lavo las sábanas (the sheets). ___ lavo.
+2. Miguel tenía muchos gatos. Miguel ___ tenía.
+3. Haré la tarea esta noche. ___ haré esta noche.
+4. Nunca he comprado una casa. Nunca ___ he comprado.
+5. Ella ya había hecho la tarea. Ella ya ___ había hecho.
+
+B. Con personas. Completar.
+
+1. Silvia ama a su gato Chip. Silvia ___ ama.
+2. Antes, yo llamaba a mi tío y a mi tía cada día. Yo ___ llamaba cada día.
+3. Ayer por la noche María conoció a Juan. Ayer, María ___ conoció.
+4. Mañana ayudaré a Luis con el proyecto. Mañana ___ ayudaré.
+5. La semana pasada visité a mis hermanas en Buffalo. La semana pasada ___ visité.
+6. ¿Conoces a Michael? ¿___ conoces?
+
+## 6. Repaso de pronombres de OI y pronombres dobles
+
+1. Envié una postal a Tomás. ___ envié una postal. ___ ___ envié.
+2. Pedimos un favor a Miguel. ___ pedimos un favor. ___ ___ pedimos.
+3. Preguntamos a Javier sobre el asunto. ___ preguntamos sobre el asunto.
+4. Mañana le daré las llaves de su nuevo apartamento. Mañana ___ ___ daré.
+5. Ismael nos explicará el procedimiento. Ismael ___ ___ explicará.
+6. Bruno nunca me ha pedido un favor. Bruno nunca ___ ___ ha pedido.
+7. Esteban dio una excusa a su entrenador personal. Esteban ___ dio una excusa. Esteban ___ ___ dio.
+8. ¿Cuándo me vas a enviar el formulario? ¿Cuándo ___ ___ vas a enviar? ¿Cuándo vas a enviár___ ___?
+9. Nos enseñará su programa esta noche. ___ ___ enseñará.
+10. Juan regaló un libro a su compañero de cuarto. Juan ___ regaló un libro. Juan ___ ___ regaló.
+11. Alberto contó la historia a Jaime. Alberto ___ contó la historia. Alberto ___ ___ contó.
 
 ## 7. Comentario de texto
 
@@ -363,36 +388,3 @@ encontrarlos en las almohadas de plumas.
 5. ¿Qué comía el animal de la almohada?
 6. ¿La historia termina bien o mal?
 7. ¿Qué piensas de la moraleja de la historia?
-
-## 8. Repaso de pronombres de OD A
-
-A. Con cosas. Completar.
-
-1. Lavo las sábanas (the sheets). ___ lavo.
-2. Miguel tenía muchos gatos. Miguel ___ tenía.
-3. Haré la tarea esta noche. ___ haré esta noche.
-4. Nunca he comprado una casa. Nunca ___ he comprado.
-5. Ella ya había hecho la tarea. Ella ya ___ había hecho.
-
-B. Con personas. Completar.
-
-1. Silvia ama a su gato Chip. Silvia ___ ama.
-2. Antes, yo llamaba a mi tío y a mi tía cada día. Yo ___ llamaba cada día.
-3. Ayer por la noche María conoció a Juan. Ayer, María ___ conoció.
-4. Mañana ayudaré a Luis con el proyecto. Mañana ___ ayudaré.
-5. La semana pasada visité a mis hermanas en Buffalo. La semana pasada ___ visité.
-6. ¿Conoces a Michael? ¿___ conoces?
-
-## 9. Repaso de pronombres de OI y pronombres dobles
-
-1. Envié una postal a Tomás. ___ envié una postal. ___ ___ envié.
-2. Pedimos un favor a Miguel. ___ pedimos un favor. ___ ___ pedimos.
-3. Preguntamos a Javier sobre el asunto. ___ preguntamos sobre el asunto.
-4. Mañana le daré las llaves de su nuevo apartamento. Mañana ___ ___ daré.
-5. Ismael nos explicará el procedimiento. Ismael ___ ___ explicará.
-6. Bruno nunca me ha pedido un favor. Bruno nunca ___ ___ ha pedido.
-7. Esteban dio una excusa a su entrenador personal. Esteban ___ dio una excusa. Esteban ___ ___ dio.
-8. ¿Cuándo me vas a enviar el formulario? ¿Cuándo ___ ___ vas a enviar? ¿Cuándo vas a enviár___ ___?
-9. Nos enseñará su programa esta noche. ___ ___ enseñará.
-10. Juan regaló un libro a su compañero de cuarto. Juan ___ regaló un libro. Juan ___ ___ regaló.
-11. Alberto contó la historia a Jaime. Alberto ___ contó la historia. Alberto ___ ___ contó.

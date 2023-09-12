@@ -239,6 +239,8 @@ V: Key Food está en Brooklyn.
 
 ## 2. Complete using ir
 
+In questions, we usually place the verb before the pronoun.
+
 1. ¿Dónde _________ tú los lunes? Los lunes yo ________ al supermercado.
 2. ¿Dónde _________ ellos los miércoles? Ellos ________ al parque.
 3. ¿Dónde _________ tu abuela los domingos? Mi abuela ______ a la iglesia.

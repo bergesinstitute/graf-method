@@ -299,7 +299,9 @@ with both *ser* and *estar.*
 
 # Homework
 
-## 1. Translate. Remember we must use the article for generic nouns: los profesores trabajan mucho, los pilotos son altos, etc.)
+## 1. Translate
+
+Remember we must use the article for generic nouns: los profesores trabajan mucho, los pilotos son altos, etc.
 
 1. Lawyers work a lot and earn (ganar) a lot of money.
 2. Firefighters and police officers are tall and strong.
@@ -325,7 +327,10 @@ with both *ser* and *estar.*
 22. The psychiatrist (f) and the secretary (m) are from Lima.
 23. Her sister is a writer.
 
-## 2. Choose a. your brother/sister, b. your best friend, or c. your significant other and tell us everything about him/her: where does he/she live, what does he/she do, physical characteristics, personality, etc.
+## 2. Write a short essay
+
+Choose a. your brother/sister, b. your best friend, or c. your significant other and tell us everything about him/her: 
+where does he/she live, what does he/she do, physical characteristics, personality, etc.
 
 ## 3. Translate
 

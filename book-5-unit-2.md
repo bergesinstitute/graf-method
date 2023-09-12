@@ -413,6 +413,8 @@ M: Vale, nos vemos el lunes.
 
 ## 4. Completar, en presente. No todas requieren subjuntivo.
 
+💂 Complete, in the present tense. Not all require the subjunctive.
+
 1. Dudo que Juan _________ (tener) una casa muy grande.
 2. Sé que Martín no _________ (mirar) televisión.
 3. Es posible que María _________ (estar) en Caracas ahora.
@@ -463,3 +465,5 @@ M: Vale, nos vemos el lunes.
 - Discutir
 
 ## 8. Escribir cinco oraciones usando el modo subjuntivo
+
+💂 Write five sentences using the subjunctive mood.

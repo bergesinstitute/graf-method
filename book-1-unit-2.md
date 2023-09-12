@@ -260,7 +260,9 @@ Some more nouns:
 
 # Homework
 
-## 1. Translate (m: male; f: female)
+## 1. Translate
+
+m: male; f: female
 
 1. The son is tired.
 2. I am tired.
@@ -273,7 +275,9 @@ Some more nouns:
 9. The uncle is sad.
 10. The aunt is happy.
 
-## 2. Translate. You decide the gender.
+## 2. Translate
+
+You decide the gender.
 
 1. You (formal, singular) are short.
 2. You (form, sing) are tired.
@@ -282,7 +286,9 @@ Some more nouns:
 5. You (form, plural) are sad.
 6. You (form, plural) are happy. (Plural of *feliz* is *felices.*)
 
-## 3. Translate. If there is no translation shown, the name in Spanish is the same as in English (e.g. China = China).
+## 3. Translate
+
+If there is no translation shown, the name in Spanish is the same as in English (e.g. China = China).
 
 1. The mother is from Spain (España).
 2. The father is from Africa.

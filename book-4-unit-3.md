@@ -245,6 +245,8 @@ Hay tres posibilidades: A. No hay objeto. B. Hay objeto directo. C. Hay objeto d
 
 ## 2. Identificar con un círculo el objeto directo (OD) y el objeto indirecto (OI). Puedes usar un diccionario.
 
+💂 Circle the direct object (DO) and the indirect object (IO). You can use a dictionary.
+
 1. ¿Me llamaste ayer?
 2. El martes te lo expliqué.
 3. El matemático enseñó a la clase la nueva fórmula.
@@ -257,7 +259,7 @@ Hay tres posibilidades: A. No hay objeto. B. Hay objeto directo. C. Hay objeto d
 10. Perdimos a nuestro compañero en la expedición en la Antártida.
 11. Nunca me lo explicaste.
 
-## 3. Traducir (objeto indirecto, i.e. persona + objeto directo i.e. cosa). Puedes usar un diccionario.
+## 3. Traducir (objeto indirecto, i.e. persona + objeto directo, i.e. cosa). Puedes usar un diccionario.
 
 1. You taught me the lesson. You taught it to me.
 2. You did not tell them the secret. Did you tell it to us? (Use contar)

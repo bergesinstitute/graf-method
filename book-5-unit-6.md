@@ -6,8 +6,13 @@ Go over unit 4 again and review everything until you know it to the point where 
 
 ## 1. Imagina cuatro eventos históricos que podrían haber sido de otra manera
 
-Ejemplo: *Si España no hubiera tenido una guerra (war) en los años treinta, 
+💂 Imagine four historical events that could have been otherwise.
+
+Ejemplo: *Si España no hubiera tenido una guerra en los años treinta, 
 los años cuarenta no habrían sido tan miserables.*
+
+💂 Example: *If Spain had not had a war in the thirties,
+the forties would not have been so miserable.*
 
 ## 2. Comentario de texto
 

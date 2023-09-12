@@ -254,7 +254,11 @@ En español, cuando usamos un participio como adjetivo debemos, como siempre, aj
 11. I have always wanted to go to Paris.
 12. When you told me, I had already cancelled the appointment.
 
-## 2. Yo nunca he (I've never). En tu caso, ¿es verdad o es mentira?
+## 2. Yo nunca he (I've never)
+
+En tu caso, ¿es verdad o es mentira?
+
+💂 In your case, is it true or false?
 
 1. Yo nunca he tomado un avión.
 2. Yo nunca he dormido en la playa.

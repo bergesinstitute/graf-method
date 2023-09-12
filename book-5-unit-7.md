@@ -225,14 +225,49 @@ cuando llegues a la esquina con Gran Vía, giras a la derecha. El museo está en
 
 ## 2. Explica detalladamente a una persona cómo ir desde tu casa hasta tu trabajo o escuela (usando imperativo)
 
+💂 Explain in detail to a person how to get from your home to your work or school (using the imperative).
+
 ## 3. Explica una receta (a recipe) usando imperativo. Puedes usar imperativo formal o informal.
+
+💂 Explain a recipe using the imperative. You can use formal or informal imperative.
 
 Verbos de cocina: *hervir* (to boil), *hornear* (to bake), *pelar* (to peel), *cortar* (to cut), *trocear* (to chop), 
 *cocinar “a la plancha”* (to grill), *gratinar* (to broil), *freír* (to fry), *mezclar* (to mix).
 
-## 4. Escribe un anuncio (advertisement) del producto o servicio que tú quieras
+## 4. Escribe un anuncio del producto o servicio que tú quieras
 
-## 5. Comentario de texto
+💂 Write an ad for the product or service of your choice
+
+## 5. Completa, usando imperativo
+
+Tú...
+
+1. Por favor, ___________ (estudiar).
+2. No me lo ___________ (decir).
+3. ___________ (ir) al supermercado y ___________ (comprar) manzanas, por favor.
+4. ___________ (escribir) un email a María.
+5. No ___________ (ir) a ese restaurante, la comida no es muy buena.
+6. No ___________ (tener) miedo.
+
+Usted...
+
+1. Por favor, ___________ (estudiar).
+2. No me lo ___________ (decir).
+3. ___________ (ir) al supermercado y ___________ (comprar) manzanas, por favor.
+4. ___________ (escribir) un email a María.
+5. No ___________ (ir) a ese restaurante, la comida no es muy buena.
+6. No ___________ (tener) miedo.
+
+Ustedes...
+
+1. Por favor, ___________ (estudiar).
+2. No me lo ___________ (decir).
+3. ___________ (ir) al supermercado y ___________ (comprar) manzanas, por favor.
+4. ___________ (escribir) un email a María.
+5. No ___________ (ir) a ese restaurante, la comida no es muy buena.
+6. No ___________ (tener) miedo.
+
+## 6. Comentario de texto
 
 ### Alí Babá y los cuarenta ladrones[1]
 
@@ -493,32 +528,3 @@ las palabras “Ábrete, Sésamo”.
 5. ¿Cuál era el plan de los ladrones?
 6. ¿Qué hizo Morgiana?
 7. ¿Qué piensas del final de la historia?
-
-## 6. Completa, usando imperativo
-
-Tú...
-
-1. Por favor, ___________ (estudiar).
-2. No me lo ___________ (decir).
-3. ___________ (ir) al supermercado y ___________ (comprar) manzanas, por favor.
-4. ___________ (escribir) un email a María.
-5. No ___________ (ir) a ese restaurante, la comida no es muy buena.
-6. No ___________ (tener) miedo.
-
-Usted...
-
-1. Por favor, ___________ (estudiar).
-2. No me lo ___________ (decir).
-3. ___________ (ir) al supermercado y ___________ (comprar) manzanas, por favor.
-4. ___________ (escribir) un email a María.
-5. No ___________ (ir) a ese restaurante, la comida no es muy buena.
-6. No ___________ (tener) miedo.
-
-Ustedes...
-
-1. Por favor, ___________ (estudiar).
-2. No me lo ___________ (decir).
-3. ___________ (ir) al supermercado y ___________ (comprar) manzanas, por favor.
-4. ___________ (escribir) un email a María.
-5. No ___________ (ir) a ese restaurante, la comida no es muy buena.
-6. No ___________ (tener) miedo.

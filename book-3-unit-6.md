@@ -323,7 +323,9 @@ y nos reuníamos con amigos en la plaza.
 5. ¿Tocaba la persona del texto en una banda de música en Madrid?
 6. ¿Dónde vivía y qué hacía Elena, la novia de la persona del texto?
 
-## 4. Traducir. Next week...
+## 4. Traducir 
+
+Next week...
 
 1. I am going to be nervous.
 2. I am going to church. (Use *ir* twice.)
@@ -367,6 +369,8 @@ y nos reuníamos con amigos en la plaza.
 9. Mañana yo _______________ (irse) de la ciudad.
 
 ## 7. Traducir, escribiendo el pronombre reflexivo antes y después de los verbos
+
+💂 Translate, writing the reflexive pronoun before and after the verbs
 
 1. I cannot wake up at 6 AM.
 2. My mother must comb her hair every day.

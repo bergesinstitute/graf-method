@@ -615,7 +615,12 @@ It is correct, and it is very common: *Le regalé una rosa a María.* (*Le* and 
 10. I gave (regalar) her a ring for her birthday.
 11. We explained the idea to them.
 
-## 5. Explicar en español qué es un objeto directo y qué es un objeto indirecto. 
+## 5. Explicar en español qué es un objeto directo y qué es un objeto indirecto
+
+💂 Explain in Spanish what is a direct object and what is an indirect object.
 
 Usar ejemplos de verbos que no admiten objeto, verbos que admiten objeto directo, y verbos que admiten 
 objeto directo y objeto indirecto.
+
+💂 Use examples of verbs that do not admit an object, verbs that admit a direct object, and verbs that admit both
+direct object and indirect object.

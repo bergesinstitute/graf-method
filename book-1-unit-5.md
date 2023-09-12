@@ -266,7 +266,9 @@ F: Yo hablo inglés y estudio español en la escuela.
 
 # Homework
 
-## 1. Translate (remember: en = in, on, at)
+## 1. Translate
+
+Remember: en = in, on, at
 
 1. My father sings at Blue Note on Saturdays.
 2. I walk in the park every day.
@@ -306,7 +308,7 @@ F: Yo hablo inglés y estudio español en la escuela.
 7. ¿Escribes mucho en tu computadora?
 8. ¿A veces hablas por teléfono con tu amiga?
 
-## 5. About me and my family
+## 5. About me and my family. Answer the questions.
 
 Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis padres viven en Maryland. Mi abuelo vive en Miami. Yo no tengo hijos, pero mi hermana tiene tres hijos. Tengo cinco tíos y muchos primos. Mis tíos viven en España. Mi primo Carlos vive en Nueva York. Los sábados yo toco la guitarra con mi primo. Los domingos como en el restaurante y voy al cine con mis amigos y miro películas (movies).
 

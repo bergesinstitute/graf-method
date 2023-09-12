@@ -99,7 +99,11 @@ Pamela: Sí, a mí me pasa exactamente lo mismo. Me duele mucho la espalda siemp
 
 ## 1. Reescribe las siguientes oraciones en la voz pasiva
 
+💂 Rewrite the following sentences in the passive voice.
+
 Recuerda ajustar el participio en género y número.
+
+💂 Remember to adjust the participle in gender and number.
 
 1. Pablo compra un auto.
 2. Emilio presenta los documentos en el juzgado.
@@ -110,7 +114,9 @@ Recuerda ajustar el participio en género y número.
 7. Juan come un huevo frito.
 8. Ana canta una canción muy hermosa.
 
-## 2. Elige una película que te guste mucho y explícala
+## 2. Elige una película que te guste mucho y explica el argumento
+
+💂 Choose a movie that you really like and explain the plot.
 
 ## 3. Responde las preguntas. Puedes usar un diccionario.
 

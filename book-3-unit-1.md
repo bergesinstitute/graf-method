@@ -281,6 +281,8 @@ Stem-changing verbs do not change their stem in the past tense:
 
 ## 3. Cambia el verbo en presente por progresivo
 
+💂 Change the verb in the present tense to progressive.
+
 1. Yo camino en el parque.
 2. María come pollo en la cama.
 3. Mi amiga compra un bolso en D&G.

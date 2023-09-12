@@ -346,6 +346,8 @@ Spanish:
 
 ## 3. Complete using ir in the pretérito perfecto tense
 
+In questions, we usually place the verb before the pronoun.
+
 1. ¿Dónde ___________ tú el miércoles pasado? El miércoles yo __________ al supermercado.
 2. ¿Dónde ___________ ella el martes? El martes ella ___________ al cine.
 3. ¿Dónde ___________ nosotros el domingo? El domingo nosotros ___________ al parque.
@@ -421,4 +423,6 @@ La semana pasada:
 6. El domingo tú ____________ (vender) la cámara en internet.
 7. ¿Dónde ____________ (desayunar) ellas?
 
-## 9. En mis últimas vacaciones, yo... Tell us everything you did on your last vacation (it's always plural, vacaciones).
+## 9. Write a short essay
+
+En mis últimas vacaciones, yo... Tell us everything you did on your last vacation (it's always plural, *vacaciones*).

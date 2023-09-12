@@ -221,6 +221,8 @@ Hay una excepción:
 
 ## 1. Completar, en imperfecto. No todas requieren subjuntivo.
 
+💂 Complete, in the imperfect tense. Not all require the subjunctive.
+
 1. Dudaba que Juan ___________ (llegar) a tiempo a la barbacoa.
 2. Le pedí que me ___________ (explicar) cómo ir al museo.
 3. Nunca deseé que tú ___________ (estar) en una situación tan complicada.

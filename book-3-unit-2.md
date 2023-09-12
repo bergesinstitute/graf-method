@@ -454,4 +454,6 @@ Cuando eras pequeño/a:
 8. ¿Hacías mucho deporte (sport)?
 9. ¿Te gustaban las verduras? 
 
-## 4. Tell us everything you used to do when you were a child. You can make it up.
+## 4. Write a short essay
+
+Tell us everything you used to do when you were a child. You can make it up.

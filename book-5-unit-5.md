@@ -341,6 +341,8 @@ you should buy a large house. Si tuvieras un millón de dólares, deberías comp
 
 Explicar diez cosas que harías si tuvieras veinte millones de dólares en el banco.
 
+💂 Explain ten things you would do if you had twenty million dollars in the bank.
+
 ## 3. Responder. Puedes usar un diccionario.
 
 1. ¿Estarías más feliz si trabajaras menos horas al día?

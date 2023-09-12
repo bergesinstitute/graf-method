@@ -116,12 +116,16 @@ as *this one, these ones, that one* or *those ones,* respectively; we don't need
 
 ## 2. Write six sentences using regular verbs in the preterite
 
-## 3. Explain in detail everything you did last weekend (using antes and después)
+## 3. Write a short essay
+
+Explain in detail everything you did last weekend (using *antes* and *después*)
 
 > Remember to use the infinitive form of the verb with *antes* and *después: Fui a Queens. 
 > Después de ir a Queens, cené. Después de cenar, trabajé.* Etc.
 
-## 3. Translate. For that, you can use either ese or aquel; it's up to you.
+## 3. Translate
+
+For *that,* you can use either *ese* or *aquel;* it's up to you.
 
     El problema - the problem
 

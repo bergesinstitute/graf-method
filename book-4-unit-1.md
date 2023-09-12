@@ -269,7 +269,6 @@ when we want to emphasize the information rather than the action. *The restauran
 
 ## 1. Completar, usando presente
 
-
 1. Yo siempre _______________ (caminar) en el parque los sábados.
 2. Cada día ella _______________ (cocinar) en su apartamento.
 3. Mi tío _______________ (ser) de San Francisco.

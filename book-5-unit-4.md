@@ -250,7 +250,47 @@ Los pronombres posesivos son similares a los adjetivos posesivos tónicos, pero 
 6. I don't know where my friend is.
 7. Is this what brought you to Boston?
 
-## 3. Comentario de texto
+## 3. Completar, usando presente de subjuntivo cuando sea necesario
+
+1. Malena __________ (ser) alta.
+2. Creo que Pedro ___________ (tener) un gato.
+3. No creo que Ismael __________ (tener) un perro.
+4. Sé que Rafael __________ (saber) pilotar un avión.
+5. Es importante que ella __________ (escribir) esa carta.
+6. Cuando ella __________ (llamar), mi teléfono estará desconectado.
+7. Elisa y Marta a veces __________ (ir) al cine los martes.
+8. Ojalá que Antonio __________ (ir) a la cena de esta noche.
+9. Es ridículo que nosotros __________ (tener) que esperar dos horas para cenar aquí.
+10. Te pido que por favor me __________ (explicar) la situación.
+11. Es muy importante que Francisco __________ (recibir) el mensaje de texto.
+12. Juan me __________ (recomendar) que vaya a ese restaurante.
+13. Alfonso siempre necesita que nosotros lo __________ (ayudar).
+14. El médico recomienda que sus pacientes no __________ (beber) agua muy fría.
+
+## 4. Completar, usando imperfecto de subjuntivo cuando sea necesario
+
+1. Pedí a mis estudiantes que __________ (terminar) la tarea.
+2. Quería que ella no __________ (estar) triste.
+3. Esperé que tú me __________ (explicar) lo que pasaba.
+4. Sabía que Marta __________ (estar) en Alabama.
+5. Ayer, Javier __________ (hablar) por teléfono con Rosa.
+6. Silvia nos pidió que nosotros __________ (ir) al concierto de su amigo.
+7. Amanda explicó que su prima __________ (tener) una casa allá.
+8. Dudaba que ella lo __________ (hacer).
+
+## 5. Buscar una manera de reescribir las siguientes frases usando un subjuntivo
+
+Necesitarás cambiar el verbo principal por otro.
+
+1. Yo sé que María ha estado en Ibiza.
+2. Juan piensa que Pedro ha estado en Hawaii.
+3. Creo que Karen ha escrito tres novelas.
+4. Ella sabía que yo ya me había ido.
+5. Pienso que Ana ha vivido en la misma casa por treinta años.
+6. Elena sabe que Luis ha estado enfermo.
+7. Creo que Javier me ha visitado.
+
+## 6. Comentario de texto
 
 ### El rayo de luna[1]
 
@@ -507,43 +547,3 @@ hecho era recuperar el juicio.[54]
 5. ¿Qué pasó cuando Manrique volvió a los Templarios?
 6. ¿La historia termina bien o mal?
 7. ¿Por qué pensaba Manrique que esa mujer era la mujer de sus sueños?
-
-## 4. Completar, usando presente de subjuntivo cuando sea necesario
-
-1. Malena __________ (ser) alta.
-2. Creo que Pedro ___________ (tener) un gato.
-3. No creo que Ismael __________ (tener) un perro.
-4. Sé que Rafael __________ (saber) pilotar un avión.
-5. Es importante que ella __________ (escribir) esa carta.
-6. Cuando ella __________ (llamar), mi teléfono estará desconectado.
-7. Elisa y Marta a veces __________ (ir) al cine los martes.
-8. Ojalá que Antonio __________ (ir) a la cena de esta noche.
-9. Es ridículo que nosotros __________ (tener) que esperar dos horas para cenar aquí.
-10. Te pido que por favor me __________ (explicar) la situación.
-11. Es muy importante que Francisco __________ (recibir) el mensaje de texto.
-12. Juan me __________ (recomendar) que vaya a ese restaurante.
-13. Alfonso siempre necesita que nosotros lo __________ (ayudar).
-14. El médico recomienda que sus pacientes no __________ (beber) agua muy fría.
-
-## 5. Completar, usando imperfecto de subjuntivo cuando sea necesario
-
-1. Pedí a mis estudiantes que __________ (terminar) la tarea.
-2. Quería que ella no __________ (estar) triste.
-3. Esperé que tú me __________ (explicar) lo que pasaba.
-4. Sabía que Marta __________ (estar) en Alabama.
-5. Ayer, Javier __________ (hablar) por teléfono con Rosa.
-6. Silvia nos pidió que nosotros __________ (ir) al concierto de su amigo.
-7. Amanda explicó que su prima __________ (tener) una casa allá.
-8. Dudaba que ella lo __________ (hacer).
-
-## 6. Buscar una manera de reescribir las siguientes frases usando un subjuntivo 
-
-Necesitarás cambiar el verbo principal por otro.
-
-1. Yo sé que María ha estado en Ibiza.
-2. Juan piensa que Pedro ha estado en Hawaii.
-3. Creo que Karen ha escrito tres novelas.
-4. Ella sabía que yo ya me había ido.
-5. Pienso que Ana ha vivido en la misma casa por treinta años.
-6. Elena sabe que Luis ha estado enfermo.
-7. Creo que Javier me ha visitado.

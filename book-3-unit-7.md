@@ -232,7 +232,6 @@ Steve: No hay problema.
 
 ## 2. Responder
 
-
 1. Cuando vas de vacaciones, ¿siempre te quedas en hoteles o a veces alquilas un apartamento?
 2. ¿Te gusta más el autobús que el tren?
 3. ¿Amas viajar?
@@ -246,7 +245,11 @@ Steve: No hay problema.
 11. ¿Cual fue tu vuelo más largo?
 12. ¿Cuál es tu aeropuerto favorito? ¿Por qué?
 
-## 3. Explica qué vas a hacer en tu próximo viaje. Puede ser un viaje real que tienes planeado o un viaje imaginario.
+## 3. Write a short essay.
+
+Explica qué vas a hacer en tu próximo viaje. Puede ser un viaje real que tienes planeado o un viaje imaginario.
+
+💂 Explain what you are going to do on your next trip. It can be a real trip you have planned or an imaginary trip.
 
 ## 4. Completar, usando expresiones con tener
 

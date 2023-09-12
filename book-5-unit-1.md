@@ -151,7 +151,7 @@ when the second action happened.
 
 # Homework
 
-## 1. Traducir, usando presente, p. perfecto y p. imperfecto. Puedes usar un diccionario.
+## 1. Traducir, usando presente, pretérito perfecto y pretérito imperfecto. Puedes usar un diccionario.
 
 1. I always eat at a restaurant on Saturday nights.
 2. In the past, I used to play guitar.
@@ -185,7 +185,9 @@ when the second action happened.
 
 ## 3. Escribir cinco oraciones en presente, cinco en pretérito perfecto y cinco en pretérito imperfecto. 
 
-Usa locuciones temporales (time expressions) en todas las oraciones.
+Usa locuciones temporales (expresiones de tiempo) en todas las oraciones (*ayer por la noche, normalmente,* etc.)
+
+💂 Use temporal locutions (time expressions) in all sentences (*ayer por la noche, normalmente,* etc.).
 
 ## 4. Traducir, usando pronombres de objeto directo. Puedes usar un diccionario.
 
@@ -207,7 +209,11 @@ Objeto directo, con personas:
 5. Did you invite me to Frank's dinner?
 6. She helped me.
 
-## 5. Escribir una historia corta sobre un objeto que tú tienes y que amas. Referirse misteriosamente al objeto como lo o la.
+## 5. Write a short essay
+
+Escribir una historia corta sobre un objeto que tú tienes y que amas. Referirse misteriosamente al objeto como *lo* o *la.*
+
+💂 Write a short story about an object you own and love. Mysteriously refer to the object as *lo* or *la.*
 
 Ejemplo: Lo compré en una tienda en Madrid en 1995. Desde entonces, siempre lo tengo en la cartera. A veces lo llevo 
 a mi trabajo, a veces lo dejo en casa. Siempre lo miro y lo uso por las noches... etc.

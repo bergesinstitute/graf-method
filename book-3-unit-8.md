@@ -96,7 +96,6 @@ J: Vale, voy a pensarlo esta noche y mañana voy a decidir. Pero probablemente v
 
 ## 2. Responder, usando pronombres
 
-
 1. ¿Tienes hermanos? __________________________
 2. ¿Tienes una casa en el campo? __________________________
 3. ¿Llamaste a tu amigo? __________________________
@@ -106,7 +105,11 @@ J: Vale, voy a pensarlo esta noche y mañana voy a decidir. Pero probablemente v
 
 ## 3. Explicar en inglés qué es un objeto directo, dando ejemplos
 
+💂 Explain in English what a direct object is, giving examples.
+
 ## 4. Traducir los ejemplos del ejercicio anterior al español
+
+💂 Translate the examples from the previous exercise into Spanish.
 
 ## 5. Traducir
 

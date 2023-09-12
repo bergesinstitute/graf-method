@@ -372,14 +372,14 @@ A. Con cosas. Completar.
 4. Cantaremos una canción. ____ cantaremos.
 5. Juan abrirá la puerta. Juan ____ abrirá.
 
-   B. Con personas. Completar.
+B. Con personas. Completar.
 
-6. Llamaré a Jane. ____ llamaré.
-7. Ustedes visitarán a Martín y a Damián. Ustedes ____ visitarán.
-8. ¿Amarás a Silvia siempre? ¿____ amarás siempre?
-9. Esta noche (tonight) pasearé a mi perro Paco. Esta noche ____ pasearé.
-10. Mañana ayudaré a Javier con su mudanza (move). Mañana ____ ayudaré.
-11. ¿Dónde conociste a tu novia? ¿Dónde ____ conociste?
+1. Llamaré a Jane. ____ llamaré.
+2. Ustedes visitarán a Martín y a Damián. Ustedes ____ visitarán.
+3. ¿Amarás a Silvia siempre? ¿____ amarás siempre?
+4. Esta noche (tonight) pasearé a mi perro Paco. Esta noche ____ pasearé.
+5. Mañana ayudaré a Javier con su mudanza (move). Mañana ____ ayudaré.
+6. ¿Dónde conociste a tu novia? ¿Dónde ____ conociste?
 
 ## 4. Repaso de pronombres de OI y pronombres dobles. Completar.
 

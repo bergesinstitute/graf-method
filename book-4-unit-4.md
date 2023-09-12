@@ -353,7 +353,7 @@ con él (o con ella) en el pasado.*
 12. Will they call me?
 13. I'll tell you the plan tomorrow. I'll finally tell it to you.
 
-## 3. Escritura creativa
+## 3. Escritura creativa (creative writing)
 
 This is based on a classic tale. You have a bottle of milk, and you are going to the state fair. 
 Tell us how you are going to sell the bottle, buy more milk, start a milk business, buy a farm, 
