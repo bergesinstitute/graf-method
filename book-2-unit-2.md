@@ -84,13 +84,13 @@ Yo voy a Vermont y a Nevada a veces, pero no voy tanto como mi hermano.
 
     Tú fuiste
 
-    Él/Ella/Usted fue
+    Él/ella/usted fue
 
     Nosotros/as fuimos
 
     (Vosotros/as fuisteis)
 
-    Ellos/Ellas/Ustedes fueron
+    Ellos/ellas/ustedes fueron
 
 ## Hacer, pretérito perfecto
 
@@ -98,13 +98,13 @@ Yo voy a Vermont y a Nevada a veces, pero no voy tanto como mi hermano.
 
     Tú hiciste
 
-    Él/Ella/Usted hizo
+    Él/ella/usted hizo
 
     Nosotros/as hicimos
 
     (Vosotros/as hicisteis)
 
-    Ellos/Ellas/Ustedes hicieron
+    Ellos/ellas/ustedes hicieron
 
 # Spanish preterite (pretérito perfecto)
 

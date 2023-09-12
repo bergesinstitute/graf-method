@@ -124,13 +124,13 @@ persons. There are two types of stem changes:
 
     Tú piensas
 
-    Él/Ella/Ud. piensa
+    Él/ella/ud. piensa
 
     Nosotros/as pensamos
 
     (Vosotros/as pensáis)
 
-    Ellos/Ellas/Uds. piensan
+    Ellos/ellas/uds. piensan
 
 This happens in many verbs; it doesn't matter if they are *-ar, -er* or *-ir.* Note that the E changes to IE in 
 all persons except *nosotros* and *vosotros.*
@@ -171,13 +171,13 @@ Here are some common “E to IE” verbs:
 
     Tú sueñas
 
-    Él/Ella/Ud. sueña
+    Él/ella/ud. sueña
 
     Nosotros/as soñamos
 
     (Vosotros/as soñáis)
 
-    Ellos/Ellas/Uds. sueñan
+    Ellos/ellas/uds. sueñan
 
 Again, the O changes to UE in all persons except *nosotros* and *vosotros.*
 
@@ -225,13 +225,13 @@ Stem-changing verbs do not change their stem in the past tense:
 
     Tú pensaste
 
-    Él/Ella/Ud. pensó
+    Él/ella/ud. pensó
 
     Nosotros/as pensamos
 
     (Vosotros/as pensasteis)
 
-    Ellos/Ellas/Uds. pensaron
+    Ellos/ellas/uds. pensaron
 
     Soñar (to dream)
 
@@ -239,13 +239,13 @@ Stem-changing verbs do not change their stem in the past tense:
 
     Tú soñaste
 
-    Él/Ella/Ud. soñó
+    Él/ella/ud. soñó
 
     Nosotros/as soñamos
 
     (Vosotros/as soñasteis)
 
-    Ellos/Ellas/Uds. soñaron
+    Ellos/ellas/uds. soñaron
 
 > Verbs *divertirse, mentir, morir, preferir, querer, sentirse, dormir and poder* are irregular in 
 > the *pretérito perfecto* tense. Try to look up their conjugations and memorize them.

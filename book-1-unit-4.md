@@ -90,13 +90,13 @@ We are going to use *cantar* (to sing), *comer* (to eat) and *vivir* (to live) a
 
     Tú cantas
 
-    Él/Ella/Ud. canta
+    Él/ella/ud. canta
 
     Nosotros/as cantamos
 
     (Vosotros/as cantáis)
 
-    Ellos/as/Uds. cantan
+    Ellos/ellas/uds. cantan
 
 ## List of common -ar verbs
 

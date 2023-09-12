@@ -130,13 +130,13 @@ C: Yo nunca cocino. Yo desayuno en mi oficina y siempre ceno en un restaurante.
 
     Tú comes
 
-    Él/Ella/Ud. come
+    Él/ella/ud. come
 
     Nosotros/as comemos
 
     (Vosotros/as coméis)
 
-    Ellos/as/Uds. comen
+    Ellos/ellas/uds. comen
 
 ## List of common -er verbs
 
@@ -177,13 +177,13 @@ the *-er* ending, and we add the corresponding ending for each person.
 
     Tú vives
 
-    Él/Ella/Ud. vive
+    Él/ella/ud. vive
 
     Nosotros/as vivimos
 
     (Vosotros/as vivís)
 
-    Ellos/as/Uds. viven
+    Ellos/ellas/uds. viven
 
 ## List of common -ir verbs
 

@@ -51,13 +51,13 @@ Here is *mirar*:
 
     Tú miras
 
-    Él/Ella/Ud. mira
+    Él/ella/ud. mira
 
     Nosotros/as miramos
 
     (Vosotros/as miráis)
 
-    Ellos/as/Uds. miran
+    Ellos/ellas/uds. miran
 
 And here is *mirarse*:
 
@@ -67,13 +67,13 @@ And here is *mirarse*:
 
     Tú te miras
 
-    Él/Ella/Ud. se mira
+    Él/ella/ud. se mira
 
     Nosotros/as nos miramos
 
     (Vosotros/as os miráis)
 
-    Ellos/as/Uds. se miran
+    Ellos/ellas/uds. se miran
 
 Here are some common reflexive verbs:
 
@@ -142,13 +142,13 @@ To make a sentence negative, we just place the word *no* right before the reflex
 
     Tú te acuestas
 
-    Él/Ella/Ud. se acuesta
+    Él/ella/ud. se acuesta
 
     Nosotros/as nos acostamos
 
     (Vosotros/as os acostáis)
 
-    Ellos/as/Uds. se acuestan
+    Ellos/ellas/uds. se acuestan
 
     Dormirse (to fall asleep)
 
@@ -156,13 +156,13 @@ To make a sentence negative, we just place the word *no* right before the reflex
 
     Tú te duermes
 
-    Él/Ella/Ud. se duerme
+    Él/ella/ud. se duerme
 
     Nosotros/as nos dormimos
 
     (Vosotros/as os dormís)
 
-    Ellos/as/Uds. se duermen
+    Ellos/ellas/uds. se duermen
 
 Notice how O changes to UE in all grammatical persons except *nosotros* and *vosotros.*
 
@@ -174,13 +174,13 @@ Notice how O changes to UE in all grammatical persons except *nosotros* and *vos
 
     Tú te vistes
 
-    Él/Ella/Ud. se viste
+    Él/ella/ud. se viste
 
     Nosotros/as nos vestimos
 
     (Vosotros/as os vestís)
 
-    Ellos/as/Uds. se visten
+    Ellos/ellas/uds. se visten
 
     Ponerse (to put on)
 
@@ -188,13 +188,13 @@ Notice how O changes to UE in all grammatical persons except *nosotros* and *vos
 
     Tú te pones
 
-    Él/Ella/Ud. se pone
+    Él/ella/ud. se pone
 
     Nosotros/as nos ponemos
 
     (Vosotros/as os ponéis)
 
-    Ellos/as/Uds. se ponen
+    Ellos/ellas/uds. se ponen
 
 ## Conversación
 

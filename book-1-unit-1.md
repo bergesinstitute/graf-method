@@ -139,13 +139,13 @@ majesty/your honor is*—as opposed to *you are*. We'll do the same thing in Spa
 
     Tú eres
 
-    Él/Ella/Usted es
+    Él/ella/usted es
 
     Nosotros/as somos
 
     Vosotros/as sois
 
-    Ellos/Ellas/Ustedes son
+    Ellos/ellas/ustedes son
 
 ## Estar, present tense
 
@@ -153,13 +153,13 @@ majesty/your honor is*—as opposed to *you are*. We'll do the same thing in Spa
 
     Tú estás
 
-    Él/Ella/Usted está
+    Él/ella/usted está
 
     Nosotros/as estamos
 
     Vosotros/as estáis
 
-    Ellos/Ellas/Ustedes están
+    Ellos/ellas/ustedes están
 
 ## How to memorize the conjugations
 
@@ -324,9 +324,9 @@ In Spanish, generic/uncountable nouns at the beginning of a sentence must have a
 
     La sobrina - the niece
 
-    El perro/La perra - the dog
+    El perro/la perra - the dog
 
-    El gato/La gata - the cat
+    El gato/la gata - the cat
 
     El esposo - the husband
 

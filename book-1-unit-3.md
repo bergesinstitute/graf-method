@@ -6,13 +6,13 @@
 
     Tú tienes
 
-    Él/Ella/Usted tiene
+    Él/ella/usted tiene
 
     Nosotros/as tenemos
 
     Vosotros/as tenéis
 
-    Ellos/Ellas/Ustedes tienen
+    Ellos/ellas/ustedes tienen
 
 ## Examples
 
@@ -30,13 +30,13 @@ Tengo una gata. - I have a (female) cat.
 
     Tú vas
 
-    Él/Ella/Usted va
+    Él/ella/usted va
 
     Nosotros/as vamos
 
     Vosotros/as vais
 
-    Ellos/Ellas/Ustedes van
+    Ellos/ellas/ustedes van
 
 # Hacer (to do/to make), present tense
 
@@ -44,13 +44,13 @@ Tengo una gata. - I have a (female) cat.
 
     Tú haces
 
-    Él/Ella/Usted hace
+    Él/ella/usted hace
 
     Nosotros/as hacemos
 
     Vosotros/as hacéis
 
-    Ellos/Ellas/Ustedes hacen
+    Ellos/ellas/ustedes hacen
 
 # Nouns related to time
 

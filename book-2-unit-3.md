@@ -41,13 +41,13 @@ J: Ayer por la noche fui al cine.
 
     Tú fuiste
 
-    Él/Ella/Usted fue
+    Él/ella/usted fue
 
     Nosotros/as fuimos
 
     (Vosotros/as fuisteis)
 
-    Ellos/Ellas/Ustedes fueron
+    Ellos/ellas/ustedes fueron
 
 ## Estar, pretérito perfecto
 
@@ -55,13 +55,13 @@ J: Ayer por la noche fui al cine.
 
     Tú estuviste
 
-    Él/Ella/Usted estuvo
+    Él/ella/usted estuvo
 
     Nosotros/as estuvimos
 
     (Vosotros/as estuvisteis)
 
-    Ellos/Ellas/Ustedes estuvieron
+    Ellos/ellas/ustedes estuvieron
 
 ## Tener, pretérito perfecto
 
@@ -69,13 +69,13 @@ J: Ayer por la noche fui al cine.
 
     Tú tuviste
 
-    Él/Ella/Usted tuvo
+    Él/ella/usted tuvo
 
     Nosotros/as tuvimos
 
     (Vosotros/as tuvisteis)
 
-    Ellos/Ellas/Ustedes tuvieron
+    Ellos/ellas/ustedes tuvieron
 
 > Note how *ser* is, in this tense, identical to *ir.* Spanish developed from Vulgar Latin, which was brought to the 
 > Iberian Peninsula by the Roman soldiers during the Second Punic War (3rd Century BC). In Classical Latin, 
