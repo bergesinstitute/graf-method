@@ -18,6 +18,8 @@ gender and number.
 
 # Me encanta/me duele/me recuerda
 
+## Objeto => persona (object => person)
+
 Algunos verbos funcionan igual que el verbo *gustar.* El objeto es el que hace la acción hacia la persona.
 
 💂 Some verbs function the same as the verb *gustar.* The object is the one doing the action toward the person.

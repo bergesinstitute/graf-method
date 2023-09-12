@@ -11,7 +11,7 @@ los años cuarenta no habrían sido tan miserables.*
 
 ## 2. Comentario de texto
 
-### 3. Federico García Lorca
+### Federico García Lorca
 
 Federico García Lorca fue un poeta español. Está considerado miembro de la Generación del 27, junto a otros 
 poetas como Luis Cernuda, Vicente Aleixandre y Rafael Alberti.
@@ -125,54 +125,103 @@ El aire la vela,[50] vela.
 El aire la está velando.
 
 [1] Farm
+
 [2] Teacher
+
 [3] On the following year 
+
 [4] Contest
+
 [5] The fact that
+
 [6] Hired
+
 [7] Play
+
 [8] The set
+
 [9] Gypsy
+
 [10] Portrayed
+
 [11] Way
+
 [12] Help
+
 [13] Skyscrapers
+
 [14] Appointed
+
 [15] Blood Wedding 
+
 [16] Civil war
+
 [17] Army
+
 [18] Prize
+
 [19] Speech
+
 [20] Seems
+
 [21] Roof
+
 [22] If it breaks
+
 [23] It is thrown
+
 [24] Mercilessly
+
 [25] Damages
+
 [26] Knocked down
+
 [27] Forge
-[28] Bustle, an old framework women used to support the back of a dress. 
+
+[28] Bustle, an old framework women used to support the back of a dress.
+
 [29] Emotionally moved
+
 [30] Slippery
+
 [31] Breasts
+
 [32] Tin
+
 [33] Run away
+
 [34] Necklaces
+
 [35] Rings
+
 [36] Anvil
+
 [37] Horses
+
 [38] Pisar - to step on
+
 [39] Starched whiteness
+
 [40] Horse rider
+
 [41] Acercarse - to get close
+
 [42] Drum
+
 [43] Plain
+
 [44] Olive grove
+
 [45] Bronze and dream
+
 [46] Gypsies
+
 [47] Half closed
+
 [48] A type of bird
+
 [49] Dar gritos - to scream
+
 [50] Velar - to watch over someone
 
 ### Preguntas

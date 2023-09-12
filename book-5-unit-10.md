@@ -1,10 +1,12 @@
 # Reglas de acentuación
 
+## Tres grupos
+
 De acuerdo a su pronunciación, dividimos las palabras en tres grupos:
 
 💂 According to their pronunciation, we divide words into three groups:
 
-## Agudas 
+### Agudas 
 
 La sílaba más fuerte es la última. 
 
@@ -20,7 +22,7 @@ vemos cómo *sofá* y *café* llevan acento porque terminan en vocal. En *cantar
 💂 Rule: We need to put the graphic accent ( ́) when they end in vowel, N or S. In the examples above
 we see how *sofá* and *café* have an accent mark because they end in a vowel. In *cantar* and *nariz* the accent mark would be redundant.
 
-## Llanas 
+### Llanas 
 
 La sílaba más fuerte es la segunda, empezando por el final. 
 
@@ -38,7 +40,7 @@ el acento sería redundante.
 we see how *árbol* and *ángel* have an accent mark because they do not end in a vowel, N or S. In *mesa* and *manzana*
 the accent mark would be redundant.
 
-## Esdrújulas 
+### Esdrújulas 
 
 La sílaba más fuerte es la tercera, empezando por el final. 
 

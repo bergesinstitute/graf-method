@@ -1,5 +1,7 @@
 # Imperativo en español (Spanish imperative, i.e. commands)
 
+## Personas gramaticales (grammatical persons)
+
 El imperativo se puede formar con las siguientes personas: *tú, usted, nosotros, (vosotros), ustedes.* En las
 personas *tú* y *vosotros* la conjugación es diferente para el afirmativo y el negativo.
 
@@ -377,57 +379,109 @@ las palabras “Ábrete, Sésamo”.
 *De* Las mil y una noches, *tradicional / Antoine Galland.*
 
 [1] Thieves
+
 [2] Lumberjack
+
 [3] Lazy
+
 [4] Acercarse - to get close 
+
 [5] Open yourself
+
 [6] As if it were
+
 [7] Same as before
+
 [8] Cave
+
 [9] Gold coins
+
 [10] Handbag
+
 [11] Full
+
 [12] Ponerse - to become 
+
 [13] Bury
+
 [14] Should
+
 [15] It would take them 
+
 [16] Scale
+
 [17] Weight
+
 [18] Made a mistake
+
 [19] Corn grains
+
 [20] Grease
+
 [21] Bottom
+
 [22] Pegarse - to stick
+
 [23] Asunto - matter/business 
+
 [24] It seems
+
 [25] It's not your business
+
 [26] Greedy
+
 [27] Share
+
 [28] Place
+
 [29] Barley
+
 [30] Bird seed 
+
 [31] Wheat
+
 [32] Mint
+
 [33] Warning 
+
 [34] Intruders
+
 [35] Maid
+
 [36] Took charge
+
 [37] Shoemaker
+
 [38] Coser - to sew
+
 [39] Fallecer - to pass away 
+
 [40] Discovered
+
 [41] Pride
+
 [42] Disfrazarse - to dress up 
+
 [43] Oil
+
 [44] Barrels
+
 [45] Hidden
+
 [46] Spend the night
+
 [47] Would notify
+
 [48] Light a lamp
+
 [49] Inside
+
 [50] The same
+
 [51] Echar - to pour 
+
 [52] Boiling oil
+
 [53] Horrified
 
 ### Preguntas

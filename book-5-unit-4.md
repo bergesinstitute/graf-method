@@ -1,20 +1,22 @@
 # Pronombres relativos (relative pronouns)
 
-Los adverbios interrogativos (*qué, cuándo, dónde,* etc.) pueden funcionar como adverbios relativos 
+## Adverbios interrogativos como pronombres relativos
+
+Los adverbios interrogativos (*qué, cuándo, dónde,* etc.) pueden funcionar como pronombres relativos 
 (y en este caso no tienen acento). Funcionan igual que en inglés. Tradicionalmente usábamos todos, 
 pero es verdad que hoy usamos *que* más que *quien* cuando nos referimos a una persona.
 
-💂 Interrogative adverbs (*qué, cuándo, dónde,* etc.) can function as relative adverbs
-(and in this case they do not have an accent). They function the same as in English. Traditionally we used all of them,
+💂 Interrogative adverbs (*qué, cuándo, dónde,* etc.) can function as relative pronouns
+(and in this case they do not have an accent mark). They function the same as in English. Traditionally we used all of them,
 but it is true that today we use *que* more than *quien* when referring to a person.
 
-*Este es el hombre que te llamó.*
+*Este es el hombre que te llamó.* (This i the man who/that called you.)
 
-*El restaurante que me recomendaste es muy bueno.* 
+*El restaurante que me recomendaste es muy bueno.* (The restaurant that you recommended to me is very good.)
 
-*En la casa donde nací ahora no vive nadie.* 
+*En la casa donde nací ahora no vive nadie.* (Nobody lives now in the house where I was born.)
 
-*Cuando María me llamó, y ya había salido.*
+*Cuando María me llamó, y ya había salido.* (When María called me, y had already left.)
 
 ## Lo que
 
@@ -82,11 +84,7 @@ hubiesen cantado.*
 is still in use: *hubiese cantado, hubieses cantado, hubiese cantado, hubiésemos cantado, (hubieseis cantado),
 hubiesen cantado.*
 
-# El verbo haber en todos los tiempos (the verb haber in all tenses)
-
-(Excepto el condicional, que lo veremos más adelante.)
-
-💂 (Except for the conditional, which we will see later).
+# El verbo haber en todos los tiempos, excepto el condicional, que lo veremos más adelante (the verb haber in all tenses, except for the conditional, which we will see later)
 
 ## Indicativo
 
@@ -174,7 +172,7 @@ but it is important to know how to use them correctly.
 
     Hubieran
 
-### Nota sobre su uso
+### Nota sobre su uso (note about its use)
 
 Estos tiempos no tienen traducción al inglés; son el equivalente subjuntivo de los tiempos compuestos en indicativo, 
 de la misma manera que el presente de subjuntivo (*yo sea*) es el equivalente subjuntivo del presente de 
@@ -393,58 +391,111 @@ hecho era recuperar el juicio.[54]
 *Gustavo Adolfo Bécquer. Publicada en* El Contemporáneo *el día 12 de febrero de 1862.*
 
 [1] The moonbeam 
+
 [2] Grave
+
 [3] Bridge
+
 [4] Cloister
+
 [5] The stars in the sky 
+
 [6] Place
+
 [7] Everyone
+
 [8] River
+
 [9] Clouds
+
 [10] Luminous points
+
 [11] Worlds
+
 [12] Pertenecer - to belong 
+
 [13] The old bridge
+
 [14] Fabric
+
 [15] Ocultarse - to hide
+
 [16] Believed
+
 [17] Dried leaves
+
 [18] Foreign
+
 [19] Bank
+
 [20] Tower
+
 [21] Boat
+
 [22] Dreams
+
 [23] Cross it
+
 [24] Entrance
+
 [25] The city wall 
+
 [26] Narrow
+
 [27] Stone
+
 [28] Soft light
+
 [29] Awake
+
 [30] Excursions/trips
+
 [31] Dawn
+
 [32] Wounded
+
 [33] War
+
 [34] Whatever she may be 
+
 [35] Turned on
+
 [36] Sound
+
 [37] Heart
+
 [38] Dobla is an old Spanish gold coin 
+
 [39] Holy water
+
 [40] Larger
+
 [41] I am sure
+
 [42] Dreamers
+
 [43] Together with
+
 [44] Suddenly
+
 [45] To float
+
 [46] Still
+
 [47] To laugh 
+
 [48] Wind
+
 [49] Branches 
+
 [50] Fireplace 
+
 [51] This way 
+
 [52] Iron
+
 [53] To chase
+
 [54] Recover his mind
 
 ### Preguntas

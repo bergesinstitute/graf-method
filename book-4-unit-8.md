@@ -249,57 +249,109 @@ encontrarlos en las almohadas de plumas.
 *De* Cuentos de amor, de locura y de muerte *(1917), Horacio Quiroga*
 
 [1] The feather pillow 
+
 [2] Honeymoon
+
 [3] Even though
+
 [4] Deeply
+
 [5] They got married
+
 [6] Marble
+
 [7] Coldness
+
 [8] Avoided (en imperfecto) 
+
 [9] Lasted
+
 [10] To go out
+
 [11] Hugged her
+
 [12] Remained silent
+
 [13] Pale
+
 [14] Lit. “Ordered her a lot of rest” 
+
 [15] Was going to die
+
 [16] The light was on
+
 [17] Virtually
+
 [18] Steadily. Mirar fijamente = to stare 
+
 [19] Carpet
+
 [20] Suddenly
+
 [21] Screamed
+
 [22] Calmed down (reflexivo)
+
 [23] Smiled
+
 [24] Anthropoid, something with the shape of a human being 
+
 [25] They didn't find an explanation
+
 [26] The last visit
+
 [27] Virtually dead
+
 [28] Discouraged
+
 [29] Got worse (en imperfecto)
+
 [30] She felt (en imperfecto)
+
 [31] On top of
+
 [32] Mournfully lit
+
 [33] The maid
+
 [34] The pillow
+
 [35] Stains
+
 [36] Blood
+
 [37] Dark
+
 [38] They seem bites
+
 [39] To lift
+
 [40] Light
+
 [41] Tried
+
 [42] Shivered
+
 [43] Heavy
+
 [44] Trembling
+
 [45] Cut
+
 [46] Feathers
+
 [47] Ball
+
 [48] Swollen
+
 [49] Stealthily applied
+
 [50] Reflexive version of *beber.* Very common. The meaning is the same.
+
 [51] Birds
+
 [52] Environment 
+
 [53] To become
 
 ### Preguntas

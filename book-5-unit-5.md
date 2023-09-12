@@ -1,5 +1,7 @@
 # El tiempo condicional (the conditional tense)
 
+## Un tiempo verbal
+
 El condicional, que en inglés se forma con *I would,* es en español un tiempo verbal. Igual que en el futuro, 
 el sufijo de conjugación se pone después del infinitivo del verbo.
 
