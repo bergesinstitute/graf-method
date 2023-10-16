@@ -1,40 +1,40 @@
 # La ropa (the clothes)
 
-    La ropa - the clothes
+    la ropa - the clothes
 
-    La camisa - the shirt/the blouse
+    la camisa - the shirt / the blouse
 
-    La camiseta - the t-shirt
+    la camiseta - the t-shirt
 
-    Los pantalones - the pants
+    los pantalones - the pants
 
-    El vestido - the dress
+    el vestido - the dress
 
-    La falda - the skirt
+    la falda - the skirt
 
-    Los zapatos - the shoes
+    los zapatos - the shoes
 
-    El cinturón - the belt
+    el cinturón - the belt
 
-    El traje - the suit
+    el traje - the suit
 
-    El jersey - the sweater
+    el jersey - the sweater
 
-    La chaqueta - the jacket
+    la chaqueta - the jacket
 
-    Los calcetines - the socks
+    los calcetines - the socks
 
-    La ropa interior - the underwear
+    la ropa interior - the underwear
 
-    El abrigo - the coat
+    el abrigo - the coat
 
-    El sombrero - the hat
+    el sombrero - the hat
 
-    La gorra - the cap
+    la gorra - the cap
 
-    La bufanda - the scarf
+    la bufanda - the scarf
 
-    Los guantes - the gloves
+    los guantes - the gloves
 
 > Remember: *llevar - to wear.*
 
@@ -105,17 +105,17 @@ a nosotros, a vosotros,* or *a ellos.*
 
 We are also going to use a new set of pronouns (they are very similar to the reflexive pronouns):
 
-    (A mí) Me gusta / Me gustan
+    (a mí) me gusta / me gustan
 
-    (A ti) Te gusta / Te gustan
+    (a ti) te gusta / te gustan
 
-    (A él) Le gusta / Le gustan
+    (a él / a ella) le gusta / le gustan
 
-    (A nosotros) Nos gusta / Nos gustan
+    (a nosotros / a nosotras) nos gusta / nos gustan
 
-    (A vosotros) [Os gusta / Os gustan]
+    (a vosotros / a vosotras) (os gusta / os gustan)
 
-    (A ellos) Les gusta / Les gustan
+    (a ellos / a ellas) les gusta / les gustan
 
 ## Examples
 

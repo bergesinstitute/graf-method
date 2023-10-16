@@ -2,167 +2,165 @@
 
 Here is a vocab list for reference. No need to memorize everything at this point.
 
-    La comida - (the) food
+    los cereales - the cereals
 
-    Los cereales - the cereals
+    el arroz - the rice
 
-    El arroz - the rice
+    el maíz - the corn
 
-    El maíz - the corn
+    el trigo - the wheat
 
-    El trigo - the wheat
+    la fruta - the fruit
 
-    La fruta - the fruit
+    la manzana - the apple
 
-    La manzana - the apple
+    la pera - the pear
 
-    La pera - the pear
+    la fresa - the strawberry
 
-    La fresa - the strawberry
+    el arándano - the blueberry
 
-    El arándano - the blueberry
+    el plátano - the banana
 
-    El plátano - the banana
+    el melocotón / el durazno - the peach
 
-    El melocotón/el durazno - the peach
+    el limón - the lemon
 
-    El limón - the lemon
+    el pomelo - the grapefruit
 
-    El pomelo - the grapefruit
+    la uva - the grape
 
-    La uva - the grape
+    la cereza - the cherry
 
-    La cereza - the cherry
+    el melón - the melon
 
-    El melón - the melon
+    la sandía - the watermelon
 
-    La sandía - the watermelon
+    el mango - the mango
 
-    El mango - the mango
+    la piña - the pineapple
 
-    La piña - the pineapple
+    el coco - the coconut
 
-    El coco - the coconut
+    la carne - the meat
 
-    La carne - the meat
+    el pollo - the chicken
 
-    El pollo - the chicken
+    el cordero - the lamb
 
-    El cordero - the lamb
+    la ternera - the beef
 
-    La ternera - the beef
+    el puerco - the pork
 
-    El puerco - the pork
+    el pescado - the fish
 
-    El pescado - the fish
+    los camarones - the shrimp
 
-    Los camarones - the shrimp
+    el calamar - the squid
 
-    El calamar - the squid
+    las ostras - the oysters
 
-    Las ostras - the oysters
+    los mejillones - the mussels
 
-    Los mejillones - the mussels
+    las almejas - the clams
 
-    Las almejas - the clams
+    las vieiras - the scallops
 
-    Las vieiras - the scallops
+    el queso - the cheese
 
-    El queso - the cheese
+    el huevo - the egg
 
-    El huevo - the egg
+    la hamburguesa - the hamburger
 
-    La hamburguesa - the hamburger
+    las patatas / las papas fritas - the fries
 
-    Las patatas/las papas fritas - the fries
+    la pizza - the pizza
 
-    La pizza - the pizza
+    el pan - the bread
 
-    El pan - the bread
+    el sandwich - the sandwich
 
-    El sandwich - the sandwich
+    el helado - the ice cream 
 
-    El helado - the ice cream 
+    los vegetales / las verduras - the vegetables
 
-    Los vegetales/las verduras - the vegetables
+    la alcachofa - the artichoke
 
-    La alcachofa - the artichoke
+    el espárrago - the asparagus
 
-    El espárrago - the asparagus
+    el apio - the celery
 
-    El apio - the celery
+    la zanahoria - the carrot
 
-    La zanahoria - the carrot
+    el pimiento - the pepper
 
-    El pimiento - the pepper
+    la col - the cabbage
 
-    La col - the cabbage
+    la coliflor - the cauliflower
 
-    La coliflor - the cauliflower
+    el hinojo - the fennel
 
-    El hinojo - the fennel
+    las judías / los frijoles - the beans
 
-    Las judías/los frijoles - the beans
+    el pepino - the cucumber
 
-    El pepino - the cucumber
+    la lechuga - the lettuce
 
-    La lechuga - the lettuce
+    el tomate - the tomato
 
-    El tomate - the tomato
+    las espinacas - the spinach
 
-    Las espinacas - the spinach
+    el brócoli - the broccoli
 
-    El brócoli - the broccoli
+    el ajo - the garlic
 
-    El ajo - the garlic
+    la cebolla - the onion
 
-    La cebolla - the onion
+    la berenjena - the eggplant
 
-    La berenjena - the eggplant
+    las setas / los hongos - the mushrooms
 
-    Las setas/los hongos - the mushrooms
+    la calabaza - the squash
 
-    La calabaza - the squash
+    la oliva - the olive
 
-    La oliva - the olive
+    la sal - the salt
 
-    La sal - the salt
+    el azúcar - the sugar
 
-    El azúcar - the sugar
+    la pimienta - the ground pepper
 
-    La pimienta - the ground pepper
+    el aceite - the oil
 
-    El aceite - the oil
+    el vinagre - the vinegar
 
-    El vinagre - the vinegar
+    la mostaza - the mustard
 
-    La mostaza - the mustard
-
-    El cilantro - the cilantro
+    el cilantro - the cilantro
 
 # Las bebidas (drinks)
 
-    Las bebidas - (the) drinks
+Here is a vocab list for reference. No need to memorize everything at this point.
 
-    El agua - the water
+    el agua - the water
 
-    El batido - the shake
+    el batido - the shake
 
-    El café - the coffee
+    el café - the coffee
 
-    El café con leche - the coffee with milk
+    el café con leche - the coffee with milk / the latte
 
-    La limonada - the lemonade
+    la limonada - the lemonade
 
-    El jugo - the juice
+    el jugo - the juice
 
-    La leche - the milk
+    la leche - the milk
 
-    El refresco - the soda/the soft drink
+    el refresco - the soda / the soft drink
 
-    El té - the tea
+    el té - the tea
 
-    Con hielo/sin hielo - with ice/without ice
+    con hielo / sin hielo - with ice / without ice
 
 # Ordering food at a restaurant
 

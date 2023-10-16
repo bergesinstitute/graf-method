@@ -1,128 +1,128 @@
 # Las partes del cuerpo (body parts)
 
-    El cuerpo - the body
+    el cuerpo - the body
 
-    La cabeza - the head
+    la cabeza - the head
 
-    La cara - the face
+    la cara - the face
 
-    El ojo - the eye
+    el ojo - the eye
 
-    La oreja - the ear
+    la oreja - the ear
 
-    La nariz - the nose
+    la nariz - the nose
 
-    La boca - the mouth
+    la boca - the mouth
 
-    El diente - the tooth
+    el diente - the tooth
 
-    El pelo - the hair
+    el pelo - the hair
 
-    El cuello - the neck
+    el cuello - the neck
 
-    La piel - the skin
+    la piel - the skin
 
-    El brazo - the arm
+    el brazo - the arm
 
-    La mano - the hand
+    la mano - the hand
 
-    El dedo - the finger
+    el dedo - the finger
 
-    La pierna - the leg
+    la pierna - the leg
 
-    El pie - the foot
+    el pie - the foot
 
 # Numbers from 0 to 100 in Spanish
 
 ## 1 through 30
 
-    0 - Cero
+    0 - cero
 
-    1 - Uno
+    1 - uno
 
-    2 - Dos
+    2 - dos
 
-    3 - Tres
+    3 - tres
 
-    4 - Cuatro
+    4 - cuatro
 
-    5 - Cinco
+    5 - cinco
 
-    6 - Seis
+    6 - seis
 
-    7 - Siete
+    7 - siete
 
-    8 - Ocho
+    8 - ocho
 
-    9 - Nueve
+    9 - nueve
 
-    10 - Diez
+    10 - diez
 
-    11 - Once
+    11 - once
 
-    12 - Doce
+    12 - doce
 
-    13 - Trece
+    13 - trece
 
-    14 - Catorce
+    14 - catorce
 
-    15 - Quince
+    15 - quince
 
-    16 - Dieciséis
+    16 - dieciséis
 
-    17 - Diecisiete
+    17 - diecisiete
 
-    18 - Dieciocho
+    18 - dieciocho
 
-    19 - Diecinueve
+    19 - diecinueve
 
-    20 - Veinte
+    20 - veinte
 
-    21 - Veintiuno
+    21 - veintiuno
 
-    22 - Veintidós
+    22 - veintidós
 
-    23 - Veintitrés
+    23 - veintitrés
 
-    24 - Veinticuatro
+    24 - veinticuatro
 
-    25 - Veinticinco
+    25 - veinticinco
 
-    26 - Veintiséis
+    26 - veintiséis
 
-    27 - Veintisiete
+    27 - veintisiete
 
-    28 - Veintiocho
+    28 - veintiocho
 
-    29 - Veintinueve
+    29 - veintinueve
 
-    30 - Treinta
+    30 - treinta
 
 ## 31 through 100
 
-    31 - Treinta y uno 
+    31 - treinta y uno 
 
-    32 - Treinta y dos 
+    32 - treinta y dos 
 
-    33 - Treinta y tres
+    33 - treinta y tres
 
     ... and so on
 
     Same for 40, 50, etc.
 
-    40 - Cuarenta 
+    40 - cuarenta 
 
-    50 - Cincuenta 
+    50 - cincuenta 
 
-    60 - Sesenta 
+    60 - sesenta 
 
-    70 - Setenta
+    70 - setenta
 
-    80 - Ochenta 
+    80 - ochenta 
 
-    90 - Noventa 
+    90 - noventa 
 
-    100 - Cien
+    100 - cien
 
 ## Examples
 
@@ -166,7 +166,7 @@ When asking and answering what time it is, we do the following:
 
     Es la una (for one).
 
-    Son las cinco/las siete/las once, etc. (for any other hour).
+    Son las cinco / las siete / las once, etc. (for any other hour).
 
 The easiest way to tell time is to say:
 

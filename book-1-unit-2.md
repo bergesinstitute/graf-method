@@ -5,27 +5,27 @@
 Here are some basic adjectives: the colors. Some of them remain neutral (N) when they are used 
 with masculine and feminine nouns (but they still have plural):
 
-    Rojo - Red
+    rojo - red
 
-    Azul (N) - Blue
+    azul (N) - blue
 
-    Amarillo - Yellow
+    amarillo - yellow
 
-    Verde (N) - Green
+    verde (N) - green
 
-    Naranja (N) - Orange
+    naranja (N) - orange
 
-    Rosa (N) - Pink
+    rosa (N) - pink
 
-    Púrpura (N)/morado - Purple
+    púrpura (N)/morado - purple
 
-    Negro - Black
+    negro - black
 
-    Blanco - White
+    blanco - white
 
-    Gris (N) - Gray
+    gris (N) - gray
 
-    Marrón (N) - Brown
+    marrón (N) - brown
 
 ## Examples
 
@@ -37,15 +37,23 @@ Using azul (N): *el piano es azul, la guitarra es azul, los pianos son azules, l
 
 ## Common adjectives
 
-    Grande (N)/Pequeño - Big/Small
+N = neutral
 
-    Alto/Bajo - Tall/Short
+    grande (N) - big
 
-    Feliz (N)/Triste (N) - Happy/Sad
+    pequeño - small
 
-    Enojado - Angry
+    alto - tall
 
-    Cansado - Tired
+    bajo - short
+
+    feliz (N) - happy
+
+    triste (N) - sad
+
+    enojado - angry
+
+    cansado - tired
 
 ## How they work with *ser* and *estar*:
 
@@ -58,9 +66,9 @@ nosotros estamos cansados.*
 
 Prepositions are words that express relationships between two words (usually spatial or temporal).
 
-    De - From, of
+    de - from, of
 
-    En - In, on, at
+    en - in, on, at
 
 *El abuelo es de España. El abuelo está en Nueva York.* (The grandfather is from Spain. 
 The grandfather is in New York.) Notice the use of *ser* and *estar*. Since *de* implies origin, 
@@ -70,65 +78,65 @@ we will always use it with *ser*. Since *en* implies location, we will always us
 
 Adverbs are words that describe verbs or adjectives. They don't have gender or number. Here's an important one:
 
-    Muy - Very
+    muy - very
 
 *Yo estoy muy cansado.* (I am very tired.) 
 
 # Basic words and expressions in Spanish
 
-    Sí - yes
+    sí - yes
 
-    No - no
+    no - no
 
-    Hola - hello
+    hola - hello
 
-    Adiós - goodbye
+    adiós - goodbye
 
-    Por favor - please
+    por favor - please
 
-    Gracias - thank you
+    gracias - thank you
 
-    De nada - you are welcome
+    de nada - you are welcome
 
-    La casa - the house
+    la casa - the house
 
-    El carro - the car (also el coche in Spain)
+    el carro / el coche - the car
 
-    Buenos días - good morning
+    buenos días - good morning
 
-    Buenas tardes - good afternoon/evening
+    buenas tardes - good afternoon/evening
 
-    Buenas noches - good night
+    buenas noches - good night
 
-    El hombre - the man
+    el hombre - the man
 
-    La mujer - the woman
+    la mujer - the woman
 
-    El niño - the boy
+    el niño - the boy
 
-    La niña - the girl
+    la niña - the girl
 
 # Numbers 1 through 5 in Spanish
 
-    Uno - One
+    uno - one
 
-    Dos - Two
+    dos - two
 
-    Tres - Three
+    tres - three
 
-    Cuatro - Four
+    cuatro - four
 
-    Cinco - Five
+    cinco - five
 
 # Spanish conjunctions
 
 Conjunctions are words used to connect words or sentences together.
 
-    Y - and
+    y - and
 
-    O - or
+    o - or
 
-    Pero - but
+    pero - but
 
 *Yo soy de Madrid y Laura es de Barcelona. Juan está enojado o cansado. Yo estoy en Nueva York, 
 pero Pedro está en Londres.* (I am from Madrid and Laura is from Barcelona. Juan is either angry 
@@ -143,31 +151,31 @@ or more than one thing possessed.
 
 ## One thing possessed
 
-    First-Person Singular: Mi (My)
+    First-person singular: mi (my)
 
-    Second-Person Singular: Tu (Your, singular)
+    Second-person singular: tu (your, singular)
 
-    Third-Person Singular: Su (His / Her)
+    Third-person singular: su (his / her)
 
-    First-Person Plural: Nuestro / Nuestra (Our)
+    First-person plural: nuestro / nuestra (our)
 
-    Second Person Plural: Vuestro / Vuestra (Your, plural)
+    Second-person plural: vuestro / vuestra (your, plural)
 
-    Third Person Plural: Su (Their)
+    Third-person plural: su (their)
 
 ## More than one thing possessed
 
-    First-Person Singular: Mis (My)
+    First-person singular: mis (my)
 
-    Second-Person Singular: Tus (Your, singular)
+    Second-person singular: tus (your, singular)
 
-    Third-Person Singular: Sus (His / Her)
+    Third-person singular: sus (his / her)
 
-    First-Person Plural: Nuestros / Nuestras (Our)
+    First-person plural: nuestros / nuestras (our)
 
-    Second Person Plural: Vuestros / Vuestras (Your, plural)
+    Second-person plural: vuestros / vuestras (your, plural)
 
-    Third Person Plural: Sus (Their)
+    Third-person plural: sus (their)
 
 Some examples: *mi casa, mis carros, sus tíos, nuestras casas, tus abuelos.*
 
@@ -197,21 +205,21 @@ Here's an easy formula:
 
 ## Interrogative pronouns
 
-    Qué - What
+    qué - what
 
-    Dónde - Where
+    dónde - where
 
-    Cuándo - When
+    cuándo - when
 
-    Cómo - How
+    cómo - how
 
-    Quién - Who
+    quién - who
 
-    Cuánto - How much/how many
+    cuánto - how much / how many
 
-    Por qué - Why
+    por qué - why
 
-    Cuál - Which
+    cuál - which
 
 They all have an accent (´) on their strong syllable.
 
@@ -248,21 +256,21 @@ Here are some examples:
 
 Some more nouns:
 
-    El libro - the book
+    el libro - the book
 
-    La película - the movie
+    la película - the movie
 
-    La ciudad - the city
+    la ciudad - the city
 
-    El equipo de fútbol - the football/soccer team
+    el equipo de fútbol - the football/soccer team
 
-    La canción - the song
+    la canción - the song
 
 # Homework
 
 ## 1. Translate
 
-m: male; f: female
+m = male. f = female.
 
 1. The son is tired.
 2. I am tired.

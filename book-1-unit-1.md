@@ -104,17 +104,17 @@ Translation: *Syrup, boss, manager, cat, people, gin, war, guitar, goldfinch.*
 
 ## Basic pronouns
 
-    First-Person Singular: Yo (I)
+    First-person singular: yo (I)
 
-    Second-Person Singular: Tú (You, singular)
+    Second-person singular: tú (you, singular)
 
-    Third-Person Singular: Él / Ella (He / She)
+    Third-person singular: él / ella (he / she)
 
-    First-Person Plural: Nosotros / Nosotras (We)
+    First-person plural: nosotros / nosotras (we)
 
-    Second Person Plural: Vosotros / Vosotras (You, plural)
+    Second-person plural: vosotros / vosotras (you, plural)
 
-    Third Person Plural: Ellos / Ellas (They)
+    Third-person plural: ellos / ellas (they)
 
 > The neuter pronoun *it* is not usually expressed in Spanish. We use *él/ella* instead, 
 or we just omit the pronoun and use the verb only.
@@ -124,42 +124,42 @@ of women only, we use the feminine version. If it consists of men only or both m
 we use the masculine version (even if there are 50 women and one man!). To be inclusive, 
 we can use some gender-neutral formulas: *Nosotros y nosotras, nosotros/as* or *nosotr@s* are common ones.
 
-## Usted / Ustedes
+## Usted / ustedes
 
 We have a second-person formal pronoun that we use to express courtesy or respect. It 
 has a second-person meaning, but it is conjugated in third person, since it comes from the 
-old courtesy formula *Vuestra Merced* (*Your Mercy*). (We say *your mercy/your 
-majesty/your honor is*—as opposed to *you are*. We'll do the same thing in Spanish when we learn the verbs.)
+old courtesy formula *vuestra merced* (*your mercy*). (We say *your mercy/your 
+majesty/your honor is* — as opposed to *you are*. We'll do the same thing in Spanish when we learn the verbs.)
 
 # Verbs ser and estar (to be)
 
 ## Ser, present tense
 
-    Yo soy
+    yo soy
 
-    Tú eres
+    tú eres
 
-    Él/ella/usted es
+    él / ella / usted es
 
-    Nosotros/as somos
+    nosotros / nosotras somos
 
-    Vosotros/as sois
+    (vosotros/ vosotras sois)
 
-    Ellos/ellas/ustedes son
+    ellos / ellas / ustedes son
 
 ## Estar, present tense
 
-    Yo estoy
+    yo estoy
 
-    Tú estás
+    tú estás
 
-    Él/ella/usted está
+    él / ella / usted está
 
-    Nosotros/as estamos
+    nosotros / nosotras estamos
 
-    Vosotros/as estáis
+    (vosotros / vosotras estáis)
 
-    Ellos/ellas/ustedes están
+    ellos / ellas / ustedes están
 
 ## How to memorize the conjugations
 
@@ -218,13 +218,13 @@ Typical uses:
 
 To make a sentence negative, we just place the word *no* right before the verb:
 
-    Yo soy
+    Yo soy.
 
-    Yo no soy 
+    Yo no soy.
 
-    Ellos están
+    Ellos están.
 
-    Ellos no están
+    Ellos no están.
 
 # Nouns in Spanish
 
@@ -253,25 +253,25 @@ and number (singular, i.e. one/plural, i.e. more than one).
 
 ## Definite article (the)
 
-    El (singular, masculine)
+    el (singular, masculine)
 
-    La (singular, feminine)
+    la (singular, feminine)
 
-    Los (plural, masculine)
+    los (plural, masculine)
 
-    Las (plural, feminine)
+    las (plural, feminine)
 
 Examples: *El piano, los pianos, la guitarra, las guitarras.*
 
 ## Indefinite article (a/some)
 
-    Un (singular, masculine)
+    un (singular, masculine)
 
-    Una (singular, feminine)
+    una (singular, feminine)
 
-    Unos (plural, masculine)
+    unos (plural, masculine)
 
-    Unas (plural, feminine)	
+    unas (plural, feminine)	
 
 Examples: *Un piano, unos pianos, una guitarra, unas guitarras.*
 
@@ -290,51 +290,53 @@ In Spanish, generic/uncountable nouns at the beginning of a sentence must have a
 
 # Family members in Spanish
 
-    El padre - the father
+    el padre - the father
 
-    La madre - the mother
+    la madre - the mother
 
-    Los padres - the parents
+    los padres - the parents
 
-    El hermano - the brother
+    el hermano - the brother
 
-    La hermana - the sister
+    la hermana - the sister
 
-    El hijo - the son
+    el hijo - the son
 
-    La hija - the daughter
+    la hija - the daughter
 
-    El abuelo - the grandfather
+    el abuelo - the grandfather
 
-    La abuela - the grandmother
+    la abuela - the grandmother
 
-    El nieto - the grandson
+    el nieto - the grandson
 
-    La nieta - the granddaughter
+    la nieta - the granddaughter
 
-    El tío - the uncle
+    el tío - the uncle
 
-    La tía - the aunt
+    la tía - the aunt
 
-    El primo - the cousin (m.)
+    el primo - the cousin (m)
 
-    La prima - the cousin (f.)
+    la prima - the cousin (f)
 
-    El sobrino - the nephew
+    el sobrino - the nephew
 
-    La sobrina - the niece
+    la sobrina - the niece
 
-    El perro/la perra - the dog
+    el perro / la perra - the dog
 
-    El gato/la gata - the cat
+    el gato / la gata - the cat
 
-    El esposo - the husband
+    el esposo - the husband
 
-    La esposa - the wife
+    la esposa - the wife
 
 # Adjectives in Spanish
 
-Adjectives describe or qualify a noun. In Spanish, they have to match gender and number (this does not happen in English: we can say *the red guitar*, for singular, or *the red guitars*, for plural, and *red* remains the same).
+Adjectives describe or qualify a noun. In Spanish, they have to match in gender and number (this does not 
+happen in English: we can say *the red guitar*, for singular, or *the red guitars*, for plural, 
+and *red* remains the same).
 
 Generally, adjectives in Spanish are placed after the noun:
 

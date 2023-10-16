@@ -25,87 +25,87 @@ the person does the action “to himself or herself.”
 
 The infinitive of these verbs is like a standard Spanish verb, but with *-se* at the end:
 
-    Mirar - to watch/to look (at something or someone)
+    mirar - to watch / to look (at something or someone)
 
-    Mirarse - to look at yourself
+    mirarse - to look at yourself
 
 In order to conjugate *mirarse*, we will “borrow” the conjugation from *mirar*, and add the reflexive pronouns:
 
-    Yo me (I, to myself)
+    yo me (I, to myself)
 
-    Tú te (You, to yourself)
+    tú te (you, to yourself)
 
-    Él se (He, to himself)
+    él se / ella se (he, to himself / she, to herself)
 
-    Nosotros nos (We, to ourselves)
+    nosotros nos / nosotras nos (we, to ourselves)
 
-    (Vosotros os (You, to yourselves))
+    (vosotros os / vosotras os) (you all, to yourselves)
 
-    Ellos se (They, to themselves)
+    ellos se / ellas se (they, to themselves)
 
 Here is *mirar*:
 
-    Mirar (to watch/to look)
+    mirar (to watch / to look)
 
-    Yo miro
+    yo miro
 
-    Tú miras
+    tú miras
 
-    Él/ella/ud. mira
+    él / ella / usted mira
 
-    Nosotros/as miramos
+    nosotros / nosotras miramos
 
-    (Vosotros/as miráis)
+    (vosotros / vosotras miráis)
 
-    Ellos/ellas/uds. miran
+    ellos / ellas / ustedes miran
 
 And here is *mirarse*:
 
-    Mirarse (to look at yourself)
+    mirarse (to look at yourself)
 
-    Yo me miro
+    yo me miro
 
-    Tú te miras
+    tú te miras
 
-    Él/ella/ud. se mira
+    él / ella / usted se mira
 
-    Nosotros/as nos miramos
+    nosotros / nosotras nos miramos
 
-    (Vosotros/as os miráis)
+    (vosotros / vosotras os miráis)
 
-    Ellos/ellas/uds. se miran
+    ellos / ellas / ustedes se miran
 
 Here are some common reflexive verbs:
 
-    Acostarse* - to go to bed/to lie down
+    acostarse* - to go to bed / to lie down
 
-    Afeitarse - to shave (yourself)
+    afeitarse - to shave (yourself)
 
-    Cepillarse los dientes - to brush your teeth
+    cepillarse los dientes - to brush your teeth
 
-    Depilarse - to remove hair from your own body
+    depilarse - to remove hair from your own body
 
-    Dormirse* - to fall asleep
+    dormirse* - to fall asleep
 
-    Ducharse/bañarse - to take a shower
+    ducharse / bañarse - to take a shower
 
-    Lavarse la cara - to wash your face
+    lavarse la cara - to wash your face
 
-    Levantarse - to get up/to wake up
+    levantarse - to get up / to wake up
 
-    Llamarse - to “be named”
+    llamarse - to “be named”
 
-    Maquillarse - to put on makeup
+    maquillarse - to put on makeup
 
-    Mirarse en el espejo - to look at yourself in the mirror
+    mirarse en el espejo - to look at yourself in the mirror
 
-    Peinarse - to comb your hair
+    peinarse - to comb your hair
 
-    Ponerse el sombrero* - to put on your hat
+    ponerse el sombrero* - to put on your hat
 
-    Quitarse el sombrero - to take your hat off
+    quitarse el sombrero - to take your hat off
 
-    Vestirse* - to get dressed
+    vestirse* - to get dressed
 
 > *Irregular verb. See below.
 
@@ -134,67 +134,69 @@ To make a sentence negative, we just place the word *no* right before the reflex
 
     Yo no me ducho por la mañana.
 
-*Acostarse* and *dormirse* are “stem-changing” verbs:
+## Stem-changing reflexive verbs
 
-    Acostarse (to go to bed)
+*Acostarse* and *dormirse* are “stem-changing” verbs (O becomes UE in all persons except *nosotros* and *vosotros*):
 
-    Yo me acuesto
+### Acostarse (to go to bed)
 
-    Tú te acuestas
+    yo me acuesto
 
-    Él/ella/ud. se acuesta
+    tú te acuestas
 
-    Nosotros/as nos acostamos
+    él / ella / usted se acuesta
 
-    (Vosotros/as os acostáis)
+    nosotros / nosotras nos acostamos
 
-    Ellos/ellas/uds. se acuestan
+    (vosotros / vosotras os acostáis)
 
-    Dormirse (to fall asleep)
+    ellos / ellas / ustedes se acuestan
 
-    Yo me duermo
+### Dormirse (to fall asleep)
 
-    Tú te duermes
+    yo me duermo
 
-    Él/ella/ud. se duerme
+    tú te duermes
 
-    Nosotros/as nos dormimos
+    él / ella / usted se duerme
 
-    (Vosotros/as os dormís)
+    nosotros / nosotras nos dormimos
 
-    Ellos/ellas/uds. se duermen
+    (vosotros / vosotras os dormís)
 
-Notice how O changes to UE in all grammatical persons except *nosotros* and *vosotros.*
+    ellos / ellas / ustedes se duermen
+
+## Vestirse and ponerse
 
 *Vestirse* and *ponerse* are irregular verbs: 
 
-    Vestirse (to get dressed)
+### Vestirse (to get dressed)
 
-    Yo me visto
+    yo me visto
 
-    Tú te vistes
+    tú te vistes
 
-    Él/ella/ud. se viste
+    él / ella / usted se viste
 
-    Nosotros/as nos vestimos
+    nosotros / nosotras nos vestimos
 
-    (Vosotros/as os vestís)
+    (vosotros / vosotras os vestís)
 
-    Ellos/ellas/uds. se visten
+    ellos / ellas / ustedes se visten
 
-    Ponerse (to put on)
+### Ponerse (to put on)
 
-    Yo me pongo
+    yo me pongo
 
-    Tú te pones
+    tú te pones
 
-    Él/ella/ud. se pone
+    él / ella / usted se pone
 
-    Nosotros/as nos ponemos
+    nosotros / nosotras nos ponemos
 
-    (Vosotros/as os ponéis)
+    (vosotros / vosotras os ponéis)
 
-    Ellos/ellas/uds. se ponen
+    ellos / ellas / ustedes se ponen
 
 ## Conversación
 

@@ -1,22 +1,22 @@
 # Some nouns we can use with regular verbs
 
-    El almuerzo - lunch
+    el almuerzo - lunch
 
-    La canción - the song
+    la canción - the song
 
-    El desayuno - breakfast
+    el desayuno - breakfast
 
-    La comida - food
+    la comida - food
 
-    La cena - dinner
+    la cena - dinner
 
-    Los zapatos - the shoes
+    los zapatos - the shoes
 
-    La televisión - the TV
+    la televisión - the TV
 
-    La oficina - the office
+    la oficina - the office
 
-    La tienda - the store
+    la tienda - the store
 
 # Subject and object
 
@@ -42,17 +42,17 @@ the preposition *a* right after the verb:
 
 # Spanish prepositions con and sin
 
-    Con - with
+    con - with
 
-    Sin - without
+    sin - without
 
 *María está con Juan. Hay una mesa sin sillas.* (María is with Juan. There is a table without chairs.) 
 
 # Spanish adverbs mucho and poco
 
-    Mucho - a lot
+    mucho - a lot
 
-    Poco - a little
+    poco - a little
 
 *Eva canta mucho. Yo canto poco.* (Eva sings a lot. I sing a little.)
 
@@ -66,19 +66,19 @@ respectively. When they are adjectives, they need to match the noun's gender and
 
 # Habit time expressions
 
-    Normalmente - usually
+    normalmente - usually
 
-    Siempre - always
+    siempre - always
 
-    A veces - sometimes
+    a veces - sometimes
 
-    Nunca - never
+    nunca - never
 
-    Cada día - every day
+    cada día - every day
 
-    Casi cada día - almost every day
+    casi cada día - almost every day
 
-    Cada martes - every Tuesday
+    cada martes - every Tuesday
 
 # Basic use of the Spanish present tense
 
@@ -126,46 +126,46 @@ C: Yo nunca cocino. Yo desayuno en mi oficina y siempre ceno en un restaurante.
 
 ## Comer (to eat), present tense
 
-    Yo como
+    yo como
 
-    Tú comes
+    tú comes
 
-    Él/ella/ud. come
+    él / ella / usted come
 
-    Nosotros/as comemos
+    nosotros / nosotras comemos
 
-    (Vosotros/as coméis)
+    (vosotros / vosotras coméis)
 
-    Ellos/ellas/uds. comen
+    ellos / ellas / ustedes comen
 
 ## List of common -er verbs
 
-    Aprender - to learn
+    aprender - to learn
 
-    Beber - to drink
+    beber - to drink
 
-    Comer - to eat
+    comer - to eat
 
-    Comprender - to understand
+    comprender - to understand
 
-    Correr - to run
+    correr - to run
 
-    Leer - to read
+    leer - to read
 
-    Vender - to sell
+    vender - to sell
 
 ## How to conjugate -er verbs
 
 To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: we drop 
 the *-er* ending, and we add the corresponding ending for each person.
 
-    Aprender:
+    aprender:
 
-    Yo aprendo
+    yo aprendo
 
-    Tú aprendes
+    yú aprendes
 
-    Él aprende
+    él aprende
 
     Etc.
 
@@ -173,64 +173,64 @@ the *-er* ending, and we add the corresponding ending for each person.
 
 ## Vivir (to live), present tense
 
-    Yo vivo
+    yo vivo
 
-    Tú vives
+    tú vives
 
-    Él/ella/ud. vive
+    él / ella / usted vive
 
-    Nosotros/as vivimos
+    nosotros / nosotras vivimos
 
-    (Vosotros/as vivís)
+    (vosotros / vosotras vivís)
 
-    Ellos/ellas/uds. viven
+    ellos / ellas / ustedes viven
 
 ## List of common -ir verbs
 
-    Abrir - to open
+    abrir - to open
 
-    Escribir - to write
+    escribir - to write
 
-    Recibir - to receive
+    recibir - to receive
 
-    Vivir - to live
+    vivir - to live
 
 ## How to conjugate -ir verbs
 
 To conjugate these verbs, we will apply the same procedure we used with *-ar* verbs: 
 we drop the *-ir* ending, and we add the corresponding ending for each person.
 
-    Escribir:
+    escribir:
 
-    Yo escribo
+    yo escribo
 
-    Tú escribes
+    tú escribes
 
-    Él escribe
+    él escribe
 
     Etc.
 
 # More nouns we can use with regular verbs
 
-    La carta - the letter
+    la carta - the letter
 
-    El email/el correo electrónico - the email
+    el email / el correo electrónico - the email
 
-    El mensaje de texto - the text message
+    el mensaje de texto - the text message
 
-    El libro - the book
+    el libro - the book
 
-    El idioma - the language
+    el idioma - the language
 
 # Good vs. bad vs. well vs. badly
 
-    Bueno - good (adjective)
+    bueno - good (adjective)
 
-    Malo - bad (adjective)
+    malo - bad (adjective)
 
-    Bien - well (adverb)
+    bien - well (adverb)
 
-    Mal - badly (adverb)
+    mal - badly (adverb)
 
 *Bueno* and *malo* can only be used with nouns. They must match the noun's gender and number (*buenos, mala,* etc.)
 

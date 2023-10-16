@@ -1,30 +1,30 @@
 # La casa (the house)
 
-    La casa - the house
+    la casa - the house
 
-    El cuarto - the room/the bedroom
+    el cuarto - the room / the bedroom
 
-    La sala - the living room
+    la sala - the living room
 
-    La cocina - the kitchen
+    la cocina - the kitchen
 
-    El baño - the bathroom
+    el baño - the bathroom
 
-    El armario - the closet
+    el armario - the closet
 
-    La puerta - the door
+    la puerta - the door
 
-    La ventana - the window
+    la ventana - the window
 
-    La mesa - the table
+    la mesa - the table
 
-    La silla - the chair
+    la silla - the chair
 
-    El sofá - the sofa
+    el sofá - the sofa
 
-    La cama - the bed
+    la cama - the bed
 
-    El apartamento - the apartment
+    el apartamento - the apartment
 
 # There is / there are
 
@@ -86,59 +86,57 @@ We are going to use *cantar* (to sing), *comer* (to eat) and *vivir* (to live) a
 
 ## Cantar (to sing), present tense
 
-    Yo canto
+    yo canto
 
-    Tú cantas
+    tú cantas
 
-    Él/ella/ud. canta
+    él / ella / usted canta
 
-    Nosotros/as cantamos
+    nosotros / nosotras cantamos
 
-    (Vosotros/as cantáis)
+    (vosotros / vosotras cantáis)
 
-    Ellos/ellas/uds. cantan
+    ellos / ellas / ustedes cantan
 
 ## List of common -ar verbs
 
-    Amar - to love
+    amar - to love
 
-    Bailar - to dance
+    bailar - to dance
 
-    Caminar - to walk
+    caminar - to walk
 
-    Cantar - to sing
+    cantar - to sing
 
-    Cenar - to have dinner
+    cenar - to have dinner
 
-    Cocinar - to cook
+    cocinar - to cook
 
-    Comprar - to buy
+    comprar - to buy
 
-    Desayunar - to have breakfast
+    desayunar - to have breakfast
 
-    Descansar - to rest
+    descansar - to rest
 
-    Enviar - to send
+    enviar - to send
 
-    Estudiar - to study
+    estudiar - to study
 
-    Hablar - to talk/to speak
+    hablar - to talk / to speak
 
-    Llamar - to call
+    llamar - to call
 
-    Llevar - to wear/to carry/to take
+    llevar - to wear / to carry / to take
 
-    Mirar - to watch/to look
+    mirar - to watch / to look
 
-    Odiar - to hate
+    odiar - to hate
 
-    Tocar - to touch/to play an instrument
+    tocar - to touch / to play an instrument
 
-    Tomar - to take/to grab/to have (for food 
+    tomar - to take / to grab / to have (for food and drink)
 
-    and drink)
-
-    Trabajar - to work
+    trabajar - to work
 
 ## How to conjugate -ar verbs
 
@@ -146,13 +144,13 @@ To conjugate these verbs, we need to drop the *-ar* ending and add the correspon
 
 For example:
 
-    Trabajar - ar = trabaj
+    trabajar - ar = trabaj
 
-    Yo trabaj + o = yo trabajo
+    yo trabaj + o = yo trabajo
 
-    Tú trabaj + as = tú trabajas
+    tú trabaj + as = tú trabajas
 
-    Él trabaj + a = él trabaja
+    él trabaj + a = él trabaja
 
     Etc. 
 

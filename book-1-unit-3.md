@@ -2,17 +2,17 @@
 
 ## Conjugation
 
-    Yo tengo
+    yo tengo
 
-    Tú tienes
+    tú tienes
 
-    Él/ella/usted tiene
+    él / ella / usted tiene
 
-    Nosotros/as tenemos
+    nosotros / nosotras tenemos
 
-    Vosotros/as tenéis
+    (vosotros / vosotras tenéis)
 
-    Ellos/ellas/ustedes tienen
+    ellos / ellas / ustedes tienen
 
 ## Examples
 
@@ -26,65 +26,65 @@ Tengo una gata. - I have a (female) cat.
 
 # Ir (to go), present tense
 
-    Yo voy
+    yo voy
 
-    Tú vas
+    tú vas
 
-    Él/ella/usted va
+    él / ella / usted va
 
-    Nosotros/as vamos
+    nosotros / nosotras vamos
 
-    Vosotros/as vais
+    (vosotros / vosotras vais)
 
-    Ellos/ellas/ustedes van
+    ellos / ellas / ustedes van
 
 # Hacer (to do/to make), present tense
 
-    Yo hago
+    yo hago
 
-    Tú haces
+    tú haces
 
-    Él/ella/usted hace
+    él / ella / usted hace
 
-    Nosotros/as hacemos
+    nosotros / nosotras hacemos
 
-    Vosotros/as hacéis
+    (vosotros / vosotras hacéis)
 
-    Ellos/ellas/ustedes hacen
+    ellos / ellas / ustedes hacen
 
 # Nouns related to time
 
-    El segundo - the second
+    el segundo - the second
 
-    El minuto - the minute
+    el minuto - the minute
 
-    La hora - the hour
+    la hora - the hour
 
-    El día - the day
+    el día - the day
 
-    La semana - the week
+    la semana - the week
 
-    El mes - the month
+    el mes - the month
 
-    El año - the year
+    el año - the year
 
 # The days of the week in Spanish
 
-    Lunes - Monday
+    lunes - Monday
 
-    Martes - Tuesday
+    martes - Tuesday
 
-    Miércoles - Wednesday
+    miércoles - Wednesday
 
-    Jueves - Thursday
+    jueves - Thursday
 
-    Viernes - Friday
+    viernes - Friday
 
-    Sábado - Saturday
+    sábado - Saturday
 
-    Domingo - Sunday
+    domingo - Sunday
 
-    El fin de semana - the weekend
+    el fin de semana - the weekend
 
 In Spanish, days of the week are not capitalized: *lunes, martes, etc.* All of them are masculine. 
 In order to make them plural, we just use the plural article (*el martes, los martes*), 
@@ -92,45 +92,45 @@ except for *sábado* and *domingo*: *el sábado, los sábados; el domingo, los d
 
 # Lugares (places)
 
-    El trabajo - work
+    el trabajo - work
 
-    El mercado - the market
+    el mercado - the market
 
-    El supermercado - the supermarket
+    el supermercado - the supermarket
 
-    El cine - the movie theater
+    el cine - the movie theater
 
-    El teatro - the theatre
+    el teatro - the theatre
 
-    El concierto - the concert
+    el concierto - the concert
 
-    El club - the club
+    el club - the club
 
-    La escuela - the school
+    la escuela - the school
 
-    La cafetería - the coffee shop/the cafe
+    la cafetería - the coffee shop / the cafe
 
-    El restaurante - the restaurant
+    el restaurante - the restaurant
 
-    El gimnasio - the gym
+    el gimnasio - the gym
 
-    El parque - the park
+    el parque - the park
 
-    La iglesia - the church
+    la iglesia - the church
 
-    La sinagoga - the synagogue
+    la sinagoga - the synagogue
 
-    La mezquita - the mosque
+    la mezquita - the mosque
 
-    El templo - the temple
+    el templo - the temple
 
 # Spanish prepositions: a (to)
 
-    A - to
+    a - to
 
 When we use our preposition *a* together with the masculine singular article *el,* we have to combine them:
 
-    A + el = Al
+    a + el = al
 
 *Voy al parque.* (I go to the park.)
 
@@ -160,31 +160,31 @@ Also note how *a* + *el* becomes *al*.
 
 # Some words we use all the time in Spanish
 
-    Vale/dale/bien/bueno/listo/claro - ok
+    vale / dale / bien / bueno / listo / claro - ok
 
-    Entonces - so/then
+    entonces - so / then
 
 # Time expressions in Spanish
 
-    Por la mañana - In the morning
+    por la mañana - in the morning
 
-    Por la tarde - In the afternoon/evening
+    por la tarde - in the afternoon/evening
 
-    Por la noche - At night
+    por la noche - at night
 
 > In some countries, people say *en*  instead of *por: en la mañana, en la tarde,* etc.
 
 # Numbers 6 through 10 in Spanish
 
-    Seis - Six
+    seis - six
 
-    Siete - Seven
+    siete - seven
 
-    Ocho - Eight
+    ocho - eight
 
-    Nueve - Nine
+    nueve - nine
 
-    Diez - Ten
+    diez - ten
 
 # Conversación
 
