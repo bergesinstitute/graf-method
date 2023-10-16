@@ -61,7 +61,7 @@ The Spanish alphabet has 27 letters:
 ## Comments
 
 - B & V sound the same, like a soft B. *Beber = Vivir*.
-- Ch & Ll are consonants phonetically (they have their own sound: *llave, chapa…*)
+- CH & LL are consonants phonetically (they have their own sound: *llave, chapa…*)
 - H is silent: *hablar* and *hombre* are pronounced /ablar/, /ombre/.
 - K & W are not common; they are only used for borrowed words: *whisky, katana…*
 - R has two sounds:
