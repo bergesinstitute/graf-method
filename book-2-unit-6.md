@@ -2,43 +2,43 @@
 
 For hundreds:
 
-    100 - Cien
+    100 - cien
 
-    101 to 199 - Ciento 
+    101 to 199 - ciento 
 
-    200 to 299 - Doscientos 
+    200 to 299 - coscientos 
 
-    300 to 399 - Trescientos
+    300 to 399 - trescientos
 
-    400 to 499 - Cuatrocientos
+    400 to 499 - cuatrocientos
 
-    500 to 599 - Quinientos*
+    500 to 599 - quinientos*
 
-    600 to 699 - Seiscientos
+    600 to 699 - seiscientos
 
-    700 to 799 - Setecientos*
+    700 to 799 - setecientos*
 
-    800 to 899 - Ochocientos
+    800 to 899 - ochocientos
 
-    900 to 999 - Novecientos*
+    900 to 999 - novecientos*
 
 > *Irregular: it doesn't follow the number + *cientos* pattern
 
 For thousands:
 
-    1.000 - Mil 
+    1.000 - mil 
     
-    2.000 - Dos mil 
+    2.000 - dos mil 
     
-    3.000 - Tres mil 
+    3.000 - tres mil 
     
     etc.
 
 For millions:
 
-    1.000.000 - Un millón 
+    1.000.000 - un millón 
     
-    2.000.000 - Dos millones 
+    2.000.000 - dos millones 
     
     etc.
 
@@ -65,12 +65,12 @@ it would never be *cuatrocientos “y” cincuenta y siete.*
 ## 3. Fill in the blanks
 
 1. Yo no _____________ (poder) ir a la fiesta (the party) el jueves pasado.
-2. El domingo pasado, María _____________ (tener que) trabajar, y no __________ (poder) estudiar.
+2. El domingo pasado, María _____________ (tener que) trabajar, y no _____________ (poder) estudiar.
 3. Tú _____________ (deber) tener muchos amigos.
 4. Nosotros siempre _____________ (necesitar) tomar café por la mañana.
-5. Ellas _____________ (querer) ir al club el jueves pasado, pero no _______________ (poder).
+5. Ellas _____________ (querer) ir al club el jueves pasado, pero no _____________ (poder).
 6. Cada lunes Eva _____________ (necesitar) descansar, porque trabaja mucho el fin de semana.
-7. ¿___________ (querer) ir a casa de Juan esta noche (tonight)?
+7. ¿_____________ (querer) ir a casa de Juan esta noche (tonight)?
 
 ## 4. Spell the numbers
 

@@ -2,15 +2,15 @@
 
 ## Common Spanish modal verbs
 
-    Deber - must
+    deber - must
 
-    Tener que - to have to
+    tener que - to have to
 
-    Poder - can/to be able to
+    poder - can / to be able to
 
-    Necesitar - to need
+    necesitar - to need
 
-    Querer - to want
+    querer - to want
 
 Whenever there is a two-verb construction, we don't conjugate the second verb:
 
@@ -20,63 +20,63 @@ Verbs *poder* and *querer* are “stem-changing” verbs (verbs in which O becom
 in the present tense in all persons except *nosotros* and *vosotros*). 
 Here are their conjugations in the present tense.
 
-## Poder (can/to be able to), presente
+## Poder (can / to be able to), presente
 
-    Puedo
+    puedo
 
-    Puedes
+    puedes
 
-    Puede
+    puede
 
-    Podemos
+    podemos
 
-    (Podéis)
+    (podéis)
 
-    Pueden
+    pueden
 
 ## Querer (to want), presente
 
-    Quiero
+    quiero
 
-    Quieres
+    quieres
 
-    Quiere
+    quiere
 
-    Queremos
+    queremos
 
-    (Queréis)
+    (queréis)
 
-    Quieren
+    quieren
 
 Verbs *poder* and *querer* are irregular in the preterite tense (*pretérito perfecto*):
 
-## Poder (can/to be able to), pretérito perfecto
+## Poder (can / to be able to), pretérito perfecto
 
-    Pude
+    pude
 
-    Pudiste
+    pudiste
 
-    Pudo
+    pudo
 
-    Pudimos
+    pudimos
 
-    (Pudisteis)
+    (pudisteis)
 
-    Pudieron
+    pudieron
 
 ## Querer (to want), pretérito perfecto
 
-    Quise
+    quise
 
-    Quisiste
+    quisiste
 
-    Quiso
+    quiso
 
-    Quisimos
+    quisimos
 
-    (Quisisteis)
+    (quisisteis)
 
-    Quisieron
+    quisieron
 
 > Memorization tip: In the *pretérito perfecto* tense, *poder* has the same vowels as *tener,* and *querer* has 
 the same vowels as *hacer*.
@@ -123,11 +123,11 @@ J: Perfecto. Necesito practicar mucho.
 
 ## 1. Fill in the blanks using querer in the present tense
 
-1. Yo nunca _______ cantar.
+1. Yo nunca _________ cantar.
 2. Tú siempre _________ bailar.
-3. Nosotros __________ cocinar.
-4. Ellos __________ visitar a Maria.
-5. Ella ___________ mirar el programa.
+3. Nosotros _________ cocinar.
+4. Ellos _________ visitar a Maria.
+5. Ella _________ mirar el programa.
 
 ## 2. Answer the questions
 
@@ -144,11 +144,11 @@ J: Perfecto. Necesito practicar mucho.
 
 ## 3. Fill in the blanks using querer in the preterite tense
 
-1. El lunes pasado, yo _______ cantar.
+1. El lunes pasado, yo _________ cantar.
 2. El martes, tú _________ bailar.
-3. Nosotros __________ cocinar.
-4. El jueves, ellos __________ visitar a Maria.
-5. El veinte de enero, ella ___________ mirar el programa.
+3. Nosotros _________ cocinar.
+4. El jueves, ellos _________ visitar a Maria.
+5. El veinte de enero, ella _________ mirar el programa.
 
 ## 4. Answer the question
 

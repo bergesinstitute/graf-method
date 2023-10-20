@@ -37,45 +37,45 @@ J: Ayer por la noche fui al cine.
 
 ## Ser, pretérito perfecto
 
-    Yo fui
+    yo fui
 
-    Tú fuiste
+    tú fuiste
 
-    Él/ella/usted fue
+    él / ella / usted fue
 
-    Nosotros/as fuimos
+    nosotros / nosotras fuimos
 
-    (Vosotros/as fuisteis)
+    (vosotros / vosotras fuisteis)
 
-    Ellos/ellas/ustedes fueron
+    ellos / ellas / ustedes fueron
 
 ## Estar, pretérito perfecto
 
-    Yo estuve
+    yo estuve
 
-    Tú estuviste
+    tú estuviste
 
-    Él/ella/usted estuvo
+    él / ella / usted estuvo
 
-    Nosotros/as estuvimos
+    nosotros / nosotras estuvimos
 
-    (Vosotros/as estuvisteis)
+    (vosotros / vosotras estuvisteis)
 
-    Ellos/ellas/ustedes estuvieron
+    ellos / ellas / ustedes estuvieron
 
 ## Tener, pretérito perfecto
 
-    Yo tuve
+    yo tuve
 
-    Tú tuviste
+    tú tuviste
 
-    Él/ella/usted tuvo
+    él / ella / usted tuvo
 
-    Nosotros/as tuvimos
+    nosotros / nosotras tuvimos
 
-    (Vosotros/as tuvisteis)
+    (vosotros / vosotras tuvisteis)
 
-    Ellos/ellas/ustedes tuvieron
+    ellos / ellas / ustedes tuvieron
 
 > Note how *ser* is, in this tense, identical to *ir.* Spanish developed from Vulgar Latin, which was brought to the 
 > Iberian Peninsula by the Roman soldiers during the Second Punic War (3rd Century BC). In Classical Latin, 
@@ -107,59 +107,59 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
 ## Personal pronouns
 
-    Yo
+    yo
 
-    Tú
+    tú
 
-    Él / Ella / Usted
+    él / ella / usted
 
-    Nosotros / Nosotras
+    nosotros / nosotras
 
-    (Vosotros / Vosotras)
+    (vosotros / vosotras)
 
-    Ellos / Ellas / Ustedes
+    ellos / ellas / ustedes
 
 ## Cantar (to sing), pretérito perfecto
 
-    Canté
+    canté
 
-    Cantaste
+    cantaste
 
-    Cantó
+    cantó
 
-    Cantamos
+    cantamos
 
-    (Cantasteis)
+    (cantasteis)
 
-    Cantaron
+    cantaron
 
 ## Comer (to eat), pretérito perfecto
 
-    Comí
+    comí
 
-    Comiste
+    comiste
 
-    Comió
+    comió
 
-    Comimos
+    comimos
 
-    (Comisteis)
+    (comisteis)
 
-    Comieron
+    comieron
 
 ## Abrir (to open), pretérito perfecto
 
-    Abrí
+    abrí
 
-    Abriste
+    abriste
 
-    Abrió
+    abrió
 
-    Abrimos
+    abrimos
 
-    (Abristeis)
+    (abristeis)
 
-    Abrieron
+    abrieron
 
 > Notice how *-er* and *-ir* verbs have the same endings in this tense. Also, note how the first-person plural 
 (nosotros) is identical to the present tense conjugation for *-ar* and *-ir* verbs.
@@ -178,109 +178,109 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 
 ## -ar
 
-    Amar - to love
+    amar - to love
     
-    Ayudar - to help
+    ayudar - to help
     
-    Bailar - to dance
+    bailar - to dance
     
-    Caminar - to walk
+    caminar - to walk
     
-    Cantar - to sing
+    cantar - to sing
     
-    Cenar - to dine/to have dinner
+    cenar - to dine / to have dinner
     
-    Cocinar - to cook
+    cocinar - to cook
     
-    Comprar - to buy
+    comprar - to buy
     
-    Desayunar - to have breakfast
+    desayunar - to have breakfast
     
-    Descansar - to rest/to relax
+    descansar - to rest / to relax
     
-    Enviar - to send
+    enviar - to send
     
-    Escuchar - to listen
+    escuchar - to listen
     
-    Esperar - to wait
+    esperar - to wait
     
-    Estudiar - to study
+    estudiar - to study
     
-    Explicar - to explain
+    explicar - to explain
     
-    Hablar - to talk/to speak
+    hablar - to talk / to speak
     
-    Lavar - to wash
+    lavar - to wash
     
-    Limpiar - to clean
+    limpiar - to clean
     
-    Llamar - to call
+    llamar - to call
     
-    Llegar* - to arrive**
+    llegar* - to arrive**
     
-    Llevar - to take/to carry/to wear
+    llevar - to take / to carry / to wear
     
-    Mirar - to look/to watch
+    mirar - to look / to watch
     
-    Odiar - to hate
+    odiar - to hate
     
-    Olvidar - to forget
+    olvidar - to forget
     
-    Pagar* - to pay
+    pagar* - to pay
     
-    Pintar - to paint
+    pintar - to paint
     
-    Preguntar - to ask
+    preguntar - to ask
     
-    Preparar - to prepare
+    preparar - to prepare
     
-    Regalar - to give (as a present)
+    regalar - to give (something as a present)
     
-    Terminar - to end/to finish
+    terminar - to end / to finish
     
-    Tocar*** - to touch/to play an instrument
+    tocar*** - to touch / to play an instrument
     
-    Tomar - to take/to grab/to have (for food & drink)
+    tomar - to take / to grab / to have (for food & drink)
     
-    Trabajar - to work
+    trabajar - to work
     
-    Usar - to use
+    usar - to use
     
-    Viajar - to travel
+    viajar - to travel
     
-    Visitar - to visit
+    visitar - to visit
 
 ## -er
 
-    Beber - to drink
+    beber - to drink
     
-    Comer - to eat
+    comer - to eat
     
-    Comprender - to understand
+    comprender - to understand
     
-    Correr - to run
+    correr - to run
     
-    Creer**** - to believe
+    creer**** - to believe
     
-    Leer**** - to read
+    leer**** - to read
     
-    Responder - to answer/to respond
+    responder - to answer / to respond
     
-    Vender - to sell
+    vender - to sell
 
 ## -ir
 
-    Abrir - to open
+    abrir - to open
     
-    Discutir - to argue
+    discutir - to argue
     
-    Escribir - to write
+    escribir - to write
     
-    Existir - to exist
+    existir - to exist
     
-    Recibir - to receive
+    recibir - to receive
     
-    Vivir - to live
+    vivir - to live
 
 > *In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first-person 
 singular: *llegué, pagué.*
@@ -310,7 +310,7 @@ con mi perro el domingo.
 
 # Preguntar una pregunta
 
-    Pregunta - question
+    pregunta - question
 
 We don't usually use *preguntar* (to ask) and *pregunta* (question) in the same sentence; we frequently use 
 *hacer* instead of *preguntar* when we are using the noun *pregunta:*
@@ -329,12 +329,14 @@ Spanish:
 
 ## 1. Complete using hacer in the question and ir in the answer
 
+In questions, we usually place the verb before the pronoun.
+
 1. ¿Qué ____________ tú el viernes pasado? El viernes pasado yo _________________________.
-2. ¿Qué ____________ ellos el jueves pasado? El jueves pasado ellos _____________________________.
+2. ¿Qué ____________ ellos el jueves pasado? El jueves pasado ellos _________________________.
 3. ¿Qué ____________ usted el miércoles pasado por la noche? El miércoles pasado por la noche yo _________________________.
-4. ¿Qué ______________ María el domingo pasado? El domingo pasado María _________________________.
-5. ¿Qué _______________ nosotros el lunes pasado? El lunes pasado nosotros ________________________.
-6. ¿Qué ______________ ustedes el 23 de marzo? El 23 de marzo nosotros _____________________.
+4. ¿Qué ____________ María el domingo pasado? El domingo pasado María _________________________.
+5. ¿Qué ____________ nosotros el lunes pasado? El lunes pasado nosotros _________________________.
+6. ¿Qué ____________ ustedes el 23 de marzo? El 23 de marzo nosotros _________________________.
 
 ## 2. Complete using ir in the pretérito perfecto tense
 
@@ -418,10 +420,10 @@ La semana pasada:
 1. El lunes ella ___________ (cenar) en un restaurante.
 2. Juan ___________ (pagar) mucho dinero (money) por su carro.
 3. Usted ___________ (pintar) su apartamento.
-4. Ayer a las cinco ella _____________ (tomar) un café con hielo.
+4. Ayer a las cinco ella ___________ (tomar) un café con hielo.
 5. El jueves pasado yo ___________ (recibir) la carta de la universidad.
-6. El domingo tú ____________ (vender) la cámara en internet.
-7. ¿Dónde ____________ (desayunar) ellas?
+6. El domingo tú ___________ (vender) la cámara en internet.
+7. ¿Dónde ___________ (desayunar) ellas?
 
 ## 9. Write a short essay
 

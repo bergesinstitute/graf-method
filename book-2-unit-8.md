@@ -2,61 +2,61 @@
 
 ## Conocer, presente
 
-    Conozco
+    conozco
 
-    Conoces
+    conoces
 
-    Conoce
+    conoce
 
-    Conocemos
+    conocemos
 
-    (Conocéis)
+    (conocéis)
 
-    Conocen
+    conocen
 
 ## Saber, presente
 
-    Sé
+    sé
 
-    Sabes
+    sabes
 
-    Sabe
+    sabe
 
-    Sabemos
+    sabemos
 
-    (Sabéis)
+    (sabéis)
 
-    Saben
+    saben
 
 Both verbs are irregular in the first-person singular.
 
 ## Conocer, pretérito perfecto
 
-    Conocí
+    conocí
 
-    Conociste
+    conociste
 
-    Conoció
+    conoció
 
-    Conocimos
+    conocimos
 
-    (Conocisteis) 
+    (conocisteis) 
 
-    Conocieron
+    conocieron
 
 ## Saber, pretérito perfecto
 
-    Supe
+    supe
 
-    Supiste
+    supiste
 
-    Supo
+    supo
 
-    Supimos
+    supimos
 
-    (Supisteis)
+    (supisteis)
 
-    Supieron
+    supieron
 
 In the preterite tense, *conocer* is regular, *saber* is irregular.
 
@@ -151,13 +151,13 @@ L: Sí, yo también.
 
 # Something, nothing, somebody, nobody, in Spanish
 
-    Algo – something
+    algo – something
 
-    Nada – nothing
+    nada – nothing
 
-    Alguien – somebody
+    alguien – somebody
 
-    Nadie – nobody
+    nadie – nobody
 
 *Yo tengo algo.* (I have something.)
 
@@ -182,9 +182,9 @@ We cannot use *nada* or *nadie* in affirmative sentences.
 
 # Adverbs también and tampoco
 
-    También – also
+    también – also
 
-    Tampoco – don't (...) either 
+    tampoco – don't (...) either 
 
 *Mi amigo Pedro tiene un perro. Yo también tengo un perro.* (My friend Pedro has a dog. I also have a dog.)
 
@@ -199,14 +199,14 @@ Ayer...
 
 1. María ______________________ (levantarse) a las siete.
 2. Tú ______________________ (lavarse) las manos tres veces (three times).
-3. Él _____________________ (ducharse) a las ocho y media.
-4. ¿Ustedes ___________________ (peinarse)?
-5. Sara ____________________ (maquillarse) en el tren (train).
-6. Nosotros __________________ (mirarse) en el espejo del baño de la oficina.
-7. Ellas ___________________ (acostarse) muy tarde (very late).
-8. Yo ___________________ (levantarse) muy temprano (very early).
-9. Usted no ________________ (lavarse) la cara.
-10. Francisco ________________ (acostarse) a las nueve de la noche.
+3. Él ______________________ (ducharse) a las ocho y media.
+4. ¿Ustedes ______________________ (peinarse)?
+5. Sara ______________________ (maquillarse) en el tren (train).
+6. Nosotros ______________________ (mirarse) en el espejo del baño de la oficina.
+7. Ellas ______________________ (acostarse) muy tarde (very late).
+8. Yo ______________________ (levantarse) muy temprano (very early).
+9. Usted no ______________________ (lavarse) la cara.
+10. Francisco ______________________ (acostarse) a las nueve de la noche.
 
 ## 2. Write five sentences using reflexive verbs in the pretérito perfecto tense
 
@@ -251,18 +251,18 @@ Yesterday...
 En presente...
 
 1. Yo ______________ a tu hermano.
-2. ¿Tú ________________ que Madrid está en España?
-3. ¿Tú ________________ las películas de Iñárritu?
-4. Mi padre no _____________ bailar tango.
+2. ¿Tú ______________ que Madrid está en España?
+3. ¿Tú ______________ las películas de Iñárritu?
+4. Mi padre no ______________ bailar tango.
 5. ¿Tú ______________ cantar ópera?
-6. Yo ___________ que él vive en Queens.
-7. ¿Tú ___________ el grupo indie The Shchlabbs?
+6. Yo ______________ que él vive en Queens.
+7. ¿Tú ______________ el grupo indie The Shchlabbs?
 
 En pasado...
 
-1. Ayer yo ____________ al actor Brad Pitt.
-2. Mi amigo Justin _____________ a Jane el viernes.
-3. Él ____________ al presidente en la cena del jueves pasado.
+1. Ayer yo ______________ al actor Brad Pitt.
+2. Mi amigo Justin ______________ a Jane el viernes.
+3. Él ______________ al presidente en la cena del jueves pasado.
 
 ## 7. Write three sentences using conocer and three using saber
 

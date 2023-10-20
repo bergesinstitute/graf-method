@@ -5,13 +5,13 @@
 When expressing “time ago,” we use the impersonal form — the verb, conjugated in the third-person singular, 
 with no subject — of *hacer:*
 
-    Hace una hora - one hour ago
+    hace una hora - one hour ago
 
-    Hace dos minutos - two minutes ago
+    hace dos minutos - two minutes ago
 
-    Hace cuatro meses - four months ago
+    hace cuatro meses - four months ago
 
-    Hace trescientos años - three hundred years ago
+    hace trescientos años - three hundred years ago
 
 Literal translation would be something like “it makes four months.”
 
@@ -20,27 +20,27 @@ Literal translation would be something like “it makes four months.”
 For the weather, we also use the impersonal form of *hacer.* Again, the impersonal form is built by 
 using the third-person singular, but without a subject: *Hace.*
 
-    Hace calor - it's hot (lit. It makes heat)
+    hace calor - it's hot (lit. It makes heat)
 
-    Hace frío - it's cold (lit. It makes cold)
+    hace frío - it's cold (lit. It makes cold)
 
-    Hace buen tiempo - it's nice outside (lit. It makes good weather)
+    hace buen tiempo - it's nice outside (lit. It makes good weather)
 
-    Hace mal tiempo - the weather is bad (lit. It makes bad weather)
+    hace mal tiempo - the weather is bad (lit. It makes bad weather)
 
-    Hace sol - it's sunny (lit. It makes sun)
+    hace sol - it's sunny (lit. It makes sun)
 
-    Hace viento - it's windy (lit. It makes wind)
+    hace viento - it's windy (lit. It makes wind)
 
 # Las cuatro estaciones (the four seasons)
 
-    La primavera - Spring
+    la primavera - the spring
 
-    El verano - Summer
+    el verano - the summer
 
-    El otoño - Fall
+    el otoño - the fall
 
-    El invierno - Winter
+    el invierno - the winter
 
 # Spanish present progressive
 
@@ -64,24 +64,24 @@ This tense is commonly used with adverbs *ahora* (now) and *hoy* (today).
 
 ## It's raining, it's snowing
 
-    Llover – to rain
+    llover – to rain
 
-    Nevar – to snow
+    nevar – to snow
 
 When we want to say it's raining or snowing, we have to use the progressive tense in the third-person singular, 
 since *llover* and *nevar* are impersonal verbs:
 
-    Está lloviendo – it's raining
+    está lloviendo – it's raining
 
-    Está nevando – it's snowing
+    está nevando – it's snowing
 
 When we conjugate them in the present tense (for habits or facts), we need to keep in mind that 
 *nevar* and *llover* are stem-changing verbs. Also, since they are impersonal verbs, we only conjugate 
 them in the third-person singular:
 
-    Llueve – it rains
+    llueve – it rains
 
-    Nieva – it snows
+    nieva – it snows
 
 *En Arizona nunca nieva.*
 
@@ -109,35 +109,35 @@ P: Muy bien.
 We conjugate reflexive verbs in the preterite tense in the same way we do in the present tense 
 (we first use the reflexive pronoun, and then we conjugate the verb, ignoring *se*).
 
-    Levantarse (to get up/to wake up), pretérito perfecto
+Here is *levantarse* (to get up / to wake up) in the pretérito perfecto tense:
 
-    Me levanté
+    me levanté
 
-    Te levantaste
+    te levantaste
 
-    Se levantó
+    se levantó
 
-    Nos levantamos
+    nos levantamos
 
-    (Os levantasteis)
+    (os levantasteis)
 
-    Se levantaron
+    se levantaron
 
 Here are some common reflexive verbs that are regular in the past tense:
 
-    Acostarse – to go to bed/to lie down
+    acostarse – to go to bed / to lie down
 
-    Ducharse – to shower
+    ducharse – to shower
 
-    Lavarse (la cara, las manos, etc.) – to wash your face, your hands, etc.
+    lavarse (la cara, las manos, etc.) – to wash your face, your hands, etc.
 
-    Levantarse – to get up/to wake up
+    levantarse – to get up / to wake up
 
-    Maquillarse – to put on makeup
+    maquillarse – to put on makeup
 
-    Mirarse en el espejo – to look at yourself in the mirror
+    mirarse en el espejo – to look at yourself in the mirror
 
-    Peinarse – to comb your hair
+    peinarse – to comb your hair
 
 ## Un ejemplo
 
@@ -155,15 +155,15 @@ That happens in English when adding prepositions: *to look*, for example, is dif
 
 A very distinct case would be the following:
 
-    Ir – to go
+    ir – to go
 
-    Irse – to leave
+    irse – to leave
 
 We use them with these prepositions:
 
-    Ir a
+    ir a
 
-    Irse de
+    irse de
 
 > In Spanish, we cannot leave a place, we have to leave "from" a place.
 

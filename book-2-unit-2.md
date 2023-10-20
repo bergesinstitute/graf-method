@@ -2,29 +2,29 @@
 
 ## Comparatives
 
-    Más (...) que - More (...) than / (adjective)+er than (taller than, shorter than, etc.)
+    más (...) que - more (...) than / (adjective)+er than
 
-    Menos (...) que - Less (...) than
+    menos (...) que - less (...) than
 
 *María es más alta que Javier.* (María is taller than Javier.)
 
 *Juan gana menos dinero que Pedro.* (Juan earns less money than Pedro.)
 
-    Mejor que - better than
+    mejor que - better than
 
-    Peor que - worse than
+    peor que - worse than
 
 *Trabajar es mejor que estudiar.* (Lit. To work is better than to study.)
 
 *La pizza de Nueva York es mejor que la pizza de L.A.* (New York pizza is better than L.A. pizza.)
 
-    Tan (...) como - As (...) as
+    tan (...) como - as (...) as
 
 *Mi hermana está tan feliz como tu hermana.* (My sister is as happy as your sister.)
 
 > Use it with adjectives only: *alto, feliz, cansado, guapa,* etc.
 
-    Tanto (...) como - As much (...) as / as many (...) as
+    tanto (...) como - as much (...) as / as many (...) as
 
 When it relates to a verb, it's considered an adverb, so it doesn't change its number or gender. 
 Also, in this case, there is nothing between *tanto* and *como:*
@@ -37,17 +37,17 @@ When it relates to a noun, it's considered an adjective, so it needs to be adjus
 
 ## Superlatives
 
-    El más - The most / the (adjective)+est (the tallest, the shortest, etc.)
+    el más - the most / the (adjective)+est
 
-    El menos - The least
+    el menos - the least
 
 *María es la más alta en su clase.* (María is the tallest in her class.) (We make it *la* for feminine.)
 
 *Juan es el menos experimentado.* (Juan is the least experienced.)
 
-    El mejor - The best
+    el mejor - the best
 
-    El peor - The worst
+    el peor - the worst
 
 *Yo soy el mejor.* (I am the best.)
 
@@ -72,39 +72,39 @@ Yo voy a Vermont y a Nevada a veces, pero no voy tanto como mi hermano.
 
 # Common words/expressions
 
-    También - also/too
+    también - also / too
 
-    Yo sé - I know
+    yo sé - I know
 
-# Verbs ir (to go), and hacer (to do/to make) in the past tense, AKA preterite (pretérito perfecto)
+# Verbs ir (to go), and hacer (to do / to make) in the past tense, AKA preterite (pretérito perfecto)
 
 ## Ir, pretérito perfecto
 
-    Yo fui
+    yo fui
 
-    Tú fuiste
+    tú fuiste
 
-    Él/ella/usted fue
+    él / ella / usted fue
 
-    Nosotros/as fuimos
+    nosotros / nosotras fuimos
 
-    (Vosotros/as fuisteis)
+    (vosotros / vosotras fuisteis)
 
-    Ellos/ellas/ustedes fueron
+    ellos / ellas / ustedes fueron
 
 ## Hacer, pretérito perfecto
 
-    Yo hice
+    yo hice
 
-    Tú hiciste
+    tú hiciste
 
-    Él/ella/usted hizo
+    él / ella / usted hizo
 
-    Nosotros/as hicimos
+    nosotros / nosotras hicimos
 
-    (Vosotros/as hicisteis)
+    (vosotros / vosotras hicisteis)
 
-    Ellos/ellas/ustedes hicieron
+    ellos / ellas / ustedes hicieron
 
 # Spanish preterite (pretérito perfecto)
 
@@ -114,15 +114,15 @@ time in the past. We usually indicate this specific point by using a time expres
 
 Here are some common past tense time expressions in Spanish:
 
-    Ayer - yesterday
+    ayer - yesterday
 
-    Anoche - last night
+    anoche - last night
 
-    El martes pasado - on Tuesday/last Tuesday
+    el martes pasado - on Tuesday / last Tuesday
 
-    El martes - on Tuesday/last Tuesday (we usually omit the word pasado)
+    el martes - on Tuesday / last Tuesday (we usually omit the word pasado)
 
-    El viernes por la noche - On Friday night
+    el viernes por la noche - On Friday night
 
 Examples:
 
@@ -136,29 +136,29 @@ Examples:
 
 ## Los meses del año
 
-    Enero - January
+    enero - January
 
-    Febrero - February
+    febrero - February
 
-    Marzo - March
+    marzo - March
 
-    Abril - April
+    abril - April
 
-    Mayo - May
+    mayo - May
 
-    Junio - June
+    junio - June
 
-    Julio - July
+    julio - July
 
-    Agosto - August
+    agosto - August
 
-    Septiembre - September
+    septiembre - September
 
-    Octubre - October
+    octubre - October
 
-    Noviembre - November
+    noviembre - November
 
-    Diciembre - December
+    diciembre - December
 
 In Spanish, we don't capitalize them: 
 

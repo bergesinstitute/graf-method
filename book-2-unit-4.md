@@ -1,10 +1,10 @@
 # Antes, después, and durante
 
-    Antes - before
+    antes - before
 
-    Después - after
+    después - after
 
-    Durante - during
+    durante - during
 
 *Antes* and *después* are followed by the preposition *de* when they are used to place an event in relation 
 to a certain point in time:
@@ -46,45 +46,45 @@ of distance: *aquí* (here), *ahí* (there), and *allí/allá* (there, but furth
 
 ## First degree
 
-    Adverb: Aquí (here)
+    Adverb: aquí (here)
 
-    Masculine singular: Este (this)
+    Masculine singular: este (this)
 
-    Masculine plural: Estos (these)
+    Masculine plural: estos (these)
 
-    Feminine singular: Esta (this)
+    Feminine singular: esta (this)
 
-    Feminine plural: Estas (these)
+    Feminine plural: estas (these)
 
-    Neutral: Esto (this)
+    Neutral: esto (this)
 
 ## Second degree
 
-    Adverb: Ahí (there)
+    Adverb: ahí (there)
 
-    Masculine singular: Ese (that)
+    Masculine singular: ese (that)
 
-    Masculine plural: Esos (those)
+    Masculine plural: esos (those)
 
-    Feminine singular: Esa (that)
+    Feminine singular: esa (that)
 
-    Feminine plural: Esas (those)
+    Feminine plural: esas (those)
 
-    Neutral: Eso (that)
+    Neutral: eso (that)
 
 ## Third degree
 
-    Adverb: Allí/Allá (there)
+    Adverb: allí / allá (there)
 
-    Masculine singular: Aquel (that)
+    Masculine singular: aquel (that)
 
-    Masculine plural: Aquellos (those)
+    Masculine plural: aquellos (those)
 
-    Feminine singular: Aquella (that)
+    Feminine singular: aquella (that)
 
-    Feminine plural: Aquellas (those)
+    Feminine plural: aquellas (those)
 
-    Neutral: Aquello (that)
+    Neutral: aquello (that)
 
 Demonstratives can be adjectives or pronouns. When they describe a noun, they are adjectives:
 
@@ -127,9 +127,9 @@ Explain in detail everything you did last weekend (using *antes* and *después*)
 
 For *that,* you can use either *ese* or *aquel;* it's up to you.
 
-    El problema - the problem
+    el problema - the problem
 
-    El programa - the program
+    el programa - the program
 
 > *Problema* and *programa* are both masculine!
 

@@ -1,104 +1,116 @@
 # Profesiones (professions)
 
-    Abogado - lawyer
+    abogado - lawyer
 
-    Actor/Actriz - actor/actress
+    actor - actor (m)
 
-    Arquitecto - architect
+    actriz - actor (f) / actress
 
-    Bombero - firefighter
+    arquitecto - architect
 
-    Camarero, Mesero - waiter/waitress 
+    bombero - firefighter
 
-    Cantante (N) - singer
+    camarero / mesero - waiter / waitress 
 
-    Cartero - mailman/mailwoman
+    cantante (N) - singer
 
-    Científico - scientist
+    cartero - mailman / mailwoman
 
-    Cocinero - cook/chef
+    científico - scientist
 
-    Contable (N) - accountant
+    cocinero - cook / chef
 
-    Dependiente - salesman at a store
+    contable (N) - accountant
 
-    Doctor* - doctor
+    dependiente - salesman/saleswoman at a store
 
-    Economista (N) - economist
+    doctor - doctor
 
-    Enfermero - nurse
+    economista (N) - economist
 
-    Escritor - writer
+    enfermero - nurse
 
-    Estudiante (N) - student
+    escritor - writer
 
-    Ingeniero - engineer
+    estudiante (N) - student
 
-    Juez - judge
+    ingeniero - engineer
 
-    Modelo (N) - model
+    juez - judge
 
-    Periodista (N) - journalist
+    modelo (N) - model
 
-    Piloto (N) - pilot
+    periodista (N) - journalist
 
-    Pintor - painter
+    piloto (N) - pilot
 
-    Político - politician
+    pintor - painter
 
-    Policía (N) - policeman/policewoman
+    político - politician
 
-    Profesor - teacher, instructor, professor
+    policía (N) - policeman / policewoman
 
-    Psicólogo - psychologist
+    profesor - teacher / instructor / professor
 
-    Psiquiatra (N) - psychiatrist
+    psicólogo - psychologist
 
-    Recepcionista (N) - receptionist
+    psiquiatra (N) - psychiatrist
 
-    Secretario - secretary
+    recepcionista (N) - receptionist
 
-    Taxista (N) - taxi driver
+    secretario - secretary
 
-    Veterinario - vet
+    taxista (N) - taxi driver
 
-N = Neutral; same for male and female.
+    veterinario - vet
 
-> For nouns ending in R, we add an A at the end to build the feminine: *doctor, doctora, profesor, profesora,* etc.
+m = male. f = female. N = Neutral: same for male and female.
+
+> For nouns ending in R, we add an A at the end to build the feminine: *doctor, doctora, profesor, profesora,* etc. 
+> For nouns ending in O, we change O for A: *enfermera, cocinera,* etc. For *juez*, both *juez* and *jueza* are 
+> used as the female version.
 
 For professions, we always use *ser*.
 
-*Juan es científico, María es cantante, yo soy dependiente, nosotros somos policías, mi hijo es estudiante* (notice how we use *ser* for estudiante, even if we are not usually students permanently).
+*Juan es científico, María es cantante, yo soy dependiente, nosotros somos policías, mi hijo es estudiante* 
+(notice how we use *ser* for estudiante, even if we are not usually students permanently).
 
-> It is not recommended to use the article *un/una* with professions: saying *yo soy un doctor* is considered an Anglicism. Say *yo soy doctor* instead.
+> It is not recommended to use the article *un/una* with professions: saying *yo soy un doctor* is 
+> considered an Anglicism. Say *yo soy doctor* instead.
 
 # Spanish adjectives for physical appearance
 
-    Alto/bajo - tall/short
+    alto - tall
 
-    Gordo/delgado - fat/slim
+    bajo - short
 
-    Fuerte (N)/débil (N) - strong/weak
+    gordo - fat
 
-    Guapo (for people only) - handsome/pretty
+    delgado - slim
 
-    Feo - ugly
+    fuerte (N) - strong 
 
-    Bonito - beautiful (for people or things)
+    débil (N) - weak
 
-    Hermoso - beautiful (for people or things)
+    guapo (for people only) - handsome / pretty
 
-    Joven (N) - young
+    feo - ugly
 
-    Viejo - old
+    bonito - beautiful (for people or things)
+
+    hermoso - beautiful (for people or things)
+
+    joven (N) - young
+
+    viejo - old
 
 N = Neutral
 
 The adverbs we use for these adjectives are:
 
-    Muy - very
+    muy - very
 
-    Un poco - a little
+    un poco - a little
 
 For physical characteristics, we usually use *ser* (even if they change sometimes).
 
@@ -114,27 +126,27 @@ For physical characteristics, we usually use *ser* (even if they change sometime
 
 # Spanish adjectives for personality traits
 
-    Simpático - nice
+    simpático - nice
     
-    Antipático - unfriendly
+    antipático - unfriendly
     
-    Inteligente (N) - smart
+    inteligente (N) - smart
     
-    Tonto - dumb
+    tonto - dumb
     
-    Rico - rich
+    rico - rich
     
-    Pobre (N) - poor
+    pobre (N) - poor
     
-    Alegre (N) - joyful
+    alegre (N) - joyful
     
-    Culto - educated/cultivated
+    culto - educated / cultivated
     
-    Elegante (N) - elegant, refined
+    elegante (N) - elegant / refined
     
-    Educado - polite, well-mannered
+    educado - polite / well-mannered
     
-    Maleducado - rude, bad-mannered
+    maleducado - rude / bad-mannered
 
 N = Neutral
 
@@ -157,29 +169,29 @@ etc.). Here are some adjectives we can use for each:
 
 ## La piel (skin)
 
-    Morena - dark
+    morena - dark
 
-    Clara - fair 
+    clara - fair 
 
 ## El pelo (hair)
 
-    Largo - long
+    largo - long
 
-    Corto - short
+    corto - short
 
-    Liso - straight
+    liso - straight
 
-    Rizado - curly
+    rizado - curly
 
-    Rubio - blonde
+    rubio - blonde
 
-    Moreno - dark
+    moreno - dark
 
 We can also use colors: *marrón, negro, azul, etc.*
 
 ### Being bald
 
-    Calvo - bald
+    calvo - bald
 
 We use *ser* for calvo: *Pedro es calvo.*
 
@@ -205,27 +217,27 @@ We use colors: *negros, azules, verdes, marrones...*
 
 # Feelings and physical states in Spanish
 
-    Feliz (N) - happy
+    feliz (N) - happy
 
-    Triste (N) - sad
+    triste (N) - sad
 
-    Cansado - tired
+    cansado - tired
 
-    Enojado - angry
+    enojado - angry
 
-    Aburrido - bored
+    aburrido - bored
 
-    Enfermo - sick
+    enfermo - sick
 
-    Nervioso - nervous
+    nervioso - nervous
 
-    Emocionado - excited
+    emocionado - excited
 
-    Ocupado - busy
+    ocupado - busy
 
-    Preocupado - worried
+    preocupado - worried
 
-    Relajado - relaxed
+    relajado - relaxed
 
 N = Neutral
 
@@ -354,7 +366,7 @@ where does he/she live, what does he/she do, physical characteristics, personali
 4. Su hermana _________ embarazada (pregnant).
 5. Ella _________ enfermera.
 6. Los economistas _________ inteligentes.
-7. Ana ________ muy rica.
+7. Ana _________ muy rica.
 8. Usted _________ en Washington.
 9. La Casa Blanca _________ en Washington.
 10. Ustedes _________ de Corea.
@@ -363,15 +375,15 @@ where does he/she live, what does he/she do, physical characteristics, personali
 
 ## 5. Fill in the blanks
 
-    Porque - because
+    porque - because
 
 1. Los lunes yo estoy muy __________________ porque __________________________
-2. Los martes yo estoy muy __________________ porque _________________________
-3. Los miércoles yo estoy muy __________________ porque _______________________
+2. Los martes yo estoy muy __________________ porque __________________________
+3. Los miércoles yo estoy muy __________________ porque __________________________
 4. Los jueves yo estoy muy __________________ porque __________________________
 5. Los viernes yo estoy muy __________________ porque __________________________
 6. Los sábados yo estoy muy __________________ porque __________________________
-7. Los domingos yo estoy muy __________________ porque _________________________
-8. Yo soy muy _______________ y muy __________________ y un poco _______________
+7. Los domingos yo estoy muy __________________ porque __________________________
+8. Yo soy muy __________________ y muy __________________ y un poco __________________
 
 ## 6. Write a conversation using the present tense
