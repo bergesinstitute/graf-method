@@ -31,13 +31,13 @@
 In Spanish, we use *hay* to express either *there is* or *there are*. It doesn't matter if it's masculine, 
 feminine, singular, or plural:
 
-*Hay un piano - There is a piano*
-
-*Hay una guitarra - There is a guitar*
-
-*Hay unos pianos - There are some pianos*
-
-*Hay unas guitarras - There are some guitars*
+    Hay un piano. (There is a piano.)
+    
+    Hay una guitarra. (There is a guitar.)
+    
+    Hay unos pianos. (There are some pianos.)
+    
+    Hay unas guitarras. (There are some guitars.)
 
 To make a sentence negative, we just place the word *no* right before *hay*:
 

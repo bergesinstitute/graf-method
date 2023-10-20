@@ -72,7 +72,7 @@ Here is a vocab list for reference. No need to memorize everything at this point
 
     la hamburguesa - the hamburger
 
-    las patatas / las papas fritas - the fries
+    las patatas/papas fritas - the fries
 
     la pizza - the pizza
 

@@ -163,7 +163,7 @@ the *-er* ending, and we add the corresponding ending for each person.
 
     yo aprendo
 
-    yú aprendes
+    tú aprendes
 
     él aprende
 
@@ -222,7 +222,7 @@ we drop the *-ir* ending, and we add the corresponding ending for each person.
 
     el idioma - the language
 
-# Good vs. bad vs. well vs. badly
+# Bueno / malo / bien / mal
 
     bueno - good (adjective)
 
@@ -268,8 +268,6 @@ F: Yo hablo inglés y estudio español en la escuela.
 
 ## 1. Translate
 
-Remember: en = in, on, at
-
 1. My father sings at Blue Note on Saturdays.
 2. I walk in the park every day.
 3. You dance with Rita.
@@ -310,7 +308,10 @@ Remember: en = in, on, at
 
 ## 5. About me and my family. Answer the questions.
 
-Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis padres viven en Maryland. Mi abuelo vive en Miami. Yo no tengo hijos, pero mi hermana tiene tres hijos. Tengo cinco tíos y muchos primos. Mis tíos viven en España. Mi primo Carlos vive en Nueva York. Los sábados yo toco la guitarra con mi primo. Los domingos como en el restaurante y voy al cine con mis amigos y miro películas (movies).
+Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis padres viven en Maryland. 
+Mi abuelo vive en Miami. Yo no tengo hijos, pero mi hermana tiene tres hijos. Tengo cinco tíos y muchos primos. 
+Mis tíos viven en España. Mi primo Carlos vive en Nueva York. Los sábados yo toco la guitarra con mi primo. 
+Los domingos como en el restaurante y voy al cine con mis amigos y miro películas.
 
 ¿Tienes hermanos, hijos, tíos, primos, etc.? ¿Dónde vive tu familia?
 
@@ -329,16 +330,16 @@ Yo vivo en Nueva York. Yo tengo una hermana. Mi hermana vive en Madrid y mis pad
 
 ## 8. Fill in the blanks with the correct form of mucho or poco
 
-1. María tiene ____________________ zapatos. (mucho)
-2. Javier tiene ____________________ computadoras. (poco)
-3. Nosotros comemos ______________ en el desayuno. (poco)
-4. Jorge tiene ____________________ armarios en su apartamento. (mucho)
-5. Yo camino _________________ en el parque los domingos. (mucho)
-6. Mi casa tiene ______________ ventanas. (poco)
-7. Ana tiene ___________________ sillas en su cuarto. (poco)
-8. Luis escribe _________________________ cartas. (mucho)
+1. María tiene _____________ zapatos. (mucho)
+2. Javier tiene _____________ computadoras. (poco)
+3. Nosotros comemos _____________ en el desayuno. (poco)
+4. Jorge tiene _____________ armarios en su apartamento. (mucho)
+5. Yo camino _____________ en el parque los domingos. (mucho)
+6. Mi casa tiene _____________ ventanas. (poco)
+7. Ana tiene _____________ sillas en su cuarto. (poco)
+8. Luis escribe _____________ cartas. (mucho)
 9. Mi abuela cocina _____________ cada día. (mucho)
-10. La amiga de mi hermana come _________ tacos de pollo (chicken tacos). (mucho)
+10. La amiga de mi hermana come _____________ tacos de pollo (chicken tacos). (mucho)
 
 ## 9. Translate
 

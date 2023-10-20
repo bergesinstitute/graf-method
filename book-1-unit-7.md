@@ -43,9 +43,7 @@ In order to conjugate *mirarse*, we will “borrow” the conjugation from *mira
 
     ellos se / ellas se (they, to themselves)
 
-Here is *mirar*:
-
-    mirar (to watch / to look)
+Here is *mirar* (to watch / to look):
 
     yo miro
 
@@ -59,9 +57,7 @@ Here is *mirar*:
 
     ellos / ellas / ustedes miran
 
-And here is *mirarse*:
-
-    mirarse (to look at yourself)
+And here is *mirarse* (to look at yourself):
 
     yo me miro
 
@@ -270,11 +266,11 @@ Normalmente nos acostamos a las diez de la noche.
 11. Nosotros _____________________________ (vestirse) a las 8 de la mañana.
 12. Juan _____________________________ (ponerse) el sombrero.
 13. El club _____________________________ (llamarse) Penélope.
-14. Vicente __________________________ (afeitarse) cada mañana.
-15. Elena _________________________ (depilarse) cada domingo.
-16. Ellos ____________________ (mirarse) en el espejo del gimnasio.
-17. Tú __________________ (llamarse) Carlos Pérez.
-18. Verónica y Alicia ______________ (maquillarse) en el baño de la oficina.
+14. Vicente _____________________________ (afeitarse) cada mañana.
+15. Elena _____________________________ (depilarse) cada domingo.
+16. Ellos _____________________________ (mirarse) en el espejo del gimnasio.
+17. Tú _____________________________ (llamarse) Carlos Pérez.
+18. Verónica y Alicia _____________________________ (maquillarse) en el baño de la oficina.
 
 ## 4. Translate
 

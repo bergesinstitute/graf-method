@@ -1,7 +1,5 @@
 # La ropa (the clothes)
 
-    la ropa - the clothes
-
     la camisa - the shirt / the blouse
 
     la camiseta - the t-shirt
@@ -36,7 +34,7 @@
 
     los guantes - the gloves
 
-> Remember: *llevar - to wear.*
+> Remember: *llevar = to wear.*
 
 # Prepositions por & para (simplified)
 
@@ -109,13 +107,13 @@ We are also going to use a new set of pronouns (they are very similar to the ref
 
     (a ti) te gusta / te gustan
 
-    (a él / a ella) le gusta / le gustan
+    (a él / a ella / a usted) le gusta / le gustan
 
     (a nosotros / a nosotras) nos gusta / nos gustan
 
     (a vosotros / a vosotras) (os gusta / os gustan)
 
-    (a ellos / a ellas) les gusta / les gustan
+    (a ellos / a ellas / a ustedes) les gusta / les gustan
 
 ## Examples
 

@@ -92,13 +92,14 @@ Translation: *Cheese, cuckoo, shoe, cherry, clog, hunting, house.*
 - J sounds /x/ with all vowels, G sounds /g/ with A, O and U and /x/ with E and I.
 - We place a U after the G to obtain the sound /g/ with E and I.
 
-#### Some words to pronounce: 
+#### Some words to pronounce
 
 *Jarabe, jefe, gerente, gato, gente, ginebra, guerra, guitarra, jilguero.*
 
 Translation: *Syrup, boss, manager, cat, people, gin, war, guitar, goldfinch.*
 
-> Whenever we need the U between G and E or between G and I to be pronounced, we need to add a diéresis on top of it: *pingüino, lingüística.*
+> Whenever we need the U between G and E or between G and I to be pronounced, we need to add a 
+*diéresis* (¨) on top of it: *pingüino, lingüística.*
 
 # Spanish personal pronouns
 
@@ -174,7 +175,7 @@ tú estás, él/ella/usted está, nosotros/nosotras estamos, (vosotros/vosotras 
 > Since the majority of the Spanish-speaking countries don't use *vosotros*, we can 
 > choose to skip it when we learn verb conjugations.
 
-## Ser: We use it for permanent attributes and professions.
+## Ser: We use it for permanent attributes and professions
 
 Typical uses:
 
@@ -184,7 +185,7 @@ Typical uses:
 
     Laura es simpática. (Laura is nice.)
 
-### Nationality/origin
+### Nationality / origin
 
     John es de España. (John is from Spain.)
 
@@ -192,11 +193,11 @@ Typical uses:
 
     Maria es secretaria. (Maria is a secretary.) 
 
-## Estar: We use it for non-permanent attributes and location.
+## Estar: We use it for non-permanent attributes and location
 
 Typical uses:
 
-### Moods/physical conditions
+### Moods / physical conditions
 
     Yo estoy triste. (I am sad.)
 
@@ -208,23 +209,23 @@ Typical uses:
 
     Madrid está en España. (Madrid is in Spain.)
 
-## Distinguishing example:
+## Distinguishing example
 
-    Mis ojos son azules (My eyes are blue — it's their color.)
+    Mis ojos son azules. (My eyes are blue — it's their color.)
 
-    Mis ojos están rojos (My eyes are red — it is a non-permanent state.)
+    Mis ojos están rojos. (My eyes are red — it is a non-permanent state.)
 
 # Spanish negation
 
 To make a sentence negative, we just place the word *no* right before the verb:
 
-    Yo soy.
+    Yo soy alto. (I am tall.)
 
-    Yo no soy.
+    Yo no soy alto. (I am not tall.)
 
-    Ellos están.
+    Ellos están en España. (They are in Spain.)
 
-    Ellos no están.
+    Ellos no están en España. (They are not in Spain.)
 
 # Nouns in Spanish
 
@@ -324,9 +325,13 @@ In Spanish, generic/uncountable nouns at the beginning of a sentence must have a
 
     la sobrina - the niece
 
-    el perro / la perra - the dog
+    el perro - the dog (m)
 
-    el gato / la gata - the cat
+    la perra - the dog (f)
+
+    el gato - the cat (m)
+
+    la gata - the cat (f)
 
     el esposo - the husband
 

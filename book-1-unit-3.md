@@ -38,7 +38,7 @@ Tengo una gata. - I have a (female) cat.
 
     ellos / ellas / ustedes van
 
-# Hacer (to do/to make), present tense
+# Hacer (to do / to make), present tense
 
     yo hago
 
@@ -247,7 +247,7 @@ In questions, we usually place the verb before the pronoun.
 4. ¿Dónde _________ ustedes los jueves? Los jueves nosotros________ al club.
 5. ¿Dónde _________ ella los viernes? Ella_____ al gimnasio.
 
-> *Adónde*  and  *a dónde*  are often used instead of *dónde*  when using verb *ir: 
+> *Adónde*  and  *a dónde*  are often used instead of *dónde*  when using the verb *ir: 
 > ¿Dónde vas los lunes? ¿Adónde vas los lunes? ¿A dónde vas los lunes?* (The meaning is the 
 > same in all three examples.)
 
