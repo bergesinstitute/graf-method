@@ -19,14 +19,14 @@ to a certain point in time:
 
 > *When we use the preposition *de* followed by the article *el*, we need to merge them together into *del.*
 
-Also, when we place an event before or after an action (after running, before eating…), in Spanish we always 
+When we place an event before or after an action (after running, before eating…), in Spanish we always 
 use the infinitive form of the verb (*correr, comer,* etc.):
 
 *Después de cenar, fuimos al parque.*
 
 *Antes de correr, nunca bebo mucha agua.*
 
-*Ayer fui al gimnasio. Después de ir al gimnasio, desayuné. Después de desayunar,trabajé. 
+*Ayer fui al gimnasio. Después de ir al gimnasio, desayuné. Después de desayunar, trabajé. 
 Después de trabajar, fui al supermercado.*
 
 *Durante* is never followed by *de:*
@@ -129,7 +129,7 @@ For *that,* you can use either *ese* or *aquel;* it's up to you.
 
     el problema - the problem
 
-    el programa - the program
+    el programa - the program / the show
 
 > *Problema* and *programa* are both masculine!
 
@@ -146,4 +146,4 @@ For *that,* you can use either *ese* or *aquel;* it's up to you.
 11. Mary went from that house to that restaurant.
 12. I sold these books for forty dollars (dólares).
 13. I have this little table. It is in my living room.
-14. Sarah arrived at this gym at seven. (Use preposition *a* with *llegar.*)
+14. Sarah arrived at this gym at seven. (Use the preposition *a* with *llegar.*)

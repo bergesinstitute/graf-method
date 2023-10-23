@@ -70,7 +70,7 @@ Yo no tengo un perro o un gato.
 Mi hermano va mucho a Nevada y a Vermont para visitar (in order to visit) a mis abuelos y a mis padres. 
 Yo voy a Vermont y a Nevada a veces, pero no voy tanto como mi hermano.
 
-# Common words/expressions
+# Common words / expressions
 
     también - also / too
 
@@ -118,9 +118,9 @@ Here are some common past tense time expressions in Spanish:
 
     anoche - last night
 
-    el martes pasado - on Tuesday / last Tuesday
+    el martes pasado - last Tuesday
 
-    el martes - on Tuesday / last Tuesday (we usually omit the word pasado)
+    el martes - on Tuesday (if we use it with the preterite, it implicitly means last Tuesday)
 
     el viernes por la noche - On Friday night
 
@@ -209,8 +209,7 @@ We use cardinal (regular) numbers, and we use the article *el:*
 1. Normalmente, ¿trabajas los lunes tanto como los sábados?
 2. ¿Quién es el doctor más famoso de la televisión?
 3. ¿Qué pais es más grande, Rusia o Canadá?
-4. ¿Dónde hace más frío, en Finlandia o Islandia?
-5. ¿Cuál es el desierto más grande del mundo?
+4. ¿Cuál es el desierto (desert) más grande del mundo?
 
 ## 3. Write three sentences using comparatives and three using superlatives
 
@@ -222,11 +221,11 @@ We use cardinal (regular) numbers, and we use the article *el:*
 4. On January 23rd, you went to Madrid.
 5. On February 4th, I went to a restaurant.
 6. On June 5th, we went to the supermarket.
-7. On September 21st, you (form, sing) went to the movie theater.
+7. On September 21st, you (formal, singular) went to the movie theater.
 8. On October 22nd, they (f) went to Peter's apartment.
 9. On May 14th, I went to Philadelphia.
 10. On December 31st, he went to work.
-11. On August 1st, you (form, pl) went to Brooklyn.
+11. On August 1st, you (form., plural) went to Brooklyn.
 12. On November 27th, they went to a club.
 
 ## 5. Translate

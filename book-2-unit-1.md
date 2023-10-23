@@ -1,5 +1,7 @@
 # Profesiones (professions)
 
+m = male. f = female. N = Neutral: same for male and female.
+
     abogado - lawyer
 
     actor - actor (m)
@@ -10,11 +12,11 @@
 
     bombero - firefighter
 
-    camarero / mesero - waiter / waitress 
+    camarero / mesero - waiter 
 
     cantante (N) - singer
 
-    cartero - mailman / mailwoman
+    cartero - mailman
 
     científico - scientist
 
@@ -22,7 +24,7 @@
 
     contable (N) - accountant
 
-    dependiente - salesman/saleswoman at a store
+    dependiente - salesperson at a store
 
     doctor - doctor
 
@@ -48,7 +50,7 @@
 
     político - politician
 
-    policía (N) - policeman / policewoman
+    policía (N) - policeman
 
     profesor - teacher / instructor / professor
 
@@ -64,8 +66,6 @@
 
     veterinario - vet
 
-m = male. f = female. N = Neutral: same for male and female.
-
 > For nouns ending in R, we add an A at the end to build the feminine: *doctor, doctora, profesor, profesora,* etc. 
 > For nouns ending in O, we change O for A: *enfermera, cocinera,* etc. For *juez*, both *juez* and *jueza* are 
 > used as the female version.
@@ -76,9 +76,11 @@ For professions, we always use *ser*.
 (notice how we use *ser* for estudiante, even if we are not usually students permanently).
 
 > It is not recommended to use the article *un/una* with professions: saying *yo soy un doctor* is 
-> considered an Anglicism. Say *yo soy doctor* instead.
+> considered an anglicism. Say *yo soy doctor* instead.
 
 # Spanish adjectives for physical appearance
+
+N = Neutral
 
     alto - tall
 
@@ -92,7 +94,7 @@ For professions, we always use *ser*.
 
     débil (N) - weak
 
-    guapo (for people only) - handsome / pretty
+    guapo - handsome / pretty (for people only)
 
     feo - ugly
 
@@ -103,8 +105,6 @@ For professions, we always use *ser*.
     joven (N) - young
 
     viejo - old
-
-N = Neutral
 
 The adverbs we use for these adjectives are:
 
@@ -125,6 +125,8 @@ For physical characteristics, we usually use *ser* (even if they change sometime
 *Pablo es joven y guapo.*
 
 # Spanish adjectives for personality traits
+
+N = Neutral
 
     simpático - nice
     
@@ -147,8 +149,6 @@ For physical characteristics, we usually use *ser* (even if they change sometime
     educado - polite / well-mannered
     
     maleducado - rude / bad-mannered
-
-N = Neutral
 
 For personality traits, we usually use *ser* (even if they change sometimes).
 
@@ -217,6 +217,8 @@ We use colors: *negros, azules, verdes, marrones...*
 
 # Feelings and physical states in Spanish
 
+N = Neutral
+
     feliz (N) - happy
 
     triste (N) - sad
@@ -239,8 +241,6 @@ We use colors: *negros, azules, verdes, marrones...*
 
     relajado - relaxed
 
-N = Neutral
-
 We use *estar* with these.
 
 *Estoy muy feliz, pero un poco cansado.*
@@ -250,8 +250,6 @@ We use *estar* with these.
 *Ella siempre está muy aburrida los domingos.*
 
 # Talking about people using ser and estar: an example
-
-## Mi amigo Juan y su esposa
 
 Mi amigo Juan es cartero. Él trabaja de lunes a viernes en la ciudad (city). Juan es alto y 
 muy fuerte, porque él va al gimnasio casi cada día. Él es joven, guapo y muy educado, pero él no es rico. 
@@ -264,7 +262,7 @@ a ellos les gustan mucho las hamburguesas con queso.
 
 # Ser & estar beyond permanent vs. temporary
 
-## Identity and status/condition/location
+## Identity and status / condition / location
 
 We could say that we use *ser* with permanent attributes and professions and *estar* with non-permanent 
 attributes and location, but it would be better to say that *ser* implies identity, while *estar* implies status, 
@@ -317,7 +315,7 @@ Remember we must use the article for generic nouns: los profesores trabajan much
 
 1. Lawyers work a lot and earn (ganar) a lot of money.
 2. Firefighters and police officers are tall and strong.
-3. My cousin is a salesman at a store.
+3. My cousin is a salesperson at a store.
 4. My sister is a student.
 5. Engineers and judges work at an office sometimes.
 6. Accountants are very busy.
@@ -331,7 +329,7 @@ Remember we must use the article for generic nouns: los profesores trabajan much
 14. My father is a taxi driver in Bogotá.
 15. James is a nurse, and his wife Norah is a doctor.
 16. Receptionists at my office are always very happy.
-17. My dog Milú loves his veterinarian.
+17. My dog Milú loves his vet.
 18. Is she a pilot, a model, an architect, or a scientist?
 19. Salvador Dalí is my favorite painter from Spain, and Frida Kahlo is my favorite painter from Mexico.
 20. Your friend Peter is a chef at a restaurant in Brooklyn.

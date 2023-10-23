@@ -12,7 +12,7 @@
 
     querer - to want
 
-Whenever there is a two-verb construction, we don't conjugate the second verb:
+In two-verb constructions we don't conjugate the second verb:
 
 *Debo correr. Necesito llamar a Sara. No puedo tocar el piano. Tengo que beber mucha agua.*
 
@@ -165,7 +165,7 @@ J: Perfecto. Necesito practicar mucho.
 
 ## 5. Yo puedo / yo no puedo
 
-Yo puedo tocar (to play) la guitarra, yo puedo cocinar una pasta fantástica, yo puedo correr diez kilómetros, 
+Yo puedo tocar la guitarra, yo puedo cocinar una pasta fantástica, yo puedo correr diez kilómetros, 
 yo puedo cantar más o menos bien, yo puedo escribir muchos emails por día.
 
 Yo no puedo hacer yoga, yo no puedo bailar bien, yo no puedo hablar ruso, yo no puedo mirar la televisión por 

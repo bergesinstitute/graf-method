@@ -74,7 +74,7 @@ We use it as *to be familiar with* and for *meeting someone for the first time.*
 
 - For places
 
-*Yo no conozco Venecia.* (I have never been to Venice. Lit. “I don't know Venice”)
+*Yo no conozco Venecia.* (I have never been to Venice. Lit. “I don't know Venice.”)
 
 - For cultural items (*movies, books, etc.*)
 
@@ -82,7 +82,7 @@ We use it as *to be familiar with* and for *meeting someone for the first time.*
 
 ### Saber
 
-We use it for skills (*knowing how to*) or for information (*knowing about something*). Here are some examples:
+We use it for skills (knowing how to do something) or for information. Here are some examples:
 
 - Skills
 
@@ -141,7 +141,7 @@ J: ¿De verdad? (Really?)
 
 L: Sí, sé que ella practicó (practiced) mucho español allá.
 
-J: Bien por ella. ¿Sabes a dónde fue?
+J: ¿Sabes a dónde fue?
 
 L: Sí, fue a Madrid.
 
@@ -218,10 +218,10 @@ Yesterday...
 2. I washed my hands at 8 AM.
 3. She combed her hair at 9.
 4. They looked at themselves in the mirror.
-5. You (form. pl.) went to bed at 10 PM.
+5. You (form., pl.) went to bed at 10 PM.
 6. She washed her face in the morning.
-7. Mario took a shower and went to work.
-8. You (form. sing.) woke up at 1 PM.
+7. Mario took a shower and went to the restaurant.
+8. You (form., sing.) got up at 1 PM.
 
 ## 4. Answer the questions
 
@@ -236,15 +236,13 @@ Yesterday...
 
 1. I don't know your sister.
 2. I know (that) Ana is from California, but I don't know Ana.
-3. I don't know this book.
-4. I know (that) Pedro is very nice.
-5. I know Tarantino's movies.
-6. Do you know Stephen King?
-7. I know his mother, but I don't know his sister.
-8. I know (that) she lives in Kentucky.
-9. I met your cousin yesterday, and she is very nice.
-10. Did you meet Juan on Friday?
-11. I met George. I know (that) he is a lawyer on Wall Street.
+3. I know (that) Pedro is very nice. 
+4. Do you know Stephen King?
+5. I know his mother, but I don't know his sister.
+6. I know (that) she lives in Kentucky.
+7. I met your cousin yesterday, and she is very nice.
+8. Did you meet Juan on Friday?
+9. I met George. I know (that) he is a lawyer on Wall Street.
 
 ## 6. Fill in the blanks using either saber or conocer
 
@@ -252,11 +250,10 @@ En presente...
 
 1. Yo ______________ a tu hermano.
 2. ¿Tú ______________ que Madrid está en España?
-3. ¿Tú ______________ las películas de Iñárritu?
-4. Mi padre no ______________ bailar tango.
-5. ¿Tú ______________ cantar ópera?
-6. Yo ______________ que él vive en Queens.
-7. ¿Tú ______________ el grupo indie The Shchlabbs?
+3. Mi padre no ______________ bailar tango.
+4. ¿Tú ______________ cantar ópera?
+5. Yo ______________ que él vive en Queens.
+6. ¿Tú ______________ el grupo indie The Shchlabbs?
 
 En pasado...
 
@@ -276,7 +273,7 @@ En pasado...
 6. You (formal, sing.) have nothing.
 7. You (formal, sing.) don't have anything.
 
-## 9. Escribir la respuesta utilizando yo también o yo tampoco
+## 9. Answer using yo también or yo tampoco
 
 1. Yo no tengo un perro azul.
 2. Pedro no come en su cama.

@@ -76,7 +76,7 @@ since *llover* and *nevar* are impersonal verbs:
     está nevando – it's snowing
 
 When we conjugate them in the present tense (for habits or facts), we need to keep in mind that 
-*nevar* and *llover* are stem-changing verbs. Also, since they are impersonal verbs, we only conjugate 
+*nevar* and *llover* are stem-changing verbs. But since *nevar* and *llover* are also impersonal verbs, we only conjugate 
 them in the third-person singular:
 
     llueve – it rains
@@ -89,9 +89,9 @@ them in the third-person singular:
 
 ## Conversación
 
-VICTOR: Hola Pamela, ¿qué estás haciendo?
+Victor: Hola Pamela, ¿qué estás haciendo?
 
-PAMELA: Hola Victor. Estoy mirando la televisión y respondiendo emails de mis amigas. 
+Pamela: Hola Victor. Estoy mirando la televisión y respondiendo emails de mis amigas. 
 También estoy cocinando una sopa (soup) de pollo. Hoy hace mucho frío, ¿no?
 
 V: Sí, un poco, está nevando.
@@ -150,10 +150,11 @@ Cociné y miré la televisión. Me acosté las once de la noche. Fue un día cas
 
 ## How it works
 
-Sometimes, when we take a verb, and we make it reflexive, the meaning completely changes. 
-That happens in English when adding prepositions: *to look*, for example, is different from *to look after*.
+Sometimes, when we take a verb and make it reflexive, the meaning completely changes. 
+Something similar happens in English when adding certain prepositions to certain verbs: 
+*to look*, for example, is different from *to look after*.
 
-A very distinct case would be the following:
+A very distinct case in Spanish would be the following:
 
     ir – to go
 
@@ -195,7 +196,7 @@ I: Me fui de mi trabajo a las seis de la tarde.
 
 Yo nací en Rusia el 5 de septiembre de 1982. Viví en Siberia de 1982 a 2003. En junio de 2003 me mudé a San 
 Petersburgo. Estudié allí por 4 años. Trabajé por un año en un restaurante. En 2008, llegué a Estados Unidos. 
-Estudié en la universidad en Nueva York. En 2013 compré una casa en Queens. Ahora (now) vivo en mi casa 
+Estudié en la universidad en Nueva York. En 2013 compré una casa en Queens. Ahora vivo en mi casa 
 con mi perro Manolo y mi gata Verónica.
 
 Verbos importantes: Nacer (to be born), llegar (to arrive). Other verbs you can use: casarse (con) 
@@ -208,16 +209,16 @@ Can you tell us about some important moments in your life?
 
 1. It's always sunny in Barcelona.
 2. It's never sunny in London.
-3. Today (hoy), it's windy.
+3. Today, it's windy.
 4. It is cold in NYC during the winter.
 5. It's hot today.
 6. Three days ago, I went to Boston.
-7. Three years ago, I arrived in NYC. (Use preposition a with llegar.)
+7. Three years ago, I arrived in NYC. (Use the preposition *a* with llegar.)
 8. Eight months ago, I was in Madrid.
 9. Right now (ahora mismo), I am speaking Spanish.
 10. I am always helping my friends.
 11. My sister is visiting my brother in Madrid.
-12. He wants to go to Mexico because (porque) he is studying Spanish this year.
+12. He wants to go to Mexico because he is studying Spanish this year.
 13. Are you watching this?
 14. We are singing and Mary is dancing in her room.
 15. We are finishing the book.
@@ -237,7 +238,7 @@ Can you tell us about some important moments in your life?
 
 En Madrid, normalmente, hace calor en verano. En invierno, hace frío y hace viento, pero no llueve mucho. 
 En primavera, hace calor, y los árboles (the trees) están muy hermosos. Me gusta el tiempo en Madrid. 
-El invierno no es muy brutal, nunca nieva, llueve poco, y hace sol muchos días por año.
+El invierno es suave (soft), nunca nieva, llueve poco, y hace sol muchos días por año.
 
 Can you describe the weather in your hometown?
 

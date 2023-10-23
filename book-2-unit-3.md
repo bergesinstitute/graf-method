@@ -21,9 +21,9 @@ We usually indicate that specific point by using a time expression:
 
 ## Conversación
 
-MARÍA: Javier, ¿qué hiciste el lunes pasado?
+María: Javier, ¿qué hiciste el lunes pasado?
 
-JAVIER: El lunes pasado fui al gimnasio en Brooklyn.
+Javier: El lunes pasado fui al gimnasio en Brooklyn.
 
 M: ¿Qué hiciste el diecisiete de enero?
 
@@ -162,7 +162,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
     abrieron
 
 > Notice how *-er* and *-ir* verbs have the same endings in this tense. Also, note how the first-person plural 
-(nosotros) is identical to the present tense conjugation for *-ar* and *-ir* verbs.
+(*nosotros*) is identical to the present tense conjugation for *-ar* and *-ir* verbs.
 
 ## Examples
 
@@ -206,7 +206,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
     
     estudiar - to study
     
-    explicar - to explain
+    explicar* - to explain
     
     hablar - to talk / to speak
     
@@ -216,7 +216,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
     
     llamar - to call
     
-    llegar* - to arrive**
+    llegar** - to arrive***
     
     llevar - to take / to carry / to wear
     
@@ -226,7 +226,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
     
     olvidar - to forget
     
-    pagar* - to pay
+    pagar** - to pay
     
     pintar - to paint
     
@@ -238,7 +238,7 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
     
     terminar - to end / to finish
     
-    tocar*** - to touch / to play an instrument
+    tocar* - to touch / to play an instrument
     
     tomar - to take / to grab / to have (for food & drink)
     
@@ -282,14 +282,17 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
     
     vivir - to live
 
-> *In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first-person 
+## Notes
+
+*In the *pretérito perfecto* tense, *explicar* and *tocar* have a spelling change in the first-person
+singular: *expliqué, toqué.*
+
+**In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first-person 
 singular: *llegué, pagué.*
 
-> ***Llegar* always uses the preposition *a.* We arrive "to" places. *Llegué a la oficina* (I arrived at/in the office).
+****Llegar* always uses the preposition *a.* We arrive "to" places. *Llegué a la oficina* (I arrived at/in the office).
 
-> ***In the *pretérito perfecto* tense, *tocar* has a spelling change in the first-person singular: *toqué.*
-
-> ****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person 
+****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person 
 singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
 
 # Conversación
@@ -340,11 +343,11 @@ In questions, we usually place the verb before the pronoun.
 
 ## 2. Complete using ir in the pretérito perfecto tense
 
-1. El jueves pasado yo
-2. El miércoles pasado por la noche ella
-3. El viernes pasado a las cinco nosotros
-4. El domingo pasado mi amigo Antonio
-5. El martes pasado por la mañana usted
+1. El jueves pasado yo _________________________.
+2. El miércoles pasado por la noche ella _________________________.
+3. El viernes pasado a las cinco nosotros _________________________.
+4. El domingo pasado mi amigo Antonio _________________________.
+5. El martes pasado por la mañana usted _________________________.
 
 ## 3. Complete using ir in the pretérito perfecto tense
 
@@ -356,6 +359,9 @@ In questions, we usually place the verb before the pronoun.
 4. ¿Dónde ___________ ustedes el sábado? El sábado nosotros __________ a un restaurante.
 5. ¿Dónde __________ él el jueves? El jueves él ________ a Queens.
 
+> *Adónde* and *a dónde* are often used instead of *dónde* when using verb *ir: ¿Dónde vas los lunes?
+> ¿Adónde vas los lunes? ¿A dónde vas los lunes?* (The meaning is the same in all three examples.)
+
 ## 4. Complete using estar and tener in the pretérito perfecto tense
 
 1. Ella ____________ (estar) en Brooklyn el sábado.
@@ -365,9 +371,6 @@ In questions, we usually place the verb before the pronoun.
 5. El 30 de septiembre mi primo ___________ (tener) un hijo.
 6. El martes pasado usted no ___________ (estar) en su casa.
 7. ¿Dónde ____________ (estar) ella el sábado?
-
-> *Adónde* and *a dónde* are often used instead of *dónde* when using verb *ir: ¿Dónde vas los lunes? 
-> ¿Adónde vas los lunes? ¿A dónde vas los lunes?* (The meaning is the same in all three examples.)
 
 ## 5. Translate
 
@@ -379,16 +382,16 @@ La semana pasada:
 4. You worked a little (formal, singular).
 5. She helped Peter.
 6. We danced at a club.
-7. You (form, sing) watched TV.
+7. You (form., sing.) watched TV.
 8. They ran in the park.
 9. My sister wrote a letter.
-10. Mary had an argument with Pete. (Use discutir)
+10. Mary had an argument with Pete. (Use *discutir*.)
 11. They opened a restaurant.
 12. I ate pizza.
 13. She didn't understand the situation (la situación).
 14. I studied Spanish a little.
 15. We cleaned our apartment.
-16. You (form, pl) called Sara.
+16. You (form., pl.) called Sara.
 17. Mark and Teresa forgot the book at the restaurant.
 18. She arrived at six.
 

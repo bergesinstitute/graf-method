@@ -6,7 +6,7 @@ For hundreds:
 
     101 to 199 - ciento 
 
-    200 to 299 - coscientos 
+    200 to 299 - doscientos 
 
     300 to 399 - trescientos
 
@@ -42,7 +42,7 @@ For millions:
     
     etc.
 
-In most Spanish-speaking countries, we traditionally use periods, instead of commas, for thousands.
+In most Spanish-speaking countries we use periods instead of commas for thousands.
 
 Hundreds from 200 through 900 have gender in Spanish. When we use them as adjectives, we can either 
 keep them masculine (*cuatrocientos dieciséis gatos*) or make them feminine (*quinientas quince sillas*).
