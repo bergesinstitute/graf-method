@@ -151,7 +151,7 @@ Cociné y miré la televisión. Me acosté las once de la noche. Fue un día cas
 ## How it works
 
 Sometimes, when we take a verb and make it reflexive, the meaning completely changes. 
-Something similar happens in English when adding certain prepositions to certain verbs: 
+Something similar happens in English when we add certain prepositions to certain verbs: 
 *to look*, for example, is different from *to look after*.
 
 A very distinct case in Spanish would be the following:
