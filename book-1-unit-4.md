@@ -189,7 +189,7 @@ blanca, una mesa roja, dos sillas negras, un piano, dos guitarras y una computad
 2. Her father is from NYC but she is from Uruguay.
 3. My apartment is small but my bedroom is large.
 4. Our kitchen is yellow and their kitchen is purple.
-5. You (formal, plural) have a big bathroom.
+5. You (form., pl.) have a big bathroom.
 6. We have a pink closet in the bathroom.
 7. Our apartment has a big living room but a small kitchen.
 8. There are five chairs in my room.

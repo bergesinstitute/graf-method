@@ -272,7 +272,7 @@ F: Yo hablo inglés y estudio español en la escuela.
 2. I walk in the park every day.
 3. You dance with Rita.
 4. We work at a store.
-5. You (plural, formal) don't cook on Mondays.
+5. You (form., pl.) don't cook on Mondays.
 6. They (f) always study at the school.
 7. Do you play the guitar?
 8. I don't play the piano.
@@ -348,6 +348,6 @@ Los domingos como en el restaurante y voy al cine con mis amigos y miro películ
 3. I have many books in my living room.
 4. Oscar's restaurant is very good.
 5. Ana writes very well.
-6. You (formal, plural) study a lot.
+6. You (form., pl.) study a lot.
 7. Our uncle cooks very badly.
 8. Casablanca is a good movie.

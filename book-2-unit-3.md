@@ -379,7 +379,7 @@ La semana pasada:
 1. I walked in the park.
 2. I cooked a lot.
 3. She visited her mom and her cousin (m).
-4. You worked a little (formal, singular).
+4. You worked a little (form., sing.).
 5. She helped Peter.
 6. We danced at a club.
 7. You (form., sing.) watched TV.

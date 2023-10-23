@@ -196,9 +196,9 @@ To make a sentence negative, we just place the word *no* right before the reflex
 
 ## Conversación
 
-PÉREZ: Hola Silvia. ¿A qué hora te levantas cada día?
+Pérez: Hola Silvia. ¿A qué hora te levantas cada día?
 
-SILVIA: Hola Pérez. Me levanto a las siete de la mañana cada día.
+Silvia: Hola Pérez. Me levanto a las siete de la mañana cada día.
 
 P: ¿Te lavas la cara cada mañana?
 
@@ -278,10 +278,10 @@ Normalmente nos acostamos a las diez de la noche.
 2. I brush my teeth at 7 AM.
 3. I go to work at 8 AM.
 4. He goes to bed at 10 PM.
-5. You (formal, singular) never comb your hair.
+5. You (form., sing.) never comb your hair.
 6. My sister always goes to bed at 9 PM.
 7. We always eat at 7 PM.
-8. You (formal, plural) take a shower.
+8. You (form., pl.) take a shower.
 9. They (f) brush their teeth every morning.
 10. She gets dressed at 8 every morning.
 11. She goes to bed at 11:37.

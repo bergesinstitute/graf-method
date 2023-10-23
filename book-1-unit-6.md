@@ -209,9 +209,9 @@ las tres de la tarde, las ocho de la noche,* etc.
 7. Do you write a lot?
 8. Maria sends an email to John every day.
 9. How many chairs do you have in your apartment?
-10. You (formal, singular) live in Manhattan.
+10. You (form., sing.) live in Manhattan.
 11. Do Sara and Mary live in New York City?
-12. You (formal, plural) don't sell tables.
+12. You (form., pl.) don't sell tables.
 13. Do you write letters or do you write emails?
 14. Macy's opens on Sundays.
 15. I always open my restaurant at night.

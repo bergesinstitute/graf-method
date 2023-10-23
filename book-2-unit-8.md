@@ -270,8 +270,8 @@ En pasado...
 3. I don't know anything about that. (Use *saber. About = sobre*.)
 4. I know nothing about that. (Use *saber.*)
 5. We have something.
-6. You (formal, sing.) have nothing.
-7. You (formal, sing.) don't have anything.
+6. You (form., sing.) have nothing.
+7. You (form., sing.) don't have anything.
 
 ## 9. Answer using yo también or yo tampoco
 

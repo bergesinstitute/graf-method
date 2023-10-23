@@ -228,13 +228,13 @@ V: Key Food está en Brooklyn.
 
 ## 1. Complete using tener
 
-1. Yo _________ un perro.
+1. Yo ___________ un perro.
 2. Nosotros ___________ un piano y una guitarra.
 3. Mi prima ___________ tres gatos negros.
-4. ¿Ustedes _________ un carro?
+4. ¿Ustedes ___________ un carro?
 5. Usted ___________ una casa.
 6. El abuelo ___________ dos carros.
-7. Mi hermana ____________ cinco casas.
+7. Mi hermana ___________ cinco casas.
 8. ¿Tú ___________ un gato?
 
 ## 2. Complete using ir
@@ -253,14 +253,14 @@ In questions, we usually place the verb before the pronoun.
 
 ## 3. Complete using hacer in the question and ir in the answer
 
-1. ¿Qué _________ tú los viernes? Los viernes yo ____________________
-2. ¿Qué _________ ellos los domingos? Los domingos ellos _________________
-3. ¿Qué _________ nosotros los lunes? Los lunes nosotros __________________
-4. ¿Qué _________ él los miércoles? Los miércoles él ____________________
-5. ¿Qué _________ ustedes los martes? Los martes nosotros __________________
-6. ¿Qué ___________ ellos los jueves? Los jueves ellos _____________________
-7. ¿Qué _________ usted los sábados? Los sábados yo ______________________
-8. ¿Qué _________ tú los viernes? Los viernes yo ______________________
+1. ¿Qué _________ tú los viernes? Los viernes yo ____________________.
+2. ¿Qué _________ ellos los domingos? Los domingos ellos _________________.
+3. ¿Qué _________ nosotros los lunes? Los lunes nosotros __________________.
+4. ¿Qué _________ él los miércoles? Los miércoles él ____________________.
+5. ¿Qué _________ ustedes los martes? Los martes nosotros __________________.
+6. ¿Qué _________ ellos los jueves? Los jueves ellos _____________________.
+7. ¿Qué _________ usted los sábados? Los sábados yo ______________________.
+8. ¿Qué _________ tú los viernes? Los viernes yo ______________________.
 
 ## 4. Translate
 
@@ -275,13 +275,13 @@ In questions, we usually place the verb before the pronoun.
 
 Hola, ¿de dónde eres?
 
-Yo_____________ ¿y tú de dónde eres?
+Yo ___________. ¿y tú de dónde eres?
 
 Yo soy de Galicia.
 
-¿Y dónde ______Galicia?
+¿Y dónde ___________ Galicia?
 
-Galicia_______ en España.
+Galicia ___________ en España.
 
 ¿___________ hermanos?
 
@@ -289,13 +289,13 @@ Sí, tengo una hermana.
 
 ## 6. Complete the sentences using ir
 
-1. Los lunes por la mañana yo
-2. Los martes por la tarde yo
-3. Los miércoles por la noche yo
-4. Los jueves mi amigo Pedro
-5. Los viernes usted
-6. Los sábados nosotros
-7. Los domingos ellos
+1. Los lunes por la mañana yo ____________________.
+2. Los martes por la tarde yo ____________________.
+3. Los miércoles por la noche yo ____________________.
+4. Los jueves mi amigo Pedro ____________________.
+5. Los viernes usted ____________________.
+6. Los sábados nosotros ____________________.
+7. Los domingos ellos ____________________.
 
 ## 7. Translate
 
@@ -304,8 +304,8 @@ Sí, tengo una hermana.
 3. What do you do on Tuesday nights?
 4. On Sunday mornings I go to (the) church.
 5. Our cat (f) is happy but your dog (m) is sad.
-6. Your (formal, singular) grandsons are happy.
+6. Your (form., sing.) grandsons are happy.
 7. My niece has a dog (f) and a cat (f). They are friends but they do not go to the park.
 8. On Friday nights we are happy but you are sad.
-9. On Monday nights your (formal, singular) sister goes to the restaurant.
+9. On Monday nights your (form., sing.) sister goes to the restaurant.
 10. On Friday nights we go to the club

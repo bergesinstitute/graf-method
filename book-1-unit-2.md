@@ -288,11 +288,11 @@ m = male. f = female.
 You decide the gender.
 
 1. You (formal, singular) are short.
-2. You (form, sing.) are tired.
-3. You (form, sing.) are angry.
-4. You (form, plural) are tired.
-5. You (form, plural) are sad.
-6. You (form, plural) are happy. (Plural of *feliz* is *felices.*)
+2. You (form., sing.) are tired.
+3. You (form., sing.) are angry.
+4. You (form., plural) are tired.
+5. You (form., pl.) are sad.
+6. You (form., pl.) are happy. (Plural of *feliz* is *felices.*)
 
 ## 3. Translate
 
@@ -309,12 +309,12 @@ If there is no translation shown, the name in Spanish is the same as in English 
 9. The aunt is happy.
 10. I am from Pakistan.
 11. We are friends (amigos; we use *ser*!).
-12. You (plural, formal) are friends.
+12. You (form., pl.) are friends.
 13. The grandfather is from Nevada.
 14. The grandmother is from San Diego.
 15. They (f) are tall and big.
 16. They (m) are short and small.
-17. You (plural, formal) are from Spain.
+17. You (form., pl.) are from Spain.
 18. They (f) are tired.
 19. I am from Colombia.
 
@@ -327,10 +327,10 @@ If there is no translation shown, the name in Spanish is the same as in English 
 5. You are not from New York.
 6. The dog (m) is not blue.
 7. You are not from China.
-8. You (singular, formal) are not happy.
+8. You (form., sing.) are not happy.
 9. The mother is not tired.
 10. The girl is not from Canada.
-11. You (plural, formal) are not angry.
+11. You (form., pl.) are not angry.
 12. They (f) are not angry.
 
 ## 5. Translate
@@ -368,10 +368,10 @@ If there is no translation shown, the name in Spanish is the same as in English 
 2. The grandfather is in Argentina.
 3. The cousins are from Chile.
 4. Some aunts are tired.
-5. You (formal, singular) are sad.
+5. You (form., sing.) are sad.
 6. A grandson is angry.
 7. Your house is white and my house is red.
 8. Your dogs are happy.
 9. Her sister and my daughter are friends.
-10. My (male) cousin is from Peru.
-11. My (female) cousin is in Chile.
+10. My (m) cousin is from Peru.
+11. My (f) cousin is in Chile.

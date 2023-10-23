@@ -315,7 +315,7 @@ Remember we must use the article for generic nouns: los profesores trabajan much
 
 1. Lawyers work a lot and earn (ganar) a lot of money.
 2. Firefighters and police officers are tall and strong.
-3. My cousin is a salesperson at a store.
+3. My cousin (m) is a salesperson at a store.
 4. My sister is a student.
 5. Engineers and judges work at an office sometimes.
 6. Accountants are very busy.
@@ -348,7 +348,7 @@ where does he/she live, what does he/she do, physical characteristics, personali
 2. Juan is very happy.
 3. Pedro is always polite.
 4. Madrid is in Spain.
-5. My cousin is from Korea.
+5. My cousin (m) is from Korea.
 6. My sister is in Korea.
 7. I am a lawyer.
 8. I am very worried.
@@ -375,13 +375,13 @@ where does he/she live, what does he/she do, physical characteristics, personali
 
     porque - because
 
-1. Los lunes yo estoy muy __________________ porque __________________________
-2. Los martes yo estoy muy __________________ porque __________________________
-3. Los miércoles yo estoy muy __________________ porque __________________________
-4. Los jueves yo estoy muy __________________ porque __________________________
-5. Los viernes yo estoy muy __________________ porque __________________________
-6. Los sábados yo estoy muy __________________ porque __________________________
-7. Los domingos yo estoy muy __________________ porque __________________________
-8. Yo soy muy __________________ y muy __________________ y un poco __________________
+1. Los lunes yo estoy muy __________________ porque __________________________.
+2. Los martes yo estoy muy __________________ porque __________________________.
+3. Los miércoles yo estoy muy __________________ porque __________________________.
+4. Los jueves yo estoy muy __________________ porque __________________________.
+5. Los viernes yo estoy muy __________________ porque __________________________.
+6. Los sábados yo estoy muy __________________ porque __________________________.
+7. Los domingos yo estoy muy __________________ porque __________________________.
+8. Yo soy muy __________________ y muy __________________ y un poco __________________.
 
 ## 6. Write a conversation using the present tense
