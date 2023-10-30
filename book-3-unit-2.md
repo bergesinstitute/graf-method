@@ -411,7 +411,7 @@ Cada domingo iba al parque. Allí yo montaba en bicicleta y jugaba con mi perro 
 sábados iba al parque de atracciones. Allí comía algodón de azúcar y montaba en las atracciones. No
 me gustaba el barco pirata porque me mareaba y vomitaba.
 
-    había - There was / there were
+    había - there was / there were
 
     montar - to ride
 
