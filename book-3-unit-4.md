@@ -1,60 +1,60 @@
 # En el restaurante (at the restaurant)
 
-    La servilleta – the napkin
+    la servilleta – the napkin
 
-    El mantel – the table cloth
+    el mantel – the table cloth
 
-    El vaso – the glass
+    el vaso – the glass
 
-    Los cubiertos – the silverware
+    los cubiertos – the silverware
 
-    El tenedor – the fork
+    el tenedor – the fork
 
-    El cuchillo – the knife
+    el cuchillo – the knife
 
-    La cuchara – the spoon
+    la cuchara – the spoon
 
-    Los palillos – the chopsticks
+    los palillos – the chopsticks
 
-    El especial – the special
+    el especial – the special
 
-    El menú/la carta – the menu
+    el menú / la carta – the menu
 
-    El plato – the dish
+    el plato – the dish
 
-    El primer plato – the first course
+    el primer plato – the first course
 
-    El segundo plato – the second course
+    el segundo plato – the second course
 
-    El postre – the dessert
+    el postre – the dessert
 
-    La cuenta – the check
+    la cuenta – the check
 
-    La propina – the tip
+    la propina – the tip
 
-    La tarjeta de crédito – the credit card
+    la tarjeta de crédito – the credit card
 
-    Efectivo – cash
+    efectivo – cash
 
 # Adverbs cerca and lejos
 
-    Cerca (de) - near/close
+    cerca (de) - near / close (to)
     
-    Lejos (de) - far
+    lejos (de) - far (from)
 
-*Mi casa está muy cerca del parque.*
+*Mi casa está muy cerca del parque.* (My house is very close to the park.)
 
-*China está muy lejos de Nueva York.*
+*China está muy lejos de Nueva York.* (China is very far from New York.)
 
 # Adverbs fácil and difícil
 
-    Fácil - easy
+    fácil - easy
 
-    Difícil - difficult
+    difícil - difficult
 
-*Cocinar pasta es muy fácil.*
+*Cocinar pasta es muy fácil.* (Cooking pasta is very easy.)
 
-*Aprender un nuevo idioma es difícil.*
+*Aprender un nuevo idioma es difícil.* (Learning a new language is difficult.)
 
 # Una conversación en el restaurante (a conversation at the restaurant)
 
@@ -102,7 +102,7 @@ Sara: ¡De nada!
 
 # Preposiciones por y para (prepositions por and para)
 
-## Para (for/in order to)
+## Para (for / in order to)
 
 ### Destino (destination)
 
@@ -120,7 +120,7 @@ Sara: ¡De nada!
 
 *Nosotros vamos para el hospital cada mañana.* (We go to the hospital every morning.)
 
-### Propósito (purpose)/objetivo (goal) (meaning in order to)[2]
+### Propósito (purpose) / objetivo (goal) (meaning in order to)[2]
 
 *Trabajo para ganar dinero.* (I work in order to earn money.)
 
@@ -134,7 +134,7 @@ Sara: ¡De nada!
 
 *Necesito el informe para el miércoles.* (I need the report for/by Wednesday.)
 
-## Por (for/because of)
+## Por (for / because of)
 
 ### Período de tiempo (time period)
 
@@ -142,7 +142,7 @@ Sara: ¡De nada!
 
 *Estoy en Nueva York por tres días.* (I am in New York for three days.)
 
-### Razón/causa (reason/cause) (meaning because of)[4]
+### Razón / causa (reason / cause) (meaning because of)[4]
 
 *Berges Institute está cerrado por Thanksgiving.* (Berges Institute is closed “because of” Thanksgiving.)
 
@@ -184,7 +184,7 @@ Sara: ¡De nada!
 
 ## Sufijos diminutivos y aumentativos
 
-    -ito / -ita (tiene dos equivalentes: -ico and -illo)
+    -ito / -ita (tiene dos equivalentes: -ico / -ica and -illo / -illa)
 
     -cito / -cita
 
@@ -243,11 +243,11 @@ relación estrecha.
 
 💂 It is very common to use suffixes with proper names for children or adults with whom there is a close relationship.
 
-    Laura - Laurita
+    Laura => Laurita
     
-    Carlos - Carlitos
+    Carlos => Carlitos
     
-    Pedro - Pedrito
+    Pedro => Pedrito
 
 ## Conversación
 
@@ -264,9 +264,9 @@ También comí el pescado con patatitas y cebollitas. Todo estaba delicioso.
 
 ## Dos versiones
 
-*Hay* (*there is/there are*) en pasado (*there was/there were*) tiene dos versiones.
+*Hay* (*there is / there are*) en pasado (*there was / there were*) tiene dos versiones.
 
-💂 *Hay* (*there is/there are*) in the past tense (*there was/there were*) has two versions.
+💂 *Hay* (*there is / there are*) in the past tense (*there was / there were*) has two versions.
 
 ## Hubo (pretérito perfecto)
 
@@ -280,10 +280,10 @@ Usamos esta versión para eventos o catástrofes que ocurrieron en un pasado muy
 
 ## Había (pretérito imperfecto) 
 
-Es la versión más común. Cuando usamos *there was/there were* normalmente
+Es la versión más común. Cuando usamos *there was / there were* normalmente
 hacemos un uso descriptivo, y para descripción en pasado normalmente en español usamos imperfecto.
 
-💂 This is the most common version. When we use *there was/there were* normally we use it descriptively, 
+💂 This is the most common version. When we use *there was / there were* normally we use it descriptively, 
 and for descriptions in the past we normally use imperfect.
 
 *Había muchos libros en la mesa.*

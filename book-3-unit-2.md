@@ -2,47 +2,61 @@
 
 ## Conjugación de verbos regulares (conjugation of regular verbs)
 
+### Personal pronouns
+
+    yo
+
+    tú
+
+    él / ella / usted
+
+    nosotros / nosotras
+
+    (vosotros / vosotras)
+
+    ellos / ellas / ustedes
+
 ### Cantar
 
-    Cantaba
+    cantaba
 
-    Cantabas
+    cantabas
 
-    Cantaba
+    cantaba
 
-    Cantábamos
+    cantábamos
 
-    (Cantabais)
+    (cantabais)
 
-    Cantaban
+    cantaban
 
 ### Comer
 
-    Comía
+    comía
 
-    Comías
+    comías
 
-    Comía
+    comía
 
-    Comíamos
+    comíamos
 
-    (Comíais)
+    (comíais)
 
-    Comían
+    comían
 
 ### Abrir
 
-    Abría
+    abría
 
-    Abrías
+    abrías
 
-    Abría
+    abría
 
-    Abríamos
+    abríamos
 
-    (Abríais)
+    (abríais)
 
-    Abrían
+    abrían
 
 > Los verbos *-er, -ir* usan los mismos sufijos. 
 
@@ -56,15 +70,15 @@ pero refiriéndonos al pasado.
 💂 In this tense, we use the same habit time expressions we use in the present tense, 
 but referring to the past.
 
-    Siempre - always
+    siempre - always
 
-    A veces - sometimes
+    a veces - sometimes
 
-    Cada día - every day
+    cada día - every day
 
-    Casi cada día - almost every day
+    casi cada día - almost every day
 
-    Cada jueves - every Thursday
+    cada jueves - every Thursday
 
 Es también muy común usar el adverbio *antes,* con el significado de “en el pasado”* 
 cuando usamos el pretérito imperfecto.
@@ -77,9 +91,9 @@ when we use the imperfect.
 *Antes yo siempre iba a casa de mi hermana los viernes.* 
 (In the past, I always used to go to my sister's house on Fridays.)
 
-> *Es un uso muy diferente del uso típico de *antes (de)/después (de)* como *before/after.* 
+> *Es un uso muy diferente del uso típico de *antes (de) / después (de)* como *before / after.* 
 
-> *💂 This is a very different usage from the typical use of *antes (de)/después (de)* as *before/after.*
+> *💂 This is a very different usage from the typical use of *antes (de) / después (de)* as *before / after.*
 
 ## Usos del pretérito imperfecto (uses of the imperfect tense)
 
@@ -134,73 +148,73 @@ because she was sick.)
 
 ### Ser
 
-    Era
+    era
 
-    Eras
+    eras
 
-    Era
+    era
 
-    Éramos
+    éramos
 
-    (Erais)
+    (erais)
 
-    Eran
+    eran
 
 ### Estar (regular)
 
-    Estaba
+    estaba
 
-    Estabas
+    estabas
 
-    Estaba
+    estaba
 
-    Estábamos
+    estábamos
 
-    (Estabais)
+    (estabais)
 
-    Estaban
+    estaban
 
 ### Tener (regular)
 
-    Tenía
+    tenía
 
-    Tenías
+    tenías
 
-    Tenía
+    tenía
 
-    Teníamos
+    teníamos
 
-    (Teníais)
+    (teníais)
 
-    Tenían
+    tenían
 
 ### Ir
 
-    Iba
+    iba
 
-    Ibas
+    ibas
 
-    Iba
+    iba
 
-    Íbamos
+    íbamos
 
-    (Ibais)
+    (ibais)
 
-    Iban
+    iban
 
 ### Hacer (regular)
 
-    Hacía
+    hacía
 
-    Hacías
+    hacías
 
-    Hacía
+    hacía
 
-    Hacíamos
+    hacíamos
 
-    (Hacíais)
+    (hacíais)
 
-    Hacían
+    hacían
 
 Los verbos *estar, tener* y *hacer* son 100% regulares. 
 
@@ -221,118 +235,121 @@ describing the scene, not narrating actions.
 
 ## -ar
 
-    Amar - to love
+    amar - to love
     
-    Ayudar - to help
+    ayudar - to help
     
-    Bailar - to dance
+    bailar - to dance
     
-    Caminar - to walk
+    caminar - to walk
     
-    Cantar - to sing
+    cantar - to sing
     
-    Cenar - to dine/to have dinner
+    cenar - to dine / to have dinner
     
-    Cocinar - to cook
+    cocinar - to cook
     
-    Comprar - to buy
+    comprar - to buy
     
-    Desayunar - to have breakfast
+    desayunar - to have breakfast
     
-    Descansar - to rest/to relax
+    descansar - to rest / to relax
     
-    Enviar - to send
+    enviar - to send
     
-    Escuchar - to listen
+    escuchar - to listen
     
-    Esperar - to wait
+    esperar - to wait
     
-    Estudiar - to study
+    estudiar - to study
     
-    Explicar - to explain
+    explicar* - to explain
     
-    Hablar - to talk/to speak
+    hablar - to talk / to speak
     
-    Lavar - to wash
+    lavar - to wash
     
-    Limpiar - to clean
+    limpiar - to clean
     
-    Llamar - to call
+    llamar - to call
     
-    Llegar* - to arrive**
+    llegar** - to arrive***
     
-    Llevar - to take/to carry/to wear
+    llevar - to take / to carry / to wear
     
-    Mirar - to look/to watch
+    mirar - to look / to watch
     
-    Odiar - to hate
+    odiar - to hate
     
-    Olvidar - to forget
+    olvidar - to forget
     
-    Pagar* - to pay
+    pagar** - to pay
     
-    Pintar - to paint
+    pintar - to paint
     
-    Preguntar - to ask
+    preguntar - to ask
     
-    Preparar - to prepare
+    preparar - to prepare
     
-    Regalar - to give (as a present)
+    regalar - to give (something as a present)
     
-    Terminar - to end/to finish
+    terminar - to end / to finish
     
-    Tocar*** - to touch/to play an instrument
+    tocar* - to touch / to play an instrument
     
-    Tomar - to take/to grab/to have (for food & drink)
+    tomar - to take / to grab / to have (for food & drink)
     
-    Trabajar - to work
+    trabajar - to work
     
-    Usar - to use
+    usar - to use
     
-    Viajar - to travel
+    viajar - to travel
     
-    Visitar - to visit
+    visitar - to visit
 
 ## -er
 
-    Beber - to drink
+    beber - to drink
     
-    Comer - to eat
+    comer - to eat
     
-    Comprender - to understand
+    comprender - to understand
     
-    Correr - to run
+    correr - to run
     
-    Creer**** - to believe
+    creer**** - to believe
     
-    Leer**** - to read
+    leer**** - to read
     
-    Responder - to answer/to respond
+    responder - to answer / to respond
     
-    Vender - to sell
+    vender - to sell
 
 ## -ir
 
-    Abrir - to open
+    abrir - to open
     
-    Discutir - to argue
+    discutir - to argue
     
-    Escribir - to write
+    escribir - to write
     
-    Existir - to exist
+    existir - to exist
     
-    Recibir - to receive
+    recibir - to receive
     
-    Vivir - to live
+    vivir - to live
 
-> *In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first-person singular:
-> *llegué, pagué.*
+## Notes
 
-> ***Llegar* always uses the preposition *a.* We arrive "to" places. *Llegué a la oficina* (I arrived at/in the office).
+*In the *pretérito perfecto* tense, *explicar* and *tocar* have a spelling change in the first-person
+singular: *expliqué, toqué.*
 
-> ***In the *pretérito perfecto* tense, *tocar* has a spelling change in the first-person singular: *toqué.*
+**In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first-person
+singular: *llegué, pagué.*
 
-> ****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person 
+****Llegar* always uses the preposition *a.* We arrive "to" places. *Llegué a la oficina* (I arrived at/in the office).
+
+****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person
 singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
 
 # Nota sobre el verbo soler (note about verb soler)
@@ -394,21 +411,21 @@ Cada domingo iba al parque. Allí yo montaba en bicicleta y jugaba con mi perro 
 sábados iba al parque de atracciones. Allí comía algodón de azúcar y montaba en las atracciones. No
 me gustaba el barco pirata porque me mareaba y vomitaba.
 
-    Había - There was/there were
+    había - There was / there were
 
-    Montar - to ride
+    montar - to ride
 
-    Parque de atracciones - amusement park
+    parque de atracciones - amusement park
 
-    Atracciones - rides
+    atracciones - rides
 
-    Algodón de azúcar - cotton candy
+    algodón de azúcar - cotton candy
 
-    Barco pirata - Pirate ship
+    barco pirata - pirate ship
 
-    Marearse - to get dizzy
+    marearse - to get dizzy
 
-    Vomitar - to throw up
+    vomitar - to throw up
 
 # Homework
 
@@ -421,9 +438,9 @@ me gustaba el barco pirata porque me mareaba y vomitaba.
 5. I prefer chocolate ice cream.
 6. She feels tired.
 7. I go to bed at 11 PM.
-8. You (formal, singular) dream every night.
+8. You (form., sing.) dream every night.
 9. I fall asleep on the sofa almost every day.
-10. You (formal, plural) return to your house at 6 PM.
+10. You (form., pl.) return to your house at 6 PM.
 11. She finds a dog in the park.
 12. He can run a lot.
 13. I fly to Canada with my wife.

@@ -22,7 +22,7 @@ we always use the imperfect tense.
 
 # Una expresión común (a common expression)
 
-    Todo el día - all day long/all day/for the whole day
+    todo el día - all day long / all day / for the whole day
 
 *Cuando vivía en España jugaba al fútbol todo el día.* (When I was living in Spain, I used to play soccer all
 day long.)
@@ -168,13 +168,13 @@ go in past simple but do not indicate action), we generally use the imperfect.
 
 # Fui / era / estuve / estaba
 
-En general, usamos más las versiones en imperfecto (*era/estaba*) para *was/were,* porque normalmente
+En general, usamos más las versiones en imperfecto (*era / estaba*) para *was / were,* porque normalmente
 hacemos un uso descriptivo de estos verbos.
 
-💂 In general, we use more the imperfect versions (*era/estaba*) for *was/were,* 
+💂 In general, we use more the imperfect versions (*era / estaba*) for *was / were,* 
 because we normally use these verbs descriptively
 
-*Yo antes era abogado.* (In the past, I was/used to be a lawyer.)
+*Yo antes era abogado.* (In the past, I was / used to be a lawyer.)
 
 *No fui a trabajar porque estaba muy enfermo.* (I didn't go to work because I was very sick.)
 
@@ -210,15 +210,15 @@ por la mañana yo __________ (tener) que hacer mi tarea de español, y por la ta
 __________ (ir) al cine a ver películas siempre en español. Mi director favorito 
 __________ (ser) Pedro Almodóvar.
 
-    Juntos/as - together
+    juntos/as - together
 
-    Almuerzo - lunch
+    almuerzo - lunch
 
-    El mundo - the world
+    el mundo - the world
 
-    Hasta - until
+    hasta - until
 
-    Salir - To go out
+    salir - To go out
 
 ## 2. Conjugar, en imperfecto
 

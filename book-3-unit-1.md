@@ -14,19 +14,19 @@ We use the present tense for habits or facts:
 
 Here are some common habit time expressions:
 
-    Normalmente - usually
+    normalmente - usually
 
-    Siempre - always
+    siempre - always
 
-    A veces - sometimes
+    a veces - sometimes
 
-    Nunca - never
+    nunca - never
 
-    Cada día - every day
+    cada día - every day
 
-    Casi cada día - almost every day
+    casi cada día - almost every day
 
-    Cada martes - every Tuesday
+    cada martes - every Tuesday
 
 ### Conversación
 
@@ -63,13 +63,15 @@ we usually indicate by using a time expression.
 
 Here are some common specific time expressions:
 
-    Ayer - yesterday
+    ayer - yesterday
 
-    El martes pasado - on Tuesday/last Tuesday
+    anoche - last night
 
-    El martes - on Tuesday/last Tuesday (we usually omit the word pasado)
+    el martes pasado - last Tuesday
 
-    El viernes por la noche - On Friday nigh
+    el martes - on Tuesday (if we use it with the preterite, it implicitly means last Tuesday)
+
+    el viernes por la noche - On Friday night
 
     El diecisiete de marzo - On March 17th
 
@@ -118,134 +120,134 @@ persons. There are two types of stem changes:
 
 ## E changes to IE
 
-    Pensar (to think)
+Here is *pensar* (to think), in the present tense:
 
-    Yo pienso
+    yo pienso
 
-    Tú piensas
+    tú piensas
 
-    Él/ella/ud. piensa
+    él / ella / usted piensa
 
-    Nosotros/as pensamos
+    nosotros / nosotras pensamos
 
-    (Vosotros/as pensáis)
+    (vosotros / vosotras pensáis)
 
-    Ellos/ellas/uds. piensan
+    ellos / ellas / ustedes piensan
 
 This happens in many verbs; it doesn't matter if they are *-ar, -er* or *-ir.* Note that the E changes to IE in 
 all persons except *nosotros* and *vosotros.*
 
 Here are some common “E to IE” verbs:
 
-    Cerrar - to close
+    cerrar - to close
 
-    Divertirse - to have fun
+    divertirse - to have fun
 
-    Empezar* - to start/to begin
+    empezar* - to start / to begin
 
-    Entender* - to understand
+    entender* - to understand
 
-    Mentir - to lie
+    mentir - to lie
 
-    Pensar - to think
+    pensar - to think
 
-    Perder - to lose
+    perder - to lose
 
-    Preferir* - to prefer
+    preferir* - to prefer
 
-    Querer - to want/to love
+    querer - to want / to love
 
-    Recomendar - to recommend
+    recomendar - to recommend
 
-    Sentarse - to sit down
+    sentarse - to sit down
 
-    Sentirse - to feel
+    sentirse - to feel
 
 > *The stem change always happens in the strong syllable: *empiezo, entiendo, prefiero.*
 
 ## O changes to UE
 
-    Soñar (to dream)
+Here is *soñar* (to dream), in the present tense:
 
-    Yo sueño
+    yo sueño
 
-    Tú sueñas
+    tú sueñas
 
-    Él/ella/ud. sueña
+    él / ella / usted sueña
 
-    Nosotros/as soñamos
+    nosotros / nosotras soñamos
 
-    (Vosotros/as soñáis)
+    (vosotros / vosotras soñáis)
 
-    Ellos/ellas/uds. sueñan
+    ellos / ellas / ustedes sueñan
 
 Again, the O changes to UE in all persons except *nosotros* and *vosotros.*
 
 Here are some common “O to UE” verbs:
 
-    Acostarse - to go to bed/to lie down
+    acostarse - to go to bed / to lie down
 
-    Almorzar - to have lunch
+    almorzar - to have lunch
 
-    Contar - to tell/to count
+    contar - to tell / to count
 
-    Costar - to cost
+    costar - to cost
 
-    Devolver - to return (an item)
+    devolver - to return (an item)
 
-    Dormir - to sleep
+    dormir - to sleep
 
-    Dormirse - to fall asleep
+    dormirse - to fall asleep
 
-    Encontrar - to find
+    encontrar - to find
 
-    Mover - to move (an item)
+    mover - to move (an item)
 
-    Morir - to die
+    morir - to die
 
-    Poder - to be able to
+    poder - to be able to
 
-    Recordar - to remember
+    recordar - to remember
 
-    Sonar - to sound
+    sonar - to sound
 
-    Soñar - to dream
+    soñar - to dream
 
-    Volar - to fly
+    volar - to fly
 
-    Volver - to return
+    volver - to return
 
-## Verbs with stem change in the past tense (pretérito perfecto)
+## Verbs with stem change in the preterite (pretérito perfecto)
 
 Stem-changing verbs do not change their stem in the past tense:
 
-    Pensar (to think)
+Here is *pensar* (to think), in the *pretérito perfecto* tense:
 
-    Yo pensé
+    yo pensé
 
-    Tú pensaste
+    tú pensaste
 
-    Él/ella/ud. pensó
+    él / ella / usted pensó
 
-    Nosotros/as pensamos
+    nosotros / nosotras pensamos
 
-    (Vosotros/as pensasteis)
+    (vosotros / vosotras pensasteis)
 
-    Ellos/ellas/uds. pensaron
+    ellos / ellas / ustedes pensaron
 
-    Soñar (to dream)
+Here is *soñar* (to dream), in the *pretérito perfecto* tense:
 
-    Yo soñé
+    yo soñé
 
-    Tú soñaste
+    tú soñaste
 
-    Él/ella/ud. soñó
+    él / ella / usted soñó
 
-    Nosotros/as soñamos
+    nosotros / nosotras soñamos
 
-    (Vosotros/as soñasteis)
+    (vosotros / vosotras soñasteis)
 
-    Ellos/ellas/uds. soñaron
+    ellos / ellas / ustedes soñaron
 
 > Verbs *divertirse, mentir, morir, preferir, querer, sentirse, dormir and poder* are irregular in 
 > the *pretérito perfecto* tense. Try to look up their conjugations and memorize them.
@@ -273,7 +275,7 @@ Stem-changing verbs do not change their stem in the past tense:
 15. I received a present from my mother-in-law (suegra).
 16. Pedro doesn't understand Spanish, but he speaks Italian.
 17. We wrote an email to Mary.
-18. You (formal, plural) were in Brooklyn three days ago.
+18. You (form., plural) were in Brooklyn three days ago.
 19. It rains a lot in Seattle.
 20. It is raining in Boston.
 
@@ -296,23 +298,23 @@ Stem-changing verbs do not change their stem in the past tense:
 
 Presente:
 
-1. Yo _________ (pensar) que tú eres muy guapo.
+1. Yo __________ (pensar) que tú eres muy guapo.
 2. Tú __________ (pensar) mucho.
 3. Nosotros __________(querer) ir al US Open.
 4. Ustedes nunca __________ (mentir).
-5. María siempre _________ (perder) sus llaves en el parque.
-6. Juan _________ (empezar) a trabajar a las 9 de la mañana cada día.
-7. Yo nunca ___________ (mentir) a mi amiga.
-8. Mi perro siempre _________ (soñar) que él está en el parque.
-9. Mi amigo Pedro siempre ____________ (acostarse) a las 4 de la mañana.
+5. María siempre __________ (perder) sus llaves en el parque.
+6. Juan __________ (empezar) a trabajar a las 9 de la mañana cada día.
+7. Yo nunca __________ (mentir) a mi amiga.
+8. Mi perro siempre __________ (soñar) que él está en el parque.
+9. Mi amigo Pedro siempre __________ (acostarse) a las 4 de la mañana.
 
 Pretérito perfecto:
 
 1. El martes yo __________ (devolver) unos pantalones en la tienda.
-2. Estás muy cansado porque ayer tú _________________ (acostarse) muy tarde.
-3. Ayer ella no ___________ (cerrar) la puerta de su casa.
-4. Yo ___________ (volver) el jueves.
-5. El 15 de mayo de 2013 nosotros _____________ (perder) nuestra bufanda favorita.
+2. Estás muy cansado porque ayer tú __________ (acostarse) muy tarde.
+3. Ayer ella no __________ (cerrar) la puerta de su casa.
+4. Yo __________ (volver) el jueves.
+5. El 15 de mayo de 2013 nosotros __________ (perder) nuestra bufanda favorita.
 
 ## 5. Conjugar (en presente)
 

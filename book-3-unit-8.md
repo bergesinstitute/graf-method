@@ -22,13 +22,13 @@ Podemos usar pronombres en lugar de estos objetos.
 
 💂 We can use pronouns in place of these objects.
 
-    Lo
+    lo
     
-    La
+    la
     
-    Los
+    los
     
-    Las
+    las
 
 *Yo compro una casa. ⇒ Yo la compro.*
 
@@ -96,12 +96,12 @@ J: Vale, voy a pensarlo esta noche y mañana voy a decidir. Pero probablemente v
 
 ## 2. Responder, usando pronombres
 
-1. ¿Tienes hermanos? __________________________
-2. ¿Tienes una casa en el campo? __________________________
-3. ¿Llamaste a tu amigo? __________________________
-4. ¿Miras televisión? __________________________
-5. ¿Tienes el hotel reservado? __________________________
-6. En el pasado, ¿llamabas a Sara cada día? __________________________
+1. ¿Tienes hermanos? __________________________.
+2. ¿Tienes una casa en el campo? __________________________.
+3. ¿Llamaste a tu amigo? __________________________.
+4. ¿Miras televisión? __________________________.
+5. ¿Tienes el hotel reservado? __________________________.
+6. En el pasado, ¿llamabas a Sara cada día? __________________________.
 
 ## 3. Explicar en inglés qué es un objeto directo, dando ejemplos
 

@@ -19,37 +19,37 @@ Solamente necesitamos conjugar el verbo *ir.*
 
 💂 We only need to conjugate the verb *ir.*
 
-    Cantar
+Here is *cantar* (to sing):
     
-    Yo voy a cantar
+    yo voy a cantar
     
-    Tú vas a cantar
+    tú vas a cantar
     
-    Él/ella/ud. va a cantar 
+    él / ella / usted va a cantar 
     
-    Nosotros/as vamos a cantar
+    nosotros / nosotras vamos a cantar
     
-    (Vosotros/as vais a cantar) 
+    (vosotros / vosotras vais a cantar) 
     
-    Ellos/ellas/uds. van a cantar
+    ellos / ellas / ustedes van a cantar
 
-> With the verb *ir: Yo voy a ir a Miami.* (“I'm going to go to Miami”). We need to use it twice!
+> With the verb *ir: Yo voy a ir a Miami.* (Lit. “I'm going to go to Miami.”) We need to use it twice!
 
 ## Expresiones temporales de futuro (future time expressions)
 
-    La semana próxima - next week 
+    la semana próxima - next week 
     
-    La semana que viene - next week 
+    la semana que viene - next week 
     
-    En el futuro - in the future 
+    en el futuro - in the future 
     
-    Mañana - tomorrow
+    mañana - tomorrow
     
-    Esta tarde - this afternoon/evening
+    esta tarde - this afternoon/evening
     
-    Esta noche - tonight
+    esta noche - tonight
     
-    Pasado mañana - the day after tomorrow
+    pasado mañana - the day after tomorrow
 
 ## Ejemplos
 
@@ -87,59 +87,59 @@ Para el verbo *levantarse:*
 
 ### Presente
 
-    Yo me levanto
+    yo me levanto
     
-    Tú te levantas
+    tú te levantas
     
-    Él/ella/ud. se levanta 
+    él / ella / usted se levanta 
     
-    Nosotros/as nos levantamos 
+    nosotros / nosotras nos levantamos 
     
-    (Vosotros/as os levantáis) 
+    (vosotros / vosotras os levantáis) 
     
-    Ellos/ellas/uds. se levantan
+    ellos / ellas / ustedes se levantan
 
 ### Pretérito perfecto
 
-    Yo me levanté
+    yo me levanté
     
-    Tú te levantaste
+    tú te levantaste
     
-    Él/ella/ud. se levantó 
+    él / ella / usted se levantó 
     
-    Nosotros/as nos levantamos 
+    nosotros / nosotras nos levantamos 
     
-    (Vosotros/as os levantasteis)
+    (vosotros / vosotras os levantasteis)
     
-    Ellos/ellas/uds. se levantaron
+    ellos / ellas / ustedes se levantaron
 
 ### Pretérito imperfecto
 
-    Yo me levantaba
+    yo me levantaba
     
-    Tú te levantabas
+    tú te levantabas
     
-    Él/ella/ud. se levantaba 
+    él / ella / usted se levantaba 
     
-    Nosotros/as nos levantábamos 
+    nosotros / nosotras nos levantábamos 
     
-    (Vosotros/as os levantabais)
+    (vosotros / vosotras os levantabais)
     
-    Ellos/ellas/uds. se levantaban
+    ellos / ellas / ustedes se levantaban
 
 ### Futuro
 
-    Yo me voy a levantar
+    yo me voy a levantar
     
-    Tú te vas a levantar
+    tú te vas a levantar
     
-    Él/ella/ud. se va a levantar 
+    él / ella / usted se va a levantar 
     
-    Nosotros/as nos vamos a levantar 
+    nosotros / nosotras nos vamos a levantar 
     
-    (Vosotros/as os vais a levantar) 
+    (vosotros / vosotras os vais a levantar) 
     
-    Ellos/ellas/uds. se van a levantar
+    ellos / ellas / ustedes se van a levantar
 
 ## Verbos reflexivos típicos
 
@@ -147,25 +147,25 @@ Aquí tenemos algunos verbos reflexivos de uso habitual.
 
 💂 Here are some commonly used reflexive verbs.
 
-    Acostarse – to go to bed
+    acostarse – to go to bed
     
-    Ducharse – to shower/to take a shower
+    ducharse – to shower / to take a shower
     
-    Hacerse – to become
+    hacerse – to become
     
-    Irse – to leave
+    irse – to leave
     
-    Lavarse (la cara, las manos, etc.) – to wash your face, your hands, etc. 
+    lavarse (la cara, las manos, etc.) – to wash your face, your hands, etc. 
     
-    Levantarse – to get up/to wake up
+    levantarse – to get up / to wake up
     
-    Maquillarse – to put on makeup
+    maquillarse – to put on makeup
     
-    Mirarse en el espejo – to look at yourself in the mirror
+    mirarse en el espejo – to look at yourself in the mirror
     
-    Peinarse – to comb your hair
+    peinarse – to comb your hair
     
-    Quedarse – to stay
+    quedarse – to stay
 
 ## Verbos reflexivos en infinitivo y gerundio (reflexive verbs in infinitive and gerund)
 
@@ -228,7 +228,7 @@ J: En el pasado éramos muy diferentes, yo siempre me maquillaba y me peinaba y 
 
 C: Correcto.
 
-    Ni - nor
+    ni - nor
 
 ### Mario y Alfredo
 
@@ -332,7 +332,7 @@ Next week...
 3. She is going to fly to L.A.
 4. You are going to sing with Mary at the studio.
 5. We will watch TV all day long.
-6. You (formal) are going to pay for all the meals.
+6. You (form., sing.) are going to pay for all the meals.
 7. You are going to finish a report (informe) for Friday.
 8. I am going to buy a fork for eating rice.
 9. He is going to wear a black shirt.
@@ -352,21 +352,21 @@ Next week...
 7. ¿A qué hora te fuiste ayer de tu trabajo o de tu escuela?
 8. Hace diez años, ¿dormías más o menos horas que ahora?
 9. ¿Mañana te vas a levantar muy temprano?
-10. ¿Te quedabas en casa los fines de semanas cuando estabas en la escuela secundaria?
+10. ¿Te quedabas en casa los fines de semana cuando estabas en la escuela secundaria?
 11. ¿Te gustaba mirar la television cuando eras un(a) niño/a? ¿Cuál era tu programa favorito?
 12. ¿Practicabas deporte cuando eras un(a) niño/a?
 
 ## 6. Completar
 
-1. Mañana yo _______________ (trabajar).
+1. Mañana yo ________________ (trabajar).
 2. Ayer yo ________________ (bailar) salsa.
-3. Antes yo siempre ______________ (cenar) en un restaurante muy bonito y elegante los martes.
-4. Normalmente los lunes yo ____________ (cantar) en una banda de rock.
-5. Cuando ____________ (tener) quince años yo _____________ (vivir) en Arizona.
-6. En Texas ___________ (there were) muchos granjeros (farmers).
-7. El martes pasado yo _____________ (irse) del hotel a las dos de la tarde.
+3. Antes yo siempre ________________ (cenar) en un restaurante muy bonito y elegante los martes.
+4. Normalmente los lunes yo ________________ (cantar) en una banda de rock.
+5. Cuando ________________ (tener) quince años yo ________________ (vivir) en Arizona.
+6. En Texas ________________ (there were) muchos granjeros (farmers).
+7. El martes pasado yo ________________ (irse) del hotel a las dos de la tarde.
 8. Cada día yo ________________ (peinarse) rápidamente.
-9. Mañana yo _______________ (irse) de la ciudad.
+9. Mañana yo ________________ (irse) de la ciudad.
 
 ## 7. Traducir, escribiendo el pronombre reflexivo antes y después de los verbos
 
@@ -376,5 +376,5 @@ Next week...
 2. My mother must comb her hair every day.
 3. They do not want to take a shower.
 4. We have to leave the party at 10 PM.
-5. You (formal, plural) need to put on makeup in the morning.
+5. You (form., pl.) need to put on makeup in the morning.
 6. She wants to go to bed at 10 PM.

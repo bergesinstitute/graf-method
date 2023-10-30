@@ -1,6 +1,6 @@
 # Preposición entre
 
-    Entre - between/among
+    entre - between / among
 
 *Mi casa está entre la Quinta y la Sexta Avenida.* (Lit. My house is between Fifth and Sixth Ave.)
 
@@ -34,63 +34,63 @@ the conjunction to *u.*.
 
 # Adverbios que terminan en -mente (adverbs ending in -mente)
 
-    Fácilmente - easily
+    fácilmente - easily
 
-    Difícilmente - with difficulty
+    difícilmente - with difficulty
 
-    Honestamente - honestly
+    honestamente - honestly
 
-    Tranquilamente - quietly
+    tranquilamente - quietly
 
-    Amablemente - kindly
+    amablemente - kindly
 
-    Elegantemente - elegantly
+    elegantemente - elegantly
 
-    Perfectamente - perfectly
+    perfectamente - perfectly
 
-    Rápidamente - rapidly
+    rápidamente - rapidly
 
-    Lentamente - slowly
+    lentamente - slowly
 
-    Finalmente - finally
+    finalmente - finally
 
-    Afortunadamente - fortunately
+    afortunadamente - fortunately
 
-    Desafortunadamente - unfortunately
+    desafortunadamente - unfortunately
 
-    Completamente - completely
+    completamente - completely
 
-    Totalmente - totally
+    totalmente - totally
 
-    Felizmente - happily
+    felizmente - happily
 
-    Tristemente - sadly
+    tristemente - sadly
 
-    Sorprendentemente - surprisingly
+    sorprendentemente - surprisingly
 
 # Números ordinales (ordinal numbers)
 
 ## Los números
 
-    Primero/a (1º / 1ª) - First
+    primero/a (1º / 1ª) - first
 
-    Segundo/a (2º / 2ª) - Second
+    segundo/a (2º / 2ª) - second
 
-    Tercero/a (3º / 3ª) - Third
+    tercero/a (3º / 3ª) - third
 
-    Cuarto/a (4º / 4ª) - Fourth
+    cuarto/a (4º / 4ª) - fourth
 
-    Quinto/a (5º / 5ª) - Fifth
+    quinto/a (5º / 5ª) - fifth
 
-    Sexto/a (6º / 6ª) - Sixth
+    sexto/a (6º / 6ª) - sixth
 
-    Séptimo/a (7º / 7ª) - Seventh
+    séptimo/a (7º / 7ª) - seventh
 
-    Octavo/a (8º / 8ª) - Eight
+    octavo/a (8º / 8ª) - eight
 
-    Noveno/a (9º / 9ª) - Ninth
+    noveno/a (9º / 9ª) - ninth
 
-    Décimo/a (10º / 10ª) - Tenth
+    décimo/a (10º / 10ª) - tenth
 
 > *Primero* y *tercero* pasan a ser *primer* y *tercer* respectivamente cuando van antes 
 de un sustantivo masculino: *el primer día, el tercer lugar,* etc.
@@ -98,25 +98,25 @@ de un sustantivo masculino: *el primer día, el tercer lugar,* etc.
 > 💂 *Primero* and *tercero* become *primer* and *tercer* respectively when they go before a masculine noun: 
 *el primer día, el tercer lugar,* etc.
 
-    Vigésimo/a (20º / 20ª) - Twentieth
+    vigésimo/a (20º / 20ª) - twentieth
 
-    Trigésimo/a (30º / 30ª) - Thirtieth
+    trigésimo/a (30º / 30ª) - thirtieth
 
-    Cuadragésimo/a (40º / 40ª) - Fortieth
+    cuadragésimo/a (40º / 40ª) - fortieth
 
-    Quincuagésimo/a (50º / 50ª) - Fiftieth
+    quincuagésimo/a (50º / 50ª) - fiftieth
 
-    Sexagésimo/a (60º / 60ª) - Sixtieth
+    sexagésimo/a (60º / 60ª) - sixtieth
 
-    Septuagésimo/a (70º / 70ª) - Seventieth
+    septuagésimo/a (70º / 70ª) - seventieth
 
-    Octogésimo/a (80º / 80ª) - Eightieth
+    octogésimo/a (80º / 80ª) - eightieth
 
-    Nonagésimo/a (90º / 90ª) - Ninetieth
+    nonagésimo/a (90º / 90ª) - ninetieth
 
-    Centésimo/a (100º / 100ª) - Hundredth
+    centésimo/a (100º / 100ª) - hundredth
 
-    Milésimo/a (1000º / 1000ª) - Thousandth
+    milésimo/a (1000º / 1000ª) - thousandth
 
 ## Ejemplos
 
@@ -180,9 +180,9 @@ J: En la calle ochenta y ocho con la novena.
 4. Javier comes to the city every week.
 5. Yesterday, our brother slept for 10 hours.
 6. She wants to travel to Uruguay.
-7. You (formal, singular) feel sad.
+7. You (form., sing.) feel sad.
 8. Last night, they wanted to go to the movies.
-9. Do you (formal, plural) prefer tea or coffee?
+9. Do you (form., pl.) prefer tea or coffee?
 10. I do not understand James.
 11. Ana usually leaves her office at 7 PM.
 12. Every day I see that dog in the park.
@@ -203,7 +203,7 @@ Choose a person. Describe this person in a very exaggerated manner, heavily usin
 1. This restaurant doesn't accept credit cards.
 2. The waiter has the dessert for me.
 3. Juan ate a first course, a second course, and a dessert for ten euros.
-4. Do you (formal) want chopsticks or do you prefer a fork and a knife?
+4. Do you (form., sing.) want chopsticks or do you prefer a fork and a knife?
 5. On March 19th, the restaurant closed because of the hurricane.
 6. This restaurant has at least (al menos) fifty customers (clientes) per night.
 7. When we were living in Vietnam, we would always eat with our friends in the market.

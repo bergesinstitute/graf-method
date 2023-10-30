@@ -2,41 +2,43 @@
 
 ## Vocabulario (vocabulary)
 
-    El hotel - the hotel
+    el hotel - the hotel
 
-    El hostal - the hostel
+    el hostal - the hostel
 
-    El apartamento - the apartment
+    el apartamento - the apartment
 
-    El aeropuerto - the airport
+    el aeropuerto - the airport
 
-    El avión - the plane
+    el avión - the plane
 
-    El viaje - the trip
+    el viaje - the trip
 
-    El vuelo - the flight
+    el vuelo - the flight
 
-    El tren - the train
+    el tren - the train
 
-    El autobús - the bus
+    el autobús - the bus
 
-    La estación de tren / de autobús - the train station / the bus station 
+    la estación de tren - the train station
 
-    El barco - the boat
+    la estación de autobús - the bus station 
 
-    El metro - the subway
+    el barco - the boat
 
-    El equipaje - the luggage
+    el metro - the subway
 
-    El pasaje - the ticket/fare
+    el equipaje - the luggage
 
-    La recepción - the front desk
+    el pasaje - the ticket/fare
 
-    El museo - the museum
+    la recepción - the front desk
 
-    El taxi - the cab
+    el museo - the museum
 
-    El centro - downtown
+    el taxi - the cab
+
+    el centro - downtown
 
 ## Verbo tomar (para transportes)
 
@@ -99,23 +101,23 @@ En español, usamos muchas expresiones con el verbo *tener.*
 
 💂 In Spanish, we use many expressions with the verb *tener.*
 
-    Tener hambre - to be hungry (lit. to have hunger)
+    tener hambre - to be hungry (lit. to have hunger)
     
-    Tener sed - to be thirsty (lit. to have thirst)
+    tener sed - to be thirsty (lit. to have thirst)
     
-    Tener sueño - to be sleepy (lit. to have sleepiness)
+    tener sueño - to be sleepy (lit. to have sleepiness)
     
-    Tener prisa - to be in a hurry (lit. to “have hurry”)
+    tener prisa - to be in a hurry (lit. to “have hurry”)
     
-    Tener razón - to be right (lit. to have reason)
+    tener razón - to be right (lit. to have reason)
     
-    Tener miedo (de) - to be afraid (of) (lit. to have fear) 
+    tener miedo (de) - to be afraid (of) (lit. to have fear) 
     
-    Tener suerte - to be lucky (lit. to have luck)
+    tener suerte - to be lucky (lit. to have luck)
     
-    Tener calor - to be hot (lit. to have heat) 
+    tener calor - to be hot (lit. to have heat) 
     
-    Tener frío - to be cold (lit. to have cold)
+    tener frío - to be cold (lit. to have cold)
 
 ## Ejemplos
 
@@ -127,7 +129,7 @@ En español, usamos muchas expresiones con el verbo *tener.*
 
 *¿Tienes frío?* (Are you cold?)
 
-# Traer (to bring) vs llevar (to carry/to take)
+# Traer (to bring) vs llevar (to carry / to take)
 
 ## Traer
 
@@ -137,45 +139,45 @@ El verbo *traer* es irregular en el presente y el pretérito perfecto.
 
 ### Presente
 
-    Traigo 
+    traigo 
     
-    Traes 
+    traes 
     
-    Trae 
+    trae 
     
-    Traemos
+    traemos
     
-    (Traéis) 
+    (traéis) 
     
-    Traen
+    traen
 
 ### Pretérito perfecto
 
-    Traje 
+    traje 
     
-    Trajiste 
+    trajiste 
     
-    Trajo 
+    trajo 
     
-    Trajimos 
+    trajimos 
     
-    (Trajisteis) 
+    (trajisteis) 
     
-    Trajeron
+    trajeron
 
 ## Pretérito imperfecto (es regular)
 
-    Traía 
+    traía 
     
-    Traías 
+    traías 
     
-    Traía 
+    traía 
     
-    Traíamos 
+    traíamos 
     
-    (Traíais)
+    (traíais)
     
-    Traían
+    traían
 
 ## Llevar
 
@@ -219,16 +221,15 @@ Steve: No hay problema.
 
 1. I like cheap hostels.
 2. In the past, I used to like expensive and elegant hotels.
-3. The A train is especially beautiful. The G train is very fast.
-4. My favorite airport is O'Hare. It is in Chicago.
-5. My favorite train station used to be Grand Central, but now it is Penn Station.
-6. I used to love San Francisco. Now I prefer Los Angeles.
-7. Last night, I stayed at a hostel.
-8. Tomorrow, I'm going to wake up early in order to go to the bus station.
-9. A plane ticket is usually more expensive than a bus ticket, but you can't go to Europe on the bus.
-10. I never take taxis, I always prefer the train; it's cheaper.
-11. My flight departs (use salir) at 7 PM.
-12. The best hotels are in Las Vegas. The worst hotels are in __________________.
+3. My favorite airport is O'Hare. It is in Chicago.
+4. My favorite train station used to be Grand Central, but now it is Penn Station.
+5. I used to love San Francisco. Now I prefer Los Angeles.
+6. Last night, I stayed at a hostel.
+7. Tomorrow, I'm going to get up early in order to go to the bus station.
+8. A plane ticket is usually more expensive than a bus ticket, but you can't go to Europe on the bus.
+9. I never take taxis, I always prefer the train; it's cheaper.
+10. My flight departs (use salir) at 7 PM.
+11. The best hotels are in Las Vegas. The worst hotels are in __________________.
 
 ## 2. Responder
 
@@ -242,7 +243,7 @@ Steve: No hay problema.
 8. ¿Piensas que los taxis son muy caros en tu ciudad? ¿Tomas taxis mucho?
 9. ¿Quieres viajar a África en el futuro?
 10. ¿A dónde quieres viajar en tu próximo viaje?
-11. ¿Cual fue tu vuelo más largo?
+11. ¿Cuál fue tu vuelo más largo?
 12. ¿Cuál es tu aeropuerto favorito? ¿Por qué?
 
 ## 3. Write a short essay.
@@ -253,16 +254,16 @@ Explica qué vas a hacer en tu próximo viaje. Puede ser un viaje real que tiene
 
 ## 4. Completar, usando expresiones con tener
 
-1. Cuando yo no como por diez horas, yo ____________________.
-2. Cuando yo estoy en el desierto por mucho tiempo y no tengo agua, yo __________________.
+1. Cuando yo no como por diez horas, yo ______________________.
+2. Cuando yo estoy en el desierto por mucho tiempo y no tengo agua, yo ______________________.
 3. Cuando Juan ganó la lotería, él ______________________.
 4. Eran las 8 de la mañana y yo empezaba a trabajar a las 8.30. El metro no funcionaba, y yo
    ______________________. Yo estaba muy nervioso.
-5. Cuando era pequeño yo siempre ________________________ de los payasos (clowns). Ahora
+5. Cuando era pequeño yo siempre ______________________ de los payasos (clowns). Ahora
    solamente _______________________ de las ratas de la calle. A veces son muy grandes.
-6. Los políticos normalmente piensan que ellos siempre _______________________.
-7. Cuando yo viajo a Alaska, yo siempre _____________________, pero cuando yo viajo a Texas,
+6. Los políticos normalmente piensan que ellos siempre ______________________.
+7. Cuando yo viajo a Alaska, yo siempre ______________________, pero cuando yo viajo a Texas,
    normalmente ______________________.
-8. Cuando estoy en la oficina después de comer siempre _____________________.
+8. Cuando estoy en la oficina después de comer siempre ______________________.
 
 ## 5. Escribir 4 oraciones usando expresiones con tener
