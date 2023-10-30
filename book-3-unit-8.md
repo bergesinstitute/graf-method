@@ -130,7 +130,7 @@ J: Vale, voy a pensarlo esta noche y mañana voy a decidir. Pero probablemente v
 ### Cesar Chavez
 
 Cesar Chavez fue un activista de derechos civiles[1] y un líder sindical.[2] Nació en Yuma, Arizona, 
-el día [4] de marzo de 1927, y murió en San Luis, Arizona, el 23 de abril de 1993, a sus sesenta y seis años.
+el día 4 de marzo de 1927, y murió en San Luis, Arizona, el 23 de abril de 1993, a sus sesenta y seis años.
 
 Su familia era de México —el abuelo de Cesar se mudó a Arizona desde Chihuahua a finales del siglo XIX—,[3] 
 pero sus padres nacieron en Arizona (que no fue un estado oficial de los Estados Unidos hasta[4] 1912).
@@ -140,7 +140,7 @@ a los 13 años, y empezó a trabajar en el campo, y allí trabajó hasta 1952 (e
 
 En 1952, Cesar Chavez fue uno de los fundadores de la Organización de Servicios Comunitarios (CSO por sus 
 siglas en inglés). Esta organización tenía como objetivo defender los derechos de los trabajadores latinos, 
-así como alentar[9] a éstos a votar en las elecciones. Cesar fue nombrado director nacional de esta organización en 1958.
+así como alentar[9] a estos a votar en las elecciones. Cesar fue nombrado director nacional de esta organización en 1958.
 
 En 1962 Chavez dejó su puesto en CSO para fundar, junto a Dolores Huerta, la organización conocida como 
 Asociación Nacional de Trabajadores Agrarios (NFWA, por sus siglas[10] en inglés), que más tarde pasaría a
