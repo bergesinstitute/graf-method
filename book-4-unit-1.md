@@ -259,11 +259,11 @@ A: Mi avión aterriza (lands) a las siete de la tarde.*
 
 > *Igual que en inglés, es común en español usar el presente con valor de futuro. *María llega a las siete* (mañana). 
 *Juan está aquí desde el martes hasta el domingo* (próximos). Hacemos esto, tanto en inglés como en español, 
-cuando queremos enfatizar la información más que la acción. *The restaurant opens at 7* (tonight). *My train leaves at 6 pm.*
+cuando queremos enfatizar la información más que la acción. *The restaurant opens at 7* (tonight). *My train leaves at 6 PM.*
 
 > *💂 As in English, it is common in Spanish to use the present tense with a future value. *María llega a las siete* (tomorrow).
 *Juan está aquí desde el martes hasta el domingo* (next Tuesday through next Sunday). We do this in both English and Spanish
-when we want to emphasize the information rather than the action. *The restaurant opens at 7* (tonight). *My train leaves at 6 pm.* (tonight).
+when we want to emphasize the information rather than the action. *The restaurant opens at 7* (tonight). *My train leaves at 6 PM.* (tonight).
 
 # Homework
 

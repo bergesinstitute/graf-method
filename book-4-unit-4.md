@@ -58,7 +58,7 @@ but there is a difference with respect to the present and past tenses: we add th
 
 *El año que viene yo viajaré a Japón.* (Next year, I will travel to Japan.)
 
-*El domingo me levantaré muy tarde.* (On Sunday, I'm going to wake up very late.)
+*El domingo me levantaré muy tarde.* (On Sunday, I'm going to get up very late.)
 
 ## Uso (usage)
 
