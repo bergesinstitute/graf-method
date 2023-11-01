@@ -87,7 +87,7 @@ Here are some common reflexive verbs:
 
     lavarse la cara - to wash your face
 
-    levantarse - to get up / to wake up
+    levantarse - to get up
 
     llamarse - to “be named”
 
@@ -109,7 +109,7 @@ Here are some common reflexive verbs:
 
 Many verbs in Spanish have a reflexive and a non-reflexive version. And, many times, 
 they have different meanings. For example, *levantar* means *to lift*, while *levantarse* means 
-*to wake up* or *to get up; dormirse* means *to fall asleep*, while *dormir* means *to sleep.* 
+*to get up; dormirse* means *to fall asleep*, while *dormir* means *to sleep.* 
 In some cases, the meaning is very close: *peinar* means *to comb someone's hair,* while *peinarse* 
 means *to comb your own hair.* We need to treat all reflexive verbs as independent verbs with 
 their own specific meaning.
