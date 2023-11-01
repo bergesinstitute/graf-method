@@ -287,12 +287,12 @@ Regular verbs are divided into 3 categories based on their ending: *-ar, -er* an
 *In the *pretérito perfecto* tense, *explicar* and *tocar* have a spelling change in the first-person
 singular: *expliqué, toqué.*
 
-**In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first-person 
+**In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change in the first-person 
 singular: *llegué, pagué.*
 
 ****Llegar* always uses the preposition *a.* We arrive "to" places. *Llegué a la oficina* (I arrived at/in the office).
 
-****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person 
+****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change in the third-person 
 singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
 
 # Conversación

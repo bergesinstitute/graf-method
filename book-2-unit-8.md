@@ -151,13 +151,13 @@ L: Sí, yo también.
 
 # Something, nothing, somebody, nobody, in Spanish
 
-    algo – something
+    algo - something
 
-    nada – nothing
+    nada - nothing
 
-    alguien – somebody
+    alguien - somebody
 
-    nadie – nobody
+    nadie - nobody
 
 *Yo tengo algo.* (I have something.)
 
@@ -182,9 +182,9 @@ We cannot use *nada* or *nadie* in affirmative sentences.
 
 # Adverbs también and tampoco
 
-    también – also
+    también - also
 
-    tampoco – don't (...) either 
+    tampoco - don't (...) either 
 
 *Mi amigo Pedro tiene un perro. Yo también tengo un perro.* (My friend Pedro has a dog. I also have a dog.)
 

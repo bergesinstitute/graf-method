@@ -64,24 +64,24 @@ This tense is commonly used with adverbs *ahora* (now) and *hoy* (today).
 
 ## It's raining, it's snowing
 
-    llover – to rain
+    llover - to rain
 
-    nevar – to snow
+    nevar - to snow
 
 When we want to say it's raining or snowing, we have to use the progressive tense in the third-person singular, 
 since *llover* and *nevar* are impersonal verbs:
 
-    está lloviendo – it's raining
+    está lloviendo - it's raining
 
-    está nevando – it's snowing
+    está nevando - it's snowing
 
 When we conjugate them in the present tense (for habits or facts), we need to keep in mind that 
 *nevar* and *llover* are stem-changing verbs. But since *nevar* and *llover* are also impersonal verbs, we only conjugate 
 them in the third-person singular:
 
-    llueve – it rains
+    llueve - it rains
 
-    nieva – it snows
+    nieva - it snows
 
 *En Arizona nunca nieva.*
 
@@ -109,7 +109,7 @@ P: Muy bien.
 We conjugate reflexive verbs in the preterite tense in the same way we do in the present tense 
 (we first use the reflexive pronoun, and then we conjugate the verb, ignoring *se*).
 
-Here is *levantarse* (to get up / to wake up) in the pretérito perfecto tense:
+Here is *levantarse* (to get up) in the pretérito perfecto tense:
 
     me levanté
 
@@ -125,19 +125,19 @@ Here is *levantarse* (to get up / to wake up) in the pretérito perfecto tense:
 
 Here are some common reflexive verbs that are regular in the past tense:
 
-    acostarse – to go to bed / to lie down
+    acostarse - to go to bed / to lie down
 
-    ducharse – to shower
+    ducharse - to shower
 
-    lavarse (la cara, las manos, etc.) – to wash your face, your hands, etc.
+    lavarse (la cara, las manos, etc.) - to wash your face, your hands, etc.
 
-    levantarse – to get up / to wake up
+    levantarse - to get up
 
-    maquillarse – to put on makeup
+    maquillarse - to put on makeup
 
-    mirarse en el espejo – to look at yourself in the mirror
+    mirarse en el espejo - to look at yourself in the mirror
 
-    peinarse – to comb your hair
+    peinarse - to comb your hair
 
 ## Un ejemplo
 
@@ -156,9 +156,9 @@ Something similar happens in English when we add certain prepositions to certain
 
 A very distinct case in Spanish would be the following:
 
-    ir – to go
+    ir - to go
 
-    irse – to leave
+    irse - to leave
 
 We use them with these prepositions:
 
