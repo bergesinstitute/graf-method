@@ -14,6 +14,10 @@ Only use the short dash: -
 
 Use * for italics, ** for bold. That said, avoid using bold for emphasis.
 
+# AM, PM
+
+We'll capitalize them and leave a space before: 9 AM, 2 PM.
+
 # Italics
 
 Use them for foreign words, like *hablar.* Lo mismo si la oración es en español y estamos hablando del verbo *to sing.*
