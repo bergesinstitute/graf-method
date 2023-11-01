@@ -1,40 +1,40 @@
 # En el restaurante (at the restaurant)
 
-    la servilleta – the napkin
+    la servilleta - the napkin
 
-    el mantel – the table cloth
+    el mantel - the table cloth
 
-    el vaso – the glass
+    el vaso - the glass
 
-    los cubiertos – the silverware
+    los cubiertos - the silverware
 
-    el tenedor – the fork
+    el tenedor - the fork
 
-    el cuchillo – the knife
+    el cuchillo - the knife
 
-    la cuchara – the spoon
+    la cuchara - the spoon
 
-    los palillos – the chopsticks
+    los palillos - the chopsticks
 
-    el especial – the special
+    el especial - the special
 
-    el menú / la carta – the menu
+    el menú / la carta - the menu
 
-    el plato – the dish
+    el plato - the dish
 
-    el primer plato – the first course
+    el primer plato - the first course
 
-    el segundo plato – the second course
+    el segundo plato - the second course
 
-    el postre – the dessert
+    el postre - the dessert
 
-    la cuenta – the check
+    la cuenta - the check
 
-    la propina – the tip
+    la propina - the tip
 
-    la tarjeta de crédito – the credit card
+    la tarjeta de crédito - the credit card
 
-    efectivo – cash
+    efectivo - cash
 
 # Adverbs cerca and lejos
 
@@ -112,15 +112,16 @@ Sara: ¡De nada!
 
 *Pedro compra un regalo para María.* (Pedro buys a present for María.)
 
-*Trabajo para el Gobierno Federal.* (I work for the Federal Government.)
-
-### Dirección (direction)[1]
+### Dirección (direction)
 
 *Maria va para New Jersey cada día.* (Maria goes to New Jersey every day.)
 
 *Nosotros vamos para el hospital cada mañana.* (We go to the hospital every morning.)
 
-### Propósito (purpose) / objetivo (goal) (meaning in order to)[2]
+> In these examples we could use *a* instead of *para* with the same meaning: *Maria va a New Jersey cada día.*
+*Nosotros vamos al hospital cada mañana.* It's more common to use *a*, but people do use *para* sometimes.
+
+### Propósito (purpose) / objetivo (goal) (meaning in order to)
 
 *Trabajo para ganar dinero.* (I work in order to earn money.)
 
@@ -130,6 +131,8 @@ Sara: ¡De nada!
 
 *Voy al gimnasio para estar fuerte.* (I go to the gym in order to be/to stay strong.)
 
+> When using *para* as *in order to,* we usually use it with the infinitive form of a verb.
+
 ### Deadline
 
 *Necesito el informe para el miércoles.* (I need the report for/by Wednesday.)
@@ -138,17 +141,22 @@ Sara: ¡De nada!
 
 ### Período de tiempo (time period)
 
-*Trabajo por ocho horas cada día.*[3] (I work for eight hours every day.)
+*Trabajo por ocho horas cada día.* (I work for eight hours every day.)
 
 *Estoy en Nueva York por tres días.* (I am in New York for three days.)
 
-### Razón / causa (reason / cause) (meaning because of)[4]
+> For periods of time, *por* is frequently omitted: *Trabajo ocho horas cada día.*
+*Estoy en Nueva York tres días.*
+
+### Razón (reason) / causa (cause) (meaning because of)
 
 *Berges Institute está cerrado por Thanksgiving.* (Berges Institute is closed “because of” Thanksgiving.)
 
 *El metro no funciona por un incidente.* (The subway does not work because of an incident.)
 
 *El aeropuerto está cerrado por la tormenta.* (The airport is closed because of the storm.)
+
+> When using *por* as *because of,* we usually use it with a noun.
 
 ### Intercambio (exchange)
 
@@ -162,29 +170,11 @@ Sara: ¡De nada!
 
 *Leo tres libros por semana.* (I read three books per week.)
 
-****
-
-[1] In these examples we could use *a* instead of *para* with the same meaning:
-
-*Maria va a New Jersey cada día.*
-
-*Nosotros vamos al hospital cada mañana.*
-
-[2] When using *para* as *in order to,* we usually use it with the infinitive form of a verb.
-
-[3] For periods of time, *por* is frequently omitted:
-
-*Trabajo ocho horas cada día.*
-
-*Estoy en Nueva York tres días.*
-
-[4] When using *por* as *because of,* we usually use it with a noun.
-
 # Sufijos diminutivos y aumentativos en español (diminutive and augmentative suffixes in Spanish)
 
-## Sufijos diminutivos y aumentativos
+## Sufijos diminutivos
 
-    -ito / -ita (tiene dos equivalentes: -ico / -ica and -illo / -illa)
+    -ito / -ita
 
     -cito / -cita
 
@@ -200,27 +190,29 @@ Cuando la palabra es un sustantivo, el sufijo tiene valor diminutivo.
 
 💂 When the word is a noun, the suffix has diminutive value.
 
-Casa - house
-
-Casita - little house 
+    Casa - house
+    
+    Casita - little house 
 
 Cuando la palabra es un adjetivo o un adverbio, el significado es más “suave”.
 
 💂 When the word is an adjective or an adverb, the meaning is "softer".
 
-Gordo - fat (sounds stronger) 
+    Gordo - fat (sounds stronger) 
+    
+    Gordito - “fatty” (sounds softer)
+    
+    Baja - short
+    
+    Bajita - “a little short” (sounds softer)
 
-Gordito - “fatty” (sounds softer)
-
-Baja - short
-
-Bajita - “a little short” (sounds softer)
+## Sufijos aumentativos
 
     -ísimo / -ísima
 
-Tiene valor aumentativo. Solamente usamos este sufijo con adjetivos o adverbios.
+Solamente usamos este sufijo con adjetivos o adverbios.
 
-💂 It has an augmentative value. We only use this suffix with adjectives or adverbs.
+💂 We only use this suffix with adjectives or adverbs.
 
 *Marta es guapa.* (Marta is pretty.)
 
@@ -229,12 +221,6 @@ Tiene valor aumentativo. Solamente usamos este sufijo con adjetivos o adverbios.
 *Yo como mucho.* (I eat a lot.)
 
 *Yo como muchísimo.* (I really eat a lot.)
-
-> No podemos usar todos los sufijos con todas las palabras. A veces podemos, a veces no. No existe una
-regla específica. 
-
-> 💂 We cannot use all suffixes with all words. Sometimes we can, sometimes we can't. 
-There is no specific rule.
 
 ## Uso de los sufijos con nombres propios (use of suffixes with proper names) 
 
@@ -248,17 +234,6 @@ relación estrecha.
     Carlos => Carlitos
     
     Pedro => Pedrito
-
-## Conversación
-
-Señor Pérez: Hola Señora García. ¿Quiere usted un cafecito?
-
-Señora García: Hola Señor Pérez. Sí, por favor. Su casita es hermosísima. Esa mesita es muy bonita.
-
-SP: Gracias, la compré hace una semana. Señora García, ¿fue usted al restaurante nuevo de Pedrito?
-
-SG: Sí, estuve allí el martes y me gustó muchísimo. La carnita era deliciosa. 
-También comí el pescado con patatitas y cebollitas. Todo estaba delicioso. 
 
 # Hubo y había
 
@@ -274,9 +249,9 @@ Usamos esta versión para eventos o catástrofes que ocurrieron en un pasado muy
 
 💂 We use this version for events or catastrophes that occurred in a very punctual or exact past.
 
-*El veinte de septiembre hubo un huracán en Florida.*
+*El veinte de septiembre hubo un huracán en Florida.* (On September 20, there was a hurricane in Florida.)
 
-*El viernes pasado hubo una fiesta en el consulado.*
+*El viernes pasado hubo una fiesta en el consulado.* (Last Friday there was a party at the consulate.)
 
 ## Había (pretérito imperfecto) 
 
@@ -286,9 +261,9 @@ hacemos un uso descriptivo, y para descripción en pasado normalmente en españo
 💂 This is the most common version. When we use *there was / there were* normally we use it descriptively, 
 and for descriptions in the past we normally use imperfect.
 
-*Había muchos libros en la mesa.*
+*Había muchos libros en la mesa.* (There were many books on the table.)
 
-*No había nadie en la calle a las 2 de la mañana.*
+*No había nadie en la calle a las 2 de la mañana.* (There was no one on the street at 2 in the morning.)
 
 > Unless we are talking about a very specific event that happened at a 
 very specific time in the past, we'll usually prefer to use *había* over *hubo* in most contexts.
@@ -324,29 +299,27 @@ pero siempre estaban ocupados.
 
 ## 3. Completar
 
-1. Los Estados Unidos están __________ de México.
+1. Estados Unidos está __________ de México.
 2. Japón está __________ de Argentina.
 3. China está __________ de Rusia.
 4. Irán está __________ de Irak.
 5. España está __________ de Nueva York.
 6. New Jersey está __________ de Manhattan.
-7. California está __________ de Montreal.
+7. Los Angeles está __________ de Montreal.
 
 ## 4. Escribir 4 oraciones (sentences) usando cerca y lejos
 
-## 5. Completar usando por o para. Puedes usar un diccionario para las palabras que no conoces.
+## 5. Completar usando por o para. Puedes usar un diccionario para buscar las palabras que no conoces.
 
 1. Mi madre cocina __________ toda la familia.
 2. Ana está en Barcelona __________ una semana.
 3. La escuela está cerrada __________ vacaciones.
-4. Juan trabaja __________ el hospital infantil.
-5. La tarea de español es __________ el lunes.
-6. Mi novio va al gimnasio __________ estar en forma (being in shape).
-7. Pablo llega tarde a trabajar __________ el tráfico.
-8. La abuela trabajó __________ la CIA.
-9. Cada día Pedro estudiaba mucho __________ obtener buenas calificaciones.
-10. Yo alquilé mi apartamento __________ $1,000.
-11. Tengo que comprar los regalos de Navidad __________ el martes.
-12. El hospital está cerrado __________ reformas.
+4. La tarea de español es __________ el lunes.
+5. Mi novio va al gimnasio __________ estar en forma (being in shape).
+6. Pablo llega tarde a trabajar __________ el tráfico.
+7. Cada día Pedro estudiaba mucho __________ obtener buenas calificaciones.
+8. Yo alquilé mi apartamento __________ mil dólares.
+9. Tengo que comprar los regalos de Navidad __________ el martes.
+10. El hospital está cerrado __________ reformas.
 
 ## 6. Escribir 4 oraciones usando por y para

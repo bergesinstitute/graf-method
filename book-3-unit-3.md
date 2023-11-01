@@ -65,9 +65,9 @@ delimitar el periodo de tiempo.
 💂 When we talk about a period of time and we indicate when it started and when it ended, we use
 preterite. We usually use the prepositions *entre* (between) or *de/a* (from/to) to delimit the period of time.
 
-*Entre 1999 y 2005 viví en Toronto.*
+*Entre 1999 y 2005 viví en Toronto.* (Between 1999 and 2005 I lived in Toronto.)
 
-*De 2010 a 2013 no comí carne.*
+*De 2010 a 2013 no comí carne.* (From 2010 to 2013 I did not eat meat.)
 
 # Mientras (while)
 
@@ -84,22 +84,32 @@ movie.)
 
 # Acción vs. descripción (action vs. description)
 
-Ciertos verbos tienen naturalmente un significado de acción: *llegar, salir, mirar...* Pero otros verbos
+Ciertos verbos tienen naturalmente un significado de acción: *llegar, escribir, comer...* Pero otros verbos
 tienen un significado más “descriptivo”: *tener* (for possession), *saber* (for knowledge), *creer* (for
-beliefs)... Los verbos de acción van normalmente en pretérito perfecto (*Juan llegó a las siete; Miré el
-programa el jueves pasado; Salí de casa.* En inglés: *Juan arrived at seven; I watched the show last
-Thursday; I left my house*) y los verbos “descriptivos” van normalmente en imperfecto (*Yo sabía que
-Juan vivía en Madrid; Creía que estabas en casa; Tenía un gato.* En inglés: *I knew Juan lived in
-Madrid; I believed you were home; I used to have a cat*).
+beliefs)... 
 
-💂 Certain verbs naturally have a meaning of action: *arrive, go out, look...* But other verbs
-have a more "descriptive" meaning: *tener* (for possession), *saber* (for knowledge), *creer* (for beliefs)... 
-Action verbs are usually in the preterite tense (*Juan llegó a las siete; Miré el
-programa el jueves pasado; Salí de casa.*
-In English: *Juan arrived at seven; I watched the show last
-Thursday; I left my house*) and "descriptive" verbs are usually in the imperfect tense (*Yo sabía que
-Juan vivía en Madrid; Creía que estabas en casa; Tenía un gato.* In English: *I knew Juan lived in
-Madrid; I believed you were home; I used to have a cat*).
+💂 Certain verbs naturally have a meaning of action: *llegar, escribir, comer...* But other verbs
+have a more "descriptive" meaning: *tener* (for possession), *saber* (for knowledge), *creer* (for beliefs)...
+
+Los verbos de acción van normalmente en pretérito perfecto.
+
+💂 Action verbs are usually in the preterite tense.
+
+*Juan llegó a las siete.* (Juan arrived at seven.)
+
+*Miré el programa el jueves pasado.* (I watched the show last Thursday.)
+
+*Salí de casa.* (I left my house.)
+
+Los verbos “descriptivos” van normalmente en imperfecto. 
+
+💂 "Descriptive" verbs are usually in the imperfect tense.
+
+*Yo sabía que Juan vivía en Madrid.* (I knew Juan lived in Madrid.)
+
+*Creía que estabas en casa.* (I believed you were home.)
+
+*Tenía un gato.* (I used to have a cat.)
 
 En algunos casos, las dos opciones son correctas; usamos uno u otro dependiendo de la sensación que
 queremos transmitir.
@@ -139,27 +149,27 @@ go in past simple but do not indicate action), we generally use the imperfect.
 *I knew that.*
 
 - We can translate it as: *Supe eso.*
-- But it is better translated as: *Sabía* *eso.*
+- But it is better translated as: *Sabía eso.*
 
 *The party was boring.*
 
 - We can translate it as: *La fiesta fue aburrida.*
-- But it is better translated as: *La fiesta* *era* *aburrida.*
+- But it is better translated as: *La fiesta era aburrida.*
 
 *I was sick.*
 
 - We can translate it as: *Estuve enfermo.*
-- But it is better translated as: *Estaba* *enfermo.*
+- But it is better translated as: *Estaba enfermo.*
 
 *Peter was studying.*
 
 - We can translate it as: *Peter estaba estudiando.*
-- But it is better translated as: Peter estudiaba.
+- But it is better translated as: *Peter estudiaba.*
 
 *I used to go there all the time.*
 
-- We can translate it as: *Yo solía ir allá todo el tiempo.*
-- But it is better translated as: *Yo* *iba* *allá todo el tiempo.*
+- We can translate it as: *Yo solía ir allá todo el rato.*
+- But it is better translated as: *Yo iba allá todo el rato.*
 
 *My mom always used to/would always cook pasta on Fridays.*
 
@@ -172,7 +182,7 @@ En general, usamos más las versiones en imperfecto (*era / estaba*) para *was /
 hacemos un uso descriptivo de estos verbos.
 
 💂 In general, we use more the imperfect versions (*era / estaba*) for *was / were,* 
-because we normally use these verbs descriptively
+because we normally use these verbs descriptively.
 
 *Yo antes era abogado.* (In the past, I was / used to be a lawyer.)
 
@@ -186,11 +196,11 @@ Pero podemos usar las versiones en pretérito perfecto cuando queremos hacer un 
 
 💂 But we can use the preterite versions when we want to make a specific temporal use.
 
-*De 1999 a 2003 yo fui abogado.*
+*De 1999 a 2003 yo fui abogado.* (From 1999 to 2003 I was a lawyer.)
 
-*No fui a trabajar porque estuve enfermo toda la mañana.*
+*No fui a trabajar porque estuve enfermo toda la mañana.* (I didn't go to work because I was sick all morning.)
 
-*Juan estuvo en la oficina de 9 de la mañana a 5 de la tarde.*
+*Juan estuvo en la oficina de 9 de la mañana a 5 de la tarde.* (Juan was in the office from 9 AM to 5 PM.)
 
 # Homework
 
@@ -218,7 +228,7 @@ __________ (ser) Pedro Almodóvar.
 
     hasta - until
 
-    salir - To go out
+    salir - to go out
 
 ## 2. Conjugar, en imperfecto
 
@@ -231,7 +241,7 @@ __________ (ser) Pedro Almodóvar.
 - Bailar
 - Beber
 
-## 3. Traducir (mixed tenses). Puedes usar un diccionario para las palabras que no conoces.
+## 3. Traducir (mixed tenses). Puedes usar un diccionario para buscar las palabras que no conoces.
 
 1. I always used to eat pizza on Fridays.
 2. I always go to the park on Sundays.
@@ -281,7 +291,7 @@ libros, él lee uno cada dos semanas. A Luis le gusta leer, pero no lee tanto.
 Aparte de mirar películas y cenar en restaurantes en nuestro barrio, a mi esposa y a mí
 nos gusta mucho cocinar. Mi especialidad es la cocina tradicional uruguaya, pero también me
 gusta mucho cocinar comida mexicana y cubana. Tengo muchos libros de cocina, y a veces miro
-recetas nuevas en Youtube.
+recetas nuevas en YouTube.
 
 No tengo Facebook o Instagram, no me gustan las redes sociales.[1] Mi esposa sí tiene una
 cuenta[2] en Facebook, y cada día pone fotos de la comida que cocinamos, y normalmente recibe

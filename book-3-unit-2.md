@@ -62,7 +62,7 @@
 
 > 💂 Verbs *-er, -ir* use the same suffixes.
 
-## Expresiones
+## Expresiones de tiempo (time expressions)
 
 En este tiempo verbal usamos las mismas expresiones habituales de tiempo que usamos en el presente, 
 pero refiriéndonos al pasado.
@@ -80,10 +80,10 @@ but referring to the past.
 
     cada jueves - every Thursday
 
-Es también muy común usar el adverbio *antes,* con el significado de “en el pasado”* 
+Es también muy común usar el adverbio *antes* con el significado de “en el pasado”* 
 cuando usamos el pretérito imperfecto.
 
-💂 It is also very common to use the adverb *antes,* with the meaning of "in the past"*
+💂 It is also very common to use the adverb *antes* with the meaning of "in the past"*
 when we use the imperfect.
 
 *Antes yo tenía un perro.* (In the past, I used to have a dog.)
@@ -119,11 +119,11 @@ el imperfecto para descripciones. En inglés significa más o menos *I was* + ve
 
 💂 When we narrate in the past and add descriptions, they must use the imperfect tense. Usually,
 we combine it with the preterite; basically we use the preterite for actions and the imperfect for descriptions.
-the imperfect for descriptions. In English it roughly means *I was* + verb *-ing:*.
+In English it roughly means *I was* + verb *-ing.*
 
 *Llegué a mi casa. Vanessa cantaba una canción y mi perro comía un hueso. Me duché y me acosté.*
 (I arrived home. Vanessa was singing a song and my dog was eating a bone. I took a shower and went
-to bed.)*
+to bed.)
 
 > En estos casos, es equivalente usar una versión progresiva del imperfecto: *Vanessa estaba cantando - Vanessa was
 singing* a usar el imperfecto directamente: *Vanessa cantaba - Vanessa was singing.* Recomendamos usar la segunda opción.
@@ -344,12 +344,12 @@ describing the scene, not narrating actions.
 *In the *pretérito perfecto* tense, *explicar* and *tocar* have a spelling change in the first-person
 singular: *expliqué, toqué.*
 
-**In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change on their first-person
+**In the *pretérito perfecto* tense, *llegar* and *pagar* have a spelling change in the first-person
 singular: *llegué, pagué.*
 
 ****Llegar* always uses the preposition *a.* We arrive "to" places. *Llegué a la oficina* (I arrived at/in the office).
 
-****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change on their third-person
+****In the *pretérito perfecto* tense, *leer* and *creer* have a spelling change in the third-person
 singular (*leyó, creyó*) and third-person plural (*leyeron, creyeron*).
 
 # Nota sobre el verbo soler (note about verb soler)
@@ -429,7 +429,7 @@ me gustaba el barco pirata porque me mareaba y vomitaba.
 
 # Homework
 
-## 1. Traducir. Puedes usar un diccionario para las palabras que no conoces.
+## 1. Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 
 1. I sit on a chair every morning.
 2. They close the store at 10 PM.
@@ -445,7 +445,7 @@ me gustaba el barco pirata porque me mareaba y vomitaba.
 12. He can run a lot.
 13. I fly to Canada with my wife.
 
-## 2. Traducir, usando imperfecto. Puedes usar un diccionario para las palabras que no conoces.
+## 2. Traducir, usando imperfecto. Puedes usar un diccionario para buscar las palabras que no conoces.
 
 1. I always used to eat at Charly's.
 2. When I was in high school, I used to have a car.

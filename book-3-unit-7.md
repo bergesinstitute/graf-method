@@ -83,7 +83,7 @@ C: Al aeropuerto de Madrid. De Madrid voy a ir en tren a Castellón. Las playas 
 
 A: ¿Vas a visitar Barcelona?
 
-C: Sí. Voy a estar en un hotel fenomenal, pero no tiene ascensor (elevator), y es una quinta planta (floor).
+C: Sí. Me voy a quedar en un hotel, pero no tiene ascensor (elevator), y mi cuarto está en la quinta planta (floor).
 
 A: ¿Hablaste con recepción para cambiar (change/switch) tu cuarto y tener uno en la primera planta? 
 
@@ -165,7 +165,7 @@ El verbo *traer* es irregular en el presente y el pretérito perfecto.
     
     trajeron
 
-## Pretérito imperfecto (es regular)
+### Pretérito imperfecto (es regular)
 
     traía 
     
@@ -187,10 +187,10 @@ El verbo *traer* es irregular en el presente y el pretérito perfecto.
 
 ## Usos
 
-*Traer:* Mover un objeto al lugar del hablante. Es común usar este verbo con
+*Traer:* Mover un objeto al lugar donde está el hablante. Es común usar este verbo con
 el adverbio *aquí.* 
 
-💂 *Traer:* To move an object to the speaker's place. It is common to use this verb with
+💂 *Traer:* To move an object to the place where the speaker is. It is common to use this verb with
 the adverb *aquí.*
 
 *Llevar:* Mover un objeto a un lugar diferente de donde está el hablante. Es común
@@ -199,7 +199,7 @@ usar este verbo con el adverbio *allí.*
 💂 *Llevar:* To move an object to a different location from where the speaker is. It is common
 to use this verb with the adverb *allí.*
 
-### Ejemplo
+## Ejemplo
 
 Juan está en su casa (his own house) y llama a Steve que está en la oficina.
 
@@ -217,13 +217,13 @@ Steve: No hay problema.
 
 # Homework
 
-## 1. Traducir. Puedes usar un diccionario para las palabras que no conoces.
+## 1. Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 
 1. I like cheap hostels.
 2. In the past, I used to like expensive and elegant hotels.
 3. My favorite airport is O'Hare. It is in Chicago.
 4. My favorite train station used to be Grand Central, but now it is Penn Station.
-5. I used to love San Francisco. Now I prefer Los Angeles.
+5. I used to like San Francisco. Now I prefer Los Angeles.
 6. Last night, I stayed at a hostel.
 7. Tomorrow, I'm going to get up early in order to go to the bus station.
 8. A plane ticket is usually more expensive than a bus ticket, but you can't go to Europe on the bus.
@@ -246,7 +246,7 @@ Steve: No hay problema.
 11. ¿Cuál fue tu vuelo más largo?
 12. ¿Cuál es tu aeropuerto favorito? ¿Por qué?
 
-## 3. Write a short essay.
+## 3. Write a short essay
 
 Explica qué vas a hacer en tu próximo viaje. Puede ser un viaje real que tienes planeado o un viaje imaginario.
 
@@ -259,8 +259,7 @@ Explica qué vas a hacer en tu próximo viaje. Puede ser un viaje real que tiene
 3. Cuando Juan ganó la lotería, él ______________________.
 4. Eran las 8 de la mañana y yo empezaba a trabajar a las 8.30. El metro no funcionaba, y yo
    ______________________. Yo estaba muy nervioso.
-5. Cuando era pequeño yo siempre ______________________ de los payasos (clowns). Ahora
-   solamente _______________________ de las ratas de la calle. A veces son muy grandes.
+5. Cuando era pequeño yo ______________________ de los payasos (clowns).
 6. Los políticos normalmente piensan que ellos siempre ______________________.
 7. Cuando yo viajo a Alaska, yo siempre ______________________, pero cuando yo viajo a Texas,
    normalmente ______________________.

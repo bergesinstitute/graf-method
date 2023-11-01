@@ -8,7 +8,7 @@ el primero al avión. De esta forma podía poner mi equipaje en los compartiment
 cambiar (to change) de avión en Charlotte cuando viajaba a Europa. Siempre que estaba en el aeropuerto de
 Charlotte me gustaba comer en Steve's, un restaurante de estilo sureño.
 
-Normalmente iba a hoteles caros y bonitos, pero casi nunca podía dormir bien, en parte por el jet lag, en parte
+Normalmente iba a hoteles caros y bonitos, pero casi nunca podía dormir bien, en parte por el *jet lag,* en parte
 porque es complicado dormir bien lejos de casa. Normalmente miraba la televisión por varias (several) horas
 cada noche en el hotel. A veces salía a caminar. A veces tomaba un refresco y respondía los emails de mis clientes.
 

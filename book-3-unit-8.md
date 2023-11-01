@@ -8,7 +8,7 @@ Pero muchos verbos normalmente tienen objeto: *comprar, cocinar, mirar,* etc.
 
 💂 A direct object is a person or thing that receives the action of the verb.
 Many verbs cannot have an object: *swim, work...* (you can't swim or work something or someone).
-But many verbs usually have an object: *buy, cook, watch,* etc.
+But many verbs usually have an object: *to buy, to cook, to watch,* etc.
 
 *Yo compro una casa.*
 
@@ -66,8 +66,6 @@ we have two options.
 
 ## Conversación
 
-### Marta y James
-
 Marta: Entonces quieres comprar este carro.
 
 James: Es correcto. Quiero comprarlo, pero lo quiero pagar por partes.
@@ -82,11 +80,11 @@ J: Vale, voy a pensarlo esta noche y mañana voy a decidir. Pero probablemente v
 
 # Homework
 
-## 1. Traducir. Puedes usar un diccionario para las palabras que no conoces.
+## 1. Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 
 1. Can you bring a flower? Can you bring it?
 2. I have a red car. I have it.
-3. I don't have them (f). Maybe you have them in your jacket.
+3. I don't have the keys. Maybe you have them in your jacket.
 4. I'll call her tomorrow.
 5. I always watch TV. I always watch it.
 6. Can you wash the dishes? Can you wash them?
@@ -139,11 +137,11 @@ Cesar, junto[5] con sus padres y hermanos, se mudó a California después de la 
 a los 13 años, y empezó a trabajar en el campo, y allí trabajó hasta 1952 (excepto por dos años que pasó[7] en la Marina).[8]
 
 En 1952, Cesar Chavez fue uno de los fundadores de la Organización de Servicios Comunitarios (CSO por sus 
-siglas en inglés). Esta organización tenía como objetivo defender los derechos de los trabajadores latinos, 
-así como alentar[9] a estos a votar en las elecciones. Cesar fue nombrado director nacional de esta organización en 1958.
+siglas[9] en inglés). Esta organización tenía como objetivo defender los derechos de los trabajadores latinos, 
+así como alentar[10] a estos a votar en las elecciones. Cesar fue nombrado director nacional de esta organización en 1958.
 
 En 1962 Chavez dejó su puesto en CSO para fundar, junto a Dolores Huerta, la organización conocida como 
-Asociación Nacional de Trabajadores Agrarios (NFWA, por sus siglas[10] en inglés), que más tarde pasaría a
+Asociación Nacional de Trabajadores Agrarios (NFWA, por sus siglas en inglés), que más tarde pasaría a
 llamarse[11] Trabajadores Agrarios Unidos (United Farm Workers). Esta organización apoyó[12] numerosas 
 huelgas[13] y boicots al sector agrario, incluyendo la Huelga de la Uva[14] en Delano, que habían iniciado 
 un grupo de trabajadores[15] filipino-americanos, y que duró[16] cinco años, durante los cuales[17] la organización 
@@ -171,19 +169,19 @@ puede verse[27] en el Museo Nacional de Historia Americana, en Washington DC.
 
 [5] Together
 
-[6] To leave (something)/to abandon (something)
+[6] Dejar (algo) - to leave (something) / to abandon (something)
 
 [7] Pasar tiempo - to spend time
 
 [8] The Navy
 
-[9] Alentar - to encourage
+[9] Acronym (literally “initials”)
 
-[10] Acronym (literally “initials”)
+[10] Alentar - to encourage
 
 [11] Pasaría a llamarse - would be renamed as 
 
-[12] To support/to back
+[12] Apoyar - to support / to back
 
 [13] Strikes
 
@@ -197,7 +195,7 @@ puede verse[27] en el Museo Nacional de Historia Americana, en Washington DC.
 
 [18] Coverage
 
-[19] To get/to obtain
+[19] Conseguir - to get / to obtain
 
 [20] Known as
 
@@ -207,7 +205,7 @@ puede verse[27] en el Museo Nacional de Historia Americana, en Washington DC.
 
 [23] Was buried
 
-[24] To award/to grant 
+[24] Conceder - to award / to grant 
 
 [25] Passing
 

@@ -71,9 +71,9 @@ Here are some common specific time expressions:
 
     el martes - on Tuesday (if we use it with the preterite, it implicitly means last Tuesday)
 
-    el viernes por la noche - On Friday night
+    el viernes por la noche - on Friday night
 
-    El diecisiete de marzo - On March 17th
+    El diecisiete de marzo - on March 17th
 
 ### Conversación
 
@@ -135,7 +135,7 @@ Here is *pensar* (to think), in the present tense:
     ellos / ellas / ustedes piensan
 
 This happens in many verbs; it doesn't matter if they are *-ar, -er* or *-ir.* Note that the E changes to IE in 
-all persons except *nosotros* and *vosotros.*
+every person except *nosotros* and *vosotros.*
 
 Here are some common “E to IE” verbs:
 
@@ -181,7 +181,7 @@ Here is *soñar* (to dream), in the present tense:
 
     ellos / ellas / ustedes sueñan
 
-Again, the O changes to UE in all persons except *nosotros* and *vosotros.*
+Again, the O changes to UE in every person except *nosotros* and *vosotros.*
 
 Here are some common “O to UE” verbs:
 
@@ -217,11 +217,11 @@ Here are some common “O to UE” verbs:
 
     volver - to return
 
-## Verbs with stem change in the preterite (pretérito perfecto)
+## Stem-changing verbs in the preterite (pretérito perfecto)
 
-Stem-changing verbs do not change their stem in the past tense:
+Stem-changing verbs do not change their stem in the *pretérito perfecto*.
 
-Here is *pensar* (to think), in the *pretérito perfecto* tense:
+Here is *pensar* (to think), in the *pretérito perfecto* tense. As you can see, it is 100% regular.
 
     yo pensé
 
@@ -235,7 +235,7 @@ Here is *pensar* (to think), in the *pretérito perfecto* tense:
 
     ellos / ellas / ustedes pensaron
 
-Here is *soñar* (to dream), in the *pretérito perfecto* tense:
+Here is *soñar* (to dream), in the *pretérito perfecto* tense. Again, 100% regular.
 
     yo soñé
 
@@ -254,9 +254,9 @@ Here is *soñar* (to dream), in the *pretérito perfecto* tense:
 
 # Homework
 
-## 1. Traducir. Puedes usar un diccionario para las palabras que no conoces.
+## 1. Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
 
-💂 Translate. You can use a dictionary for words you don't know.
+💂 Translate. You can use a dictionary to look up words you don't know.
 
 1. My mother sings very well, but she does not play an instrument.
 2. Their parents are in NYC for 5 days.

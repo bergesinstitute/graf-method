@@ -14,7 +14,7 @@ Cuando una palabra está después de la conjunción *y* y empieza por la letra I
 conjunción por *e.* 
 
 💂 When a word is after the conjunction *y* and starts with the letter I we need to change 
-the conjunction to *e.*.
+the conjunction to *e.*
 
 *Pedro y Javier están en mi casa.*
 
@@ -26,7 +26,7 @@ Cuando una palabra está después de la conjunción *o* y empieza por la letra O
 conjunción por *u.* 
 
 💂 When a word is after the conjunction *o* and starts with the letter O we need to change
-the conjunction to *u.*.
+the conjunction to *u.*
 
 *¿Quieres queso o cacahuetes?*
 
@@ -140,9 +140,9 @@ A hundred and twenty second - Centésimo/a vigésimo/a segundo/a (122º / 122ª)
 
 💂 Ordinal numbers are adjectives, but they usually go before the noun.
 
-*Mi apartamento está en el sexto piso (floor).*
+*Mi apartamento está en el sexto piso.* (My apartment is on the sixth floor.)
 
-*La primera noche en Jamaica fue fantástica.*
+*Prefiero la primera opción.* (I prefer the first option.)
  
 - Para calles, avenidas, pisos, etc. usamos normalmente números ordinales del 1 al 10, pero después del
   10 usamos números cardinales (que, como sabemos, van después del sustantivo).
@@ -150,25 +150,28 @@ A hundred and twenty second - Centésimo/a vigésimo/a segundo/a (122º / 122ª)
 💂 For streets, avenues, floors, etc. we normally use ordinal numbers from 1 to 10, but after 10 we use 
 cardinal numbers (which, as we know, go after the noun).
 
-*Vivo en el cuarto piso.* 
+*Vivo en el cuarto piso.* (I live on the fourth floor.)
 
-*Vivo en el piso diecisiete.*
+*Vivo en el piso diecisiete.* (Lit. I live on floor seventeen.)
 
-*La pizzería está en la calle cincuenta y ocho con la tercera avenida.*
+*La pizzería está en la calle cincuenta y ocho con la Tercera Avenida.*
+(Lit. The pizzeria is on street fifty eight and Third Avenue.)
+
+> Since we switch to cardinal numbers after 10, there's no point in memorizing ordinal numbers higher than that. 
 
 ## Conversación
 
 Arturo: ¿Dónde trabajas?
 
-Julia: Trabajo en la calle treinta y cuatro con la sexta avenida. ¿Tú dónde trabajas?
+Julia: Trabajo en la calle treinta y cuatro con la Sexta Avenida. ¿Tú dónde trabajas?
 
-A: Trabajo en la calle veintisiete, entre la séptima y la octava.
+A: Trabajo en la calle veintisiete, entre la Séptima y la Octava.
 
 J: ¿Vives cerca de tu trabajo?
 
-A: No, vivo en la ciento catorce con la tercera. ¿Tú dónde vives?
+A: No, vivo en la ciento catorce con la Tercera. ¿Tú dónde vives?
 
-J: En la calle ochenta y ocho con la novena.
+J: En la calle ochenta y ocho con la Novena.
 
 # Homework
 
@@ -185,14 +188,13 @@ J: En la calle ochenta y ocho con la novena.
 9. Do you (form., pl.) prefer tea or coffee?
 10. I do not understand James.
 11. Ana usually leaves her office at 7 PM.
-12. Every day I see that dog in the park.
-13. The students lie to the teacher all the time.
-14. I always find beautiful things in that store.
-15. On Sundays, we always have lunch at the same restaurant.
-16. Our mother preferred to stay (at) home.
-17. You lost your jacket on Sunday.
-18. I think (that) you have to study more.
-19. I always have fun on Saturday nights.
+12. The students lie to the teacher all the time.
+13. I always find beautiful things in that store.
+14. On Sundays, we always have lunch at the same restaurant.
+15. Our mother prefers to stay (at) home.
+16. You lost your jacket on Sunday.
+17. I think (that) you have to study more.
+18. I always have fun on Saturday nights.
 
 ## 2. Write a short essay
 
@@ -209,10 +211,48 @@ Choose a person. Describe this person in a very exaggerated manner, heavily usin
 7. When we were living in Vietnam, we would always eat with our friends in the market.
 8. When Ana was living in the U.S., she used to like to eat hamburgers.
 9. I used to be a doctor, but now I am a lawyer. I used to work at a hospital, but now I work at an office.
-10. Last night I saw Michael, and we had a coffee in the restaurant near my office.
-11. I went to Carla's party last weekend. She was very happy and the food was delicious. We had a lot of fun.
+10. Michael and I had a coffee in the restaurant near my office.
+11. I went to Carla's party last weekend. She was very happy and the food was delicious.
 
-## 4. Comentario de texto
+## 4. Traducir. Puedes usar un diccionario para buscar las palabras que no conoces.
+
+1. On May 22nd, there was a party in my apartment.
+2. I arrived at the house. My mother was watching TV and my father was cooking in the kitchen.
+3. There was an interesting concert last Saturday at Lincoln Center.
+4. At the party, there was a lot of food. Also, there were musicians playing music.
+5. There was a book on the table.
+6. There were two cats at Peter's apartment.
+7. There was music at the restaurant. At 6 PM, there was a magic show (espectáculo de magia).
+8. I dance salsa perfectly.
+9. I run rapidly and Irene runs slowly.
+10. When I was living in Valencia, I used to go to the beach a lot.
+11. While I was writing, my dog was sleeping.
+12. When I was a kid, I used to play the piano every day.
+13. Fortunately, my aunt visited my brother last week. When we were living in Bogotá, she would never visit my brother.
+14. Surprisingly, my friend Peter and his wife were happy.
+15. My cousin James was always sad when he would sing out of tune (desafinado) at the karaoke.
+
+## 5. Números ordinales
+
+5th 
+
+9th
+
+1st
+
+3rd 
+
+10th 
+
+second 
+
+fourth 
+
+7th 
+
+sixth
+
+## 6. Comentario de texto
 
 ### Mis abuelos
 
@@ -260,42 +300,3 @@ trabajaba en un hospital antes de ser cura.
 3. ¿Qué comida preparaba la abuela de la persona del texto los viernes?
 4. ¿Por qué no trabajaba la abuela de la persona del texto?
 5. ¿Qué hacían los abuelos de la persona del texto cada domingo?
-
-## 5. Traducir. Puedes usar un diccionario para las palabras que no conoces.
-
-1. On May 22nd, there was a party in my apartment.
-2. I arrived at the house. My mother was watching TV and my father was cooking in the kitchen.
-3. There was an interesting concert last Saturday at Lincoln Center.
-4. At the party, there was a lot of food. Also, there were musicians playing music.
-5. There was a book on the table.
-6. There were two cats at Peter's apartment.
-7. There was music at the restaurant. At 6 PM, there was a magic show (espectáculo de magia).
-8. I dance salsa perfectly.
-9. I run rapidly and Irene runs slowly.
-10. When I was living in Valencia, I used to go to the beach a lot.
-11. Last night, while I was writing, my dog was sleeping.
-12. When I was a kid, I used to play the piano every day.
-13. Can you kindly go to the supermarket?
-14. Fortunately, my aunt visited my brother last week. When we were living in Bogotá, she would never visit my brother.
-15. Surprisingly, my friend Peter and his wife were happy.
-16. My cousin James was always sad when he would sing out of tune (desafinado) at the karaoke.
-
-## 6. Números ordinales
-
-5th 
-
-9th
-
-1st
-
-3rd 
-
-10th 
-
-second 
-
-fourth 
-
-7th 
-
-sixth
