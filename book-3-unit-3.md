@@ -97,9 +97,9 @@ Los verbos de acción van normalmente en pretérito perfecto.
 
 *Juan llegó a las siete.* (Juan arrived at seven.)
 
-*Miré el programa el jueves pasado.* (I watched the show last Thursday.)
+*Escribí una carta el martes.* (I wrote a letter on Tuesday.)
 
-*Salí de casa.* (I left my house.)
+*Comí una manzana ayer a las cinco.* (I ate an apple yesterday at five.)
 
 Los verbos “descriptivos” van normalmente en imperfecto. 
 
