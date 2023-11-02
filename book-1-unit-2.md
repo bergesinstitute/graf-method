@@ -66,9 +66,9 @@ nosotros estamos cansados.*
 
 Prepositions are words that express relationships between two words (usually spatial or temporal).
 
-    de - from, of
+    de - from / of
 
-    en - in, on, at
+    en - in / on / at
 
 *El abuelo es de España. El abuelo está en Nueva York.* (The grandfather is from Spain. 
 The grandfather is in New York.) Notice the use of *ser* and *estar*. Since *de* implies origin, 
