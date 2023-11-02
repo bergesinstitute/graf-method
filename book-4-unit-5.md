@@ -1,6 +1,6 @@
 # Las preposiciones del español (Spanish prepositions)
 
-    A - to
+    a - to
 
 Se usa con verbos que tienen un lugar como destino: *llegar (a), ir (a), llevar una cosa (a).* También se usa 
 antes de un objeto, cuando éste es una persona (o un animal doméstico): *Llamé a María. Pedro ama a su gato.* 
@@ -12,7 +12,9 @@ It is also used before an object, when the object is a person (or a pet): *Llam�
 When the preposition *a* and the masculine singular definite article *el* go together, we have to combine them
 in the contraction *al: Voy al supermercado.*
 
-    Con/sin - with/without
+    con - with
+    
+    sin - without
 
 *Estoy en casa con mi amigo Juan.*
 (I'm at my friend Juan's house.)
@@ -20,9 +22,9 @@ in the contraction *al: Voy al supermercado.*
 *Me gusta la cerveza sin alcohol.*
 (I like non-alcoholic beer.)
 
-    Conmigo - with me
+    conmigo - with me
 
-    Contigo - with you
+    contigo - with you
 
 Cuando el objeto de la preposición es la primera o la segunda persona del singular, alteramos la preposición 
 *con* de este modo. Con el resto de personas esto no pasa: *con él, con ustedes,* etc.
@@ -30,7 +32,7 @@ Cuando el objeto de la preposición es la primera o la segunda persona del singu
 💂 When the object of the preposition is either the first or the second-person singular, we alter the preposition
 *con* in this way. With the rest of the persons this does not happen: *con él, con ustedes,* etc.
 
-    De - from, of
+    de - from / of
 
 Usamos esta preposición con el verbo *ser* para indicar origen: *Soy de Lima.* También la usamos para indicar posesión: 
 *El perro de Juan es grande.* Cuando la preposición *de* y el artículo determinado masculino singular *el* van juntos, 
@@ -40,7 +42,7 @@ debemos combinarlos en la contracción *del: Ésta es la casa del hermano de Ali
 *El perro de Juan es grande.* When the preposition *de* and the masculine singular definite article *el* go together,
 we must combine them in the contraction *del: Ésta es la casa del hermano de Alicia.*
 
-    Desde - from/since (for space or time)
+    desde - from / since (for space or time)
 
 Se usa en conjunción con *hasta: Estuve allí desde la una hasta las nueve. Fui desde Boston hasta Maine en mi carro.* 
 Podemos expresar esto mismo con *de/a,* pero tiene una connotación diferente: en *de/a,* la preposición *a* 
@@ -56,7 +58,7 @@ No se recomienda usar *de/hasta* o *desde/a,* usaremos *desde* siempre con *hast
 
 💂 It is not recommended to use *de/hasta* or *desde/a*, we'll always use *desde* with *hasta.*
 
-    En - in, on, at
+    en - in / on / at
 
 En español solamente tenemos una preposición de ubicación, que usamos para todos los casos.
 
@@ -65,24 +67,24 @@ En español solamente tenemos una preposición de ubicación, que usamos para to
 *Estoy en Chile. Estoy en Broadway. Estoy en el supermercado.*
 (I'm in Chile. I'm on Broadway. I'm at the supermarket.)
 
-    Entre - Between/among
+    entre - between / among
 
 *La letra B está entre la A y la C.*
 (The letter B is between A and C.)
 
-    Hacia - towards
+    hacia - towards
 
 Usamos *hacia* para expresar dirección: *Voy hacia tu casa* significa lo mismo que *voy en dirección a tu casa.*
 
 💂 We use *hacia* to express direction: *Voy hacia tu casa* means the same as *I'm headed towards your house.*
 
-    Hasta - to/until (for space or time) 
+    hasta - to / until (for space or time) 
 
 Ver *desde.* 
 
 💂 See *desde.*
 
-    Para - for/in order to
+    para - for / in order to
 
 Usamos la preposición *para* para propósito, destino u objetivo.
 
@@ -108,7 +110,7 @@ También la usamos para fechas de entrega.
 
 *La tarea es para mañana.* (The homework is for tomorrow.) (Meaning it has to be submitted by tomorrow.)
 
-    Por - for/because of
+    por - for / because of
 
 Usamos la preposición *por* con períodos de tiempo.
 
@@ -142,7 +144,7 @@ La usamos para expresar ratios (como *per*).
 
 *El treinta por ciento de la clase no pasó el examen.* (Thirty percent of the class didn't pass the exam.)
 
-    Sobre - about/on
+    sobre - about / on
 
 *Juan sólo habla sobre matemáticas.* (Juan only talks about math.)
 
@@ -158,7 +160,7 @@ describes in more detail the physical position of the book.
 
 # Adverbios importantes en español (important adverbs in Spanish)
 
-    Ahora - now
+    ahora - now
 
 Normalmente se usa con el presente progresivo. 
 
@@ -170,19 +172,19 @@ Podemos añadir *mismo* cuando queremos expresar *right now: Ahora mismo estoy c
 
 💂 We can add *mismo* when we want to express *right now: Ahora mismo estoy comiendo.*
 
-    Pronto - soon
+    pronto - soon
 
 *Voy a estar en Virginia muy pronto.* (I'm going to be in Virginia very soon.)
 
-    Temprano - early
+    temprano - early
 
-    Tarde - late
+    tarde - late
 
 *Me levanté muy temprano y me acosté muy tarde.* (I got up very early and went to bed very late.)
 
-    Mucho - a lot
+    mucho - a lot
 
-    Poco - a little
+    poco - a little
 
 *Voy al cine mucho. Cocino poco.* (I go to the cinema a lot. I don't cook much.)
 
@@ -195,9 +197,9 @@ concordar en género y número con el sustantivo: *Miré muchas películas. Coci
 Remember that adjectives must
 agree in gender and number with the noun: *Miré muchas películas. Cociné pocas cosas.*
 
-    Cerca (de) - near/close/nearby
+    cerca (de) - near / close (to) / nearby
 
-    Lejos (de) - far
+    Lejos (de) - far (from)
 
 Cuando se usan con un sustantivo, deben llevar la preposición *de.* Cuando van solos, no la llevan.
 
@@ -206,9 +208,9 @@ Cuando se usan con un sustantivo, deben llevar la preposición *de.* Cuando van 
 *¿Dónde está tu casa? Está muy cerca. La casa de Juan está cerca de mi oficina.*
 (Where is your house? It's nearby. Juan's house is near my office.)
 
-    Antes (de) - before
+    antes (de) - before
 
-    Después (de) - after
+    después (de) - after
 
 Podemos usar *antes* y *después* con sustantivos o con verbos. Cuando los usamos con verbos, utilizamos 
 siempre el infinitivo. 
@@ -222,7 +224,7 @@ Cené. Después de cenar, miré la televisión. Después de mirar la televisión
 (I went to the concert. After the concert, I called Sara. I ate dinner.
 After eating dinner, I watched TV. After watching TV, I went to bed.)
 
-    Durante - during
+    durante - during
 
 No podemos usar *durante* con verbos, sólo con sustantivos. 
 
@@ -232,9 +234,9 @@ No podemos usar *durante* con verbos, sólo con sustantivos.
 
 *Durante la cena Juan explicó su idea.* (Lit. During dinner, Juan explained his idea.) (Meaning while we were having dinner.)
 
-    Delante (de) - In front (of)/right before (spatially)
+    delante (de) - in front (of) / right before (spatially)
 
-    Detrás (de) - Behind
+    detrás (de) - behind
 
 Cuando van con un sustantivo (y casi siempre van con un sustantivo) debemos usar la preposición *de.*
 
@@ -244,11 +246,11 @@ Cuando van con un sustantivo (y casi siempre van con un sustantivo) debemos usar
 
 *La silla está delante de la mesa.* (The chair is in front of the table.)
 
-    Todavía - still/yet
+    todavía - still / yet
 
 *Todavía no sé dónde será el evento.* (I still don't know where the event will be/take place.)
 
-    Sólo/solamente - only
+    sólo / solamente - only
 
 Son sinónimos. Tradicionalmente se pone acento en *sólo* cuando es adverbio, y no se pone cuando es 
 adjetivo (*solo = alone*). Desde hace unos años, el acento no es oficialmente necesario, pero a mucha gente 
@@ -261,7 +263,7 @@ Since a few years ago, the accent is not officially necessary, but many people l
 *Sólo compré verduras en el supermercado. Solamente compré verduras en el supermercado.*
 (I only bought vegetables at the supermarket.)
 
-    Ya - already
+    ya - already
 
 *Ya estoy en la estación.* (I'm already at the station.)
 
@@ -280,17 +282,50 @@ Since a few years ago, the accent is not officially necessary, but many people l
 9. ¿Qué haces cada día antes de desayunar? ¿Qué haces después?
 10. ¿Qué estás haciendo ahora mismo?
 
-## 2. Comentario de texto
+## 2. Repaso de pronombres de OD 
+
+A. Con cosas. Completar.
+
+1. Compraré un libro. ____ compraré.
+2. Estudiarás los verbos regulares. ____ estudiarás.
+3. Leeré el periódico el domingo por la mañana. ____ leeré.
+4. Cantaremos una canción. ____ cantaremos.
+5. Juan abrirá la puerta. Juan ____ abrirá.
+
+B. Con personas. Completar.
+
+1. Llamaré a Jane. ____ llamaré.
+2. Ustedes visitarán a Martín y a Damián. Ustedes ____ visitarán.
+3. ¿Amarás a Silvia siempre? ¿____ amarás siempre?
+4. Esta noche (tonight) pasearé a mi perro Paco. Esta noche ____ pasearé.
+5. Mañana ayudaré a Javier con su mudanza (move). Mañana ____ ayudaré.
+6. ¿Dónde conociste a tu novia? ¿Dónde ____ conociste?
+
+## 3. Repaso de pronombres de OI y pronombres dobles. Completar.
+
+1. Daré un libro a Juan. ____ daré un libro. ____ ____ daré.
+2. Enviaremos una carta a Elena. ____ enviaremos una carta. ____ ____ enviaremos.
+3. Ellos me contarán una historia. Ellos ____ ____ contarán.
+4. Te mostraré las fotos mañana. ____ ____ mostraré.
+5. Laura nos enviará un mensaje de texto. Laura ____ ____ enviará.
+6. Esta noche, el presidente explicará sus razones a los congresistas. El presidente ____ explicará sus razones. El presidente ____ ____ explicará.
+7. Sara le dará las llaves a María. Sara ____ ____ dará.
+8. ¿Cuándo me dirás esto? ¿Cuándo ____ ____ dirás?
+9. Nos dará el cheque hoy. ____ ____ dará.
+10. Le enviarán a usted la carta mañana por la mañana. ____ ____ enviarán mañana por la mañana.
+11. Te explicaré todo. ____ ____ explicaré.
+
+## 4. Comentario de texto
 
 ### El flautista de Hamelin
 
-En la ciudad de Hamelin, en Alemania,[1] las casas eran grises y los habitantes eran honestos. Era una ciudad 
+En la ciudad de Hamelin, en Alemania,[1] las casas eran grises y los habitantes eran honestos. Era una ciudad
 muy rica, pero tenían un problema muy grande: en Hamelin[2]
 había muchísimas ratas. Los gatos no podían enfrentarse a tantas. Las ratas se
-multiplicaban constantemente. Los ciudadanos estaban aterrorizados, y el alcalde[3] decidió que 
+multiplicaban constantemente. Los ciudadanos estaban aterrorizados, y el alcalde[3] decidió que
 necesitaban un plan para enfrentarse al problema.
 
-Un día, un hombre muy alto y muy delgado llegó a la ciudad. Llevaba ropa de muchos colores, 
+Un día, un hombre muy alto y muy delgado llegó a la ciudad. Llevaba ropa de muchos colores,
 una pluma[4] marrón en su sombrero, y una flauta.[5]
 
 —Por mil florines, yo puedo llevarme a las ratas de Hamelin —dijo el hombre.
@@ -299,25 +334,25 @@ una pluma[4] marrón en su sombrero, y una flauta.[5]
 
 —Hecho.[7] Mañana por la noche no van a tener más ratas en Hamelin.
 
-Al día siguiente la flauta del forastero[8] sonó en toda la ciudad. Cuando oían la música, 
-las ratas misteriosamente salían de las casas y de las alcantarillas.[9] El flautista caminó hacia[10] el río, 
+Al día siguiente la flauta del forastero[8] sonó en toda la ciudad. Cuando oían la música,
+las ratas misteriosamente salían de las casas y de las alcantarillas.[9] El flautista caminó hacia[10] el río,
 y las ratas lo siguieron.[11] Cuando éstas llegaban al río, la corriente[12] se las llevaba y morían.
 
-Por la noche no había más ratas en Hamelin. El flautista fue al ayuntamiento[13] a pedir su dinero. 
+Por la noche no había más ratas en Hamelin. El flautista fue al ayuntamiento[13] a pedir su dinero.
 Pidió los diez mil florines que el alcalde prometió.
 
-—¿Diez mil florines? —dijeron el alcalde y sus consejeros—. ¡Nunca! 
+—¿Diez mil florines? —dijeron el alcalde y sus consejeros—. ¡Nunca!
 
 —¡Mil florines, como mínimo! —dijo el flautista, muy enojado.
 
-—Las ratas están muertas y no van a volver. Te vamos a dar veinte florines, como máximo, 
+—Las ratas están muertas y no van a volver. Te vamos a dar veinte florines, como máximo,
 y puedes estar feliz. Solamente eres un simple flautista.
 
-Los ojos del hombre estaban rojos. No dijo nada más, y se fue del ayuntamiento. El alcalde y sus 
+Los ojos del hombre estaban rojos. No dijo nada más, y se fue del ayuntamiento. El alcalde y sus
 consejeros reían[14] con arrogancia.
 
-Por la noche la flauta del forastero sonó otra vez, pero ahora solamente los niños podían oírla. 
-Todos los niños de Hamelin salieron de sus casas y siguieron al flautista. Salieron de la ciudad, 
+Por la noche la flauta del forastero sonó otra vez, pero ahora solamente los niños podían oírla.
+Todos los niños de Hamelin salieron de sus casas y siguieron al flautista. Salieron de la ciudad,
 y fueron hacia las montañas. Los niños nunca regresaron[15] a Hamelin, y nunca nadie supo dónde fueron.
 
 *Tradicional*
@@ -342,13 +377,13 @@ y fueron hacia las montañas. Los niños nunca regresaron[15] a Hamelin, y nunca
 
 [10] Towards
 
-[11] Followed him 
+[11] Followed him
 
 [12] Current
 
 [13] Town hall
 
-[14] Laughed (en imperfecto) 
+[14] Laughed (en imperfecto)
 
 [15] Came back
 
@@ -361,36 +396,3 @@ y fueron hacia las montañas. Los niños nunca regresaron[15] a Hamelin, y nunca
 5. ¿Cómo era físicamente el flautista?
 6. ¿La historia termina bien o mal?
 7. ¿Qué piensas de la moraleja de la historia?
-
-## 3. Repaso de pronombres de OD 
-
-A. Con cosas. Completar.
-
-1. Compraré un libro. ____ compraré.
-2. Estudiarás los verbos regulares. ____ estudiarás.
-3. Leeré el periódico el domingo por la mañana. ____ leeré.
-4. Cantaremos una canción. ____ cantaremos.
-5. Juan abrirá la puerta. Juan ____ abrirá.
-
-B. Con personas. Completar.
-
-1. Llamaré a Jane. ____ llamaré.
-2. Ustedes visitarán a Martín y a Damián. Ustedes ____ visitarán.
-3. ¿Amarás a Silvia siempre? ¿____ amarás siempre?
-4. Esta noche (tonight) pasearé a mi perro Paco. Esta noche ____ pasearé.
-5. Mañana ayudaré a Javier con su mudanza (move). Mañana ____ ayudaré.
-6. ¿Dónde conociste a tu novia? ¿Dónde ____ conociste?
-
-## 4. Repaso de pronombres de OI y pronombres dobles. Completar.
-
-1. Daré un libro a Juan. ____ daré un libro. ____ ____ daré.
-2. Enviaremos una carta a Elena. ____ enviaremos una carta. ____ ____ enviaremos.
-3. Ellos me contarán una historia. Ellos ____ ____ contarán.
-4. Te mostraré las fotos mañana. ____ ____ mostraré.
-5. Laura nos enviará un mensaje de texto. Laura ____ ____ enviará.
-6. Esta noche, el presidente explicará sus razones a los congresistas. El presidente ____ explicará sus razones. El presidente ____ ____ explicará.
-7. Sara le dará las llaves a María. Sara ____ ____ dará.
-8. ¿Cuándo me dirás esto? ¿Cuándo ____ ____ dirás?
-9. Nos dará el cheque hoy. ____ ____ dará.
-10. Le enviarán a usted la carta mañana por la mañana. ____ ____ enviarán mañana por la mañana.
-11. Te explicaré todo. ____ ____ explicaré.

@@ -41,31 +41,31 @@ Aquí tenemos una pequeña lista de verbos intransitivos.
 
 💂 Here is a short list of intransitive verbs.
 
-    Caminar - to walk
+    caminar - to walk
 
-    Correr* - to run
+    correr* - to run
 
-    Dormir - to sleep
+    dormir - to sleep
 
-    Escapar - to escape
+    escapar - to escape
 
-    Ir - to go
+    ir - to go
 
-    Ladrar - to bark
+    ladrar - to bark
 
-    Llegar - to arrive
+    llegar - to arrive
 
-    Nacer - to be born
+    nacer - to be born
 
-    Nadar - to swim
+    nadar - to swim
 
-    Respirar** - to breathe
+    respirar** - to breathe
 
-    Sonar - to sound
+    sonar - to sound
 
-    Trabajar - to work
+    trabajar - to work
 
-    Viajar - to travel
+    viajar - to travel
 
 > *Can be used as a transitive verbs in some cases: *Juan corrió el Maratón de Boston.*
 
@@ -115,17 +115,17 @@ funcionar bien sin objeto o tener, además, objeto indirecto (ver siguiente pág
 💂 Here we have some verbs that usually go with a direct object of "thing" type - although some can work well without an object or have,
 in addition, an indirect object (see next page).
 
-    Beber - to drink
+    beber - to drink
 
-    Comer - to eat
+    comer - to eat
 
-    Comprar - to buy
+    comprar - to buy
 
-    Lavar - to wash
+    lavar - to wash
 
-    Limpiar - to clean
+    limpiar - to clean
 
-    Llevar - to wear/to carry/to take
+    llevar - to wear / to carry / to take
 
 #### Ejemplos
 
@@ -192,21 +192,21 @@ pueden funcionar bien sin objeto o tener objeto directo de cosa—.
 💂 And here we have some verbs that usually go with a direct object of person - although some can work well 
 without an object or have a direct object of "thing" type.
 
-    Amar - to love
+    amar - to love
 
-    Ayudar - to help
+    ayudar - to help
 
-    Conocer - to know
+    conocer - to know
 
-    Llamar - to call
+    llamar - to call
 
-    Mirar - to watch/ to look at
+    mirar - to watch/ to look at
 
-    Odiar - to hate
+    odiar - to hate
 
-    Pasear - to walk (transitive)
+    pasear - to walk (transitive)
 
-    Visitar - to visit
+    visitar - to visit
 
 #### Ejemplos
 
@@ -292,25 +292,25 @@ Algunos de ellos pueden actuar como verbos con objeto directo solamente, o como 
 💂 Here are some verbs that usually have both direct object and indirect object (a thing to a person).
 Some of them can act as verbs that only take a direct object, or as intransitive verbs.
 
-    Contar - to tell
+    contar - to tell
 
-    Enseñar - to teach
+    enseñar - to teach
 
-    Enviar - to send
+    enviar - to send
 
-    Explicar - to explain
+    explicar - to explain
 
-    Mostrar - to show
+    mostrar - to show
 
-    Regalar - to give (as a present)
+    regalar - to give (something as a present)
 
-    Dar - to give
+    dar - to give
 
-    Decir - to say
+    decir - to say
 
-    Preguntar - to ask
+    preguntar - to ask
 
-    Pedir - to ask for/to request
+    pedir - to ask for / to request
 
 #### Ejemplos
 
@@ -424,17 +424,17 @@ Los objetos directos pueden ser cosas o personas. Estos son los pronombres.
 
 💂 Direct objects can be things or people. These are the pronouns.
 
-    Me
+    me
 
-    Te
+    te
 
-    Lo/la
+    lo / la
 
-    Nos
+    nos
 
-    (Os)
+    (os)
 
-    Los/las
+    los / las
 
 ## Ejemplos 
 
@@ -494,17 +494,17 @@ Los objetos indirectos normalmente son personas. Estos son los pronombres.
 
 💂 Indirect objects are usually people. These are the pronouns.
 
-    Me
+    me
 
-    Te
+    te
 
-    Le
+    le
 
-    Nos
+    nos
 
-    (Os)
+    (os)
 
-    Les
+    les
 
 ## Ejemplos
 
@@ -604,15 +604,15 @@ It is correct, and it is very common: *Le regalé una rosa a María.* (*Le* and 
 ## 4. Traducir. Puedes usar un diccionario.
 
 1. I taught him a lesson.
-2. I gave (use regalar) her a book.
+2. I gave her a book. (Use *regalar*).
 3. They asked me a question.
 4. I showed them the apartment.
-5. She told (use contar) me that.
+5. She told me that. (Use *contar*).
 6. Did we teach them the new concepts?
 7. They explained the plan to me.
 8. Sarah sold them a car.
-9. Mary told (use contar) them everything.
-10. I gave (regalar) her a ring for her birthday.
+9. Mary told them everything. (Use *contar*).
+10. I gave her a ring for her birthday. (Use *regalar*).
 11. We explained the idea to them.
 
 ## 5. Explicar en español qué es un objeto directo y qué es un objeto indirecto

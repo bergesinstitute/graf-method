@@ -4,31 +4,31 @@
 
 ### Preguntar (to ask)
 
-    Pregunto
+    pregunto
     
-    Preguntas
+    preguntas
     
-    Pregunta
+    pregunta
     
-    Preguntamos 
+    preguntamos 
     
-    (Preguntáis)
+    (preguntáis)
     
-    Preguntan
+    preguntan
 
 ### Pedir (to ask for)
 
-    Pido
+    pido
     
-    Pides
+    pides
     
-    Pide
+    pide
     
-    Pedimos 
+    pedimos 
     
-    (Pedís) 
+    (pedís) 
     
-    Piden
+    piden
 
 Usamos *preguntar* para preguntas, o para inquirir sobre algo o alguien.
 
@@ -70,31 +70,31 @@ it is very common to substitute the verb *preguntar* for the verb *hacer,* to av
 
 ### Preguntar
 
-    Pregunté 
+    pregunté 
     
-    Preguntaste 
+    preguntaste 
     
-    Preguntó 
+    preguntó 
     
-    Preguntamos 
+    preguntamos 
     
-    (Preguntasteis) 
+    (preguntasteis) 
     
-    Preguntaron
+    preguntaron
 
 ### Pedir
 
-    Pedí 
+    pedí 
     
-    Pediste 
+    pediste 
     
-    Pidió 
+    pidió 
     
-    Pedimos 
+    pedimos 
     
-    (Pedisteis) 
+    (pedisteis) 
     
-    Pidieron
+    pidieron
 
 *Preguntar* y *pedir* son regulares en pretérito imperfecto y futuro.
 

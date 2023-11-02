@@ -2,6 +2,8 @@
 
 ## Presente (present)
 
+### Uso
+
 Usamos el presente para hábitos o hechos. 
 
 💂 We use the present tense for habits or facts.
@@ -18,23 +20,21 @@ Aquí tenemos algunas expresiones temporales que típicamente usamos con el pres
 
 💂 Here are some time expressions that we typically use with the present tense.
 
-    Normalmente 
+    normalmente 
     
-    Siempre
+    siempre
     
-    A veces 
+    a veces 
     
-    Nunca
+    nunca
     
-    Cada día 
+    cada día 
     
-    Casi cada día 
+    casi cada día 
     
-    Cada martes
+    cada martes
 
 ### Conversación
-
-#### Paloma y Alfonso
 
 Paloma: Hola Alfonso. Tú tienes dos hermanos, ¿correcto?
 
@@ -57,6 +57,8 @@ A: Muy interesante.
 
 ## Pretérito perfecto (preterite)
 
+### Uso
+
 Usamos el pretérito perfecto para narrar acciones específicas en el pasado.
 
 💂 We use the preterite to narrate specific actions in the past.
@@ -71,19 +73,17 @@ Aquí tenemos algunas expresiones temporales que típicamente usamos con el pret
 
 💂 Here are some time expressions that we typically use with the preterite.
 
-    Ayer
+    ayer
     
-    El martes pasado
+    el martes pasado
     
-    El martes (omitiendo pasado) 
+    el martes
     
-    El viernes por la noche
+    el viernes por la noche
     
-    El diecisiete de marzo
+    el diecisiete de marzo
 
 ### Conversación
-
-#### Alfredo y Verónica
 
 Alfredo: Hola Verónica. ¿Cómo fue tu semana? 
 
@@ -104,6 +104,8 @@ y estuve allí hasta muy tarde. El viernes fui a un concierto de Norah Jones en 
 nada, pero esta mañana desayuné en un restaurante con mi amiga Ann.
 
 ## Presente progresivo (present progressive)
+
+### Uso
 
 Para las acciones que están sucediendo en este momento, usamos los verbos en gerundio precedidos
 por el verbo *estar,* conjugado.
@@ -127,13 +129,11 @@ Expresiones temporales típicas
 
 💂 Typical time expressions:
 
-    Ahora 
+    ahora 
     
-    Hoy
+    hoy
 
 ### Conversación
-
-#### James y Lee
 
 James: Lee, ¿qué está haciendo ahora tu hermano Antonio?
 
@@ -144,6 +144,8 @@ J: Eliza está viviendo en Vermont, con su esposo. Está trabajando en una ofici
 bastante (quite) bien, en general.
 
 ## Pretérito imperfecto (imperfect)
+
+### Uso
 
 Usamos el pretérito imperfecto para expresar un pasado habitual o descriptivo. Estos son los usos
 más típicos.
@@ -169,8 +171,6 @@ más típicos.
 *Vi a Sara el otro día. Estaba un poco triste.*
 
 ### Conversación
-
-#### Eduardo y Nuria
 
 Eduardo: Nuria, ¿dónde vivías antes de vivir en Seattle? 
 
@@ -201,9 +201,11 @@ E: No sé, supongo que quería un cambio.
 
 N: Ya veo.
 
-    Ya veo - I see
+    ya veo - I see
 
 ## Futuro, con el verbo ir (future, with the verb ir)
+
+### Uso
 
 Usamos el futuro para expresar acciones futuras. Como sabemos, podemos construir el futuro usando
 la siguiente fórmula:
@@ -223,19 +225,17 @@ Aquí tenemos algunas expresiones temporales que típicamente usamos con el futu
 
 💂 Here are some temporal expressions that we typically use with the future tense.
 
-    Mañana
+    mañana
     
-    Esta noche
+    esta noche
     
-    Hoy (más tarde)
+    hoy (más tarde)
     
-    El martes próximo 
+    el martes próximo 
     
-    El martes que viene
+    el martes que viene
 
 ### Conversación
-
-#### John y Angie
 
 John: Hola Angie. ¿Qué vas a hacer el fin de semana que viene?
 
@@ -379,5 +379,5 @@ when we want to emphasize the information rather than the action. *The restauran
 12. Mary and I went to the supermarket on Tuesday.
 13. She feels tired.
 14. They lost a lot of money in Vegas.
-15. You (formal, plural) used to go there all the time.
+15. You (form., plural) used to go there all the time.
 16. When did you call Harry?

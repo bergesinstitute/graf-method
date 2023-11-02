@@ -8,31 +8,31 @@ Si buscas la conjugación del verbo *haber* verás que es la siguiente:
 
 ### Presente (present)
 
-    He
+    he
     
-    Has
+    has
     
-    Ha
+    ha
     
-    Hemos
+    hemos
     
-    (Habéis)
+    (habéis)
     
-    Han
+    han
 
 ### Pretérito imperfecto (imperfect)
 
-    Había
+    había
     
-    Habías
+    habías
     
-    Había
+    había
     
-    Habíamos
+    habíamos
     
-    (Habíais)
+    (habíais)
     
-    Habían
+    habían
 
 ## El nombre de los tiempos (the names of the tenses)
 

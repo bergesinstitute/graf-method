@@ -29,17 +29,17 @@ Aquí está la conjugación del futuro compuesto, para el verbo *manejar:*
 
 💂 Here is the conjugation of the future perfect tense, for the verb *manejar:*.
 
-    Habré manejado 
+    habré manejado 
     
-    Habrás manejado 
+    habrás manejado 
     
-    Habrá manejado 
+    habrá manejado 
     
-    Habremos manejado 
+    habremos manejado 
     
-    (Habréis manejado)
+    (habréis manejado)
     
-    Habrán manejado
+    habrán manejado
 
 Se traduce como *I will have driven, you will have driven,* etc.
 

@@ -15,17 +15,17 @@ Los pronombres de OI, cuando usamos pronombre doble, son:
 
 💂 The IO pronouns, when using double pronoun, are:
 
-    Me
+    me
     
-    Te
+    te
     
-    Se
+    se
 
-    Nos
+    nos
 
-    (Os)
+    (os)
 
-    Se
+    se
 
 ## Ejemplos
 
@@ -60,17 +60,17 @@ Los pronombres reflexivos son:
 
 💂 Reflexive pronouns are:
 
-    Me
+    me
 
-    Te
+    te
 
-    Se
+    se
 
-    Nos
+    nos
 
-    (Os)
+    (os)
 
-    Se
+    se
 
 En los pronombres reflexivos, el sujeto y el objeto siempre son la misma persona. Pueden ser objeto directo (OD) u
 objeto indirecto (OI), pero no nos importa. El pronombre nunca cambia.
@@ -118,45 +118,45 @@ Tenemos dos opciones, con todos los pronombres: objeto directo (OD), objeto indi
 
 ### Presente
 
-    Digo 
+    digo 
     
-    Dices 
+    dices 
     
-    Dice 
+    dice 
     
-    Decimos 
+    decimos 
     
-    (Decís) 
+    (decís) 
     
-    Dicen
+    dicen
 
 ### Pretérito perfecto
 
-    Dije 
+    dije 
     
-    Dijiste 
+    dijiste 
     
-    Dijo 
+    dijo 
     
-    Dijimos 
+    dijimos 
     
-    (Dijisteis) 
+    (dijisteis) 
     
-    Dijeron
+    dijeron
 
 ### Pretérito imperfecto (es regular)
 
-    Decía
+    decía
     
-    Decías 
+    decías 
     
-    Decía 
+    decía 
     
-    Decíamos 
+    decíamos 
     
-    (Decíais) 
+    (decíais) 
     
-    Decían
+    decían
 
 Admite objeto directo e indirecto. 
 
@@ -172,45 +172,45 @@ Admite objeto directo e indirecto.
 
 ### Presente
 
-    Doy
+    doy
 
-    Das
+    das
 
-    Da
+    da
 
-    Damos
+    damos
 
-    (Dais)
+    (dais)
 
-    Dan
+    dan
 
 ### Pretérito perfecto
 
-    Di
+    di
 
-    Diste
+    diste
 
-    Dio
+    dio
 
-    Dimos
+    dimos
 
-    (Disteis)
+    (disteis)
 
-    Dieron
+    dieron
 
 ### Pretérito imperfecto (es regular)
 
-    Daba 
+    daba 
     
-    Dabas 
+    dabas 
     
-    Daba 
+    daba 
     
-    Dábamos 
+    dábamos 
     
-    (Dabais) 
+    (dabais) 
     
-    Daban
+    daban
 
 Casi siempre tiene objeto directo y objeto indirecto (damos cosas, OD, a personas, OI).
 

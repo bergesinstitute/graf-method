@@ -30,31 +30,31 @@ auxiliary verb *haber,* and place the participle of the verb we want to use righ
 
 ## Pretérito perfecto compuesto / present perfect
 
-    He manejado
+    he manejado
     
-    Has manejado
+    has manejado
     
-    Ha manejado 
+    ha manejado 
     
-    Hemos manejado 
+    hemos manejado 
     
-    (Habéis manejado)
+    (habéis manejado)
     
-    Han manejado
+    han manejado
 
 ## Pretérito pluscuamperfecto / past perfect
 
-    Había manejado 
+    había manejado 
     
-    Habías manejado 
+    habías manejado 
     
-    Había manejado 
+    había manejado 
     
-    Habíamos manejado 
+    habíamos manejado 
     
-    (Habíais manejado)
+    (habíais manejado)
     
-    Habían manejado
+    habían manejado
 
 ## Traducción
 
@@ -160,23 +160,23 @@ for recent past, reserving the compound tenses for the specific uses described o
 
 ## Participios irregulares en español (irregular participles in Spanish)
 
-    Abrir => abierto (opened/open)
+    abrir => abierto (opened / open)
     
-    Decir => dicho (said/told)
+    decir => dicho (said / told)
     
-    Escribir => escrito (written)
+    escribir => escrito (written)
     
-    Hacer => hecho (done/made)
+    hacer => hecho (done / made)
     
-    Morir => muerto (died/dead)
+    morir => muerto (died / dead)
     
-    Poner => puesto (put)
+    poner => puesto (put)
     
-    Romper => roto (broken)
+    romper => roto (broken)
     
-    Ver => visto (seen)
+    ver => visto (seen)
     
-    Volver => vuelto (returned/gone back)
+    volver => vuelto (returned / gone back)
 
 ## Combinando tiempos compuestos con tiempos progresivos (combining compound tenses with progressive tenses)
 
