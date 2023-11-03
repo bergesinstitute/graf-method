@@ -110,10 +110,10 @@ recibe la acción del verbo. Los objetos directos pueden ser cosas o personas.
 receives the action of the verb. Direct objects can be things or people.
 
 Aquí tenemos algunos verbos que normalmente van con un objeto directo de cosa —aunque algunos pueden 
-funcionar bien sin objeto o tener, además, objeto indirecto (ver siguiente página)—.
+funcionar bien sin objeto o tener, además, objeto indirecto (ver siguiente sección)—.
 
-💂 Here we have some verbs that usually go with a direct object of "thing" type - although some can work well without an object or have,
-in addition, an indirect object (see next page).
+💂 Here we have some verbs that usually go with a direct object of "thing" type — although some can work well without an object or have,
+in addition, an indirect object (see next section).
 
     beber - to drink
 
@@ -141,7 +141,7 @@ in addition, an indirect object (see next page).
 
 *Llevaba una camisa blanca.*
 
-#### Comentarios (comments)
+#### Comentarios
 
 Podemos usar *beber* de manera intransitiva, y tiene un sentido completo: *Bebió mucho.*
 
@@ -164,6 +164,7 @@ El verbo *lavar* necesita un objeto. No podemos decir *yo lavo mucho.*
 El verbo *limpiar* puede actuar como un verbo intransitivo: *Este fin de semana voy a limpiar mucho.*
 
 💂 The verb *limpiar* can act as an intransitive verb: *This weekend I am going to clean a lot.*
+(Meaning I'm going to do a lot of cleaning.)
 
 El verbo *llevar* siempre necesita un objeto.
 
@@ -186,10 +187,10 @@ reservando el término *objeto* para objetos gramaticales (directos o indirectos
 to an inanimate object, it is common to use the term *thing* instead,
 reserving the term *object* for grammatical objects (direct or indirect).
 
-Y aquí tenemos algunos verbos que normalmente van con un objeto directo de persona — aunque algunos 
+Y aquí tenemos algunos verbos que normalmente van con un objeto directo de persona —aunque algunos 
 pueden funcionar bien sin objeto o tener objeto directo de cosa—.
 
-💂 And here we have some verbs that usually go with a direct object of person - although some can work well 
+💂 And here we have some verbs that usually go with a direct object of "person" type — although some can work well 
 without an object or have a direct object of "thing" type.
 
     amar - to love
@@ -200,7 +201,7 @@ without an object or have a direct object of "thing" type.
 
     llamar - to call
 
-    mirar - to watch/ to look at
+    mirar - to watch / to look at
 
     odiar - to hate
 
@@ -375,7 +376,7 @@ con el objeto directo o indirecto. Estos son los más típicos.
 
 💂 In a sentence we can have "extras", sections that are not part of the main sentence,
 but give us additional information about the circumstances. In Spanish, these "extras" are called *complementos circunstanciales.*
-In English, they are called *adjuncts.* It is important not to confuse these "extras" with the direct or indirect object.
+In English, they are called *adjuncts.* It is important not to confuse these "extras"
 with the direct or indirect object. These are the most typical ones.
 
 ### 1. De lugar (place)
@@ -394,7 +395,7 @@ Responde a *cuándo:* / 💂 Answers to *when:*
 
 *Visité a María el sábado pasado.* 
 
-### 3. De modo (mode/manner)
+### 3. De modo (mode / manner)
 
 Responde a *cómo:* / 💂 Answers to *how:*
 
@@ -404,7 +405,7 @@ Responde a *cómo:* / 💂 Answers to *how:*
 
 ### 4. De cantidad (quantity)
 
-Responde a *cuánto:* / 💂 Answers to *how much/how many:*
+Responde a *cuánto:* / 💂 Answers to *how much / how many:*
 
 *Cociné mucho.*
 
@@ -458,7 +459,7 @@ Formato: Sin pronombre de OD. Con pronombre de OD.
 
 *Juan visita a ellas. Juan las visita.*
 
-### Otros ejemplos
+## Más ejemplos
 
 *Yo tengo un libro. Yo lo tengo.* (I have a book. I have it.)
 
@@ -468,7 +469,7 @@ Formato: Sin pronombre de OD. Con pronombre de OD.
 
 *Yo llamo a ti. Yo te llamo.** (I call you.)
 
-*Tú llamas a nosotros. Tú nos llamas.* (You call us.)
+*Tú llamas a nosotros. Tú nos llamas.** (You call us.)
 
 > *Cuando no mencionamos a la persona (*a Juan, a mi primo,* etc.) siempre preferimos usar 
 el pronombre de OD, y no el pronombre de objeto de preposición (*a mí, a ti, a él,* etc.). 
@@ -480,11 +481,11 @@ We say: *Yo te llamo.* We do not say: *Yo llamo a ti.*
 
 > La Real Academia Española acepta el uso de *le* como pronombre de objeto directo para persona 
 de sexo masculino: *Juan le llama.* No recomendamos usar esta forma. Es más fácil usar *lo/la* para OD 
-y reservar *le* para OI (ver página siguiente).
+y reservar *le* para OI (ver siguiente sección).
 
 > 💂 The Real Academia Española accepts the use of *le* as a direct object pronoun for a masculine person: *Juan le llama.*
 We do not recommend using this form. It is easier to use *lo/la* for DO
-and reserve *le* for IO (see next page).
+and reserve *le* for IO (see next section).
 
 # Pronombres de objeto indirecto (OI) en español. Indirect object (IO) pronouns in Spanish.
 
@@ -509,7 +510,7 @@ Los objetos indirectos normalmente son personas. Estos son los pronombres.
 ## Ejemplos
 
 Juan is the one performing the action in all examples; *un libro* es el objeto directo. 
-Verbo: *regalar* (to give something as a present):
+Verbo: *regalar* (to give something as a present).
 
 Formato: Sin pronombre de OI. Con pronombre de OI.
 
@@ -525,7 +526,7 @@ Formato: Sin pronombre de OI. Con pronombre de OI.
 
 *Juan regala un libro a ellos/ellas. Juan les regala un libro.*
 
-### Otros ejemplos
+## Más ejemplos
 
 *Juan compra un carro rojo a Laura. Juan le compra un carro rojo.*
 (Juan buys Laura a red car. Juan buys her a red car.) OD: un carro rojo. OI: Laura.
@@ -559,12 +560,12 @@ It is correct, and it is very common: *Le regalé una rosa a María.* (*Le* and 
 3. Limpié mi apartamento. ____ limpié.
 4. Lavo mi ropa. ____ lavo.
 5. Leo un libro. ____ leo.
-6. Voy a enviar una carta mañana. ____ voy a enviar. Voy a enviar____.
+6. Voy a enviar una carta mañana. ____ voy a enviar.
 7. No tengo las manzanas. No ____ tengo.
 8. Siempre llevaba los zapatos rojos. Siempre ____ llevaba.
 9. Javier cantó una canción. Javier ____ cantó.
 10. Mario escribió y publicó un artículo. Mario ____ escribió y ____ publicó.
-11. ¿Quieres comprar este vestido? ¿____ quieres comprar? ¿Quieres comprar____?
+11. ¿Quieres comprar este vestido? ¿____ quieres comprar?
 12. Nosotros tenemos unas plantas. Nosotros ____ tenemos.
 
 ## 2. Objeto directo (de persona). Completar.
@@ -581,9 +582,9 @@ It is correct, and it is very common: *Le regalé una rosa a María.* (*Le* and 
 10. Miré a mi hermano. ____ miré.
 11. Ella llamó a mis tías. ____ llamó.
 12. Siempre ayudaban a Julia. Siempre ____ ayudaban.
-13. ¿Quieres llamar a Peter? ¿____ quieres llamar? ¿Quieres llamar____?
-14. ¿Puedes ayudar a Elizabeth y a Sandra? ¿____ puedes ayudar? ¿Puedes ayudar____?
-15. Ustedes pueden visitar a Jorge. Ustedes ____ pueden visitar. Ustedes pueden visitar____.
+13. ¿Quieres llamar a Peter? ¿____ quieres llamar?
+14. ¿Puedes ayudar a Elizabeth y a Sandra? ¿____ puedes ayudar?
+15. Ustedes pueden visitar a Jorge. Ustedes ____ pueden visitar.
 16. Ángel conoció a Pedro en la fiesta. Ángel ____ conoció.
 
 ## 3. Traducir. Puedes usar un diccionario.
@@ -604,15 +605,15 @@ It is correct, and it is very common: *Le regalé una rosa a María.* (*Le* and 
 ## 4. Traducir. Puedes usar un diccionario.
 
 1. I taught him a lesson.
-2. I gave her a book. (Use *regalar*).
+2. I gave her a book. (Use *regalar*.)
 3. They asked me a question.
 4. I showed them the apartment.
-5. She told me that. (Use *contar*).
+5. She told me that. (Use *contar*.)
 6. Did we teach them the new concepts?
 7. They explained the plan to me.
 8. Sarah sold them a car.
-9. Mary told them everything. (Use *contar*).
-10. I gave her a ring for her birthday. (Use *regalar*).
+9. Mary told them everything. (Use *contar*.)
+10. I gave her a ring for her birthday. (Use *regalar*.)
 11. We explained the idea to them.
 
 ## 5. Explicar en español qué es un objeto directo y qué es un objeto indirecto

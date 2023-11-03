@@ -44,7 +44,7 @@
     
     abrirán
 
-## Cómo conjugar verbos regulares en futuro
+## Cómo conjugar verbos regulares en futuro (how to conjugate regular verbs in the future tense)
 
 En el futuro los sufijos son iguales para los tres tipos de verbos, pero hay una diferencia 
 respecto a los tiempos presentes y pasados: los añadimos al infinitivo del verbo 
@@ -76,7 +76,7 @@ El tiempo futuro tiene el mismo significado que la construcción *ir* + infiniti
 que el tiempo futuro), pero en la práctica tienen un valor temporal virtualmente idéntico.
 
 > *💂 There is actually a small cognitive difference (*ir a* sounds a bit closer and more probable 
-than future tense), but in practice they have a virtually identical temporal value.
+than the future tense), but in practice they have a virtually identical temporal value.
 
 ## Verbos importantes, en futuro (important verbs, in the future tense)
 
@@ -166,11 +166,11 @@ than future tense), but in practice they have a virtually identical temporal val
 
 ### Ejemplos
 
-*En mayo estaré en Francia.* (In May, I'll be in France.)
+*En mayo estaré en Francia.* (In May I'll be in France.)
 
-*Mañana seré un hombre nuevo.* (Tomorrow, I'll be a new man.)
+*Mañana seré un hombre nuevo.* (Tomorrow I'll be a new man.)
 
-*El próximo jueves haré una tarta.* (Next Thursday, I'm going to make a pie.)
+*El próximo jueves haré una tarta.* (Next Thursday I'm going to make a pie.)
 
 *En el futuro, tendré una casa en la playa.* (In the future, I will have a house at/by the beach.)
 
@@ -313,7 +313,7 @@ y que podía irse de su casa. Le dijo:
 —Yo fui amable contigo y tú no tuviste gratitud hacia[25] mí. Voy a comer los pollos yo solo con mi esposa. Adiós.
 
 *A veces cuando una persona se hace muy importante, olvida sus promesas a las personas que fueron amables
-con él (o con ella) en el pasado.*
+con él o con ella en el pasado.*
 
 *De* El Conde Lucanor *(1330-1335), Don Juan Manuel*
 
@@ -329,11 +329,11 @@ con él (o con ella) en el pasado.*
 
 [6] Dark
 
-[7] Stair
+[7] Staircase
 
 [8] Archbishop
 
-[9] To appoint
+[9] Nombrar - to appoint
 
 [10] When they were going to start
 
@@ -349,7 +349,7 @@ con él (o con ella) en el pasado.*
 
 [16] For sure
 
-[17] Added
+[17] Añadir - to add
 
 [18] Trust his word
 
@@ -363,7 +363,7 @@ con él (o con ella) en el pasado.*
 
 [23] Embarrassed
 
-[24] To trust
+[24] Confiar - to trust
 
 [25] Towards
 

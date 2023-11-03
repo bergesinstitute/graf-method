@@ -184,7 +184,7 @@ E: ¿Vivías tú sola, o vivías con compañeros de cuarto?
 
 N: Vivía con mi novio Luis. Él trabajaba en una cafetería muy cerca de nuestra casa.
 
-E: ¿Era muy caro, tener un apartamento en Portland?
+E: ¿Era muy caro tener un apartamento en Portland?
 
 N: No era barato, pero pienso que Seattle es más caro. ¿Dónde vivías tú antes, Eduardo?
 
@@ -213,7 +213,7 @@ la siguiente fórmula:
 💂 We use the future to express future actions. As we know, we can construct the future using
 the following formula:
 
-    Verbo *ir,* conjugado + a + verbo de acción / Verb *ir,* conjugated + a + action verb
+    Verbo ir (conjugado) + a + verbo de acción / Verb ir (conjugated) + a + action verb
 
 *Voy a mirar la televisión.* 
 
@@ -259,11 +259,13 @@ A: Mi avión aterriza (lands) a las siete de la tarde.*
 
 > *Igual que en inglés, es común en español usar el presente con valor de futuro. *María llega a las siete* (mañana). 
 *Juan está aquí desde el martes hasta el domingo* (próximos). Hacemos esto, tanto en inglés como en español, 
-cuando queremos enfatizar la información más que la acción. *The restaurant opens at 7* (tonight). *My train leaves at 6 PM.*
+cuando queremos enfatizar la información más que la acción: *El restaurante abre a las 8* (esta noche). 
+*Mi tren sale a las 3* (esta tarde).
 
 > *💂 As in English, it is common in Spanish to use the present tense with a future value. *María llega a las siete* (tomorrow).
 *Juan está aquí desde el martes hasta el domingo* (next Tuesday through next Sunday). We do this in both English and Spanish
-when we want to emphasize the information rather than the action. *The restaurant opens at 7* (tonight). *My train leaves at 6 PM.* (tonight).
+when we want to emphasize the information rather than the action: *The restaurant opens at 8* (tonight). 
+*My train leaves at 3* (this afternoon).
 
 # Homework
 
@@ -313,7 +315,7 @@ when we want to emphasize the information rather than the action. *The restauran
 5. I worked last Sunday.
 6. We lived in that house from 2005 to 2008.
 7. You had a test last Friday.
-8. I met John on Tuesday.
+8. I went to a restaurant on Wednesday.
 
 ## 5. Completar, usando presente progresivo (estar + -ando/-iendo)
 

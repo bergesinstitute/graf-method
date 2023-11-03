@@ -1,4 +1,4 @@
-# Preguntar y pedir (to ask/to ask for)
+# Preguntar y pedir (to ask / to ask for)
 
 ## Presente (present)
 
@@ -30,6 +30,8 @@
     
     piden
 
+## Uso (usage)
+
 Usamos *preguntar* para preguntas, o para inquirir sobre algo o alguien.
 
 💂 We use *preguntar* for questions, or to inquire about something or someone.
@@ -46,7 +48,7 @@ Los dos verbos admiten objeto indirecto.
 
 *Yo le pregunto una pregunta.* (I ask him a question.)
 
-*Yo se la pregunto.* (I ask it to him.)
+*Yo se la pregunto.* (I "ask it to him".)
 
 *Le pregunté sobre su nuevo trabajo.* (I asked him about his new job.)
 
@@ -54,7 +56,7 @@ Los dos verbos admiten objeto indirecto.
 
 *Yo le pido un favor.* (I ask her for a favor.)
 
-*Yo se lo pido.* (I ask her for it.)
+*Yo se lo pido.* (I "ask her for it".)
 
 > *Aunque esta oración es gramaticalmente correcta, debemos recordar que, cuando usamos el sustantivo *pregunta,* 
 es muy común sustituir el verbo *preguntar* por el verbo *hacer,* para evitar la redundancia: 
@@ -96,6 +98,8 @@ it is very common to substitute the verb *preguntar* for the verb *hacer,* to av
     
     pidieron
 
+## Comentarios (comments)
+
 *Preguntar* y *pedir* son regulares en pretérito imperfecto y futuro.
 
 💂 *Preguntar* and *pedir* are regular in the imperfect and future tenses.
@@ -124,25 +128,24 @@ to translate the preposition *for* as *por* or *para.* The verb *pedir* has a co
 
 1. I always ask my sister for favors.
 2. Did you ask him that question that we had?
-3. You must not ask the elm (el olmo) for pears. (Use personal a)
-4. Do you know (that) my sister asked my cousin for his car?
-5. When I read Plato (Platón) I asked my teacher about Aristotle (Aristóteles).
-6. Did you ask Google? (Use personal a)
-7. My little brother always asks me for advice (consejo).
-8. She asked you: “Where is the bathroom in this large house?”
-9. I asked the trees, but they only answered (responder) with silence (silencio). (Use personal *a*.)
+3. You must not ask the elm (el olmo) for pears. (Use personal A.)
+4. When I read Plato (Platón) I asked my teacher about Aristotle (Aristóteles).
+5. Did you ask Google? (Use personal A.)
+6. My little brother always asks me for advice (consejo).
+7. She asked you: “Where is the bathroom in this large house?”
+8. I asked the trees, but they only answered (responder) with silence (silencio). (Use personal A.)
 
 ## 2. En las traducciones al español anteriores, identificar con un círculo el objeto indirecto
 
 💂 In the Spanish translations above, circle the indirect object.
 
-> Nota: cuando usamos preguntar con la preposición *sobre,* técnicamente estamos usando el verbo con objeto 
+> Nota: cuando usamos *preguntar* con la preposición *sobre,* técnicamente estamos usando el verbo con objeto 
 indirecto (*a Juan, a su primo,* etc.) pero sin objeto directo (todo lo que va después de *sobre* se denomina 
 *complemento preposicional,* y no se puede considerar objeto). El verbo *preguntar* es un verbo muy especial 
 que nos permite hacer esto. Como sabemos, en general, cuando un verbo admite objeto indirecto 
 (“a una persona”) necesita también objeto directo (“una cosa”).
 
-> 💂 Note: when we use preguntar with the preposition *sobre,* we are technically using the verb with an
+> 💂 Note: when we use *preguntar* with the preposition *sobre,* we are technically using the verb with an
 indirect object (*a Juan, a su primo,* etc.) but without a direct object (everything after *sobre* is called a
 *prepositional complement,* and cannot be considered an object). The verb *preguntar* is a very special verb
 that allows us to do this. As we know, in general, when a verb admits indirect objects
@@ -154,11 +157,10 @@ that allows us to do this. As we know, in general, when a verb admits indirect o
 2. ¿Te envié los documentos que me preguntaste/pediste?
 3. Cuando me preguntas/pides sobre mi amiga, me pongo nervioso.
 4. Juan preguntó/pidió pizza en el restaurante Pakistaní.
-5. El filósofo siempre nos preguntaba/pedía cuestiones trascendentales.
 
-## 4. Escribir 3 oraciones con pedir y 3 con preguntar
+## 4. Escribir 2 oraciones con pedir y 2 con preguntar
 
-## 5. Repaso de pronombres de OD A
+## 5. Repaso de pronombres de OD
 
 A. Con cosas. Completar.
 
@@ -287,13 +289,13 @@ encontrarlos en las almohadas de plumas.
 
 [7] Coldness
 
-[8] Avoided (en imperfecto) 
+[8] Evitar - to avoid
 
-[9] Lasted
+[9] Durar - to last
 
-[10] To go out
+[10] Salir - to leave / to go out
 
-[11] Hugged her
+[11] Abrazar - to hug
 
 [12] Remained silent
 
@@ -305,9 +307,9 @@ encontrarlos en las almohadas de plumas.
 
 [16] The light was on
 
-[17] Virtually
+[17] Virtually / practically
 
-[18] Steadily. Mirar fijamente = to stare 
+[18] Steadily. Mirar fijamente = to stare.
 
 [19] Carpet
 
@@ -315,7 +317,7 @@ encontrarlos en las almohadas de plumas.
 
 [21] Screamed
 
-[22] Calmed down (reflexivo)
+[22] Calmarse - to calm down
 
 [23] Smiled
 
@@ -325,13 +327,13 @@ encontrarlos en las almohadas de plumas.
 
 [26] The last visit
 
-[27] Virtually dead
+[27] Virtually dead / practically dead
 
 [28] Discouraged
 
-[29] Got worse (en imperfecto)
+[29] Empeorar - to get worse
 
-[30] She felt (en imperfecto)
+[30] Sentir - to feel
 
 [31] On top of
 
@@ -349,11 +351,11 @@ encontrarlos en las almohadas de plumas.
 
 [38] They seem bites
 
-[39] To lift
+[39] Levantar - to lift
 
 [40] Light
 
-[41] Tried
+[41] Intentar - to try
 
 [42] Shivered
 
@@ -361,7 +363,7 @@ encontrarlos en las almohadas de plumas.
 
 [44] Trembling
 
-[45] Cut
+[45] Cortar - to cut
 
 [46] Feathers
 
@@ -377,7 +379,7 @@ encontrarlos en las almohadas de plumas.
 
 [52] Environment 
 
-[53] To become
+[53] Hacerse - to become
 
 ### Preguntas
 

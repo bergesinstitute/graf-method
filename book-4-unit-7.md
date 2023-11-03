@@ -1,4 +1,4 @@
-# Futuro compuesto / future perfect
+# Futuro compuesto (future perfect)
 
 Con un uso muy similar al pluscuamperfecto, podemos construir en español un futuro compuesto 
 (equivale al *future perfect* en inglés, *I will have* + participle). Al igual que en inglés, 
@@ -45,15 +45,15 @@ Se traduce como *I will have driven, you will have driven,* etc.
 
 💂 It translates as *I will have driven, you will have driven,* etc.
 
-> Existe un cuarto tiempo compuesto llamado *pretérito anterior* (hube manejado, hubiste manejado, 
-hubo manejado, hubimos manejado, hubieron manejado). Este tiempo está en desuso. Cuando hablamos 
+> Existe un cuarto tiempo compuesto llamado *pretérito anterior* (*hube manejado, hubiste manejado, 
+hubo manejado, hubimos manejado, hubieron manejado*). Este tiempo está en desuso. Cuando hablamos 
 en pasado, usamos siempre el pretérito pluscuamperfecto que hemos estado estudiando.
 
 > 💂 There is a fourth compound tense called *pretérito anterior* (*hube manejado, hubiste manejado,
 hubo manejado, hubimos manejado, hubieron manejado*). This tense is in disuse. When we speak
 in the past, we always use the *pretérito pluscuamperfecto* that we have been studying.
 
-# Uso de los tiempos compuestos con pronombres de objeto directo (OD) y objeto indirecto (OI) / Use of compound tenses with direct object (DO) pronouns and indirect object (IO) pronouns
+# Uso de los tiempos compuestos con pronombres de objeto directo (OD) y objeto indirecto (OI)
 
 Dijimos anteriormente que no podemos romper nunca el núcleo verbal (no podemos poner nada entre el verbo haber 
 y el participio). Siempre tendremos los pronombres justo antes del núcleo verbal.
@@ -102,7 +102,7 @@ Debemos recordar no romper el núcleo verbal (no poner nada entre *haber* y el p
 2. I have never bought that book. I have never bought it.
 3. Have you met my sister Mary? Have you met her?
 4. I have read them (m).
-5. I have never drunk more than (más de) three liters of water in one day. I have never drunk them.
+5. I have never drunk three liters of water in one day. I have never drunk them.
 6. She has not called him yet.
 7. We have never worn it (f).
 8. They have always loved them (f).
@@ -125,7 +125,7 @@ Debemos recordar no romper el núcleo verbal (no poner nada entre *haber* y el p
 
 ## 3. Traducir
 
-1. I have been telling you stories. I've been telling them to you.
+1. I have been telling you stories. I've been "telling them to you".
 2. I have been explaining the idea to her. I have been explaining it to her.
 3. She has been showing her the new apartment. She's been showing it to her.
 4. They have been giving her excuses all the time. They have been giving them to her.

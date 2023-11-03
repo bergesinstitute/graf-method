@@ -17,10 +17,10 @@ in the contraction *al: Voy al supermercado.*
     sin - without
 
 *Estoy en casa con mi amigo Juan.*
-(I'm at my friend Juan's house.)
+(I'm home with my friend Juan.)
 
-*Me gusta la cerveza sin alcohol.*
-(I like non-alcoholic beer.)
+*Me gusta el café sin azúcar.*
+(I like coffee without sugar.)
 
     conmigo - with me
 
@@ -88,11 +88,9 @@ Ver *desde.*
 
 Usamos la preposición *para* para propósito, destino u objetivo.
 
-💂 We use the preposition *para* for purpose, destination or objective.
+💂 We use the preposition *para* for purpose, destination, or objective.
 
 *Pedro tiene una sorpresa para Laura.* (Pedro has a surprise for Laura.)
-
-*Trabajo para Google.* (I work for Google.)
 
 *Este pescado es para la cena.* (Lit. This fish is for dinner.)
 
@@ -126,7 +124,7 @@ También la usamos para expresar razón o causa (como *because of;* en este caso
 
 *Llegué tarde por el tráfico.* (I arrived late because of the traffic.)
 
-*Cerraron por bancarrota*. (Lit. They closed "because of" bankruptcy.) (Meaning "due to").
+*Cerraron por bancarrota*. (Lit. They closed "because of" bankruptcy.) (Meaning "due to".)
 
 La usamos para intercambios de dinero (o de otras cosas).
 
@@ -199,14 +197,17 @@ agree in gender and number with the noun: *Miré muchas películas. Cociné poca
 
     cerca (de) - near / close (to) / nearby
 
-    Lejos (de) - far (from)
+    lejos (de) - far (from)
 
 Cuando se usan con un sustantivo, deben llevar la preposición *de.* Cuando van solos, no la llevan.
 
 💂 When used with a noun, they must have the preposition *de.* When used alone, they do not have it.
 
-*¿Dónde está tu casa? Está muy cerca. La casa de Juan está cerca de mi oficina.*
-(Where is your house? It's nearby. Juan's house is near my office.)
+*El supermercado está cerca del parque.*
+(The supermarket is near the park.)
+
+*La casa de Juan está lejos de mi oficina.*
+(Juan's house is far from my office.)
 
     antes (de) - before
 
@@ -252,16 +253,12 @@ Cuando van con un sustantivo (y casi siempre van con un sustantivo) debemos usar
 
     sólo / solamente - only
 
-Son sinónimos. Tradicionalmente se pone acento en *sólo* cuando es adverbio, y no se pone cuando es 
-adjetivo (*solo = alone*). Desde hace unos años, el acento no es oficialmente necesario, pero a mucha gente 
-le gusta usarlo.
+Son sinónimos.
 
-💂 They are synonyms. Traditionally, the accent is placed on *sólo* when it is an adverb, 
-and it is not placed when it is an adjective (*solo = alone*).
-Since a few years ago, the accent is not officially necessary, but many people like to use it.
+💂 They are synonyms.
 
-*Sólo compré verduras en el supermercado. Solamente compré verduras en el supermercado.*
-(I only bought vegetables at the supermarket.)
+*Sólo tengo 200 dólares en mi cuenta. Solamente tengo 200 dólares en mi cuenta.*
+(I only have 200 dollars in my account.)
 
     ya - already
 
@@ -275,7 +272,7 @@ Since a few years ago, the accent is not officially necessary, but many people l
 2. ¿Cuál es la versión correcta? A: Como al restaurante. B: Como en el restaurante. C: Las dos (both) son correctas.
 3. ¿Te gusta usar palillos para comer sushi, o prefieres usar un tenedor?
 4. ¿A veces llegas tarde a tu trabajo?
-5. ¿Tu casa está cerca o lejos de tu escuela de español?
+5. ¿Tu casa está cerca o lejos de tu oficina?
 6. ¿De qué hora a qué hora trabajas cada día?
 7. ¿Dónde estás ahora?
 8. ¿Ya tomaste más de tres cafés hoy?
@@ -320,8 +317,8 @@ B. Con personas. Completar.
 ### El flautista de Hamelin
 
 En la ciudad de Hamelin, en Alemania,[1] las casas eran grises y los habitantes eran honestos. Era una ciudad
-muy rica, pero tenían un problema muy grande: en Hamelin[2]
-había muchísimas ratas. Los gatos no podían enfrentarse a tantas. Las ratas se
+muy rica, pero tenían un problema muy grande: en Hamelin
+había muchísimas ratas. Los gatos no podían enfrentarse[2] a tantas. Las ratas se
 multiplicaban constantemente. Los ciudadanos estaban aterrorizados, y el alcalde[3] decidió que
 necesitaban un plan para enfrentarse al problema.
 
@@ -359,7 +356,7 @@ y fueron hacia las montañas. Los niños nunca regresaron[15] a Hamelin, y nunca
 
 [1] Germany
 
-[2] To confront
+[2] Enfrentarse - to confront / to face / to deal with
 
 [3] Mayor
 
@@ -383,9 +380,9 @@ y fueron hacia las montañas. Los niños nunca regresaron[15] a Hamelin, y nunca
 
 [13] Town hall
 
-[14] Laughed (en imperfecto)
+[14] Reír - to laugh
 
-[15] Came back
+[15] Regresar - to come back / to return
 
 ### Preguntas
 

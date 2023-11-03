@@ -3,10 +3,12 @@
 ## El verbo haber
 
 Usamos el verbo *haber* para formar los tiempos compuestos con el participio pasado, igual que en inglés 
-usamos el verbo *to have* como verbo auxiliar, sin usarlo con su significado original de posesión (*I have an apple*).
+usamos el verbo *to have* como verbo auxiliar, sin usarlo con su significado original de posesión 
+(as in *I have a car*, meaning I *own* a car).
 
 💂 We use the verb *haber* to form the compound tenses along with the past participle, just like in English
-we use the verb *to have* as an auxiliary verb, without using it with its original meaning of possession (*I have an apple*).
+we use the verb *to have* as an auxiliary verb, without using it with its original meaning of possession 
+(as in *I have a car*, meaning I *own* a car).
 
     I have + past participle (I have been, you have taken, etc). 
     
@@ -28,7 +30,7 @@ verbo auxiliar *haber,* y ponemos el participio del verbo que queremos usar a co
 (*driven,* in English) is *manejado* in Spanish. To form these verb tenses, we conjugate the
 auxiliary verb *haber,* and place the participle of the verb we want to use right after.
 
-## Pretérito perfecto compuesto / present perfect
+## Pretérito perfecto compuesto (present perfect)
 
     he manejado
     
@@ -42,7 +44,7 @@ auxiliary verb *haber,* and place the participle of the verb we want to use righ
     
     han manejado
 
-## Pretérito pluscuamperfecto / past perfect
+## Pretérito pluscuamperfecto (past perfect)
 
     había manejado 
     
@@ -56,7 +58,7 @@ auxiliary verb *haber,* and place the participle of the verb we want to use righ
     
     habían manejado
 
-## Traducción
+## Traducción (translation)
 
 El pretérito perfecto compuesto se traduce como *I have driven, you have driven,* etc. El pretérito pluscuamperfecto 
 se traduce como *I had driven, you had driven,* etc. 
@@ -73,7 +75,7 @@ verbo *haber* y el participio. En inglés: *I have always driven, I have not dri
 verb *haber* and the participle. In English: *I have always driven, I have not driven,* etc. In Spanish:
 *Yo siempre he manejado, yo no he manejado,* etc.
 
-## El participio / the participle
+## El participio (the participle)
 
 Para formar el participio en español, hacemos lo siguiente: 
 
@@ -103,7 +105,7 @@ Para formar el participio en español, hacemos lo siguiente:
 
 *¿Has terminado la tarea?* (Have you finished the homework?)
 
-*Son las tres y todavía no he comido.* (It's three and I haven't eaten yet/I still haven't eaten.)
+*Son las tres y todavía no he comido.* (It's three and I haven't eaten yet / I still haven't eaten.)
 
 ## Uso de los tiempos compuestos (usage of the compound tenses)
 
@@ -111,11 +113,11 @@ El uso de los tiempos compuestos es muy similar al inglés en sus dos versiones 
 compuesto (*yo he manejado*) equivale al *present perfect* (*I have driven*); el pretérito pluscuamperfecto 
 (*yo había manejado*) equivale al *past perfect* (*I had driven*)—.
 
-💂 The use of the compound tenses is very similar to English in its two versions - the *pretérito perfecto
+💂 The use of the compound tenses is very similar to English in its two versions — the *pretérito perfecto
 compuesto* tense (*yo he manejado*) is equivalent to the *present perfect* (*I have driven*); the *pretérito pluscuamperfecto*
 tense (*yo había manejado*) is equivalent to *past perfect* (*I had driven*).
 
-### Pretérito perfecto compuesto / present perfect
+### Pretérito perfecto compuesto (present perfect)
 
 Principalmente tenemos dos usos, en inglés y en español: 
 
@@ -137,7 +139,7 @@ Principalmente tenemos dos usos, en inglés y en español:
 
 *He estado aquí todo el día.* (I have been here all day.)
 
-### Pretérito pluscuamperfecto / past perfect
+### Pretérito pluscuamperfecto (past perfect)
 
 Igual que en inglés, usamos los tiempos compuestos en pasado para indicar que una acción ocurrió antes que otra.
 
@@ -152,11 +154,11 @@ Igual que en inglés, usamos los tiempos compuestos en pasado para indicar que u
 > En algunas regiones usamos el pretérito perfecto compuesto para indicar pasado reciente: *Esta mañana 
 he ido al mercado*, en lugar de *esta mañana fui al mercado.* Recomendamos usar pretérito perfecto 
 (*yo fui*) para el pasado reciente, reservando los tiempos compuestos para los usos específicos 
-descritos en esta página únicamente. 
+descritos en esta sección únicamente. 
 
 > 💂 In some regions we use the *pretérito perfecto compuesto* to indicate recent past: *Esta mañana
 he ido al mercado*, instead of *esta mañana fui al mercado.* We recommend using the preterite (*yo fui*) 
-for recent past, reserving the compound tenses for the specific uses described on this page only.
+for recent past, reserving the compound tenses for the specific uses described on this section only.
 
 ## Participios irregulares en español (irregular participles in Spanish)
 
@@ -182,10 +184,10 @@ for recent past, reserving the compound tenses for the specific uses described o
 
 Igual que en inglés, en español podemos combinar tiempos compuestos con tiempos progresivos. En lugar de decir 
 *I have driven,* cuando queremos expresar más continuidad podemos decir *I have been driving.* En este caso, 
-estamos usando el verbo *to be* en participio (*been*). El verbo *manejar* ahora va en gerundio (*driving*). 
+estamos usando el verbo *to be* en participio (*been*). El verbo *to drive* ahora va en gerundio (*driving*). 
 En español, podemos hacer exactamente lo mismo.
 
-> 💂 As in English, in Spanish we can combine compound tenses with progressive tenses. Instead of saying
+💂 As in English, in Spanish we can combine compound tenses with progressive tenses. Instead of saying
 *I have driven,* when we want to express more continuity we can say *I have been driving.* In this case,
 we are using the verb *to be* in participle (*been*). The verb *to drive* now goes in gerund (*driving*).
 In Spanish, we can do exactly the same.
@@ -205,9 +207,9 @@ Debemos recordar que los tiempos progresivos en español se forman siempre con e
 
 ## Uso del participio como adjetivo (use of the participle as adjective)
 
-Tanto en inglés como en español, muchos participios pueden ser usados como adjetivos: /
+Tanto en inglés como en español, muchos participios pueden ser usados como adjetivos.
 
-💂 In both English and Spanish, many participles can be used as adjectives:
+💂 In both English and Spanish, many participles can be used as adjectives.
 
 *I have taken it.* (Participio)
 
@@ -246,7 +248,7 @@ En español, cuando usamos un participio como adjetivo debemos, como siempre, aj
 3. I have been studying Spanish for more than (más de) two months.
 4. They have gone very far this time.
 5. Do they know they have lost the game?
-6. He has never been to Spain. (Use preposition en)
+6. He has never been to Spain. (Use the preposition *en*.)
 7. She has written three books.
 8. I have already completed the series at the gym.
 9. Alicia has done many good things.
@@ -269,10 +271,9 @@ En tu caso, ¿es verdad o es mentira?
 7. Yo nunca he mentido a mis amigos.
 8. Yo nunca he pagado tarde mi alquiler.
 9. Yo nunca he olvidado llamar a mi hermano/hermana en su cumpleaños.
-10. Yo nunca me he perdido en Manhattan.
-11. Yo nunca he tomado un taxi porque no quería caminar.
-12. Yo nunca he comido un Big Mac.
-13. Yo nunca he estado en Europa.
+10. Yo nunca he tomado un taxi porque no quería caminar.
+11. Yo nunca he comido un Big Mac.
+12. Yo nunca he estado en Europa.
 
 ## 3. Escribir cinco oraciones en pretérito perfecto compuesto (yo he, tú has, él ha, etc. + participio)
 
@@ -294,7 +295,7 @@ Be careful. When the participle is being used as an adjective, it must match the
 8. Esa planta está __________ (morir).
 9. Sara ya había __________ (escribir) el mensaje a esa hora.
 
-## 6. Conjugar volver en pretérito perfecto compuesto (yo he vuelto) y en pretérito pluscuamperfecto (yo había vuelto).
+## 6. Conjugar volver en pretérito perfecto compuesto (yo he vuelto) y en pretérito pluscuamperfecto (yo había vuelto)
 
 ## 7. Comentario de texto
 
@@ -361,31 +362,31 @@ Todas las personas rieron.[19] Los hombres arrogantes, humillados, pagaron los p
 
 [5] To hurt. It is used like *gustar:* We say *me duele un diente.*
 
-[6] Pastry shop/bakery
+[6] Pastry shop / bakery
 
-[7] Cakes/pies
+[7] Cakes / pies
 
-[8] Seemed
+[8] Parecer - to seem
 
 [9] Reflexive form of *comer.* It is very common. The meaning is the same. 
 
-[10] To bet
+[10] Apostar - to bet
 
 [11] If
 
 [12] Pull out from me
 
-[13] He pointed at
+[13] Señalar - to point (at)
 
 [14] They agreed. Literally: *They were in agreement.*
 
 [15] Full
 
-[16] The bet
+[16] Bet
 
 [17] Dumb
 
-[18] Let
+[18] Dejar - to leave / to allow
 
 [19] Laughed
 
