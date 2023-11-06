@@ -213,8 +213,8 @@ Generalmente, los verbos que implican deseo, duda o petición disparan automáti
 En estos casos, la estructura de la oración siempre es la misma: una persona A desea/duda/pide que otra 
 persona B haga algo.
 
-💂 In these cases, the sentence structure is always the same: a person A wants/doubts/requests another person B
-do something.
+💂 In these cases, the sentence structure is always the same: a person A wants/doubts/requests that another person B
+"do / will do" something.
 
 *Mi madre duda que yo estudie mucho.* (My mother doubts that I study a lot.) (Meaning "study hard".)
 
