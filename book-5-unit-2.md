@@ -186,27 +186,27 @@ Generalmente, los verbos que implican deseo, duda o petición disparan automáti
 
 💂 Generally, verbs implying desire, doubt or request automatically trigger the subjunctive.
 
-### Duda 
+### Duda (doubt)
 
-    dudar 
+    dudar - to doubt
     
-    no creer (sólo en negativo) 
+    creer (sólo en negativo) - to believe (negative version only)
     
-    no pensar (sólo en negativo)
+    pensar (sólo en negativo) - to think (negative version only)
 
-### Deseo 
+### Deseo (desire)
 
-    desear 
+    desear - to wish
     
-    esperar 
+    esperar - to hope
     
-    preferir 
+    preferir - to prefer
     
-    querer
+    querer - to want
 
-### Petición 
+### Petición (request)
 
-    pedir
+    pedir - to ask for / to request
 
 ### Estructura
 
@@ -216,21 +216,24 @@ persona B haga algo.
 💂 In these cases, the sentence structure is always the same: a person A wants/doubts/requests another person B
 do something.
 
-*Mi madre duda que yo estudie mucho.* 
+*Mi madre duda que yo estudie mucho.* (My mother doubts that I study a lot.) (Meaning "study hard".)
 
-*Yo espero que Juan vaya.*
+*Yo espero que Juan vaya.* (I hope that Juan will go.)
 
-*Te pido que lo hagas.*
+*Te pido que lo hagas.* (I ask you to do it. Lit. I ask "that you do it".)
 
 Adicionalmente, los verbos *prohibir, recomendar* y *necesitar* también disparan el subjuntivo.
 
 💂 Additionally, the verbs *prohibir, recomendar* and *necesitar* also trigger the subjunctive.
 
-*¿Me recomiendas que vaya al restaurante de Laura?*
+*¿Me recomiendas que vaya al restaurante de Laura?* (Lit. Do you recommend "me" that I go to Laura's restaurant?)
 
-*Necesito que seas más simpático con los clientes.*
+*Necesito que seas más simpático con los clientes.* (I need you to be nicer to the customers. 
+Lit. I need "that you are nicer" to the customers.)
 
 *La ley prohíbe que una persona trabaje más de 8 horas sin descanso.*
+(The law prohibits a person from working more than 8 hours without a break.)
+(Lit. The law prohibits "that a person works" more than 8 hours without a break.)
 
 Consideración importante: cuando usamos estos verbos como *two-verb constructions,* no usamos subjuntivo, 
 porque solamente el primer verbo va conjugado.
@@ -238,9 +241,9 @@ porque solamente el primer verbo va conjugado.
 💂 Important consideration: when we use these verbs as two-verb constructions, we do not use the subjunctive,
 because only the first verb is conjugated.
 
-*Deseo tener mucho dinero.*
+*Deseo tener mucho dinero.* (Lit. I wish to have a lot of money.)
 
-*Necesito llegar rápidamente.*
+*Necesito llegar rápidamente.* (I need to get there quickly.)
 
 Para usar subjuntivo siempre necesitamos oraciones en las que tengamos también una oración subordinada 
 con sujeto diferente.
@@ -268,14 +271,15 @@ Nota sobre los verbos *querer, pedir, necesitar y prohibir:* en inglés usamos l
 
 💂 Note on the verbs *querer, pedir, necesitar and prohibir:* in English we use the following construction:
 
-*Juan wants me to go/asks me to go/needs me to go/prohibits me to go.* 
+*Juan wants me to go / asks me to go / needs me to go / prohibits me to go.* 
 
 En español diremos: 
 
 💂 In Spanish, we will say:
 
-*Juan quiere que yo vaya/me pide que yo vaya/necesita que yo vaya/me prohíbe que yo vaya* (Lit. Juan “wants that I go”
-/“asks me that I go”/“needs that I go”/“prohibits me that I go”). (For asking people to do things, we always use *pedir.*)
+*Juan quiere que yo vaya / me pide que yo vaya / necesita que yo vaya / me prohíbe que yo vaya* 
+(Lit. Juan “wants that I go” / “asks me that I go” / “needs that I go” / “prohibits me that I go”). 
+(For asking people to do things we always use *pedir.*)
 
 ## Uso 2: Expresiones impersonales (impersonal expressions)
 
