@@ -116,7 +116,7 @@ always uses the pronouns *le/les.*
 
 *A ellos les gusta nadar.*
 
-## Por/para
+## Por / para
 
 Usamos *para* para propósito, destino, trabajar para alguien, o fechas de entrega. 
 

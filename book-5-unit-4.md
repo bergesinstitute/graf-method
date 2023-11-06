@@ -32,31 +32,31 @@ but it is true that today we use *que* more than *quien* when referring to a per
 
 ## Pretérito perfecto compuesto de subjuntivo
 
-    Haya cantado 
+    haya cantado 
     
-    Hayas cantado 
+    hayas cantado 
     
-    Haya cantado 
+    haya cantado 
     
-    Hayamos cantado 
+    hayamos cantado 
     
-    (Hayáis cantado) 
+    (hayáis cantado) 
     
-    Hayan cantado
+    hayan cantado
 
 ## Pretérito pluscuamperfecto de subjuntivo
 
-    Hubiera cantado 
+    hubiera cantado 
     
-    Hubieras cantado 
+    hubieras cantado 
     
-    Hubiera cantado 
+    hubiera cantado 
     
-    Hubiéramos cantado 
+    hubiéramos cantado 
     
-    (Hubierais cantado)
+    (hubierais cantado)
     
-    Hubieran cantado
+    hubieran cantado
 
 Con *comer* o *vivir: haya comido, hubiera comido, haya vivido, hubiera vivido.*
 
@@ -90,45 +90,45 @@ hubiesen cantado.*
 
 ### Presente
 
-    He
+    he
     
-    Has
+    has
     
-    Ha
+    ha
     
-    Hemos
+    hemos
     
-    (Habéis)
+    (habéis)
     
-    Han
+    han
 
 ### Pretérito imperfecto
 
-    Había
+    había
     
-    Habías
+    habías
     
-    Había
+    había
     
-    Habíamos
+    habíamos
     
-    (Habíais)
+    (habíais)
     
-    Habían
+    habían
 
 ### Futuro
 
-    Habré
+    habré
     
-    Habrás
+    habrás
     
-    Habrá
+    habrá
     
-    Habremos
+    habremos
     
-    (Habréis)
+    (habréis)
     
-    Habrán
+    habrán
 
 ### Nota sobre su uso (note about its use)
 
@@ -146,31 +146,31 @@ but it is important to know how to use them correctly.
 
 ### Presente
 
-    Haya
+    haya
     
-    Hayas
+    hayas
     
-    Haya
+    haya
     
-    Hayamos
+    hayamos
     
-    (Hayáis)
+    (hayáis)
     
-    Hayan
+    hayan
 
 ### Pretérito imperfecto
 
-    Hubiera
+    hubiera
 
-    Hubieras
+    hubieras
 
-    Hubiera
+    hubiera
 
-    Hubiéramos
+    hubiéramos
 
-    (Hubiérais)
+    (hubiérais)
 
-    Hubieran
+    hubieran
 
 ### Nota sobre su uso (note about its use)
 
@@ -200,17 +200,17 @@ They are used after the verb *ser* to express possession.
 
     Format: English equivalent: Masc. sing. | Fem. sing. | Masc. pl. | Fem. pl.
 
-    Mine: Mío | Mía | Míos | Mías
+    mine: mío | mía | míos | mías
 
-    Yours: Tuyo | Tuya | Tuyos | Tuyas
+    yours: tuyo | tuya | tuyos | tuyas
 
-    His/Hers/Yours (formal): Suyo | Suya | Suyos | Suyas
+    his / hers / yours (formal): suyo | suya | suyos | suyas
 
-    Ours: Nuestro | Nuestra | Nuestros | Nuestras
+    ours: nuestro | nuestra | nuestros | nuestras
 
-    Yours (plural): ( Vuestro | Vuestra | Vuestros | Vuestras )
+    yours (plural): ( vuestro | vuestra | vuestros | vuestras )
 
-    Theirs/Yours (formal, plural): Suyo | Suya | Suyos | Suyas
+    theirs / yours (formal, plural): suyo | suya | suyos | suyas
 
 # Pronombres posesivos (possessive pronouns)
 
@@ -224,17 +224,17 @@ Los pronombres posesivos son similares a los adjetivos posesivos tónicos, pero 
 
     Format: English equivalent: Masc. sing. | Fem. sing. | Masc. pl. | Fem. pl.
 
-    Mine: El mío | La mía | Los míos | Las mías
+    mine: el mío | la mía | los míos | las mías
 
-    Yours: El tuyo | La tuya | Los tuyos | Las tuyas
+    yours: el tuyo | la tuya | los tuyos | las tuyas
 
-    His/Hers/Yours (formal): El suyo | La suya | Los suyos | Las suyas
+    his / hers / yours (formal): el suyo | la suya | los suyos | las suyas
 
-    Ours: El nuestro | La nuestra | Los nuestros | Las nuestras
+    ours: el nuestro | la nuestra | los nuestros | las nuestras
 
-    Yours (plural): ( El vuestro | La vuestra | Los vuestros | Las vuestras )
+    yours (plural): ( el vuestro | la vuestra | los vuestros | las vuestras )
 
-    Theirs/Yours (formal, plural): El suyo | La suya | Los suyos | Las suyas
+    theirs / yours (formal, plural): el suyo | la suya | los suyos | las suyas
 
 # Homework
 
@@ -460,7 +460,7 @@ hecho era recuperar el juicio.[54]
 
 [15] Ocultarse - to hide
 
-[16] Believed
+[16] Creer - to believe
 
 [17] Dried leaves
 
@@ -474,7 +474,7 @@ hecho era recuperar el juicio.[54]
 
 [22] Dreams
 
-[23] Cross it
+[23] Cruzar - to cross
 
 [24] Entrance
 
@@ -488,7 +488,7 @@ hecho era recuperar el juicio.[54]
 
 [29] Awake
 
-[30] Excursions/trips
+[30] Excursions / trips
 
 [31] Dawn
 
@@ -518,11 +518,11 @@ hecho era recuperar el juicio.[54]
 
 [44] Suddenly
 
-[45] To float
+[45] Flotar - to float
 
 [46] Still
 
-[47] To laugh 
+[47] Reír - to laugh 
 
 [48] Wind
 
@@ -534,7 +534,7 @@ hecho era recuperar el juicio.[54]
 
 [52] Iron
 
-[53] To chase
+[53] Perseguir - to chase
 
 [54] Recover his mind
 

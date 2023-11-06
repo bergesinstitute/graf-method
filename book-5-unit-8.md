@@ -26,59 +26,59 @@ Algunos verbos funcionan igual que el verbo *gustar.* El objeto es el que hace l
 
 ## Encantar
 
-    Encantar - “to charm” (it really means “gustar mucho”)
+    encantar - “to charm” (it really means “gustar mucho”)
 
 Decimos: / 💂 We say: “Apples charm me.” *Las manzanas me encantan.*
 
-    (A mí) me encanta / me encantan
+    (a mí) me encanta / me encantan
     
-    (A ti) te encanta / te encantan
+    (a ti) te encanta / te encantan
     
-    (A él) le encanta / le encantan
+    (a él) le encanta / le encantan
     
-    (A nosotros) nos encanta / nos encantan 
+    (a nosotros) nos encanta / nos encantan 
     
-    (A vosotros) (os encanta / os encantan) 
+    (a vosotros) (os encanta / os encantan) 
     
-    (A ellos) les encanta / les encantan
+    (a ellos) les encanta / les encantan
 
 ## Doler
 
-    Doler - “to hurt”
+    doler - “to hurt”
 
 Decimos: / 💂 We say: “My hand hurts me.” *Me duele la mano.* (We don't usually say *mi mano,* it's implied).
 
-    (A mí) me duele / me duelen
+    (a mí) me duele / me duelen
     
-    (A ti) te duele / te duelen
+    (a ti) te duele / te duelen
     
-    (A él) le duele / le duelen
+    (a él) le duele / le duelen
     
-    (A nosotros) nos duele / nos duelen 
+    (a nosotros) nos duele / nos duelen 
     
-    (A vosotros) (os duele / os duelen) 
+    (a vosotros) (os duele / os duelen) 
     
-    (A ellos) les duele / les duelen
+    (a ellos) les duele / les duelen
 
 ## Recordar
 
-    Recordar - to remind*
+    recordar - to remind*
 
-> *Also, *to remember/to recall* in other contexts
+> *Also, *to remember / to recall* in other contexts.
 
 Decimos: / 💂 We say: “This reminds me of that”. *Esto me recuerda eso.*
 
-    (A mí) me recuerda / me recuerdan
+    (a mí) me recuerda / me recuerdan
     
-    (A ti) te recuerda / te recuerdan
+    (a ti) te recuerda / te recuerdan
     
-    (A él) le recuerda / le recuerdan
+    (a él) le recuerda / le recuerdan
     
-    (A nosotros) nos recuerda / nos recuerdan 
+    (a nosotros) nos recuerda / nos recuerdan 
     
-    (A vosotros) (os recuerda / os recuerdan) 
+    (a vosotros) (os recuerda / os recuerdan) 
     
-    (A ellos) les recuerda / les recuerdan 
+    (a ellos) les recuerda / les recuerdan 
 
 ## Conversación 1
 

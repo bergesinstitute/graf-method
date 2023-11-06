@@ -44,47 +44,61 @@ of the two subjunctive tenses, the present and the imperfect, and also their use
 
 ## Conjugación de verbos regulares (conjugation of regular verbs)
 
+### Personal pronouns
+
+    yo
+
+    tú
+
+    él / ella / usted
+
+    nosotros / nosotras
+
+    (vosotros / vosotras)
+
+    ellos / ellas / ustedes
+
 ### Cantar
 
-    Cante 
+    cante 
     
-    Cantes 
+    cantes 
     
-    Cante 
+    cante 
     
-    Cantemos 
+    cantemos 
     
-    (Cantéis)
+    (cantéis)
     
-    Canten
+    canten
 
 ### Comer
 
-    Coma 
+    coma 
     
-    Comas 
+    comas 
     
-    Coma 
+    coma 
     
-    Comamos 
+    comamos 
     
-    (Comáis) 
+    (comáis) 
     
-    Coman
+    coman
 
 ### Vivir
 
-    Viva 
+    viva 
     
-    Vivas 
+    vivas 
     
-    Viva 
+    viva 
     
-    Vivamos 
+    vivamos 
     
-    (Viváis)
+    (viváis)
     
-    Vivan
+    vivan
 
 > Los verbos *-ir* tienen la misma conjugación que los verbos *-er*.
 
@@ -94,73 +108,73 @@ of the two subjunctive tenses, the present and the imperfect, and also their use
 
 ### Ser
 
-    Sea
+    sea
     
-    Seas
+    seas
     
-    Sea
+    sea
     
-    Seamos
+    seamos
     
-    (Seáis)
+    (seáis)
     
-    Sean
+    sean
 
 ### Estar
 
-    Esté
+    esté
     
-    Estés
+    estés
     
-    Esté
+    esté
     
-    Estemos
+    estemos
     
-    (Estéis)
+    (estéis)
     
-    Estén
+    estén
 
 ### Tener
 
-    Tenga 
+    tenga 
     
-    Tengas 
+    tengas 
     
-    Tenga 
+    tenga 
     
-    Tengamos 
+    tengamos 
     
-    (Tengáis) 
+    (tengáis) 
     
-    Tengan
+    tengan
 
 ### Ir
 
-    Vaya 
+    vaya 
     
-    Vayas 
+    vayas 
     
-    Vaya 
+    vaya 
     
-    Vayamos 
+    vayamos 
     
-    (Vayáis) 
+    (vayáis) 
     
-    Vayan
+    vayan
 
 ### Hacer
 
-    Haga 
+    haga 
     
-    Hagas 
+    hagas 
     
-    Haga 
+    haga 
     
-    Hagamos 
+    hagamos 
     
-    (Hagáis)
+    (hagáis)
     
-    Hagan
+    hagan
 
 # Seis usos del subjuntivo (six uses of the subjunctive)
 
@@ -174,25 +188,25 @@ Generalmente, los verbos que implican deseo, duda o petición disparan automáti
 
 ### Duda 
 
-    Dudar 
+    dudar 
     
-    No creer (sólo en negativo) 
+    no creer (sólo en negativo) 
     
-    No pensar (sólo en negativo)
+    no pensar (sólo en negativo)
 
 ### Deseo 
 
-    Desear 
+    desear 
     
-    Esperar 
+    esperar 
     
-    Preferir 
+    preferir 
     
-    Querer
+    querer
 
 ### Petición 
 
-    Pedir
+    pedir
 
 ### Estructura
 

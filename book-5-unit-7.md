@@ -14,45 +14,45 @@ persons *tú* and *vosotros* the conjugation is different for the affirmative an
 
 #### Tú
 
-    Canta | No cantes
+    canta | no cantes
 
 #### Usted
 
-    Cante | No cante
+    cante | no cante
 
 #### Nosotros
 
-    Cantemos | No cantemos
+    cantemos | no cantemos
 
 #### (Vosotros)
 
-    (Cantad | No cantéis)
+    (cantad | no cantéis)
 
 #### Ustedes
 
-    Canten | No canten
+    canten | no canten
 
 ### Comer
 
 #### Tú
 
-    Come | No comas
+    come | no comas
 
 #### Usted
 
-    Coma | No coma
+    coma | no coma
 
 #### Nosotros
 
-    Comamos | No comamos
+    comamos | no comamos
 
 #### (Vosotros)
 
-    (Comed | No comáis)
+    (comed | no comáis)
 
 #### Ustedes
 
-    Coman | No coman
+    coman | no coman
 
 La conjugación para *-ir* es la misma que para *-er.* Todas las formas, excepto *tú* y *vosotros* en su 
 versión afirmativa, utilizan subjuntivo. La versión informal afirmativa de la segunda persona del singular (*tú*) 
@@ -72,43 +72,43 @@ is like the third-person singular of the present indicative (*él canta, él com
 
 ### Decir
 
-    Di | No digas
+    di | no digas
 
 ### Hacer
 
-    Haz | No hagas
+    haz | no hagas
 
 ### Ir
 
-    Ve | No vayas
+    ve | no vayas
 
 ### Poner
 
-    Pon | No pongas
+    pon | no pongas
 
 ### Salir
 
-    Sal | No salgas
+    sal | no salgas
 
 ### Ser
 
-    Sé | No seas
+    sé | no seas
 
 ### Tener
 
-    Ten | No tengas
+    ten | no tengas
 
 ### Venir
 
-    Ven | No vengas
+    ven | no vengas
 
 ### Ejemplos
 
-*No tengas miedo de nada.*
+*No tengas miedo de nada.* (Don't be afraid of anything.)
 
-*Sé fuerte.*
+*Sé fuerte.* (Be strong.)
 
-*No hagas nada. No digas nada.*
+*No hagas nada. No digas nada.* (Don't do anything. Don't say anything.)
 
 ## Pronombres e imperativo (pronouns and imperative)
 
@@ -164,31 +164,31 @@ coma deliciosos platos tradicionales mexicanos, visite las ruinas de Tulum. En n
 no tendrá que pagar extras por ningún servicio. No se preocupe por nada, solamente tome el sol, báñese en la playa 
 y, sobre todo, ¡no olvide ponerse protector solar!»
 
-    Ruinas - ruins
+    ruinas - ruins
     
-    Preocuparse - to worry
+    preocuparse - to worry
     
-    Tomar el sol - to sunbathe 
+    tomar el sol - to sunbathe 
     
-    Bañarse - to bathe/to go for a swim 
+    bañarse - to bathe/to go for a swim 
     
-    Protector solar - sunscreen
+    protector solar - sunscreen
 
 ##  Indicaciones en español (giving directions in Spanish)
 
-    Ir todo recto - to go straight 
+    ir todo recto - to go straight 
     
-    Girar a la izquierda - to turn left 
+    girar a la izquierda - to turn left 
     
-    Girar a la derecha - to turn right 
+    girar a la derecha - to turn right 
     
-    Enfrente de - in front of
+    enfrente de - in front of
     
-    Al lado de - by (lit. by the side of) 
+    al lado de - by (lit. by the side of) 
     
-    La manzana/la cuadra - the block 
+    la manzana / la cuadra - the block 
     
-    La esquina - the corner
+    la esquina - the corner
 
 Tenemos tres opciones. 
 
@@ -437,7 +437,7 @@ las palabras “Ábrete, Sésamo”.
 
 [12] Ponerse - to become 
 
-[13] Bury
+[13] Enterrar - to bury
 
 [14] Should
 
@@ -445,7 +445,7 @@ las palabras “Ábrete, Sésamo”.
 
 [16] Scale
 
-[17] Weight
+[17] Pesar - to weight
 
 [18] Made a mistake
 
@@ -457,7 +457,7 @@ las palabras “Ábrete, Sésamo”.
 
 [22] Pegarse - to stick
 
-[23] Asunto - matter/business 
+[23] Asunto - matter / business 
 
 [24] It seems
 
@@ -465,7 +465,7 @@ las palabras “Ábrete, Sésamo”.
 
 [26] Greedy
 
-[27] Share
+[27] Compartir - to share
 
 [28] Place
 
@@ -483,7 +483,7 @@ las palabras “Ábrete, Sésamo”.
 
 [35] Maid
 
-[36] Took charge
+[36] Encargarse - to take charge / to take care
 
 [37] Shoemaker
 

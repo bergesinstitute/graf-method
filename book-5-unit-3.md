@@ -4,45 +4,45 @@
 
 ### Cantar
 
-    Cantara 
+    cantara 
     
-    Cantaras 
+    cantaras 
     
-    Cantara 
+    cantara 
     
-    Cantáramos 
+    cantáramos 
     
-    (Cantarais) 
+    (cantarais) 
     
-    Cantaran
+    cantaran
 
 ### Comer
 
-    Comiera 
+    comiera 
     
-    Comieras 
+    comieras 
     
-    Comiera 
+    comiera 
     
-    Comiéramos 
+    comiéramos 
     
-    (Comierais) 
+    (comierais) 
     
-    Comieran
+    comieran
 
 ### Vivir
 
-    Viviera 
+    viviera 
     
-    Vivieras 
+    vivieras 
     
-    Viviera 
+    viviera 
     
-    Viviéramos 
+    viviéramos 
     
-    (Vivierais) 
+    (vivierais) 
     
-    Vivieran
+    vivieran
 
 > Los verbos *-ir* tienen la misma conjugación que los verbos *-er*.
 
@@ -52,73 +52,73 @@
 
 ### Ser
 
-    Fuera 
+    fuera 
     
-    Fueras 
+    fueras 
     
-    Fuera 
+    fuera 
     
-    Fuéramos 
+    fuéramos 
     
-    (Fuerais)
+    (fuerais)
     
-    Fueran
+    fueran
 
 ### Estar
 
-    Estuviera 
+    estuviera 
     
-    Estuvieras 
+    estuvieras 
     
-    Estuviera 
+    estuviera 
     
-    Estuviéramos 
+    estuviéramos 
     
-    (Estuvierais)
+    (estuvierais)
     
-    Estuvieran
+    estuvieran
 
 ### Tener
 
-    Tuviera 
+    tuviera 
     
-    Tuvieras 
+    tuvieras 
     
-    Tuviera 
+    tuviera 
     
-    Tuviéramos 
+    tuviéramos 
     
-    (Tuvierais) 
+    (tuvierais) 
     
-    Tuvieran
+    tuvieran
 
 ### Ir
 
-    Fuera 
+    fuera 
     
-    Fueras 
+    fueras 
     
-    Fuera 
+    fuera 
     
-    Fuéramos 
+    fuéramos 
     
-    (Fuerais)
+    (fuerais)
     
-    Fueran
+    fueran
 
 ### Hacer
 
-    Hiciera 
+    hiciera 
     
-    Hicieras 
+    hicieras 
     
-    Hiciera 
+    hiciera 
     
-    Hiciéramos 
+    hiciéramos 
     
-    (Hicierais)
+    (hicierais)
     
-    Hicieran
+    hicieran
 
 Todos están formados a partir de la forma irregular del pretérito perfecto simple de indicativo:* *Hice ✒ Hiciera. 
 Tuve ✒ Tuviera.* Esto pasa con todos los verbos que son irregulares en pretérito perfecto: *Quiso ✒ Quisiera. 
@@ -185,31 +185,31 @@ Yo puedo ✒ Yo pueda. Nosotros dimos ✒ Nosotros diéramos. Yo supe ✒ Yo sup
 
 ## Querer (presente de subjuntivo)
 
-    Quiera
+    quiera
     
-    Quieras
+    quieras
     
-    Quiera
+    quiera
     
-    Queramos 
+    queramos 
     
-    (Queráis)
+    (queráis)
     
-    Quieran
+    quieran
 
 ## Querer (imperfecto de subjuntivo)
 
-    Quisiera
+    quisiera
     
-    Quisieras
+    quisieras
     
-    Quisiera 
+    quisiera 
     
-    Quisiéramos 
+    quisiéramos 
     
-    (Quisierais) 
+    (quisierais) 
     
-    Quisieran
+    quisieran
 
 Hay una excepción: 
 

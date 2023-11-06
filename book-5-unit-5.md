@@ -12,51 +12,51 @@ the conjugation suffix is placed after the infinitive form of the verb.
 
 ### Cantar
 
-    Cantaría 
+    cantaría 
     
-    Cantarías 
+    cantarías 
     
-    Cantaría 
+    cantaría 
     
-    Cantaríamos 
+    cantaríamos 
     
-    (Cantaríais)
+    (cantaríais)
     
-    Cantarían
+    cantarían
 
 ### Comer
 
-    Comería 
+    comería 
     
-    Comerías 
+    comerías 
     
-    Comería 
+    comería 
     
-    Comeríamos 
+    comeríamos 
     
-    (Comeríais)
+    (comeríais)
     
-    Comerían
+    comerían
 
 ### Vivir
 
-    Viviría 
+    viviría 
 
-    Vivirías 
+    vivirías 
     
-    Viviría 
+    viviría 
     
-    Viviríamos 
+    viviríamos 
     
-    (Viviríais) 
+    (viviríais) 
     
-    Vivirían
+    vivirían
 
 ### Ejemplos
 
-*Me gustaría estar en Las Vegas.* (I would like to be in Las Vegas.) 
+*Me gustaría estar en Madrid.* (I would like to be in Madrid. Lit. "It would please me to be in Madrid.") 
 
-*Yo nunca cantaría en la ducha.* (I would never sing in the shower.) 
+*Yo nunca compraría este producto de nuevo.* (I would never buy this product again.) 
 
 *Ella nunca me perdonaría.* (She would never forgive me.)
 
@@ -89,31 +89,31 @@ Los verbos que son irregulares en el futuro lo son en el tiempo condicional de l
 
 ### Tener (futuro)
 
-    Tendré 
+    tendré 
     
-    Tendrás 
+    tendrás 
     
-    Tendrá 
+    tendrá 
     
-    Tendremos 
+    tendremos 
     
-    (Tendréis) 
+    (tendréis) 
     
-    Tendrán
+    tendrán
 
 ### Tener (condicional)
 
-    Tendría
+    tendría
     
-    Tendrías
+    tendrías
     
-    Tendría
+    tendría
     
-    Tendríamos
+    tendríamos
     
-    (Tendríais) 
+    (tendríais) 
     
-    Tendrían
+    tendrían
 
 ### Ejemplos
 
@@ -125,33 +125,33 @@ Los verbos que son irregulares en el futuro lo son en el tiempo condicional de l
 
 ## El verbo haber, en condicional
 
-    Habría 
+    habría 
     
-    Habrías 
+    habrías 
     
-    Habría 
+    habría 
     
-    Habríamos 
+    habríamos 
     
-    (Habríais) 
+    (habríais) 
     
-    Habrían
+    habrían
 
 En inglés:
 
     I would have (+ participle)
     
-    You would have (+ participle) 
+    you would have (+ participle) 
     
-    He/she would have (+ participle)
+    he / she would have (+ participle)
     
-    We would have (+ participle)
+    we would have (+ participle)
     
-    You (pl.) would have (+ participle)
+    you (pl.) would have (+ participle)
     
-    They would have (+ participle)
+    they would have (+ participle)
 
-*Yo habría cantado.* (I would have sung.)
+*Yo habría llamado.* (I would have called.)
 
 *Ellos no habrían estudiado.* (They would not have studied.)
 
@@ -161,7 +161,7 @@ Usamos el verbo *haber* en condicional para construir el condicional compuesto (
 
 ## Construcciones condicionales
 
-    Si - if
+    si - if
 
 ### Tipo 1: Todo en presente, o presente + futuro
 

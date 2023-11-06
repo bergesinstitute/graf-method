@@ -139,7 +139,7 @@ El aire la está velando.
 
 [5] The fact that
 
-[6] Hired
+[6] Contratar - to hire
 
 [7] Play
 
@@ -167,7 +167,7 @@ El aire la está velando.
 
 [19] Speech
 
-[20] Seems
+[20] Parecer - to seem
 
 [21] Roof
 
