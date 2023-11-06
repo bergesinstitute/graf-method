@@ -2,6 +2,20 @@
 
 ## Conjugación de verbos regulares (conjugation of regular verbs)
 
+### Personal pronouns
+
+    yo
+
+    tú
+
+    él / ella / usted
+
+    nosotros / nosotras
+
+    (vosotros / vosotras)
+
+    ellos / ellas / ustedes
+
 ### Cantar
 
     cantaré
