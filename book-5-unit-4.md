@@ -3,11 +3,11 @@
 ## Adverbios interrogativos como pronombres relativos
 
 Los adverbios interrogativos (*qué, cuándo, dónde,* etc.) pueden funcionar como pronombres relativos 
-(y en este caso no tienen acento). Funcionan igual que en inglés. Tradicionalmente usábamos todos, 
+(y en este caso no tienen acento). Tradicionalmente usábamos todos, 
 pero es verdad que hoy usamos *que* más que *quien* cuando nos referimos a una persona.
 
 💂 Interrogative adverbs (*qué, cuándo, dónde,* etc.) can function as relative pronouns
-(and in this case they do not have an accent mark). They function the same as in English. Traditionally we used all of them,
+(and in this case they do not have an accent mark). Traditionally we used all of them,
 but it is true that today we use *que* more than *quien* when referring to a person.
 
 *Este es el hombre que te llamó.* (This i the man who/that called you.)
@@ -16,7 +16,7 @@ but it is true that today we use *que* more than *quien* when referring to a per
 
 *En la casa donde nací ahora no vive nadie.* (Nobody lives now in the house where I was born.)
 
-*Cuando María me llamó, y ya había salido.* (When María called me, y had already left.)
+*Cuando María me llamó yo ya había salido.* (When María called me I had already left.)
 
 ## Lo que
 
@@ -24,9 +24,9 @@ but it is true that today we use *que* more than *quien* when referring to a per
 
 💂 *Lo que* is equivalent to *what* when referring to an idea:
 
-*This is what I said. ✒ Esto es lo que dije.*
+*This is what I said. => Esto es lo que dije.*
 
-*I hope you don't tell me what I already know. ✒ Espero que no me digas lo que ya sé.*
+*I hope you don't tell me what I already know. => Espero que no me digas lo que ya sé.*
 
 # Tiempos compuestos en modo subjuntivo (compound tenses in the subjunctive mood)
 
@@ -84,7 +84,7 @@ hubiesen cantado.*
 is still in use: *hubiese cantado, hubieses cantado, hubiese cantado, hubiésemos cantado, (hubieseis cantado),
 hubiesen cantado.*
 
-# El verbo haber en todos los tiempos, excepto el condicional, que lo veremos más adelante (the verb haber in all tenses, except for the conditional, which we will see later)
+# El verbo haber en todos los tiempos, excepto el condicional (the verb haber in all tenses, except for the conditional)
 
 ## Indicativo
 
@@ -189,7 +189,7 @@ indicative (*yo soy*).
 # Adjetivos posesivos tónicos (tonic possessive adjectives)
 
 Los adjetivos posesivos tónicos tienen género y número dependiendo del objeto poseído, y no de la persona que posee. 
-Se usan después del verbo ser para expresar posesión.
+Se usan después del verbo *ser* para expresar posesión.
 
 💂 Tonic possessive adjectives have gender and number that depends on the object possessed, and not on the person who possesses.
 They are used after the verb *ser* to express possession.
@@ -208,7 +208,7 @@ They are used after the verb *ser* to express possession.
 
     ours: nuestro | nuestra | nuestros | nuestras
 
-    yours (plural): ( vuestro | vuestra | vuestros | vuestras )
+    yours (plural): (vuestro | vuestra | vuestros | vuestras)
 
     theirs / yours (formal, plural): suyo | suya | suyos | suyas
 
@@ -232,13 +232,13 @@ Los pronombres posesivos son similares a los adjetivos posesivos tónicos, pero 
 
     ours: el nuestro | la nuestra | los nuestros | las nuestras
 
-    yours (plural): ( el vuestro | la vuestra | los vuestros | las vuestras )
+    yours (plural): (el vuestro | la vuestra | los vuestros | las vuestras)
 
     theirs / yours (formal, plural): el suyo | la suya | los suyos | las suyas
 
 # Homework
 
-## 1. Escribir cinco oraciones con dudar, cinco con esperar y cinco con pedir en diferentes tiempos
+## 1. Escribir tres oraciones con dudar, tres con esperar y tres con pedir en diferentes tiempos
 
 ## 2. Traducir. Puedes usar un diccionario.
 
@@ -247,8 +247,7 @@ Los pronombres posesivos son similares a los adjetivos posesivos tónicos, pero 
 3. Remember when we went to the concert in Long Island?
 4. This is what happens when you hope that someone loves you.
 5. This is the man who sold my car.
-6. I don't know where my friend is.
-7. Is this what brought you to Boston?
+6. Is this what brought you to Boston?
 
 ## 3. Completar, usando presente de subjuntivo cuando sea necesario
 
@@ -265,7 +264,7 @@ Los pronombres posesivos son similares a los adjetivos posesivos tónicos, pero 
 11. Es muy importante que Francisco __________ (recibir) el mensaje de texto.
 12. Juan me __________ (recomendar) que vaya a ese restaurante.
 13. Alfonso siempre necesita que nosotros lo __________ (ayudar).
-14. El médico recomienda que sus pacientes no __________ (beber) agua muy fría.
+14. El médico recomienda a sus pacientes que no __________ (beber) agua muy fría.
 
 ## 4. Completar, usando imperfecto de subjuntivo cuando sea necesario
 
@@ -278,7 +277,7 @@ Los pronombres posesivos son similares a los adjetivos posesivos tónicos, pero 
 7. Amanda explicó que su prima __________ (tener) una casa allá.
 8. Dudaba que ella lo __________ (hacer).
 
-## 5. Buscar una manera de reescribir las siguientes frases usando un subjuntivo
+## 5. Buscar una manera de reescribir las siguientes oraciones usando un subjuntivo
 
 Necesitarás cambiar el verbo principal por otro.
 

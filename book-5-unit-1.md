@@ -6,9 +6,9 @@ Lo usamos para cosas que hacemos normalmente (hábitos) o para hechos.
 
 💂 We use it for things we usually do (habits) or for facts.
 
-*Los lunes voy al supermercado.*
+*Los lunes voy al supermercado.* (On Mondays I go to the supermarket.)
 
-*Mi tío tiene una casa en New Jersey.*
+*Mi tío tiene una casa en New Jersey.* (My uncle has a house in New Jersey.)
 
 ## Pretérito perfecto (preterite)
 
@@ -16,9 +16,9 @@ Lo usamos para expresar acciones puntuales en el pasado.
 
 💂 We use it to express punctual actions in the past.
 
-*Ayer a las siete y treinta comí una pizza.*
+*Ayer a las siete comí pizza.* (Yesterday at seven I ate pizza.)
 
-*El lunes pasado mi amigo Luis llegó a la ciudad.*
+*El lunes pasado mi amigo Luis llegó a la ciudad.* (Last Monday my friend Luis arrived in the city.)
 
 ## Pretérito imperfecto (imperfect)
 
@@ -40,101 +40,97 @@ Tiene diferentes usos.
 
 ## Futuro (future)
 
-Podemos formar el futuro con ir (*yo voy a cantar*) o usar el tiempo verbal (*yo cantaré*). Su significado es el mismo.
+Podemos formar el futuro con *ir* (*yo voy a cantar*) o usar el tiempo verbal (*yo cantaré*). El significado es el mismo.
 
-💂 We can form the future with ir (*yo voy a cantar*) or use the verb tense (*yo cantaré*). Their meaning is the same.
+💂 We can form the future with *ir* (*yo voy a cantar*) or use the verb tense (*yo cantaré*). The meaning is the same.
 
 ## Pronombres de objeto directo (direct object pronouns)
 
-Van con verbos que sólo pueden tener un objeto. Algunos verbos funcionan con personas, otros con “cosas”*, 
+Van con verbos que sólo pueden tener un objeto. Algunos verbos funcionan con personas, otros con cosas*, 
 y algunos con ambas. Los pronombres de tercera persona son *lo, la, los, las.*
 
-💂 They go with verbs that can only have one object. Some verbs work with people, some with "things "*,
+💂 They go with verbs that can only have one object. Some verbs work with people, some with things*,
 and some with both. Third-person pronouns are *lo, la, los, las.*
 
-*Yo tengo un carro. Yo lo tengo.* 
+*Yo tengo un carro. Yo lo tengo.* (I have a car. I have it.)
 
-*Yo amo a Laura. Yo la amo.*
-
-> *Usamos el término “cosa” porque “objeto inanimado” puede crear confusión con el objeto gramatical.
-
-> *💂 We use the term "thing" because "inanimate object" can create confusion with the grammatical object.
+*Yo amo a Laura. Yo la amo.* (I love Laura. I love her.)
 
 ## Pronombres de objeto indirecto (indirect object pronouns)
 
-Van con verbos que aceptan dos objetos: una “cosa” (objeto directo) y una persona (objeto indirecto). 
-Algunos verbos típicos que aceptan estos dos objetos son *dar, contar, explicar, decir, regalar,* etc. 
+Van con verbos que aceptan dos objetos: una cosa (objeto directo) y una persona (objeto indirecto). 
+Algunos verbos típicos que aceptan estos dos objetos son *dar, contar, explicar, decir* o *regalar.*
 Los pronombres de tercera persona son *le, les.*
 
-💂 They go with verbs that accept two objects: a "thing" (direct object) and a person (indirect object).
-Some typical verbs that accept these two objects are *dar, contar, explicar, decir, regalar,* etc.
+💂 They go with verbs that accept two objects: a thing (direct object) and a person (indirect object).
+Some typical verbs that accept these two objects are *dar, contar, explicar, decir,* or *regalar.*
 Third-person pronouns are *le, les.*
 
-*Yo regalo un libro a Laura. Yo le regalo un libro.*
+*Yo regalo un libro a Laura. Yo le regalo un libro.* (I give Laura a book. I give her a book.)
 
-*Yo cuento una historia a Juan. Yo le cuento una historia.*
+*Yo cuento una historia a Juan. Yo le cuento una historia.* (I tell Juan a story. I tell him a story.)
 
 ## Pronombres dobles (double pronouns)
 
-Cuando usamos verbos que pueden tener dos objetos, podemos combinar los pronombres. Siempre ponemos primero a 
-la persona (el pronombre de objeto indirecto) y después la “cosa” (el pronombre de objeto directo). Cuando 
+Cuando usamos verbos que pueden tener dos objetos, podemos usar dos pronombres. Siempre ponemos primero a 
+la persona (el pronombre de objeto indirecto) y después la cosa (el pronombre de objeto directo). Cuando 
 tenemos una tercera persona, cambiamos *le/les* por *se.*
 
-💂 When we use verbs that can have two objects, we can combine the pronouns. We always put the person first
-(the indirect object pronoun) and then the "thing" (the direct object pronoun). When
+💂 When we use verbs that can have two objects, we can use two pronouns. We always put the person first
+(the indirect object pronoun) and then the thing (the direct object pronoun). When
 when we have a third person, we change *le/les* to *se.*
 
-*Juan me regala un libro. Juan me lo regala.* 
+*Juan me regala un libro. Juan me lo regala.* (Juan gives me a book. Juan gives it to me.)
 
-*Yo le regalo un libro. Yo se lo regalo.*
+*Yo le regalo un libro. Yo se lo regalo.* (I give him a book. I give it to him.)
 
-*Yo le cuento una historia. Yo se la cuento.*
+*Yo le cuento una historia. Yo se la cuento.* (I tell him a story. I "tell it to him.")
 
 ## Verbos reflexivos (reflexive verbs)
 
-Debemos recordar que la tercera persona siempre usa el pronombre *se.* 
+La tercera persona siempre usa el pronombre *se.* 
 
-💂 We must remember that the third person always uses the pronoun *se.*
+💂 The third person always uses the pronoun *se.*
 
-*Pedro se levanta.* 
+*Pedro se levanta.* (Pedro gets up.)
 
-*María se mira en el espejo.* 
+*María se mira en el espejo.* (María looks at herself in the mirror.)
 
-*Ellos se duchan.*
+*Ellos se duchan.* (They take a shower.)
 
 ## Gustar (to please)
 
-Debemos recordar que la “cosa” o la persona que nos gusta es el sujeto de la oración. *He likes me* 
-se traduce como *(yo) le gusto. I like him* se traduce como *(él) me gusta.* Como sabemos, la tercera persona 
+La cosa o la persona que nos gusta es el sujeto de la oración. *He likes me* 
+se traduce como *(yo) le gusto. I like him* se traduce como *(él) me gusta.* La tercera persona 
 siempre usa los pronombres *le/les.* 
 
-💂 We must remember that the "thing" or person we like is the subject of the sentence. *He likes me*
-translates as *(yo) le gusto. I like him* translates as *(él) me gusta.* As we know, the third person
+💂 The thing or person we like is the subject of the sentence. *He likes me*
+translates as *(yo) le gusto. I like him* translates as *(él) me gusta.* The third person
 always uses the pronouns *le/les.*
 
-*A mi amigo Pedro le gustan las manzanas.* 
+*A mi amigo Pedro le gustan las manzanas.* (My friend Pedro likes apples.)
 
-*A ellos les gusta nadar.*
+*A ellos les gusta nadar.* (They like to swim.)
 
 ## Por / para
 
-Usamos *para* para propósito, destino, trabajar para alguien, o fechas de entrega. 
+Usamos *para* para propósito, destino o fechas de entrega. 
 
-💂 We use *para* for purpose, destination, working for someone, or deadlines.
+💂 We use *para* for purpose, destination, or deadlines.
 
 Usamos *por* para intervalos de tiempo (*por un día, por una hora,* etc.), para intercambio (de dinero o de otra cosa), 
-para razón (se traduce como *because of*) y para expresar *per* (millas por hora, porcentajes, etc).
+para razón (se traduce como *because of*) y como *per* (millas por hora, porcentajes, etc).
 
 💂 We use *por* for time intervals (*por un día, por una hora,* etc.), for exchange (of money or something else),
-for reason (translated as *because of*) and to express *per* (miles per hour, percentages, etc).
+for reason (translated as *because of*) and as *per* (miles per hour, percentages, etc).
 
 ## Tiempos compuestos (compound tenses)
 
-Se forman con el verbo *haber.* Usamos el pretérito perfecto compuesto (*he cantado*) para expresar experiencia 
-o acciones que empezaron en el pasado y continúan hasta hoy.
+Se forman con el verbo *haber.* Usamos el pretérito perfecto compuesto (*he cantado*) para indicar experiencia 
+o para acciones que empezaron en el pasado y continúan hasta hoy.
 
-💂 They are formed with the verb *haber.* We use the *pretérito perfecto compuesto* tense (*he cantado*) to express experience
-or actions that began in the past and continue until today.
+💂 They are formed with the verb *haber.* We use the *pretérito perfecto compuesto* tense (*he cantado*) to indicate experience
+or for actions that began in the past and continue until today.
 
 *Yo he estado en Madrid tres veces.* (I have been to Madrid three times.)
 
@@ -146,8 +142,8 @@ cuando la segunda sucedió.
 💂 We use the *pretérito pluscuamperfecto* tense (*había cantado*) to indicate that a first action had already happened
 when the second action happened.
 
-*Cuando José llegó al restaurante, yo ya me había ido.* 
-(I had already left by the time José arrived at the restaurant.)
+*Cuando José llegó al restaurante yo ya me había ido.* 
+(When/by the time José arrived at the restaurant I had already left.)
 
 # Homework
 
@@ -161,31 +157,30 @@ when the second action happened.
 6. Did you go to the supermarket?
 7. When I was ten, I used to eat chocolate all the time.
 8. When I was living in Spain, I would sometimes go to my friend's house on Friday nights.
-9. Did you know she was going to the party?
-10. I always ask her for favors.
-11. My cousin has a house in the woods.
-12. How did you meet your girlfriend?
-13. We used to listen to music all night long.
-14. I couldn't go to work. I was sick.
-15. I used to like football when I was younger.
-16. On May 17th, 2014, I called Victor.
-17. I sent that letter ten days ago.
+9. I always ask her for favors.
+10. My cousin has a house in the woods.
+11. How did you meet your girlfriend?
+12. We used to listen to music all night long.
+13. I couldn't go to work. I was sick.
+14. I used to like football when I was younger.
+15. On May 17th, 2014, I called Victor.
+16. I sent that letter ten days ago.
 
-## 2. Traducir, usando reflexivos/gustar. Puedes usar un diccionario.
+## 2. Traducir, usando reflexivos / gustar. Puedes usar un diccionario.
 
 1. I used to get up early in college. Now, I never get up early because I go to bed late.
 2. George took a shower and left his house.
 3. We always wash our hands in the morning.
 4. Did you brush your teeth?
 5. They always look at themselves in the mirror.
-6. I used to like country music. Now, I only like hip hop.
+6. I used to like country music. Now I only like hip hop.
 7. I like apples. My friend Peter doesn't like apples.
 8. My sister likes to dance. She used to dance more in the past, but she still dances a little.
 9. Last night I washed my face. I always wash my face at night. I like to wash my face.
 
-## 3. Escribir cinco oraciones en presente, cinco en pretérito perfecto y cinco en pretérito imperfecto. 
+## 3. Escribir tres oraciones en presente, tres en pretérito perfecto y tres en pretérito imperfecto
 
-Usa locuciones temporales (expresiones de tiempo) en todas las oraciones (*ayer por la noche, normalmente,* etc.)
+Usa locuciones temporales (expresiones de tiempo) en todas las oraciones (*ayer por la noche, normalmente,* etc.).
 
 💂 Use temporal locutions (time expressions) in all sentences (*ayer por la noche, normalmente,* etc.).
 

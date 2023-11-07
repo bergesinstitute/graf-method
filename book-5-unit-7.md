@@ -5,7 +5,7 @@
 El imperativo se puede formar con las siguientes personas: *tú, usted, nosotros, (vosotros), ustedes.* En las
 personas *tú* y *vosotros* la conjugación es diferente para el afirmativo y el negativo.
 
-The imperative can be formed with the following persons: *tú, usted, usted, nosotros, (vosotros), ustedes.* In the
+The imperative can be formed with the following persons: *tú, usted, nosotros, (vosotros), ustedes.* In the
 persons *tú* and *vosotros* the conjugation is different for the affirmative and the negative version.
 
 ## Conjugación de verbos regulares (conjugation of regular verbs)
@@ -155,7 +155,7 @@ Es muy común expresar mandatos en forma de pregunta modal.
 ### Consejo o ánimo (advise or encouragement)
 
 «Mira Pedro, sal ahí fuera, toma esa guitarra y haz el mejor concierto de tu vida. Entiendo que estás
-nervioso, todos lo estamos. ¡Sé valiente! (be brave) ¡Hazlo!»
+nervioso, todos lo estamos. ¡Sé valiente! ¡Hazlo!»
 
 ## Anuncio (advertisement)
 
@@ -170,7 +170,7 @@ y, sobre todo, ¡no olvide ponerse protector solar!»
     
     tomar el sol - to sunbathe 
     
-    bañarse - to bathe/to go for a swim 
+    bañarse - to bathe / to go for a swim 
     
     protector solar - sunscreen
 
@@ -236,7 +236,7 @@ Verbos de cocina: *hervir* (to boil), *hornear* (to bake), *pelar* (to peel), *c
 
 ## 4. Escribe un anuncio del producto o servicio que tú quieras
 
-💂 Write an ad for the product or service of your choice
+💂 Write an ad for the product or service of your choice.
 
 ## 5. Completa, usando imperativo
 
@@ -505,7 +505,7 @@ las palabras “Ábrete, Sésamo”.
 
 [46] Spend the night
 
-[47] Would notify
+[47] Avisar - to notify
 
 [48] Light a lamp
 

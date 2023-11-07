@@ -44,11 +44,11 @@
     
     vivieran
 
-> Los verbos *-ir* tienen la misma conjugación que los verbos *-er*.
+> Los verbos *-er, -ir* usan los mismos sufijos.
 
-> 💂 The *-ir* verbs have the same conjugation as the *-er* verbs.
+> 💂 Verbs *-er, -ir* use the same suffixes.
 
-## Verbos irregulares importantes
+## Verbos irregulares importantes (important irregular verbs)
 
 ### Ser
 
@@ -120,13 +120,13 @@
     
     hicieran
 
-Todos están formados a partir de la forma irregular del pretérito perfecto simple de indicativo:* *Hice ✒ Hiciera. 
-Tuve ✒ Tuviera.* Esto pasa con todos los verbos que son irregulares en pretérito perfecto: *Quiso ✒ Quisiera. 
-Pudimos ✒ Pudiéramos. Dieron ✒ Dieran.* Etc.
+Todos están formados a partir de la forma irregular del pretérito perfecto simple de indicativo:* *Hice => Hiciera. 
+Tuve => Tuviera.* Esto pasa con todos los verbos que son irregulares en pretérito perfecto: *Quiso => Quisiera. 
+Pudimos => Pudiéramos. Dieron => Dieran.* Etc.
 
-💂 They are all formed from the irregular form of the *pretérito perfecto simple de indicativo:\* Hice ✒ Hiciera.
-Tuve ✒ Tuviera.* This happens with all verbs that are irregular in the preterite: *Quiso ✒ Quisiera.
-Pudimos ✒ Pudiéramos. Dieron ✒ Dieran.* Etc.
+💂 They are all formed from the irregular form of the *pretérito perfecto simple de indicativo:\* Hice => Hiciera.
+Tuve => Tuviera.* This happens with all verbs that are irregular in the preterite: *Quiso => Quisiera.
+Pudimos => Pudiéramos. Dieron => Dieran.* Etc.
 
 > *Todo lo que no es subjuntivo se llama *indicativo*.
 
@@ -137,42 +137,44 @@ cantase, cantásemos, (cantaseis), cantasen. Comiese, comieses, comiese, comiés
 Es igual para los irregulares (*fuese, tuviese,* etc.)
 
 > 💂 The imperfect subjunctive has an alternative form that is still in use: *cantase, cantases,
-cantase, cantase, cantásemos, (cantaseis), canten. Comiese, comieses, comiese, comiésemos, (comieseis), comiesen.*
+cantase, cantásemos, (cantaseis), canten. Comiese, comieses, comiese, comiésemos, (comieseis), comiesen.*
 It is the same for irregulars verbs (*fuese, tuviese,* etc.).
 
 # Uso de los diferentes tiempos de subjuntivo (use of the different subjunctive tenses)
 
-El subjuntivo no es tan completo como el indicativo: sólo tenemos dos tiempos: presente e imperfecto 
+El subjuntivo no es tan completo como el indicativo. Sólo tenemos dos tiempos: presente e imperfecto 
 (existen otros tiempos, pero están en desuso). Los usaremos de la siguiente manera:
 
-💂 The subjunctive is not as complete as the indicative: we only have two tenses: present and imperfect
+💂 The subjunctive is not as complete as the indicative. We only have two tenses: present and imperfect
 (there are other tenses, but they are in disuse). We will use them as follows:
 
 - Para presente o futuro: Usaremos presente de subjuntivo.
 
 💂 For present or future: We will use the present subjunctive.
 
-*Sé que Juan está en su casa. ✒ Dudo que Juan esté en su casa.*
+*Sé que Juan está en su casa. => Dudo que Juan esté en su casa.*
 
-*Sé que Juan estará en su casa mañana. ✒ Dudo que Juan esté en su casa mañana.**
+*Sé que Juan estará en su casa mañana. => Dudo que Juan esté en su casa mañana.*
 
 - Para pasado (imperfecto o perfecto, no importa): Usaremos imperfecto de subjuntivo.
 
 💂 For past (imperfect or perfect, it doesn't matter): We will use imperfect subjunctive.
 
-*Sé que Juan estuvo en su casa ayer a las cinco. ✒ Dudo que Juan estuviera en su casa ayer a las cinco.**
+*Sé que Juan estuvo en su casa ayer a las cinco. => Dudo que Juan estuviera en su casa ayer a las cinco.*
 
-*Sé que Juan antes siempre estaba en su casa. ✒ Dudo que Juan antes siempre estuviera en su casa.*
+*Sé que Juan antes siempre estaba en su casa. => Dudo que Juan antes siempre estuviera en su casa.*
 
-> *El tiempo en que dudamos, deseamos, etc. no necesita corresponderse con el subjuntivo. En las oraciones 
+> El tiempo en que dudamos, deseamos, etc. no necesita corresponderse con el subjuntivo. En las oraciones 
 *deseo que mañana Juan llame* y *desearé que mañana Juan llame,* Juan estará igualmente llamando en el futuro, 
 no importa si yo lo deseo hoy o mañana.
 
-> * 💂 The tense in which we doubt, wish, etc. need not correspond to the subjunctive one. In the sentences
+> 💂 The tense in which we doubt, wish, etc. need not correspond to the subjunctive one. In the sentences
 *deseo que mañana Juan llame* and *desearé que mañana Juan llame,* Juan will equally be calling in the future,
 it doesn't matter if I wish it today or tomorrow.
 
 # Verbos con modo subjuntivo irregular (verbs with irregular subjunctive mood)
+
+## Cómo funciona (how it works)
 
 Generalmente, los verbos que son irregulares en el presente o en el pretérito perfecto lo son en el 
 modo subjuntivo de la misma manera:
@@ -180,8 +182,8 @@ modo subjuntivo de la misma manera:
 💂 Generally, verbs that are irregular in the present or preterite tense are irregular in the
 subjunctive mood in the same way:
 
-*Yo me duermo ✒ Yo me duerma. Él quiso ✒ Él quisiera.
-Yo puedo ✒ Yo pueda. Nosotros dimos ✒ Nosotros diéramos. Yo supe ✒ Yo supiera.*
+*Yo me duermo => Yo me duerma. Él quiso => Él quisiera.
+Yo puedo => Yo pueda. Nosotros dimos => Nosotros diéramos. Yo supe => Yo supiera.*
 
 ## Querer (presente de subjuntivo)
 
@@ -215,7 +217,7 @@ Hay una excepción:
 
 💂 There is one exception:
 
-*Dije ✒ Dijera*
+*Dije => Dijera*
 
 # Homework
 
@@ -230,7 +232,7 @@ Hay una excepción:
 5. Sabía que él ___________ (tener) un restaurante.
 6. Javier me dijo que él ___________ (estar) de vacaciones.
 7. El portero del club le pidió amablemente que ___________ (irse).
-8. Esperaba que ella me lo ___________ (arreglar, to fix).
+8. Esperaba que ella me lo ___________ (arreglar).
 9. Ella dudó un momento, pero más tarde ___________ (responder) que sí.
 10. Nosotros no creíamos que ella ___________ (estar) diciendo esto.
 11. Ellos nos pidieron que les ___________ (entregar) el dinero.
@@ -269,7 +271,7 @@ Hay una excepción:
 - Subir
 - Recibir
 
-## 4. Escribir tres oraciones con “even though you ______ (for a fact)” y tres con “even though you may ______”
+## 4. Escribir dos oraciones con “even though you (blank)" y dos con “even though you may (blank)”
 
 Ejemplos:
 
@@ -277,7 +279,10 @@ Ejemplos:
 
 *Aunque tú tengas una computadora, escribir a mano es siempre más hermoso.*
 
-## 5. Escribir cinco oraciones con ojalá
+> Most sentences with *aunque* can work with or without the subjunctive. It's really
+> up to you to decide if you want to use ir or not.
+
+## 5. Escribir tres oraciones con ojalá
 
 ## 6. Completar (subjuntivos irregulares)
 

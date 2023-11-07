@@ -100,9 +100,9 @@ of the two subjunctive tenses, the present and the imperfect, and also their use
     
     vivan
 
-> Los verbos *-ir* tienen la misma conjugación que los verbos *-er*.
+> Los verbos *-er, -ir* usan los mismos sufijos.
 
-> 💂 The *-ir* verbs have the same conjugation as the *-er* verbs.
+> 💂 Verbs *-er, -ir* use the same suffixes.
 
 ## Verbos irregulares importantes (important irregular verbs)
 
@@ -241,10 +241,6 @@ porque solamente el primer verbo va conjugado.
 💂 Important consideration: when we use these verbs as two-verb constructions, we do not use the subjunctive,
 because only the first verb is conjugated.
 
-*Deseo tener mucho dinero.* (Lit. I wish to have a lot of money.)
-
-*Necesito llegar rápidamente.* (I need to get there quickly.)
-
 Para usar subjuntivo siempre necesitamos oraciones en las que tengamos también una oración subordinada 
 con sujeto diferente.
 
@@ -257,19 +253,17 @@ with a different subject.
 *Yo dudo que ellos estén en casa.* 
 (Main sentence: I doubt. Subordinate clause: that they are at home.)
 
-Como dijimos, normalmente, en las construcciones que implican subjuntivo, una persona A desea/duda/pide que 
-otra persona B haga algo. Cuando es la misma persona la que desea/duda/espera/etc., simplificamos con el infinitivo.
+Cuando es la misma persona la que desea/duda/espera/etc., simplificamos con el infinitivo.
 
-💂 As we said, usually, in constructions involving the subjunctive, one person A wishes/doubts/requests that
-another person B do something. When it is the same person the one who wishes/doubts/hopes/expects/etc., we simplify with the infinitive.
+💂 When it is the same person the one who wishes/doubts/hopes/expects/etc., we simplify with the infinitive.
 
 Incorrecto: *Yo espero que yo gane la lotería.* 
 
 Correcto: *Yo espero ganar la lotería.*
 
-Nota sobre los verbos *querer, pedir, necesitar y prohibir:* en inglés usamos la siguiente construcción: 
+Nota sobre los verbos *querer, pedir, necesitar* y *prohibir:* en inglés usamos la siguiente construcción: 
 
-💂 Note on the verbs *querer, pedir, necesitar and prohibir:* in English we use the following construction:
+💂 Note on the verbs *querer, pedir, necesitar* and *prohibir:* in English we use the following construction:
 
 *Juan wants me to go / asks me to go / needs me to go / prohibits me to go.* 
 
@@ -278,8 +272,10 @@ En español diremos:
 💂 In Spanish, we will say:
 
 *Juan quiere que yo vaya / me pide que yo vaya / necesita que yo vaya / me prohíbe que yo vaya* 
-(Lit. Juan “wants that I go” / “asks me that I go” / “needs that I go” / “prohibits me that I go”). 
-(For asking people to do things we always use *pedir.*)
+
+Lit. Juan “wants that I go” / “asks me that I go” / “needs that I go” / “prohibits me that I go”. 
+
+> For asking people to do things we always use *pedir.*
 
 ## Uso 2: Expresiones impersonales (impersonal expressions)
 
@@ -332,6 +328,8 @@ El significado completo es:
 💂 The full meaning is:
 
 *(Yo espero) que tengas un buen día.*
+
+Or:
 
 *(Ojalá) que tengas un buen día.*
 
@@ -402,10 +400,9 @@ M: Vale, nos vemos el lunes.
 4. You (formal) never asked me that question.
 5. You told me (that) you were sick.
 6. She asked me for a hammer, but I only had a screwdriver.
-7. Did you tell him how you won that game?
-8. I showed her the apartment.
-9. Mr. Parker taught me everything.
-10. We sent her the letter.
+7. I showed her the apartment.
+8. Mr. Parker taught me everything.
+9. We sent her the letter.
 
 ## 2. Responder
 
@@ -416,18 +413,17 @@ M: Vale, nos vemos el lunes.
 5. ¿Has estado en Europa?
 6. ¿Has comprado ropa en internet?
 
-## 3. Por/Para. Seleccionar la opción correcta.
+## 3. Por / para. Seleccionar la opción correcta.
 
 1. Este regalo es para/por ti.
-2. Yo trabajo para/por una agencia secreta de inteligencia.
-3. Estuve en Roma para/por dos días.
-4. Lo hice para/por amor.
-5. Voy al gimnasio para/por conocer a gente.
-6. Para/por ser un artista profesional, necesitas ser creativo y conocer a muchas personas.
-7. Cambié mi carro para/por una bicicleta y mi apartamento para/por una casa en el campo.
-8. No debes pagar más de veinte dólares para/por un sombrero mexicano.
-9. Vendí mi casa en Long Island para/por comprar otra más grande en New Jersey.
-10. El veinte para/por ciento de los americanos miran la televisión más de tres horas para/por día.
+2. Estuve en Roma para/por dos días.
+3. Lo hice para/por amor.
+4. Voy al gimnasio para/por conocer a gente.
+5. Para/por ser un artista profesional, necesitas ser creativo y conocer a muchas personas.
+6. Cambié mi carro para/por una bicicleta y mi apartamento para/por una casa en el campo.
+7. No debes pagar más de veinte dólares para/por un sombrero mexicano.
+8. Vendí mi casa en Long Island para/por comprar otra más grande en New Jersey.
+9. El veinte para/por ciento de los americanos miran la televisión más de tres horas para/por día.
 
 ## 4. Completar, en presente. No todas requieren subjuntivo.
 
@@ -460,7 +456,7 @@ M: Vale, nos vemos el lunes.
 4. ¿Quieres que el congreso legisle las leyes sobre armas?
 5. ¿A veces pides a tus vecinos que bajen el volumen de la música?
 
-## 6. Conjugar (en presente de subjuntivo) 
+## 6. Conjugar, en presente de subjuntivo
 
 - Llamar 
 - Terminar
@@ -471,7 +467,7 @@ M: Vale, nos vemos el lunes.
 - Cantar
 - Trabajar
 
-## 7. Conjugar (en presente de subjuntivo) 
+## 7. Conjugar, en presente de subjuntivo
 
 - Vender 
 - Comprender

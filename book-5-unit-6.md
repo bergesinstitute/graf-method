@@ -183,7 +183,7 @@ El aire la está velando.
 
 [27] Forge
 
-[28] Bustle, an old framework women used to support the back of a dress.
+[28] Bustle, an old framework women used to support the back of a dress
 
 [29] Emotionally moved
 

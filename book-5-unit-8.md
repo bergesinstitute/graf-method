@@ -16,13 +16,13 @@ gender and number.
 *El congreso aprobó la nueva ley. La nueva ley fue aprobada por el congreso.*
 (The congress approved the new law. The new law was approved by the congress.)
 
-# Me encanta/me duele/me recuerda
+# Me encanta / me duele / me recuerda
 
 ## Objeto => persona (object => person)
 
 Algunos verbos funcionan igual que el verbo *gustar.* El objeto es el que hace la acción hacia la persona.
 
-💂 Some verbs function the same as the verb *gustar.* The object is the one doing the action toward the person.
+💂 Some verbs work like the verb *gustar.* The object is the one doing the action toward the person.
 
 ## Encantar
 
@@ -130,7 +130,6 @@ Recuerda ajustar el participio en género y número.
 
 1. My leg hurts.
 2. I have a headache.
-3. Paris reminds me of my college years.
-4. I really like sweets.
-5. My sister really likes to swim in the river.
-6. He reminds me of John.
+3. I really like sweets.
+4. My sister really likes to swim in the river.
+5. He reminds me of John.

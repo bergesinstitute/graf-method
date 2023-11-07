@@ -2,10 +2,10 @@
 
 ## Un tiempo verbal
 
-El condicional, que en inglés se forma con *I would,* es en español un tiempo verbal. Igual que en el futuro, 
+El condicional, que en inglés se forma con *would,* es en español un tiempo verbal. Igual que en el futuro, 
 el sufijo de conjugación se pone después del infinitivo del verbo.
 
-💂 The conditional, which in English is formed with *I would,* is a verb tense in Spanish. As in the future,
+💂 The conditional, which in English is formed with *would,* is a verb tense in Spanish. As in the future,
 the conjugation suffix is placed after the infinitive form of the verb.
 
 ## Conjugación de verbos regulares (conjugation of regular verbs)
@@ -81,11 +81,13 @@ M: Sería detective. Siempre me gustaron las novelas negras.
 
 ## Verbos con condicional irregular (verbs with irregular conditional form)
 
+### Cómo funciona (how it works)
+
 Los verbos que son irregulares en el futuro lo son en el tiempo condicional de la misma manera:
 
 💂 Verbs that are irregular in the future tense are irregular in the conditional tense in the same way:
 
-*Yo diré ✒ Yo diría. Él tendrá ✒ Él tendría. Yo podré ✒ Yo podría. Yo sabré ✒ Yo sabría.*
+*Yo diré => Yo diría. Él tendrá => Él tendría. Yo podré => Yo podría. Yo sabré => Yo sabría.*
 
 ### Tener (futuro)
 
@@ -139,17 +141,17 @@ Los verbos que son irregulares en el futuro lo son en el tiempo condicional de l
 
 En inglés:
 
-    I would have (+ participle)
+    I would have
     
-    you would have (+ participle) 
+    you would have
     
-    he / she would have (+ participle)
+    he / she would have
     
-    we would have (+ participle)
+    we would have
     
-    you (pl.) would have (+ participle)
+    you (pl.) would have
     
-    they would have (+ participle)
+    they would have
 
 *Yo habría llamado.* (I would have called.)
 
@@ -165,7 +167,7 @@ Usamos el verbo *haber* en condicional para construir el condicional compuesto (
 
 ### Tipo 1: Todo en presente, o presente + futuro
 
-💂 Type 1: All in the present tense, or present + future
+💂 Type 1: All in the present tense, or present + future.
 
 Lo usamos para casos en los que el cumplimiento de la condición garantiza un resultado obvio.
 
@@ -179,7 +181,7 @@ Lo usamos para casos en los que el cumplimiento de la condición garantiza un re
 
 ### Tipo 2: Suposición imaginaria + condicional
 
-💂 Type 2: Imaginary supposition + conditional
+💂 Type 2: Imaginary supposition + conditional.
 
 La suposición siempre va en imperfecto de subjuntivo*.
 
@@ -332,16 +334,15 @@ you should buy a large house. Si tuvieras un millón de dólares, deberías comp
 7. It's not mine, it's yours.
 8. Is that book his? I doubt he has written a book.
 9. I would go to the party, but I am really busy.
-10. I would like to know her.
-11. If I had a house on the beach, I would go there every weekend.
-12. If my sister visited me more often, I would have a better relationship with her.
-13. I don't know how my life would be if I lived in Los Angeles; it would probably be very different.
+10. If I had a house on the beach, I would go there every weekend.
+11. If my sister visited me more often, I would have a better relationship with her.
+12. I don't know how my life would be if I lived in Los Angeles; it would probably be very different.
 
-## 2. Si yo tuviera veinte millones de dólares, compraría una casa para mi madre. 
+## 2. Si yo tuviera veinte millones de dólares compraría una casa para mi madre
 
-Explicar diez cosas que harías si tuvieras veinte millones de dólares en el banco.
+Explicar cinco cosas que harías si tuvieras veinte millones de dólares en el banco.
 
-💂 Explain ten things you would do if you had twenty million dollars in the bank.
+💂 Explain five things you would do if you had twenty million dollars in the bank.
 
 ## 3. Responder. Puedes usar un diccionario.
 
@@ -359,12 +360,12 @@ Explicar diez cosas que harías si tuvieras veinte millones de dólares en el ba
 
 ## 4. Traducir
 
-1. If I had known about the plan, I would not be here.
+1. If I had known, I would not be here.
 2. I would go to the movie theater tonight if I didn't have to work tomorrow.
 3. She would be happier if she had a better job.
 4. If my family lived in Asia, I would not visit them that much.
 5. If I had not been there that night, I would have never met you.
-6. If my dog were bigger, I would be afraid (tener miedo de) of him.
+6. If my dog were bigger, I would be afraid of him.
 7. If my city was less expensive, I would live in three-bedroom apartment.
 8. If I had studied medicine, I would be a doctor now.
 9. If Sara had a dog, I would go to her house with my chihuahua on Sundays.
