@@ -280,7 +280,7 @@ Ejemplos:
 *Aunque tú tengas una computadora, escribir a mano es siempre más hermoso.*
 
 > Most sentences with *aunque* can work with or without the subjunctive. It's really
-> up to you to decide if you want to use ir or not.
+> up to you to decide if you want to use it or not.
 
 ## 5. Escribir tres oraciones con ojalá
 
