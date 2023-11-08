@@ -289,7 +289,7 @@ C. There is a direct object and an indirect object.
 9. María called you and left you a message. María ____ llamó y ____ dejó un mensaje.
 10. María called her and left her a message. María ____ llamó y ____ dejó un mensaje.
 11. They visited us last Friday. Ellos ____ visitaron el viernes pasado.
-12. Can you give it to me? ¿____ ____ puedes dar? ¿Puedes dár________ ?
+12. Can you give it to me? ¿____ ____ puedes dar? ¿Puedes dár________?
 
 ## 5. Escribir 5 oraciones con objeto directo y 5 con objeto directo e indirecto. Escribirlas con y sin pronombres.
 
