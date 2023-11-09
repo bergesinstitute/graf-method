@@ -45,7 +45,7 @@ Here are some basic ones:
 
 ## Para
 
-We use it for purpose/destination/goal:
+We use it for purpose / destination / goal:
 
     La falda es para María. (The skirt is for María.)
 
@@ -59,7 +59,7 @@ We use it for duration of time intervals:
 
     Estoy en Nueva York por siete días. (I am in New York for seven days.)
 
-or for exchange:
+Or for exchange:
 
     Compro un vestido por veinte euros. (I buy a dress for twenty euros.)
 
